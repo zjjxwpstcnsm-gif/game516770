@@ -1540,10 +1540,11 @@ footer p {
 .source-link,
 .table-wrap,
 .calendar-grid,
-.chart,
-.chart .recharts-wrapper {
+.chart {
   max-width: 100%;
 }
+/* Recharts 3 places the fixed-size chart inside an intentional zero-width
+   measurement wrapper. Do not cap .recharts-wrapper at 100% of that wrapper. */
 .chart-caption {
   flex-wrap: wrap;
 }
