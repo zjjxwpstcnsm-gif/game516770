@@ -1,1 +1,565 @@
-[{"id":"3bfe4355b5090d9c60b5","game_id":"phantom-blade-zero","title":"Phantom Blade Zero sales top four million in 72 hours","type":"sales","importance":"A","event_date":null,"announced_at":"2026-11-02T02:59:03+00:00","first_seen_at":"2026-11-02T18:25:43+08:00","status":"rumored","source_urls":["https://www.gematsu.com/2026/11/phantom-blade-zero-sales-top-four-million-in-72-hours"],"source_ids":["3b04a04ac12334094755"],"company_links":[],"history":[],"verification_note":"来源已发布；具体发生时间未核实，不进入未来日历","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"91ce63c038d61eee7d9c","game_id":"black-myth-wukong","title":"Black Myth: Wukong Global Launch Schedule","type":"release","importance":"B","event_date":null,"announced_at":"2024-08-17T12:05:42+00:00","first_seen_at":"2026-11-02T18:25:43+08:00","status":"announced","source_urls":["https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6909171012602785857"],"source_ids":["dddc136fa3d0e1ff0fde"],"company_links":[],"history":[],"verification_note":"来源已发布；具体发生时间未核实，不进入未来日历","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"6f4d1401270e44f8b9e8","game_id":"phantom-blade-zero","title":"影之刃零 · 开放预购","type":"preorder","importance":"S","event_date":"2026-08-11","announced_at":null,"first_seen_at":"2026-11-02T18:25:43+08:00","status":"confirmed","source_urls":["https://blog.playstation.com/2026/08/11/watch-the-phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-17-pre-orders-live-today/"],"source_ids":[],"company_links":[],"history":[],"verification_note":"US blog publication date; page displays Aug11 and Aug12 updates. Beijing exact pre-order start time not established.；公布日期 2026-08-11","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"051c3d4d22d12f64deca","game_id":"phantom-blade-zero","title":"影之刃零 · 实机演示","type":"gameplay_showcase","importance":"S","event_date":"2026-08-18T10:00:00+08:00","announced_at":null,"first_seen_at":"2026-11-02T18:25:43+08:00","status":"confirmed","source_urls":["https://blog.playstation.com/2026/08/11/watch-the-phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-17-pre-orders-live-today/"],"source_ids":[],"company_links":[],"history":[],"verification_note":"官方来源核验；日级公布日期不伪造精确发布时间；公布日期 2026-08-11","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"bd3510ff98ed14837e71","game_id":"phantom-blade-zero","title":"影之刃零 · 正式发售","type":"release","importance":"S","event_date":"2026-10-29T10:00:00+08:00","announced_at":null,"first_seen_at":"2026-11-02T18:25:43+08:00","status":"confirmed","source_urls":["https://pbz.s-game.com/en-US/","https://store.playstation.com/en-us/product/UB2134-PPSA34579_00-0622032276386943","https://www.playstation.com/en-my/support/games/phantom-blade-zero-support/"],"source_ids":[],"company_links":[],"history":[{"observed_at":"2026-11-02T18:25:43+08:00","announced_date":"2026-06-02","date_precision":"day","previous_event_date":"2026-09-09","previous_status":"announced","new_event_date":"2026-10-29","new_status":"confirmed","source_urls":["https://pbz.s-game.com/en-US/news/creative-director-letter/"]}],"verification_note":"Store states 2026-10-29 02:00 UTC. Release date confirmation is not evidence of sales or direct A-share profit participation.","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"a99ecf8491cda883a0cc","game_id":"black-myth-wukong","title":"黑神话：悟空 · 发售日期公布","type":"release_date_announced","importance":"S","event_date":"2024-08-20","announced_at":null,"first_seen_at":"2026-11-02T18:25:43+08:00","status":"confirmed","source_urls":["https://steamcommunity.com/games/2358720/announcements/detail/3879351442276148580"],"source_ids":[],"company_links":[],"history":[],"verification_note":"Steam official announcement. Publication date shown by localized feeds can be Dec7; exact timestamp needs API extraction before backtest inclusion.；公布日期 2023-12-08","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"cac1472325dcf78687ac","game_id":"black-myth-wukong","title":"黑神话：悟空 · 开放预购","type":"preorder","importance":"S","event_date":"2024-06-08","announced_at":null,"first_seen_at":"2026-11-02T18:25:43+08:00","status":"confirmed","source_urls":["https://gamesci.cn/wukong/news/detail?id=11"],"source_ids":[],"company_links":[],"history":[],"verification_note":"Game Science Pre-Order FAQ dated Jun8 2024; exact start time not verified.；公布日期 2024-06-08","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"c870b66e9a744d65045a","game_id":"black-myth-wukong","title":"黑神话：悟空 · 正式发售","type":"release","importance":"S","event_date":"2024-08-20T10:00:00+08:00","announced_at":null,"first_seen_at":"2026-11-02T18:25:43+08:00","status":"confirmed","source_urls":["https://gamesci.cn/wukong/news/detail?id=11","https://www.youtube.com/watch?v=bzyMLoSwYvk","https://www.youtube.com/watch?v=pnSsgRJmsCc"],"source_ids":[],"company_links":[],"history":[],"verification_note":"Official Game Science and PlayStation final trailer descriptions explicitly state 10 AM UTC+8. English Steam page may display Aug19 due locale; do not use localized date alone.","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"c872436ececff6cef7d0","game_id":"steam-4620670","title":"Clicker Astro Planet 2 — Full Version Releases November 2","type":"release","importance":"B","event_date":null,"announced_at":"2026-10-30T06:07:59+00:00","first_seen_at":"2026-11-02T18:28:24+08:00","status":"announced","source_urls":["https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302237367"],"source_ids":["2e1eaf7e991dde92988f"],"company_links":[],"history":[],"verification_note":"来源已发布；具体发生时间未核实，不进入未来日历","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"5bf8eb2d2938444043c3","game_id":"steam-4620670","title":"Clicker Astro Planet 2 — Releases in 12 Days! Play the Demo Now","type":"demo","importance":"B","event_date":null,"announced_at":"2026-10-19T21:48:12+00:00","first_seen_at":"2026-11-02T18:28:24+08:00","status":"announced","source_urls":["https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692863"],"source_ids":["2f07cb7d08e517b07f28"],"company_links":[],"history":[],"verification_note":"来源已发布；具体发生时间未核实，不进入未来日历","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"c2d1ba12066ec4e6f37d","game_id":"steam-5031190","title":"Cat Over Here! is in Steam Next Fest – Play the Demo & Wishlist!","type":"demo","importance":"B","event_date":null,"announced_at":"2026-10-19T14:07:47+00:00","first_seen_at":"2026-11-02T18:28:24+08:00","status":"announced","source_urls":["https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706690411"],"source_ids":["4f476e23adfda698acee"],"company_links":[],"history":[],"verification_note":"来源已发布；具体发生时间未核实，不进入未来日历","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"58906e5d420c64659c07","game_id":"steam-4620670","title":"Demo is Out! Play Clicker Astro Planet 2 Now!","type":"demo","importance":"B","event_date":null,"announced_at":"2026-08-14T12:27:00+00:00","first_seen_at":"2026-11-02T18:28:24+08:00","status":"announced","source_urls":["https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183779495"],"source_ids":["4a8dc8836c6dae7fcb93"],"company_links":[],"history":[],"verification_note":"来源已发布；具体发生时间未核实，不进入未来日历","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"373e1c53da8e68a6edaf","game_id":"phantom-blade-zero","title":"Phantom Blade Zero Pre-Orders Now Available","type":"preorder","importance":"A","event_date":null,"announced_at":"2026-08-13T03:18:56+00:00","first_seen_at":"2026-11-02T18:28:24+08:00","status":"announced","source_urls":["https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775581"],"source_ids":["ff14f5ef5e8f82abff8f"],"company_links":[],"history":[],"verification_note":"来源已发布；具体发生时间未核实，不进入未来日历","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"441c64dab6d0900e406c","game_id":"steam-3353700","title":"Card Collection Simulator - The Demo Is Here!!!","type":"demo","importance":"B","event_date":null,"announced_at":"2026-05-05T16:27:21+00:00","first_seen_at":"2026-11-02T18:28:24+08:00","status":"announced","source_urls":["https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155580618"],"source_ids":["b5c11cbbc2ad38ca8f77"],"company_links":[],"history":[],"verification_note":"来源已发布；具体发生时间未核实，不进入未来日历","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"dbc7cdc12a44989c9a49","game_id":"phantom-blade-zero","title":"Phantom Blade Zero Confirmed for 2026/09/09 Global Launch","type":"release","importance":"A","event_date":null,"announced_at":"2025-12-12T13:25:47+00:00","first_seen_at":"2026-11-02T18:28:24+08:00","status":"announced","source_urls":["https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592127591"],"source_ids":["abbbfbe963b32313ed47"],"company_links":[],"history":[],"verification_note":"来源已发布；具体发生时间未核实，不进入未来日历","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"d0419b8af5840be25ff4","game_id":"black-myth-wukong","title":"黑神话：悟空 · 发售日期公布","type":"release_date_announced","importance":"S","event_date":"2023-12-08","announced_at":null,"first_seen_at":"2026-11-02T18:28:24+08:00","status":"confirmed","source_urls":["https://steamcommunity.com/games/2358720/announcements/detail/3879351442276148580"],"source_ids":[],"company_links":[],"history":[],"verification_note":"Steam official announcement. Publication date shown by localized feeds can be Dec7; exact timestamp needs API extraction before backtest inclusion.；公布日期 2023-12-08","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"86d2c85bb7526e600588","game_id":"black-myth-wukong","title":"黑神话：悟空 · Steam 发售日期","type":"release","importance":"B","event_date":null,"announced_at":null,"first_seen_at":"2026-11-02T18:28:24+08:00","status":"announced","source_urls":["https://store.steampowered.com/app/2358720/"],"source_ids":[],"company_links":[],"history":[{"observed_at":"2026-11-02T18:31:15+08:00","previous_event_date":"2024-08-19","previous_status":"confirmed","new_event_date":null,"new_status":"announced","reason":"纠正商店本地化日期的时区歧义；不作为已核实北京时间"}],"verification_note":"商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"3e193c930c7fbe9c0934","game_id":"steam-3240220","title":"Grand Theft Auto V 增强版 · Steam 发售日期","type":"release","importance":"B","event_date":null,"announced_at":null,"first_seen_at":"2026-11-02T18:28:24+08:00","status":"announced","source_urls":["https://store.steampowered.com/app/3240220/"],"source_ids":[],"company_links":[],"history":[{"observed_at":"2026-11-02T18:31:15+08:00","previous_event_date":"2025-03-04","previous_status":"confirmed","new_event_date":null,"new_status":"announced","reason":"纠正商店本地化日期的时区歧义；不作为已核实北京时间"}],"verification_note":"商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"81af4ca57a0a1a21d23c","game_id":"steam-2223980","title":"Nomad Drive · Steam 发售日期","type":"release","importance":"B","event_date":null,"announced_at":null,"first_seen_at":"2026-11-02T18:28:24+08:00","status":"announced","source_urls":["https://store.steampowered.com/app/2223980/"],"source_ids":[],"company_links":[],"history":[{"observed_at":"2026-11-02T18:31:15+08:00","previous_event_date":"2026-10-27","previous_status":"confirmed","new_event_date":null,"new_status":"announced","reason":"纠正商店本地化日期的时区歧义；不作为已核实北京时间"}],"verification_note":"商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"ae43710f8bbedf7a0451","game_id":"steam-431960","title":"Wallpaper Engine：壁纸引擎 · Steam 发售日期","type":"release","importance":"B","event_date":null,"announced_at":null,"first_seen_at":"2026-11-02T18:28:24+08:00","status":"announced","source_urls":["https://store.steampowered.com/app/431960/"],"source_ids":[],"company_links":[],"history":[{"observed_at":"2026-11-02T18:31:15+08:00","previous_event_date":"2018-11-16","previous_status":"confirmed","new_event_date":null,"new_status":"announced","reason":"纠正商店本地化日期的时区歧义；不作为已核实北京时间"}],"verification_note":"商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"c47c9d6ab9703a3bbd28","game_id":"steam-5006800","title":"Freewill - Sci-Fi Music Platformer · Steam 发售日期","type":"release","importance":"B","event_date":null,"announced_at":null,"first_seen_at":"2026-11-02T18:28:24+08:00","status":"announced","source_urls":["https://store.steampowered.com/app/5006800/"],"source_ids":[],"company_links":[],"history":[{"observed_at":"2026-11-02T18:31:15+08:00","previous_event_date":"2026-11-02","previous_status":"confirmed","new_event_date":null,"new_status":"announced","reason":"纠正商店本地化日期的时区歧义；不作为已核实北京时间"}],"verification_note":"商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"8a04599935c331501902","game_id":"steam-4740930","title":"守城英雄传 · Steam 发售日期","type":"release","importance":"B","event_date":null,"announced_at":null,"first_seen_at":"2026-11-02T18:28:24+08:00","status":"announced","source_urls":["https://store.steampowered.com/app/4740930/"],"source_ids":[],"company_links":[],"history":[{"observed_at":"2026-11-02T18:31:15+08:00","previous_event_date":"2026-11-02","previous_status":"confirmed","new_event_date":null,"new_status":"announced","reason":"纠正商店本地化日期的时区歧义；不作为已核实北京时间"}],"verification_note":"商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"98b1dd93c7f23219cbfd","game_id":"steam-4620670","title":"Clicker Astro Planet 2 · Steam 发售日期","type":"release","importance":"B","event_date":null,"announced_at":null,"first_seen_at":"2026-11-02T18:28:24+08:00","status":"announced","source_urls":["https://store.steampowered.com/app/4620670/"],"source_ids":[],"company_links":[],"history":[{"observed_at":"2026-11-02T18:31:15+08:00","previous_event_date":"2026-11-02","previous_status":"confirmed","new_event_date":null,"new_status":"announced","reason":"纠正商店本地化日期的时区歧义；不作为已核实北京时间"}],"verification_note":"商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录","investment_channel":"行业情绪；直接收益关系未证实"},{"id":"2778c9765087993c3bdf","game_id":"steam-3353700","title":"Card Collection Simulator · Steam 发售日期","type":"release","importance":"B","event_date":null,"announced_at":null,"first_seen_at":"2026-11-02T18:28:24+08:00","status":"announced","source_urls":["https://store.steampowered.com/app/3353700/"],"source_ids":[],"company_links":[],"history":[{"observed_at":"2026-11-02T18:31:15+08:00","previous_event_date":"2026-11-02","previous_status":"confirmed","new_event_date":null,"new_status":"announced","reason":"纠正商店本地化日期的时区歧义；不作为已核实北京时间"}],"verification_note":"商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录","investment_channel":"行业情绪；直接收益关系未证实"}]
+[
+  {
+    "id": "3bfe4355b5090d9c60b5",
+    "game_id": "phantom-blade-zero",
+    "title": "Phantom Blade Zero sales top four million in 72 hours",
+    "type": "sales",
+    "importance": "A",
+    "event_date": null,
+    "announced_at": "2026-11-02T02:59:03+00:00",
+    "first_seen_at": "2026-11-02T18:25:43+08:00",
+    "status": "rumored",
+    "source_urls": [
+      "https://www.gematsu.com/2026/11/phantom-blade-zero-sales-top-four-million-in-72-hours"
+    ],
+    "source_ids": [
+      "3b04a04ac12334094755"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "91ce63c038d61eee7d9c",
+    "game_id": "black-myth-wukong",
+    "title": "Black Myth: Wukong Global Launch Schedule",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2024-08-17T12:05:42+00:00",
+    "first_seen_at": "2026-11-02T18:25:43+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6909171012602785857"
+    ],
+    "source_ids": [
+      "dddc136fa3d0e1ff0fde"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "6f4d1401270e44f8b9e8",
+    "game_id": "phantom-blade-zero",
+    "title": "影之刃零 · 开放预购",
+    "type": "preorder",
+    "importance": "S",
+    "event_date": "2026-08-11",
+    "announced_at": null,
+    "first_seen_at": "2026-11-02T18:25:43+08:00",
+    "status": "confirmed",
+    "source_urls": [
+      "https://blog.playstation.com/2026/08/11/watch-the-phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-17-pre-orders-live-today/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [],
+    "verification_note": "US blog publication date; page displays Aug11 and Aug12 updates. Beijing exact pre-order start time not established.；公布日期 2026-08-11",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "051c3d4d22d12f64deca",
+    "game_id": "phantom-blade-zero",
+    "title": "影之刃零 · 实机演示",
+    "type": "gameplay_showcase",
+    "importance": "S",
+    "event_date": "2026-08-18T10:00:00+08:00",
+    "announced_at": null,
+    "first_seen_at": "2026-11-02T18:25:43+08:00",
+    "status": "confirmed",
+    "source_urls": [
+      "https://blog.playstation.com/2026/08/11/watch-the-phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-17-pre-orders-live-today/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [],
+    "verification_note": "官方来源核验；日级公布日期不伪造精确发布时间；公布日期 2026-08-11",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "bd3510ff98ed14837e71",
+    "game_id": "phantom-blade-zero",
+    "title": "影之刃零 · 正式发售",
+    "type": "release",
+    "importance": "S",
+    "event_date": "2026-10-29T10:00:00+08:00",
+    "announced_at": null,
+    "first_seen_at": "2026-11-02T18:25:43+08:00",
+    "status": "confirmed",
+    "source_urls": [
+      "https://pbz.s-game.com/en-US/",
+      "https://store.playstation.com/en-us/product/UB2134-PPSA34579_00-0622032276386943",
+      "https://www.playstation.com/en-my/support/games/phantom-blade-zero-support/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [
+      {
+        "observed_at": "2026-11-02T18:25:43+08:00",
+        "announced_date": "2026-06-02",
+        "date_precision": "day",
+        "previous_event_date": "2026-09-09",
+        "previous_status": "announced",
+        "new_event_date": "2026-10-29",
+        "new_status": "confirmed",
+        "source_urls": [
+          "https://pbz.s-game.com/en-US/news/creative-director-letter/"
+        ]
+      }
+    ],
+    "verification_note": "Store states 2026-10-29 02:00 UTC. Release date confirmation is not evidence of sales or direct A-share profit participation.",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "a99ecf8491cda883a0cc",
+    "game_id": "black-myth-wukong",
+    "title": "黑神话：悟空 · 发售日期公布",
+    "type": "release_date_announced",
+    "importance": "S",
+    "event_date": "2024-08-20",
+    "announced_at": null,
+    "first_seen_at": "2026-11-02T18:25:43+08:00",
+    "status": "confirmed",
+    "source_urls": [
+      "https://steamcommunity.com/games/2358720/announcements/detail/3879351442276148580"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [],
+    "verification_note": "Steam official announcement. Publication date shown by localized feeds can be Dec7; exact timestamp needs API extraction before backtest inclusion.；公布日期 2023-12-08",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "cac1472325dcf78687ac",
+    "game_id": "black-myth-wukong",
+    "title": "黑神话：悟空 · 开放预购",
+    "type": "preorder",
+    "importance": "S",
+    "event_date": "2024-06-08",
+    "announced_at": null,
+    "first_seen_at": "2026-11-02T18:25:43+08:00",
+    "status": "confirmed",
+    "source_urls": [
+      "https://gamesci.cn/wukong/news/detail?id=11"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [],
+    "verification_note": "Game Science Pre-Order FAQ dated Jun8 2024; exact start time not verified.；公布日期 2024-06-08",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "c870b66e9a744d65045a",
+    "game_id": "black-myth-wukong",
+    "title": "黑神话：悟空 · 正式发售",
+    "type": "release",
+    "importance": "S",
+    "event_date": "2024-08-20T10:00:00+08:00",
+    "announced_at": null,
+    "first_seen_at": "2026-11-02T18:25:43+08:00",
+    "status": "confirmed",
+    "source_urls": [
+      "https://gamesci.cn/wukong/news/detail?id=11",
+      "https://www.youtube.com/watch?v=bzyMLoSwYvk",
+      "https://www.youtube.com/watch?v=pnSsgRJmsCc"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [],
+    "verification_note": "Official Game Science and PlayStation final trailer descriptions explicitly state 10 AM UTC+8. English Steam page may display Aug19 due locale; do not use localized date alone.",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "c872436ececff6cef7d0",
+    "game_id": "steam-4620670",
+    "title": "Clicker Astro Planet 2 — Full Version Releases November 2",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-30T06:07:59+00:00",
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302237367"
+    ],
+    "source_ids": [
+      "2e1eaf7e991dde92988f"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "5bf8eb2d2938444043c3",
+    "game_id": "steam-4620670",
+    "title": "Clicker Astro Planet 2 — Releases in 12 Days! Play the Demo Now",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-19T21:48:12+00:00",
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692863"
+    ],
+    "source_ids": [
+      "2f07cb7d08e517b07f28"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "c2d1ba12066ec4e6f37d",
+    "game_id": "steam-5031190",
+    "title": "Cat Over Here! is in Steam Next Fest – Play the Demo & Wishlist!",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-19T14:07:47+00:00",
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706690411"
+    ],
+    "source_ids": [
+      "4f476e23adfda698acee"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "58906e5d420c64659c07",
+    "game_id": "steam-4620670",
+    "title": "Demo is Out! Play Clicker Astro Planet 2 Now!",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-08-14T12:27:00+00:00",
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183779495"
+    ],
+    "source_ids": [
+      "4a8dc8836c6dae7fcb93"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "373e1c53da8e68a6edaf",
+    "game_id": "phantom-blade-zero",
+    "title": "Phantom Blade Zero Pre-Orders Now Available",
+    "type": "preorder",
+    "importance": "A",
+    "event_date": null,
+    "announced_at": "2026-08-13T03:18:56+00:00",
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183775581"
+    ],
+    "source_ids": [
+      "ff14f5ef5e8f82abff8f"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "441c64dab6d0900e406c",
+    "game_id": "steam-3353700",
+    "title": "Card Collection Simulator - The Demo Is Here!!!",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-05-05T16:27:21+00:00",
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155580618"
+    ],
+    "source_ids": [
+      "b5c11cbbc2ad38ca8f77"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "dbc7cdc12a44989c9a49",
+    "game_id": "phantom-blade-zero",
+    "title": "Phantom Blade Zero Confirmed for 2026/09/09 Global Launch",
+    "type": "release",
+    "importance": "A",
+    "event_date": null,
+    "announced_at": "2025-12-12T13:25:47+00:00",
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592127591"
+    ],
+    "source_ids": [
+      "abbbfbe963b32313ed47"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "d0419b8af5840be25ff4",
+    "game_id": "black-myth-wukong",
+    "title": "黑神话：悟空 · 发售日期公布",
+    "type": "release_date_announced",
+    "importance": "S",
+    "event_date": "2023-12-08",
+    "announced_at": null,
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "confirmed",
+    "source_urls": [
+      "https://steamcommunity.com/games/2358720/announcements/detail/3879351442276148580"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [],
+    "verification_note": "Steam official announcement. Publication date shown by localized feeds can be Dec7; exact timestamp needs API extraction before backtest inclusion.；公布日期 2023-12-08",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "86d2c85bb7526e600588",
+    "game_id": "black-myth-wukong",
+    "title": "黑神话：悟空 · Steam 发售日期",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": null,
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://store.steampowered.com/app/2358720/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [
+      {
+        "observed_at": "2026-11-02T18:31:15+08:00",
+        "previous_event_date": "2024-08-19",
+        "previous_status": "confirmed",
+        "new_event_date": null,
+        "new_status": "announced",
+        "reason": "纠正商店本地化日期的时区歧义；不作为已核实北京时间"
+      }
+    ],
+    "verification_note": "商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "3e193c930c7fbe9c0934",
+    "game_id": "steam-3240220",
+    "title": "Grand Theft Auto V 增强版 · Steam 发售日期",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": null,
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://store.steampowered.com/app/3240220/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [
+      {
+        "observed_at": "2026-11-02T18:31:15+08:00",
+        "previous_event_date": "2025-03-04",
+        "previous_status": "confirmed",
+        "new_event_date": null,
+        "new_status": "announced",
+        "reason": "纠正商店本地化日期的时区歧义；不作为已核实北京时间"
+      }
+    ],
+    "verification_note": "商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "81af4ca57a0a1a21d23c",
+    "game_id": "steam-2223980",
+    "title": "Nomad Drive · Steam 发售日期",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": null,
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://store.steampowered.com/app/2223980/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [
+      {
+        "observed_at": "2026-11-02T18:31:15+08:00",
+        "previous_event_date": "2026-10-27",
+        "previous_status": "confirmed",
+        "new_event_date": null,
+        "new_status": "announced",
+        "reason": "纠正商店本地化日期的时区歧义；不作为已核实北京时间"
+      }
+    ],
+    "verification_note": "商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "ae43710f8bbedf7a0451",
+    "game_id": "steam-431960",
+    "title": "Wallpaper Engine：壁纸引擎 · Steam 发售日期",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": null,
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://store.steampowered.com/app/431960/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [
+      {
+        "observed_at": "2026-11-02T18:31:15+08:00",
+        "previous_event_date": "2018-11-16",
+        "previous_status": "confirmed",
+        "new_event_date": null,
+        "new_status": "announced",
+        "reason": "纠正商店本地化日期的时区歧义；不作为已核实北京时间"
+      }
+    ],
+    "verification_note": "商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "c47c9d6ab9703a3bbd28",
+    "game_id": "steam-5006800",
+    "title": "Freewill - Sci-Fi Music Platformer · Steam 发售日期",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": null,
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://store.steampowered.com/app/5006800/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [
+      {
+        "observed_at": "2026-11-02T18:31:15+08:00",
+        "previous_event_date": "2026-11-02",
+        "previous_status": "confirmed",
+        "new_event_date": null,
+        "new_status": "announced",
+        "reason": "纠正商店本地化日期的时区歧义；不作为已核实北京时间"
+      }
+    ],
+    "verification_note": "商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "8a04599935c331501902",
+    "game_id": "steam-4740930",
+    "title": "守城英雄传 · Steam 发售日期",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": null,
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://store.steampowered.com/app/4740930/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [
+      {
+        "observed_at": "2026-11-02T18:31:15+08:00",
+        "previous_event_date": "2026-11-02",
+        "previous_status": "confirmed",
+        "new_event_date": null,
+        "new_status": "announced",
+        "reason": "纠正商店本地化日期的时区歧义；不作为已核实北京时间"
+      }
+    ],
+    "verification_note": "商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "98b1dd93c7f23219cbfd",
+    "game_id": "steam-4620670",
+    "title": "Clicker Astro Planet 2 · Steam 发售日期",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": null,
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://store.steampowered.com/app/4620670/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [
+      {
+        "observed_at": "2026-11-02T18:31:15+08:00",
+        "previous_event_date": "2026-11-02",
+        "previous_status": "confirmed",
+        "new_event_date": null,
+        "new_status": "announced",
+        "reason": "纠正商店本地化日期的时区歧义；不作为已核实北京时间"
+      }
+    ],
+    "verification_note": "商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "2778c9765087993c3bdf",
+    "game_id": "steam-3353700",
+    "title": "Card Collection Simulator · Steam 发售日期",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": null,
+    "first_seen_at": "2026-11-02T18:28:24+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://store.steampowered.com/app/3353700/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [
+      {
+        "observed_at": "2026-11-02T18:31:15+08:00",
+        "previous_event_date": "2026-11-02",
+        "previous_status": "confirmed",
+        "new_event_date": null,
+        "new_status": "announced",
+        "reason": "纠正商店本地化日期的时区歧义；不作为已核实北京时间"
+      }
+    ],
+    "verification_note": "商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  }
+]
