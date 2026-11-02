@@ -6,12 +6,12 @@
 
 ## 已执行本地检查
 
-- Python 3.12 虚拟环境，`python -m pytest -q`：集成测试持续更新，最终数字见提交后的 Actions 记录。
+- Python 3.12 虚拟环境，`python -m pytest -q`：78 项通过；GitHub Actions 对同一版本也验证通过。
 - `npm test`：10 项通过（工具函数 5 项、React 渲染状态 5 项）。
 - `npm run build`、`npm run typecheck`：通过。
 - Agnes 客户端：27 项模拟测试通过，包括两次 429 后恢复、Retry-After、503、401、超时、非法 JSON、Schema 修复与耗尽。
 - 真实采集已经执行，三只 ETF 均获取 2023-01-03 起的行情；具体截止日和条数以 `public/data/latest.json` 为准。
-- 本地 Chromium 被执行环境限制阻止启动，未将其计为通过。工作流会使用独立 GitHub runner 运行五项 Playwright 冒烟测试；最终结果以实际 Actions 为准。
+- 本地 Chromium 被执行环境限制阻止启动，未将其计为通过。GitHub runner 已实际完成 5 项 Playwright 冒烟测试，全部通过；覆盖桌面/手机八个页面、过期/空/错误状态、游戏详情和 ETF 图表。
 
 ## 已实际接入
 
@@ -38,4 +38,15 @@
 
 ## 部署证据
 
-GitHub Pages 的构建、浏览器测试、发布和真实 URL 验证状态将在实际运行后追加，不能把配置文件存在等同于上线。
+- 验收时间：2026-11-02 19:38–19:39，北京时间。
+- 网站：https://zjjxwpstcnsm-gif.github.io/game516770/
+- 成功工作流：https://github.com/zjjxwpstcnsm-gif/game516770/actions/runs/41437996533
+- 已部署代码：0b7436c6b06b207adecb8c691938da89c72bc256。
+- research 和 deploy 两个 job 均成功，数据机器人提交成功。
+- HTTP 实测：首页 200，JS 200，CSS 200，latest.json 200；线上 JSON 通过同一 Pydantic 校验。
+- 线上快照生成：2026-11-02T19:36:22+08:00；216 条资讯、34 款游戏、24 个里程碑。
+- 三只 ETF 各 926 个日线，截止 2026-11-02；2026Q3 持仓分别 15/10/28 条。
+- Agnes：实际运行确认 missing_api_key，未进行真实 AI 付费调用；无密钥降级路径已验证。
+- 定时配置：北京时间每天08:20、周一至周五17:25、周日20:30；workflow_dispatch 入口存在。本次验证的是 push 自动触发，尚未等待下一次 schedule，也未声称实际点击了手动触发。
+- 首轮浏览器测试发现横向溢出，修复后发现图表宽度问题；均修复并重新全流程验收通过，没有绕过测试门禁。
+- 若后续 UI 检查失败，独立 Actions cache 保留 AI 预算与结果缓存，避免仅因部署重试而重复计费。
