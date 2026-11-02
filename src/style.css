@@ -1503,3 +1503,70 @@ footer p {
 .score-event .note {
   margin-top: 10px;
 }
+/* Flex/grid items must be allowed to shrink to their allocated column. Long
+   source titles are content, not a reason to enlarge the page viewport. */
+.main-shell,
+.main-shell main,
+.panel-head > *,
+.row > *,
+.signal-title > div,
+.event-content,
+.research-callout > div,
+.watch-games > a > div,
+.page-heading > div:first-child,
+.news-list article,
+.game-card,
+.indicator-grid > div,
+.detail-grid > div {
+  min-width: 0;
+}
+.event-content,
+.news-list h3,
+.news-list p,
+.news-list .source-link,
+.game-card h2,
+.game-card p,
+.watch-games h3,
+.body-copy,
+.research-callout h3,
+.source-link {
+  overflow-wrap: anywhere;
+}
+.news-list .badge {
+  max-width: 100%;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+.source-link,
+.table-wrap,
+.calendar-grid,
+.chart,
+.chart .recharts-wrapper {
+  max-width: 100%;
+}
+.chart-caption {
+  flex-wrap: wrap;
+}
+@media (max-width: 700px) {
+  .dashboard-grid,
+  .two-column,
+  .etf-cards,
+  .game-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .etf-card {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
+  .breadcrumb {
+    min-width: 0;
+    flex-wrap: wrap;
+    gap: 3px;
+  }
+  .toolbar > .row {
+    flex-wrap: wrap;
+  }
+  .toolbar select {
+    max-width: 100%;
+    min-width: 0;
+  }
+}

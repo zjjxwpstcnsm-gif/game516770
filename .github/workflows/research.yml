@@ -36,12 +36,24 @@ jobs:
       - run: npm ci
       - name: Backend tests
         run: python -m pytest -q
+      - name: Restore AI usage reservations and result cache
+        uses: actions/cache/restore@v4
+        with:
+          path: public/data/system/ai_cache
+          key: agnes-cache-${{ github.repository_id }}-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: agnes-cache-${{ github.repository_id }}-
       - name: Collect and validate real research data
         env:
           AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
           AGNES_BASE_URL: ${{ vars.AGNES_BASE_URL || 'https://apihub.agnes-ai.com/v1' }}
           AGNES_MODEL: ${{ vars.AGNES_MODEL || 'agnes-3.0-flash' }}
         run: python -m pipeline.run
+      - name: Preserve AI budget even if later checks fail
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: public/data/system/ai_cache
+          key: agnes-cache-${{ github.repository_id }}-${{ github.run_id }}-${{ github.run_attempt }}
       - name: Validate persisted snapshot
         run: python -m pipeline.run --validate-only
       - name: Frontend unit tests

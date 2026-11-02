@@ -19,11 +19,44 @@ for (const width of [1440, 390])
       await expect(page.locator("main h1")).toBeVisible();
       await expect(page.getByText("正在读取研究数据")).toHaveCount(0);
       await expect(page.locator("main .error-panel")).toHaveCount(0);
+      const overflow = await page.evaluate(() => {
+        const viewport = window.innerWidth;
+        const offenders = [...document.querySelectorAll("main *, header *")]
+          .map((element) => {
+            const rect = element.getBoundingClientRect();
+            return {
+              tag: element.tagName,
+              className: element.className?.toString(),
+              text: element.textContent?.slice(0, 100),
+              left: rect.left,
+              right: rect.right,
+              width: rect.width,
+              scrollWidth: element.scrollWidth,
+              clientWidth: element.clientWidth,
+            };
+          })
+          .filter((item) => item.right > viewport + 1 || item.left < -1)
+          .sort((a, b) => b.right - a.right)
+          .slice(0, 20);
+        return {
+          viewport,
+          documentWidth: document.documentElement.scrollWidth,
+          offenders,
+        };
+      });
+      if (overflow.documentWidth > width) {
+        await page.screenshot({
+          path: `test-results/overflow-${width}-${route}.png`,
+          fullPage: true,
+        });
+        console.error(
+          `Overflow on ${route} at ${width}px: ${JSON.stringify(overflow, null, 2)}`,
+        );
+      }
       expect(
-        await page.evaluate(
-          () => document.documentElement.scrollWidth <= window.innerWidth,
-        ),
-      ).toBe(true);
+        overflow.documentWidth,
+        `Route ${route}: ${JSON.stringify(overflow)}`,
+      ).toBeLessThanOrEqual(width);
     }
     await page.goto("#/dashboard");
     await page.screenshot({
