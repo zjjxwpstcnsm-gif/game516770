@@ -10,3 +10,7 @@ __pycache__/
 .cache/
 test-results/
 playwright-report/
+
+*.tsbuildinfo
+public/data/system/ai_cache/*.lock
+public/data/system/ai_cache/*.tmp

@@ -1,0 +1,34 @@
+sources:
+  - id: steam_news
+    name: Steam 官方公告
+    url: https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/
+    category: official
+    enabled: true
+    max_apps: 8
+    timeout: 20
+    interval_seconds: 2
+    credibility: 95
+  - id: playstation
+    name: PlayStation Blog
+    url: https://blog.playstation.com/feed/
+    category: official
+    enabled: true
+    timeout: 20
+    interval_seconds: 2
+    credibility: 95
+  - id: gematsu
+    name: Gematsu
+    url: https://www.gematsu.com/feed
+    category: media
+    enabled: true
+    timeout: 20
+    interval_seconds: 2
+    credibility: 80
+  - id: pcgamer
+    name: PC Gamer
+    url: https://www.pcgamer.com/rss/
+    category: media
+    enabled: true
+    timeout: 20
+    interval_seconds: 2
+    credibility: 75

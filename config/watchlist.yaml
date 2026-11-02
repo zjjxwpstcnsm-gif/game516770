@@ -1,0 +1,24 @@
+games:
+  - id: black-myth-wukong
+    name: 黑神话：悟空
+    aliases: ['Black Myth: Wukong', 'Black Myth Wukong', '黑神话', '悟空']
+    developer: Game Science / 游戏科学
+    publisher: Game Science
+    official_url: https://www.heishenhua.com/
+    steam_app_id: 2358720
+    heat_grade: S
+    heat_score: null
+    heat_basis: 等待多指标核验；不因历史知名度直接赋予 SSS
+    investment_relation: 行业情绪；未核实 A 股成分股直接收入权益
+  - id: phantom-blade-zero
+    name: 影之刃零
+    aliases: ['Phantom Blade Zero', '影之刃零']
+    developer: S-GAME / 灵游坊
+    publisher: S-GAME
+    official_url: https://pbz.s-game.com/
+    steam_app_id: null
+    heat_grade: S
+    heat_score: null
+    heat_basis: 等待多指标核验
+    investment_relation: 行业情绪；不得将非上市开发商销量等同 ETF 利润
+verified_events: []

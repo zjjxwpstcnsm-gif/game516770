@@ -1,0 +1,20 @@
+version: 1.0.0-heuristic
+etfs: ['516770', '159869', '516010']
+market_timezone: Asia/Shanghai
+price_max_age_days: 4
+news_max_age_hours: 72
+trend_short: 5
+trend_long: 20
+minimum_history: 60
+catalyst_window_days: 30
+entry_score: 70
+risk_return5: -0.05
+transaction_cost_bps: 5
+slippage_bps: 5
+weights:
+  event_importance: 0.20
+  credibility: 0.20
+  heat: 0.15
+  timing: 0.15
+  etf_relation: 0.20
+  trend: 0.10

@@ -1,0 +1,51 @@
+{
+  "verified_at": "2026-11-02T18:22:00+08:00",
+  "method": "Official-source web research; runtime API connectivity is separately tested by pipeline.",
+  "technical": {
+    "agnes": {
+      "url": "https://agnes-ai.com/zh-Hans/docs/agnes-30-flash",
+      "base_url": "https://apihub.agnes-ai.com/v1",
+      "endpoint": "/chat/completions",
+      "model": "agnes-3.0-flash",
+      "authentication": "Bearer environment secret",
+      "limits": "Account/key-specific. Do not assume a fixed free quota or RPM. Five-attempt retry, daily budgets and one schema repair are project safeguards, not claims about provider guarantees."
+    },
+    "github_schedule": {
+      "url": "https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#onschedule",
+      "timezone_supported": true,
+      "timezone": "Asia/Shanghai",
+      "syntax_note": "timezone is a sibling of cron under each schedule list item; schedules execute latest default-branch commit; minimum interval 5 minutes."
+    },
+    "github_pages": {
+      "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages",
+      "actions": ["actions/configure-pages@v5", "actions/upload-pages-artifact@v4", "actions/deploy-pages@v4"],
+      "permissions": ["pages: write", "id-token: write"],
+      "environment": "github-pages",
+      "note": "Enable Actions as publishing source. Deployment job needs build job."
+    },
+    "market_api_docs": {
+      "url": "https://akshare.akfamily.xyz/data/fund/fund_public.html",
+      "primary": "fund_etf_hist_em(symbol, period='daily', start_date, end_date, adjust='')",
+      "fallback": "fund_etf_hist_sina(symbol='sh516770')",
+      "holdings": "fund_portfolio_hold_em(symbol, date='2026')",
+      "caveats": ["ETF trade-price data is not NAV.", "Eastmoney supports unadjusted, qfq and hfq; persist adjustment metadata.", "Sina documents volume in lots; do not silently combine units.", "Holdings are disclosed quarterly snapshots, % of NAV; store report period and publication date, never claim live holdings."]
+    }
+  },
+  "etfs": [
+    {"code":"516770","name":"游戏ETF华泰柏瑞","full_name":"华泰柏瑞中证动漫游戏交易型开放式指数证券投资基金","index":"中证动漫游戏指数","index_code":"930901","identity_source":"https://static.cninfo.com.cn/finalpage/2025-02-08/1222486351.PDF","holdings_status":"Latest 2026Q3 weights not verified in this research pass; collect or show missing, do not seed invented weights."},
+    {"code":"159869","name":"游戏ETF华夏","full_name":"华夏中证动漫游戏交易型开放式指数证券投资基金","index":"中证动漫游戏指数","index_code":"930901","identity_source":"https://www.chinaamc.com.cn/fund/159869/index.shtml","holdings_status":"Current holdings require dated extraction."},
+    {"code":"516010","name":"游戏ETF国泰","full_name":"国泰中证动漫游戏交易型开放式指数证券投资基金","index":"中证动漫游戏指数","index_code":"930901","identity_source":"https://e.gtfund.com/etrade/Jijin/view/id/516010","holdings_status":"Current holdings require dated extraction."}
+  ],
+  "index_source": "https://oss-ch.csindex.com.cn/static/html/csindex/public/uploads/indices/detail/files/zh_CN/20231208180230-930901_Index_Methodology_cn.pdf",
+  "game_evidence": [
+    {"game_id":"phantom-blade-zero","type":"release_date_revision","published_date":"2026-06-02","published_at":null,"date_precision":"day","old_event_date":"2026-09-09","event_date":"2026-10-29","status":"confirmed","url":"https://pbz.s-game.com/en-US/news/creative-director-letter/","note":"Official S-GAME letter. No exact announcement time exposed; do not fabricate midnight timestamp. For backtest use conservative end-of-day availability or next session."},
+    {"game_id":"phantom-blade-zero","type":"preorder","published_date":"2026-08-11","published_at":null,"date_precision":"day","event_date":"2026-08-11","status":"confirmed","url":"https://blog.playstation.com/2026/08/11/watch-the-phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-17-pre-orders-live-today/","note":"US blog publication date; page displays Aug11 and Aug12 updates. Beijing exact pre-order start time not established."},
+    {"game_id":"phantom-blade-zero","type":"gameplay_showcase","published_date":"2026-08-11","event_at":"2026-08-18T10:00:00+08:00","status":"confirmed","url":"https://blog.playstation.com/2026/08/11/watch-the-phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-17-pre-orders-live-today/"},
+    {"game_id":"phantom-blade-zero","type":"release","event_at":"2026-10-29T10:00:00+08:00","status":"confirmed","url":"https://store.playstation.com/en-us/product/UB2134-PPSA34579_00-0622032276386943","corroborating_urls":["https://pbz.s-game.com/en-US/","https://www.playstation.com/en-my/support/games/phantom-blade-zero-support/"],"note":"Store states 2026-10-29 02:00 UTC. Release date confirmation is not evidence of sales or direct A-share profit participation."},
+    {"game_id":"black-myth-wukong","type":"release_date_announced","published_date":"2023-12-08","published_at":null,"date_precision":"day","event_date":"2024-08-20","status":"confirmed","url":"https://steamcommunity.com/games/2358720/announcements/detail/3879351442276148580","note":"Steam official announcement. Publication date shown by localized feeds can be Dec7; exact timestamp needs API extraction before backtest inclusion."},
+    {"game_id":"black-myth-wukong","type":"preorder","published_date":"2024-06-08","published_at":null,"date_precision":"day","event_date":"2024-06-08","status":"confirmed","url":"https://gamesci.cn/wukong/news/detail?id=11","note":"Game Science Pre-Order FAQ dated Jun8 2024; exact start time not verified."},
+    {"game_id":"black-myth-wukong","type":"release","event_at":"2024-08-20T10:00:00+08:00","status":"confirmed","url":"https://www.youtube.com/watch?v=bzyMLoSwYvk","corroborating_urls":["https://www.youtube.com/watch?v=pnSsgRJmsCc","https://gamesci.cn/wukong/news/detail?id=11"],"note":"Official Game Science and PlayStation final trailer descriptions explicitly state 10 AM UTC+8. English Steam page may display Aug19 due locale; do not use localized date alone."},
+    {"game_id":"black-myth-wukong","type":"sales","event_at":"2024-08-23T21:00:00+08:00","metric":"copies_all_platforms","value":10000000,"status":"needs_primary_fetch","url":"https://x.com/BlackMythGame/status/1826985302592049599","note":"Official post identified but full original was not readable in this research pass. Do not mark independently primary-verified until fetched; mirror references alone are insufficient."}
+  ],
+  "relationship_caution": "Do not infer A-share ETF earnings participation for Game Science or S-GAME from game popularity. No current A-share revenue/profit rights verified in this research pass; default channel industry_sentiment with direct benefit missing, not guessed zero or fabricated ownership."
+}
