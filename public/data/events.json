@@ -561,5 +561,26 @@
     ],
     "verification_note": "商店本地化日期存在时区歧义，已撤销精确日期并保留修订记录",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "f8fc420f4e74c6a59981",
+    "game_id": "steam-4721020",
+    "title": "The Last Ores Demo & Steam Next Fest Details!",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-09-23T11:22:03+00:00",
+    "first_seen_at": "2026-11-03T14:50:40+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498218140"
+    ],
+    "source_ids": [
+      "63d6d503adfbdbd64ccc"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]

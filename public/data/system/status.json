@@ -1,15 +1,15 @@
 {
   "status": "partial_failure",
-  "generated_at": "2026-11-02T19:36:22+08:00",
+  "generated_at": "2026-11-03T14:51:16+08:00",
   "last_success_at": null,
-  "last_partial_success_at": "2026-11-02T19:36:22+08:00",
+  "last_partial_success_at": "2026-11-03T14:51:16+08:00",
   "source_status": [
     {
       "id": "steam_discovery",
       "name": "Steam 动态游戏发现",
       "status": "ok",
-      "records": 23,
-      "checked_at": "2026-11-02T19:35:43+08:00",
+      "records": 21,
+      "checked_at": "2026-11-03T14:50:40+08:00",
       "url": "https://store.steampowered.com/api/featuredcategories",
       "error": null
     },
@@ -17,8 +17,8 @@
       "id": "steam_news",
       "name": "Steam 官方公告",
       "status": "ok",
-      "checked_at": "2026-11-02T19:35:57+08:00",
-      "records": 36,
+      "checked_at": "2026-11-03T14:50:54+08:00",
+      "records": 27,
       "url": "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/",
       "error": null
     },
@@ -26,7 +26,7 @@
       "id": "playstation",
       "name": "PlayStation Blog",
       "status": "ok",
-      "checked_at": "2026-11-02T19:35:58+08:00",
+      "checked_at": "2026-11-03T14:50:54+08:00",
       "records": 10,
       "url": "https://blog.playstation.com/feed/",
       "error": null
@@ -35,7 +35,7 @@
       "id": "gematsu",
       "name": "Gematsu",
       "status": "ok",
-      "checked_at": "2026-11-02T19:35:58+08:00",
+      "checked_at": "2026-11-03T14:50:55+08:00",
       "records": 20,
       "url": "https://www.gematsu.com/feed",
       "error": null
@@ -44,7 +44,7 @@
       "id": "pcgamer",
       "name": "PC Gamer",
       "status": "ok",
-      "checked_at": "2026-11-02T19:35:58+08:00",
+      "checked_at": "2026-11-03T14:50:55+08:00",
       "records": 40,
       "url": "https://www.pcgamer.com/rss/",
       "error": null
@@ -53,7 +53,7 @@
       "id": "steam_details_2358720",
       "name": "黑神话：悟空 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-02T19:35:43+08:00",
+      "checked_at": "2026-11-03T14:50:40+08:00",
       "records": 1,
       "url": "https://store.steampowered.com/app/2358720/",
       "error": null
@@ -62,106 +62,16 @@
       "id": "steam_reviews_2358720",
       "name": "黑神话：悟空 评价数据",
       "status": "error",
-      "checked_at": "2026-11-02T19:35:43+08:00",
+      "checked_at": "2026-11-03T14:50:40+08:00",
       "records": 0,
       "url": "https://store.steampowered.com/appreviews/2358720",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_3353700",
-      "name": "Card Collection Simulator 官方日期",
-      "status": "ok",
-      "checked_at": "2026-11-02T19:35:43+08:00",
-      "records": 1,
-      "url": "https://store.steampowered.com/app/3353700/",
-      "error": null
-    },
-    {
-      "id": "steam_reviews_3353700",
-      "name": "Card Collection Simulator 评价数据",
-      "status": "error",
-      "checked_at": "2026-11-02T19:35:43+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/appreviews/3353700",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_3785630",
-      "name": "我不加班 官方日期",
-      "status": "ok",
-      "checked_at": "2026-11-02T19:35:43+08:00",
-      "records": 1,
-      "url": "https://store.steampowered.com/app/3785630/",
-      "error": null
-    },
-    {
-      "id": "steam_reviews_3785630",
-      "name": "我不加班 评价数据",
-      "status": "error",
-      "checked_at": "2026-11-02T19:35:43+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/appreviews/3785630",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_3330940",
-      "name": "Caravan Carnage: Fruity Road 官方日期",
-      "status": "ok",
-      "checked_at": "2026-11-02T19:35:43+08:00",
-      "records": 1,
-      "url": "https://store.steampowered.com/app/3330940/",
-      "error": null
-    },
-    {
-      "id": "steam_reviews_3330940",
-      "name": "Caravan Carnage: Fruity Road 评价数据",
-      "status": "error",
-      "checked_at": "2026-11-02T19:35:43+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/appreviews/3330940",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_5403210",
-      "name": "Nyangdom : Dark Cat Defense 官方日期",
-      "status": "ok",
-      "checked_at": "2026-11-02T19:35:43+08:00",
-      "records": 1,
-      "url": "https://store.steampowered.com/app/5403210/",
-      "error": null
-    },
-    {
-      "id": "steam_reviews_5403210",
-      "name": "Nyangdom : Dark Cat Defense 评价数据",
-      "status": "error",
-      "checked_at": "2026-11-02T19:35:43+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/appreviews/5403210",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_5475960",
-      "name": "Incremental Traffic 官方日期",
-      "status": "ok",
-      "checked_at": "2026-11-02T19:35:43+08:00",
-      "records": 1,
-      "url": "https://store.steampowered.com/app/5475960/",
-      "error": null
-    },
-    {
-      "id": "steam_reviews_5475960",
-      "name": "Incremental Traffic 评价数据",
-      "status": "error",
-      "checked_at": "2026-11-02T19:35:43+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/appreviews/5475960",
       "error": "JSONDecodeError"
     },
     {
       "id": "steam_details_3683940",
       "name": "二手游戏店模拟器 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-02T19:35:43+08:00",
+      "checked_at": "2026-11-03T14:50:40+08:00",
       "records": 1,
       "url": "https://store.steampowered.com/app/3683940/",
       "error": null
@@ -170,7 +80,7 @@
       "id": "steam_reviews_3683940",
       "name": "二手游戏店模拟器 评价数据",
       "status": "error",
-      "checked_at": "2026-11-02T19:35:43+08:00",
+      "checked_at": "2026-11-03T14:50:40+08:00",
       "records": 0,
       "url": "https://store.steampowered.com/appreviews/3683940",
       "error": "JSONDecodeError"
@@ -179,7 +89,7 @@
       "id": "steam_details_323880",
       "name": "Seedling 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-02T19:35:43+08:00",
+      "checked_at": "2026-11-03T14:50:40+08:00",
       "records": 1,
       "url": "https://store.steampowered.com/app/323880/",
       "error": null
@@ -188,16 +98,106 @@
       "id": "steam_reviews_323880",
       "name": "Seedling 评价数据",
       "status": "error",
-      "checked_at": "2026-11-02T19:35:43+08:00",
+      "checked_at": "2026-11-03T14:50:40+08:00",
       "records": 0,
       "url": "https://store.steampowered.com/appreviews/323880",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_4721020",
+      "name": "The Last Ores 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-03T14:50:40+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/4721020/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_4721020",
+      "name": "The Last Ores 评价数据",
+      "status": "error",
+      "checked_at": "2026-11-03T14:50:40+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/appreviews/4721020",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_3787980",
+      "name": "Gridfire 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-03T14:50:40+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/3787980/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_3787980",
+      "name": "Gridfire 评价数据",
+      "status": "error",
+      "checked_at": "2026-11-03T14:50:40+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/appreviews/3787980",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_5405610",
+      "name": "Ai-Breakout 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-03T14:50:40+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/5405610/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_5405610",
+      "name": "Ai-Breakout 评价数据",
+      "status": "error",
+      "checked_at": "2026-11-03T14:50:40+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/appreviews/5405610",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_5092480",
+      "name": "Goats and Shrubs: Desktop Topiary 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-03T14:50:40+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/5092480/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_5092480",
+      "name": "Goats and Shrubs: Desktop Topiary 评价数据",
+      "status": "error",
+      "checked_at": "2026-11-03T14:50:40+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/appreviews/5092480",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_3758050",
+      "name": "Kva Krj Farm 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-03T14:50:40+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/3758050/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_3758050",
+      "name": "Kva Krj Farm 评价数据",
+      "status": "error",
+      "checked_at": "2026-11-03T14:50:40+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/appreviews/3758050",
       "error": "JSONDecodeError"
     },
     {
       "id": "benchmark",
       "name": "沪深300市场对照",
       "status": "ok",
-      "checked_at": "2026-11-02T19:36:17+08:00",
+      "checked_at": "2026-11-03T14:51:12+08:00",
       "records": 926,
       "url": "https://quotes.sina.cn/cn/api/jsonp_v2.php/var%20_data=/CN_MarketDataService.getKLineData",
       "error": null
@@ -206,7 +206,7 @@
       "id": "holdings_516770",
       "name": "游戏ETF华泰柏瑞持仓",
       "status": "ok",
-      "checked_at": "2026-11-02T19:36:20+08:00",
+      "checked_at": "2026-11-03T14:51:14+08:00",
       "records": 15,
       "url": "https://fundf10.eastmoney.com/ccmx_516770.html",
       "error": null
@@ -215,7 +215,7 @@
       "id": "prices_516770",
       "name": "游戏ETF华泰柏瑞行情",
       "status": "ok",
-      "checked_at": "2026-11-02T19:35:43+08:00",
+      "checked_at": "2026-11-03T14:50:40+08:00",
       "records": 926,
       "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516770&klt=101&fqt=0&beg=20230101&end=20500101",
       "error": null
@@ -224,7 +224,7 @@
       "id": "holdings_159869",
       "name": "游戏ETF华夏持仓",
       "status": "ok",
-      "checked_at": "2026-11-02T19:36:21+08:00",
+      "checked_at": "2026-11-03T14:51:15+08:00",
       "records": 10,
       "url": "https://fundf10.eastmoney.com/ccmx_159869.html",
       "error": null
@@ -233,7 +233,7 @@
       "id": "prices_159869",
       "name": "游戏ETF华夏行情",
       "status": "ok",
-      "checked_at": "2026-11-02T19:35:43+08:00",
+      "checked_at": "2026-11-03T14:50:40+08:00",
       "records": 926,
       "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=0.159869&klt=101&fqt=0&beg=20230101&end=20500101",
       "error": null
@@ -242,7 +242,7 @@
       "id": "holdings_516010",
       "name": "游戏ETF国泰持仓",
       "status": "ok",
-      "checked_at": "2026-11-02T19:36:22+08:00",
+      "checked_at": "2026-11-03T14:51:16+08:00",
       "records": 28,
       "url": "https://fundf10.eastmoney.com/ccmx_516010.html",
       "error": null
@@ -251,7 +251,7 @@
       "id": "prices_516010",
       "name": "游戏ETF国泰行情",
       "status": "ok",
-      "checked_at": "2026-11-02T19:35:43+08:00",
+      "checked_at": "2026-11-03T14:50:40+08:00",
       "records": 926,
       "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516010&klt=101&fqt=0&beg=20230101&end=20500101",
       "error": null
@@ -274,6 +274,6 @@
   "latest_market_date": "2026-11-02",
   "market_calendar_status": "已核验 2026 年上交所休市表；跨年及缺失应完成交易日时暂停判断",
   "build_status": "production_build_passed",
-  "build_commit": "0b7436c6b06b207adecb8c691938da89c72bc256",
-  "build_run_url": "https://github.com/zjjxwpstcnsm-gif/game516770/actions/runs/41437996533"
+  "build_commit": "fe4db22705611cf85c30a47157566e697307e7c4",
+  "build_run_url": "https://github.com/zjjxwpstcnsm-gif/game516770/actions/runs/41592398182"
 }
