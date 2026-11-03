@@ -582,5 +582,26 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "1230a36391d99285f1f5",
+    "game_id": "steam-5345280",
+    "title": "The Kart League Manager demo is out!",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-10T13:26:58+00:00",
+    "first_seen_at": "2026-11-04T01:11:23+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067936273"
+    ],
+    "source_ids": [
+      "22e230dc8eeedbb42f2a"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]
