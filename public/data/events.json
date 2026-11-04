@@ -603,5 +603,87 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "fdd4a9d5a76210eb15d6",
+    "game_id": "steam-4919680",
+    "title": "Space Lot Launches November 3! 🌟🎰",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-28T13:36:38+00:00",
+    "first_seen_at": "2026-11-04T14:26:43+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231016"
+    ],
+    "source_ids": [
+      "049bf22b2313bc3d83c9"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "9a1d0a3651add8e710de",
+    "game_id": "steam-4503110",
+    "title": "Circuit Pulse will be released in November!",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-18T09:23:30+00:00",
+    "first_seen_at": "2026-11-04T14:26:43+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706686513"
+    ],
+    "source_ids": [
+      "5e24b4742bf1b65670e4"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "6a2051b9729f04ae0510",
+    "game_id": "steam-4919680",
+    "title": "Space Lot Demo Now Available 🌟🎰",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-02T14:35:22+00:00",
+    "first_seen_at": "2026-11-04T14:26:43+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656386533"
+    ],
+    "source_ids": [
+      "e38499e06253179ba817"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "95fceb2bb79533be06e4",
+    "game_id": "steam-4503110",
+    "title": "Circuit Pulse · Steam 发售日期",
+    "type": "release",
+    "importance": "B",
+    "event_date": "2026-11-04",
+    "announced_at": null,
+    "first_seen_at": "2026-11-04T14:26:43+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://store.steampowered.com/app/4503110/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [],
+    "verification_note": "Steam 商店显示的计划日期，日精度、原始时区未知（可能与北京时间相差一天）；须以官方精确时刻复核。首次公布时间未知，不用于历史已知信息回放。",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]

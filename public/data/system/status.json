@@ -1,15 +1,15 @@
 {
   "status": "partial_failure",
-  "generated_at": "2026-11-04T01:12:04+08:00",
+  "generated_at": "2026-11-04T14:27:21+08:00",
   "last_success_at": null,
-  "last_partial_success_at": "2026-11-04T01:12:04+08:00",
+  "last_partial_success_at": "2026-11-04T14:27:21+08:00",
   "source_status": [
     {
       "id": "steam_discovery",
       "name": "Steam 动态游戏发现",
       "status": "ok",
       "records": 24,
-      "checked_at": "2026-11-04T01:11:24+08:00",
+      "checked_at": "2026-11-04T14:26:44+08:00",
       "url": "https://store.steampowered.com/api/featuredcategories",
       "error": null
     },
@@ -17,8 +17,8 @@
       "id": "steam_news",
       "name": "Steam 官方公告",
       "status": "ok",
-      "checked_at": "2026-11-04T01:11:38+08:00",
-      "records": 25,
+      "checked_at": "2026-11-04T14:26:58+08:00",
+      "records": 24,
       "url": "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/",
       "error": null
     },
@@ -26,7 +26,7 @@
       "id": "playstation",
       "name": "PlayStation Blog",
       "status": "ok",
-      "checked_at": "2026-11-04T01:11:41+08:00",
+      "checked_at": "2026-11-04T14:26:58+08:00",
       "records": 10,
       "url": "https://blog.playstation.com/feed/",
       "error": null
@@ -35,7 +35,7 @@
       "id": "gematsu",
       "name": "Gematsu",
       "status": "ok",
-      "checked_at": "2026-11-04T01:11:41+08:00",
+      "checked_at": "2026-11-04T14:26:59+08:00",
       "records": 20,
       "url": "https://www.gematsu.com/feed",
       "error": null
@@ -44,7 +44,7 @@
       "id": "pcgamer",
       "name": "PC Gamer",
       "status": "ok",
-      "checked_at": "2026-11-04T01:11:41+08:00",
+      "checked_at": "2026-11-04T14:26:59+08:00",
       "records": 40,
       "url": "https://www.pcgamer.com/rss/",
       "error": null
@@ -53,7 +53,7 @@
       "id": "steam_details_2358720",
       "name": "黑神话：悟空 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-04T01:11:23+08:00",
+      "checked_at": "2026-11-04T14:26:43+08:00",
       "records": 1,
       "url": "https://store.steampowered.com/app/2358720/",
       "error": null
@@ -62,142 +62,142 @@
       "id": "steam_reviews_2358720",
       "name": "黑神话：悟空 评价数据",
       "status": "error",
-      "checked_at": "2026-11-04T01:11:23+08:00",
+      "checked_at": "2026-11-04T14:26:43+08:00",
       "records": 0,
       "url": "https://store.steampowered.com/appreviews/2358720",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_3758050",
-      "name": "Kva Krj Farm 官方日期",
+      "id": "steam_details_4919680",
+      "name": "Space Lot 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-04T01:11:23+08:00",
+      "checked_at": "2026-11-04T14:26:43+08:00",
       "records": 1,
-      "url": "https://store.steampowered.com/app/3758050/",
+      "url": "https://store.steampowered.com/app/4919680/",
       "error": null
     },
     {
-      "id": "steam_reviews_3758050",
-      "name": "Kva Krj Farm 评价数据",
+      "id": "steam_reviews_4919680",
+      "name": "Space Lot 评价数据",
       "status": "error",
-      "checked_at": "2026-11-04T01:11:23+08:00",
+      "checked_at": "2026-11-04T14:26:43+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/3758050",
+      "url": "https://store.steampowered.com/appreviews/4919680",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_5345280",
-      "name": "Kart League Manager 官方日期",
+      "id": "steam_details_4225280",
+      "name": "幸存者的炼金术 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-04T01:11:23+08:00",
+      "checked_at": "2026-11-04T14:26:43+08:00",
       "records": 1,
-      "url": "https://store.steampowered.com/app/5345280/",
+      "url": "https://store.steampowered.com/app/4225280/",
       "error": null
     },
     {
-      "id": "steam_reviews_5345280",
-      "name": "Kart League Manager 评价数据",
+      "id": "steam_reviews_4225280",
+      "name": "幸存者的炼金术 评价数据",
       "status": "error",
-      "checked_at": "2026-11-04T01:11:23+08:00",
+      "checked_at": "2026-11-04T14:26:43+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/5345280",
+      "url": "https://store.steampowered.com/appreviews/4225280",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_5222770",
-      "name": "守城英雄传 - 支持者包 官方日期",
+      "id": "steam_details_5073660",
+      "name": "VampOS: Red Ledger 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-04T14:26:43+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/5073660/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_5073660",
+      "name": "VampOS: Red Ledger 评价数据",
       "status": "error",
-      "checked_at": "2026-11-04T01:11:23+08:00",
+      "checked_at": "2026-11-04T14:26:43+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/app/5222770/",
+      "url": "https://store.steampowered.com/appreviews/5073660",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_5245950",
+      "name": "Main Bastion 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-04T14:26:43+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/5245950/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_5245950",
+      "name": "Main Bastion 评价数据",
+      "status": "error",
+      "checked_at": "2026-11-04T14:26:43+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/appreviews/5245950",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_4287400",
+      "name": "The Maiz 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-04T14:26:43+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/4287400/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_4287400",
+      "name": "The Maiz 评价数据",
+      "status": "error",
+      "checked_at": "2026-11-04T14:26:43+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/appreviews/4287400",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_4937060",
+      "name": "ERLIK Soundtrack 官方日期",
+      "status": "error",
+      "checked_at": "2026-11-04T14:26:43+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/app/4937060/",
       "error": "ValueError"
     },
     {
-      "id": "steam_reviews_5222770",
-      "name": "守城英雄传 - 支持者包 评价数据",
+      "id": "steam_reviews_4937060",
+      "name": "ERLIK Soundtrack 评价数据",
       "status": "error",
-      "checked_at": "2026-11-04T01:11:23+08:00",
+      "checked_at": "2026-11-04T14:26:43+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/5222770",
+      "url": "https://store.steampowered.com/appreviews/4937060",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_5456900",
-      "name": "Jawless Fish Races 官方日期",
+      "id": "steam_details_4503110",
+      "name": "Circuit Pulse 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-04T01:11:23+08:00",
+      "checked_at": "2026-11-04T14:26:43+08:00",
       "records": 1,
-      "url": "https://store.steampowered.com/app/5456900/",
+      "url": "https://store.steampowered.com/app/4503110/",
       "error": null
     },
     {
-      "id": "steam_reviews_5456900",
-      "name": "Jawless Fish Races 评价数据",
+      "id": "steam_reviews_4503110",
+      "name": "Circuit Pulse 评价数据",
       "status": "error",
-      "checked_at": "2026-11-04T01:11:23+08:00",
+      "checked_at": "2026-11-04T14:26:43+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/5456900",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_5106940",
-      "name": "Rind Town 官方日期",
-      "status": "ok",
-      "checked_at": "2026-11-04T01:11:23+08:00",
-      "records": 1,
-      "url": "https://store.steampowered.com/app/5106940/",
-      "error": null
-    },
-    {
-      "id": "steam_reviews_5106940",
-      "name": "Rind Town 评价数据",
-      "status": "error",
-      "checked_at": "2026-11-04T01:11:23+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/appreviews/5106940",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_5111260",
-      "name": "Particle Collectotron Demo 官方日期",
-      "status": "error",
-      "checked_at": "2026-11-04T01:11:23+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/app/5111260/",
-      "error": "ValueError"
-    },
-    {
-      "id": "steam_reviews_5111260",
-      "name": "Particle Collectotron Demo 评价数据",
-      "status": "error",
-      "checked_at": "2026-11-04T01:11:23+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/appreviews/5111260",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_5109260",
-      "name": "中央公园残响 DLC - 全境封锁2 官方日期",
-      "status": "error",
-      "checked_at": "2026-11-04T01:11:23+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/app/5109260/",
-      "error": "ValueError"
-    },
-    {
-      "id": "steam_reviews_5109260",
-      "name": "中央公园残响 DLC - 全境封锁2 评价数据",
-      "status": "error",
-      "checked_at": "2026-11-04T01:11:23+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/appreviews/5109260",
+      "url": "https://store.steampowered.com/appreviews/4503110",
       "error": "JSONDecodeError"
     },
     {
       "id": "benchmark",
       "name": "沪深300市场对照",
       "status": "ok",
-      "checked_at": "2026-11-04T01:11:58+08:00",
+      "checked_at": "2026-11-04T14:27:16+08:00",
       "records": 927,
       "url": "https://quotes.sina.cn/cn/api/jsonp_v2.php/var%20_data=/CN_MarketDataService.getKLineData",
       "error": null
@@ -206,7 +206,7 @@
       "id": "holdings_516770",
       "name": "游戏ETF华泰柏瑞持仓",
       "status": "ok",
-      "checked_at": "2026-11-04T01:12:01+08:00",
+      "checked_at": "2026-11-04T14:27:19+08:00",
       "records": 15,
       "url": "https://fundf10.eastmoney.com/ccmx_516770.html",
       "error": null
@@ -215,7 +215,7 @@
       "id": "prices_516770",
       "name": "游戏ETF华泰柏瑞行情",
       "status": "ok",
-      "checked_at": "2026-11-04T01:11:23+08:00",
+      "checked_at": "2026-11-04T14:26:43+08:00",
       "records": 927,
       "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516770&klt=101&fqt=0&beg=20230101&end=20500101",
       "error": null
@@ -224,7 +224,7 @@
       "id": "holdings_159869",
       "name": "游戏ETF华夏持仓",
       "status": "ok",
-      "checked_at": "2026-11-04T01:12:02+08:00",
+      "checked_at": "2026-11-04T14:27:20+08:00",
       "records": 10,
       "url": "https://fundf10.eastmoney.com/ccmx_159869.html",
       "error": null
@@ -233,7 +233,7 @@
       "id": "prices_159869",
       "name": "游戏ETF华夏行情",
       "status": "ok",
-      "checked_at": "2026-11-04T01:11:23+08:00",
+      "checked_at": "2026-11-04T14:26:43+08:00",
       "records": 927,
       "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=0.159869&klt=101&fqt=0&beg=20230101&end=20500101",
       "error": null
@@ -242,7 +242,7 @@
       "id": "holdings_516010",
       "name": "游戏ETF国泰持仓",
       "status": "ok",
-      "checked_at": "2026-11-04T01:12:04+08:00",
+      "checked_at": "2026-11-04T14:27:21+08:00",
       "records": 28,
       "url": "https://fundf10.eastmoney.com/ccmx_516010.html",
       "error": null
@@ -251,7 +251,7 @@
       "id": "prices_516010",
       "name": "游戏ETF国泰行情",
       "status": "ok",
-      "checked_at": "2026-11-04T01:11:23+08:00",
+      "checked_at": "2026-11-04T14:26:43+08:00",
       "records": 927,
       "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516010&klt=101&fqt=0&beg=20230101&end=20500101",
       "error": null
@@ -274,6 +274,6 @@
   "latest_market_date": "2026-11-03",
   "market_calendar_status": "已核验 2026 年上交所休市表；跨年及缺失应完成交易日时暂停判断",
   "build_status": "production_build_passed",
-  "build_commit": "8766ed265a9ba6c1d8bc9cd4ed2dcc6664c67e74",
-  "build_run_url": "https://github.com/zjjxwpstcnsm-gif/game516770/actions/runs/41681698185"
+  "build_commit": "7f1fb304ffdfcb95b0a5d6c873e3e1ca5fc91913",
+  "build_run_url": "https://github.com/zjjxwpstcnsm-gif/game516770/actions/runs/41785502782"
 }
