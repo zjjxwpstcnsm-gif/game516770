@@ -1,15 +1,15 @@
 {
   "status": "partial_failure",
-  "generated_at": "2026-11-04T14:27:21+08:00",
+  "generated_at": "2026-11-05T01:24:23+08:00",
   "last_success_at": null,
-  "last_partial_success_at": "2026-11-04T14:27:21+08:00",
+  "last_partial_success_at": "2026-11-05T01:24:23+08:00",
   "source_status": [
     {
       "id": "steam_discovery",
       "name": "Steam 动态游戏发现",
       "status": "ok",
       "records": 24,
-      "checked_at": "2026-11-04T14:26:44+08:00",
+      "checked_at": "2026-11-05T01:23:45+08:00",
       "url": "https://store.steampowered.com/api/featuredcategories",
       "error": null
     },
@@ -17,8 +17,8 @@
       "id": "steam_news",
       "name": "Steam 官方公告",
       "status": "ok",
-      "checked_at": "2026-11-04T14:26:58+08:00",
-      "records": 24,
+      "checked_at": "2026-11-05T01:23:59+08:00",
+      "records": 27,
       "url": "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/",
       "error": null
     },
@@ -26,7 +26,7 @@
       "id": "playstation",
       "name": "PlayStation Blog",
       "status": "ok",
-      "checked_at": "2026-11-04T14:26:58+08:00",
+      "checked_at": "2026-11-05T01:24:00+08:00",
       "records": 10,
       "url": "https://blog.playstation.com/feed/",
       "error": null
@@ -35,7 +35,7 @@
       "id": "gematsu",
       "name": "Gematsu",
       "status": "ok",
-      "checked_at": "2026-11-04T14:26:59+08:00",
+      "checked_at": "2026-11-05T01:24:00+08:00",
       "records": 20,
       "url": "https://www.gematsu.com/feed",
       "error": null
@@ -44,7 +44,7 @@
       "id": "pcgamer",
       "name": "PC Gamer",
       "status": "ok",
-      "checked_at": "2026-11-04T14:26:59+08:00",
+      "checked_at": "2026-11-05T01:24:01+08:00",
       "records": 40,
       "url": "https://www.pcgamer.com/rss/",
       "error": null
@@ -53,7 +53,7 @@
       "id": "steam_details_2358720",
       "name": "黑神话：悟空 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-04T14:26:43+08:00",
+      "checked_at": "2026-11-05T01:23:44+08:00",
       "records": 1,
       "url": "https://store.steampowered.com/app/2358720/",
       "error": null
@@ -62,143 +62,143 @@
       "id": "steam_reviews_2358720",
       "name": "黑神话：悟空 评价数据",
       "status": "error",
-      "checked_at": "2026-11-04T14:26:43+08:00",
+      "checked_at": "2026-11-05T01:23:44+08:00",
       "records": 0,
       "url": "https://store.steampowered.com/appreviews/2358720",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_4919680",
-      "name": "Space Lot 官方日期",
+      "id": "steam_details_5045680",
+      "name": "全民对抗外星人 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-04T14:26:43+08:00",
+      "checked_at": "2026-11-05T01:23:44+08:00",
       "records": 1,
-      "url": "https://store.steampowered.com/app/4919680/",
+      "url": "https://store.steampowered.com/app/5045680/",
       "error": null
     },
     {
-      "id": "steam_reviews_4919680",
-      "name": "Space Lot 评价数据",
+      "id": "steam_reviews_5045680",
+      "name": "全民对抗外星人 评价数据",
       "status": "error",
-      "checked_at": "2026-11-04T14:26:43+08:00",
+      "checked_at": "2026-11-05T01:23:44+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/4919680",
+      "url": "https://store.steampowered.com/appreviews/5045680",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_4225280",
-      "name": "幸存者的炼金术 官方日期",
+      "id": "steam_details_4718360",
+      "name": "Strike Wings 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-04T14:26:43+08:00",
+      "checked_at": "2026-11-05T01:23:44+08:00",
       "records": 1,
-      "url": "https://store.steampowered.com/app/4225280/",
+      "url": "https://store.steampowered.com/app/4718360/",
       "error": null
     },
     {
-      "id": "steam_reviews_4225280",
-      "name": "幸存者的炼金术 评价数据",
+      "id": "steam_reviews_4718360",
+      "name": "Strike Wings 评价数据",
       "status": "error",
-      "checked_at": "2026-11-04T14:26:43+08:00",
+      "checked_at": "2026-11-05T01:23:44+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/4225280",
+      "url": "https://store.steampowered.com/appreviews/4718360",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_5073660",
-      "name": "VampOS: Red Ledger 官方日期",
-      "status": "ok",
-      "checked_at": "2026-11-04T14:26:43+08:00",
-      "records": 1,
-      "url": "https://store.steampowered.com/app/5073660/",
-      "error": null
-    },
-    {
-      "id": "steam_reviews_5073660",
-      "name": "VampOS: Red Ledger 评价数据",
+      "id": "steam_details_5344010",
+      "name": "Abyssal Moonlight-Chapter1 Digital Art Book 官方日期",
       "status": "error",
-      "checked_at": "2026-11-04T14:26:43+08:00",
+      "checked_at": "2026-11-05T01:23:44+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/5073660",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_5245950",
-      "name": "Main Bastion 官方日期",
-      "status": "ok",
-      "checked_at": "2026-11-04T14:26:43+08:00",
-      "records": 1,
-      "url": "https://store.steampowered.com/app/5245950/",
-      "error": null
-    },
-    {
-      "id": "steam_reviews_5245950",
-      "name": "Main Bastion 评价数据",
-      "status": "error",
-      "checked_at": "2026-11-04T14:26:43+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/appreviews/5245950",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_4287400",
-      "name": "The Maiz 官方日期",
-      "status": "ok",
-      "checked_at": "2026-11-04T14:26:43+08:00",
-      "records": 1,
-      "url": "https://store.steampowered.com/app/4287400/",
-      "error": null
-    },
-    {
-      "id": "steam_reviews_4287400",
-      "name": "The Maiz 评价数据",
-      "status": "error",
-      "checked_at": "2026-11-04T14:26:43+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/appreviews/4287400",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_4937060",
-      "name": "ERLIK Soundtrack 官方日期",
-      "status": "error",
-      "checked_at": "2026-11-04T14:26:43+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/app/4937060/",
+      "url": "https://store.steampowered.com/app/5344010/",
       "error": "ValueError"
     },
     {
-      "id": "steam_reviews_4937060",
-      "name": "ERLIK Soundtrack 评价数据",
+      "id": "steam_reviews_5344010",
+      "name": "Abyssal Moonlight-Chapter1 Digital Art Book 评价数据",
       "status": "error",
-      "checked_at": "2026-11-04T14:26:43+08:00",
+      "checked_at": "2026-11-05T01:23:44+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/4937060",
+      "url": "https://store.steampowered.com/appreviews/5344010",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_4503110",
-      "name": "Circuit Pulse 官方日期",
+      "id": "steam_details_5389850",
+      "name": "Deskrot 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-04T14:26:43+08:00",
+      "checked_at": "2026-11-05T01:23:44+08:00",
       "records": 1,
-      "url": "https://store.steampowered.com/app/4503110/",
+      "url": "https://store.steampowered.com/app/5389850/",
       "error": null
     },
     {
-      "id": "steam_reviews_4503110",
-      "name": "Circuit Pulse 评价数据",
+      "id": "steam_reviews_5389850",
+      "name": "Deskrot 评价数据",
       "status": "error",
-      "checked_at": "2026-11-04T14:26:43+08:00",
+      "checked_at": "2026-11-05T01:23:44+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/4503110",
+      "url": "https://store.steampowered.com/appreviews/5389850",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_4941280",
+      "name": "House Of Echoes 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-05T01:23:44+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/4941280/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_4941280",
+      "name": "House Of Echoes 评价数据",
+      "status": "error",
+      "checked_at": "2026-11-05T01:23:44+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/appreviews/4941280",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_5456960",
+      "name": "Cleanup Gone Wrong 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-05T01:23:44+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/5456960/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_5456960",
+      "name": "Cleanup Gone Wrong 评价数据",
+      "status": "error",
+      "checked_at": "2026-11-05T01:23:44+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/appreviews/5456960",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_5451030",
+      "name": "Fast Taxi Driver 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-05T01:23:44+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/5451030/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_5451030",
+      "name": "Fast Taxi Driver 评价数据",
+      "status": "error",
+      "checked_at": "2026-11-05T01:23:44+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/appreviews/5451030",
       "error": "JSONDecodeError"
     },
     {
       "id": "benchmark",
       "name": "沪深300市场对照",
       "status": "ok",
-      "checked_at": "2026-11-04T14:27:16+08:00",
-      "records": 927,
+      "checked_at": "2026-11-05T01:24:18+08:00",
+      "records": 928,
       "url": "https://quotes.sina.cn/cn/api/jsonp_v2.php/var%20_data=/CN_MarketDataService.getKLineData",
       "error": null
     },
@@ -206,7 +206,7 @@
       "id": "holdings_516770",
       "name": "游戏ETF华泰柏瑞持仓",
       "status": "ok",
-      "checked_at": "2026-11-04T14:27:19+08:00",
+      "checked_at": "2026-11-05T01:24:21+08:00",
       "records": 15,
       "url": "https://fundf10.eastmoney.com/ccmx_516770.html",
       "error": null
@@ -215,8 +215,8 @@
       "id": "prices_516770",
       "name": "游戏ETF华泰柏瑞行情",
       "status": "ok",
-      "checked_at": "2026-11-04T14:26:43+08:00",
-      "records": 927,
+      "checked_at": "2026-11-05T01:23:44+08:00",
+      "records": 928,
       "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516770&klt=101&fqt=0&beg=20230101&end=20500101",
       "error": null
     },
@@ -224,7 +224,7 @@
       "id": "holdings_159869",
       "name": "游戏ETF华夏持仓",
       "status": "ok",
-      "checked_at": "2026-11-04T14:27:20+08:00",
+      "checked_at": "2026-11-05T01:24:22+08:00",
       "records": 10,
       "url": "https://fundf10.eastmoney.com/ccmx_159869.html",
       "error": null
@@ -233,8 +233,8 @@
       "id": "prices_159869",
       "name": "游戏ETF华夏行情",
       "status": "ok",
-      "checked_at": "2026-11-04T14:26:43+08:00",
-      "records": 927,
+      "checked_at": "2026-11-05T01:23:44+08:00",
+      "records": 928,
       "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=0.159869&klt=101&fqt=0&beg=20230101&end=20500101",
       "error": null
     },
@@ -242,7 +242,7 @@
       "id": "holdings_516010",
       "name": "游戏ETF国泰持仓",
       "status": "ok",
-      "checked_at": "2026-11-04T14:27:21+08:00",
+      "checked_at": "2026-11-05T01:24:23+08:00",
       "records": 28,
       "url": "https://fundf10.eastmoney.com/ccmx_516010.html",
       "error": null
@@ -251,8 +251,8 @@
       "id": "prices_516010",
       "name": "游戏ETF国泰行情",
       "status": "ok",
-      "checked_at": "2026-11-04T14:26:43+08:00",
-      "records": 927,
+      "checked_at": "2026-11-05T01:23:44+08:00",
+      "records": 928,
       "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516010&klt=101&fqt=0&beg=20230101&end=20500101",
       "error": null
     }
@@ -271,9 +271,9 @@
     "attempts": 0
   },
   "last_ai_success_at": null,
-  "latest_market_date": "2026-11-03",
+  "latest_market_date": "2026-11-04",
   "market_calendar_status": "已核验 2026 年上交所休市表；跨年及缺失应完成交易日时暂停判断",
   "build_status": "production_build_passed",
-  "build_commit": "7f1fb304ffdfcb95b0a5d6c873e3e1ca5fc91913",
-  "build_run_url": "https://github.com/zjjxwpstcnsm-gif/game516770/actions/runs/41785502782"
+  "build_commit": "4fbcd4505e68c369a1d57389c937b3b5c617a40d",
+  "build_run_url": "https://github.com/zjjxwpstcnsm-gif/game516770/actions/runs/41877106906"
 }
