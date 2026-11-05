@@ -685,5 +685,47 @@
     "history": [],
     "verification_note": "Steam 商店显示的计划日期，日精度、原始时区未知（可能与北京时间相差一天）；须以官方精确时刻复核。首次公布时间未知，不用于历史已知信息回放。",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "cdb33a047e59cfbfb596",
+    "game_id": "steam-2861730",
+    "title": "The NEW Food Devils Demo is OUT for Steam Next Fest! 🍖✨",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-19T16:58:42+00:00",
+    "first_seen_at": "2026-11-06T01:30:04+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706691282"
+    ],
+    "source_ids": [
+      "2ff4b0e700801038b3dd"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "e2a1aed9f357078de5dd",
+    "game_id": "steam-2861730",
+    "title": "The demo of Food Devils is finally out!",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-06-02T16:15:11+00:00",
+    "first_seen_at": "2026-11-06T01:30:04+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900955"
+    ],
+    "source_ids": [
+      "f309b32c089e35781745"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]
