@@ -1,9 +1,315 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-05T01:24:23+08:00",
+  "generated_at": "2026-11-05T14:50:19+08:00",
   "timezone": "Asia/Shanghai",
   "data_cutoff_time": "2026-11-04T15:00:00+08:00",
   "news": [
+    {
+      "id": "4cbef84967c0bc4ba608",
+      "title": "PS5 shipments top 97.9 million, Marvel’s Wolverine tops 2.4 million",
+      "url": "https://www.gematsu.com/2026/11/ps5-shipments-top-97-9-million-marvels-wolverine-tops-2-4-million",
+      "source": "Gematsu",
+      "published_at": "2026-11-05T06:44:41+00:00",
+      "collected_at": "2026-11-05T14:49:56+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "PlayStation 5 has shipped 97.9 million units worldwide, Sony announced in its financial results for &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "b538a98242f97125994b",
+      "title": "Switch 2 worldwide sales top 26.35 million, Switch tops 157.20 million",
+      "url": "https://www.gematsu.com/2026/11/switch-2-worldwide-sales-top-26-35-million-switch-tops-157-20-million",
+      "source": "Gematsu",
+      "published_at": "2026-11-05T06:38:57+00:00",
+      "collected_at": "2026-11-05T14:49:56+08:00",
+      "game_ids": [],
+      "category": "sales",
+      "summary": "Nintendo Switch 2 has sold 26.35 million units and Switch has sold 157.20 million units &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "2942da3bbc766fa70010",
+      "title": "DAMON and BABY free update ‘RISE OF THE ORACLE’ announced alongside Switch 2 version",
+      "url": "https://www.gematsu.com/2026/11/damon-and-baby-free-update-rise-of-the-oracle-announced-alongside-switch-2-version",
+      "source": "Gematsu",
+      "published_at": "2026-11-05T06:29:11+00:00",
+      "collected_at": "2026-11-05T14:49:56+08:00",
+      "game_ids": [],
+      "category": "announcement",
+      "summary": "Arc System Works has announced top-down action adventure shooter DAMON and BABY free update &#8220;RISE &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "d71a05fe7f54152dc282",
+      "title": "My Hero Ultra Rumble coming to iOS, Android",
+      "url": "https://www.gematsu.com/2026/11/my-hero-ultra-rumble-coming-to-ios-android",
+      "source": "Gematsu",
+      "published_at": "2026-11-05T04:49:49+00:00",
+      "collected_at": "2026-11-05T14:49:56+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Bandai Namco will release free-to-play battle royale game My Hero Ultra Rumble for iOS and &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "f18cf70aed74e0053413",
+      "title": "Honkai: Nexus Anima launches in spring 2027; final closed beta test begins November 25",
+      "url": "https://www.gematsu.com/2026/11/honkai-nexus-anima-launches-in-spring-2027-final-closed-beta-test-begins-november-25",
+      "source": "Gematsu",
+      "published_at": "2026-11-05T04:20:01+00:00",
+      "collected_at": "2026-11-05T14:49:56+08:00",
+      "game_ids": [],
+      "category": "release",
+      "summary": "Open-world creature-catching adventure RPG Honkai: Nexus Anima will launch for PC, iOS, and Android in &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "dd6fc58858de956e6981",
+      "title": "Critical Role's upcoming series with Hololive gave Matt Mercer 'a deeper understanding and appreciation' for vtubers",
+      "url": "https://www.pcgamer.com/games/board-games/critical-roles-upcoming-series-with-hololive-gave-matt-mercer-a-deeper-understanding-and-appreciation-for-vtubers",
+      "source": "PC Gamer",
+      "published_at": "2026-11-05T01:52:06+00:00",
+      "collected_at": "2026-11-05T14:49:57+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Shattered Legends is a six-episode miniseries that will debut later this month.",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "c28cc3f21aaa1c051be8",
+      "title": "The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well",
+      "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well",
+      "source": "PC Gamer",
+      "published_at": "2026-11-05T00:18:02+00:00",
+      "collected_at": "2026-11-05T14:49:57+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Theories that Bethesda is hinting at an earlier launch are already surfacing, and a few of them are pretty good.",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "c4ae0272908b0061edce",
+      "title": "No GTA 6 November: Here's what you can play on PC instead",
+      "url": "https://www.pcgamer.com/games/november-games-2026",
+      "source": "PC Gamer",
+      "published_at": "2026-11-04T23:37:01+00:00",
+      "collected_at": "2026-11-05T14:49:57+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "World of Warcraft: Forever, Warhammer Survivors, and a batch of fresh updates.",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "458406f307d8f298751a",
+      "title": "Data centers were some of the biggest losers in last night's US midterm elections",
+      "url": "https://www.pcgamer.com/gaming-industry/data-centers-were-some-of-the-biggest-losers-in-last-nights-us-midterm-elections",
+      "source": "PC Gamer",
+      "published_at": "2026-11-04T21:10:10+00:00",
+      "collected_at": "2026-11-05T14:49:57+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Voters across the country opted for nearly every local ballot measure that would curb the rate of data center expansion.",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "4d6181a5eb92ccf784e1",
+      "title": "French game union accuses Microsoft of 'sabotaging' Blade and then using the fallout to justify closing Arkane",
+      "url": "https://www.pcgamer.com/gaming-industry/french-game-union-accuses-microsoft-of-sabotaging-blade-and-then-using-the-fallout-to-justify-closing-arkane",
+      "source": "PC Gamer",
+      "published_at": "2026-11-04T20:51:28+00:00",
+      "collected_at": "2026-11-05T14:49:57+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "The STJV union says Microsoft imposed hiring freezes at Arkane that resulted in delays and additional expenses, which it then cited as reasons for shutting it down.",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "1edcb9a857f079d16a73",
+      "title": "Former Halo composer Marty O'Donnell loses election, then gets absolutely bodied by his opponent: 'The fight is finished'",
+      "url": "https://www.pcgamer.com/games/former-halo-composer-marty-odonnell-loses-election-then-gets-absolutely-bodied-by-his-opponent-the-fight-is-finished",
+      "source": "PC Gamer",
+      "published_at": "2026-11-04T19:21:48+00:00",
+      "collected_at": "2026-11-05T14:49:57+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Susie Lee has clearly been waiting for this moment.",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "708437aec5313ce87d28",
+      "title": "Update Notice",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880480481",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-04T18:55:51+00:00",
+      "collected_at": "2026-11-05T14:49:53+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Here are the optimizations and fixes included in this update:Improved visual presentation and staging effects. Optimized the text log (history) display.Enabled saving and loading at choice prompts.Removed several unused hotkeys.Fixed an issue where background transition animations were missing in certain scenes.Disabled unnecessary debug entries, system text-to-speech (TTS), and accessibility menus.",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "323e9c0ea1228ff1ca13",
+      "title": "Stellar Nursery is out now",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880480422",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-04T18:41:32+00:00",
+      "collected_at": "2026-11-05T14:49:55+08:00",
+      "game_ids": [
+        "steam-5046850"
+      ],
+      "category": "industry",
+      "summary": "The star went out a hundred thousand years ago. P.O.R.T.I.A. kept the system anyway, and today you can light it again.Stellar Nursery is out now on Steam for Windows and Apple silicon Macs.Pick the star's color, one of four, and light it. Then wake the nine planets and the asteroid belt, one world at a time. On Earth, you name the first city, and the world starts keeping its own record. There are no timers: close it, and she counts the hours.Played the demo? Your progress carries into the full g",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "ee9208f8ed65123eea56",
+      "title": "I am back modding GTA 5 and being chased by a billion furious, armed cougars",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-am-back-modding-gta-5-and-being-chased-by-a-billion-furious-armed-cougars",
+      "source": "PC Gamer",
+      "published_at": "2026-11-04T18:00:00+00:00",
+      "collected_at": "2026-11-05T14:49:57+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "I missed this.",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "f8418e36594cb5000316",
+      "title": "Meg’s Monster coming to PS5 on March 1, 2027",
+      "url": "https://www.gematsu.com/2026/11/megs-monster-coming-to-ps5-on-march-1-2027",
+      "source": "Gematsu",
+      "published_at": "2026-11-04T17:45:31+00:00",
+      "collected_at": "2026-11-05T14:49:56+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Odencat will release a PlayStation 5 version of RPG adventure game Meg&#8217;s Monster on March &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "cd7dcdc4671c2288046a",
+      "title": "New Blood CEO would rather shut down the boomer shooter studio than sell out: 'In 20 years, we're done. I'm gonna say goodbye, shut it down'",
+      "url": "https://www.pcgamer.com/games/fps/new-blood-ceo-would-rather-shut-down-the-boomer-shooter-studio-than-sell-out-in-20-years-were-done-im-gonna-say-goodbye-shut-it-down",
+      "source": "PC Gamer",
+      "published_at": "2026-11-04T17:28:16+00:00",
+      "collected_at": "2026-11-05T14:49:57+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "\"I want us to have a happy ending. I want us to go out on our terms.\"",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
     {
       "id": "fbf94e0411d6eaea0c82",
       "title": "Nexus Mods takes the Valve approach to AI-generated content: No outright bans but mandatory disclosures",
@@ -16,6 +322,25 @@
       "summary": "And it says it already knows not everyone will play nice.",
       "verification_status": "reported",
       "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "ea847bb120d8342e1996",
+      "title": "God of War Laufey delayed to May 20, 2027",
+      "url": "https://www.gematsu.com/2026/11/god-of-war-laufey-delayed-to-may-20-2027",
+      "source": "Gematsu",
+      "published_at": "2026-11-04T17:05:55+00:00",
+      "collected_at": "2026-11-05T14:49:56+08:00",
+      "game_ids": [],
+      "category": "delay",
+      "summary": "Publisher Sony Interactive Entertainment and developer Santa Monica Studio have delayed God of War Laufey &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
       "limitations": [
         "仅使用公开订阅摘要，未存储网页全文"
       ],
@@ -138,6 +463,25 @@
       "summary_language": null
     },
     {
+      "id": "8af1934a30b33fc6f2c1",
+      "title": "Pokemon Pokopia DLC ‘Expansion Pass Part 2: Dazzling Decorations’ launches December 9",
+      "url": "https://www.gematsu.com/2026/11/pokemon-pokopia-dlc-expansion-pass-part-2-dazzling-decorations-launches-december-9",
+      "source": "Gematsu",
+      "published_at": "2026-11-04T14:05:20+00:00",
+      "collected_at": "2026-11-05T14:49:56+08:00",
+      "game_ids": [],
+      "category": "release",
+      "summary": "Cozy life simulation game Pokemon Pokopia paid downloadable content &#8220;Expansion Pass Part 2: Dazzling Decorations&#8221; &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "436501c7f96881c6f4d4",
       "title": "Bringing Jin Sakai back to life for Ghost of Yōtei: Most Wanted",
       "url": "https://blog.playstation.com/2026/11/04/bringing-jin-sakai-back-to-life-for-ghost-of-yotei-most-wanted",
@@ -248,6 +592,25 @@
         "仅使用公开订阅摘要，未存储网页全文"
       ],
       "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "49a07880e49fb002da08",
+      "title": "English Localization Update",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880477754",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-04T05:01:35+00:00",
+      "collected_at": "2026-11-05T14:49:51+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "We’re currently working on the English translation and expect it to be ready by the end of this week.Thank you for your patience!",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
       "summary_status": "source_excerpt",
       "summary_language": null
     },
@@ -3118,6 +3481,27 @@
       "summary_language": null
     },
     {
+      "id": "3d0d28546fe668d31979",
+      "title": "Watch Stellar Nursery",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235468",
+      "source": "Steam 官方公告",
+      "published_at": "2026-10-29T16:26:09+00:00",
+      "collected_at": "2026-11-05T14:49:55+08:00",
+      "game_ids": [
+        "steam-5046850"
+      ],
+      "category": "industry",
+      "summary": "This is a loop of real play recorded from the full game of Stellar Nursery, with the game's own music. Light a dead star again and bring the solar system back to life, with P.O.R.T.I.A., the caretaker who kept it through a hundred thousand dark years.Stellar Nursery is out now on Steam. Played the demo? Your progress carries into the full game (same computer).",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "072cdfabf0dbbcb1a434",
       "title": "Virtua Fighter Crossroads adds Lionel Rafale",
       "url": "https://www.gematsu.com/2026/10/virtua-fighter-crossroads-adds-lionel-rafale",
@@ -3599,6 +3983,27 @@
       "summary_language": null
     },
     {
+      "id": "e871f995265d0d13fe37",
+      "title": "Stellar Nursery comes out November 4",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114043179",
+      "source": "Steam 官方公告",
+      "published_at": "2026-10-25T23:12:21+00:00",
+      "collected_at": "2026-11-05T14:49:55+08:00",
+      "game_ids": [
+        "steam-5046850"
+      ],
+      "category": "industry",
+      "summary": "Stellar Nursery comes out on Steam on November 4, 2026, for Windows and Apple silicon Macs.You light a dead star again and bring nine planets and the asteroid belt back toward life, with P.O.R.T.I.A., the caretaker who kept the dark solar system for a hundred thousand years.Worlds that rememberName the first city when its lights come on. Watch a family through the generations, and see each world's history in its land.Real skiesAuroras, blue sunsets on Mars and Saturn's hexagon, each true to life",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "6b5bd435d95f77086ddf",
       "title": "Play Incremental Traffic for free",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114041688",
@@ -3610,6 +4015,25 @@
       ],
       "category": "industry",
       "summary": "Hello,if you are reading this you are probably one of the 12 people visiting this store page.I'd like to get some pre-release feedback for Incremental Traffic. What works well, what should be changed, what do you wish for?Update: I gave out plenty more keys in the comments, but release is in some hours so no more keys for now. Thank you for all your excitement, that is great to see!To honor your early interest and in the hope of luring you into giving feedback, i'll just share a bunch of keys.CG",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "b42837aa13a25a256e84",
+      "title": "Launch week: a clearer demo, new sound, and a fact check",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114040226",
+      "source": "Steam 官方公告",
+      "published_at": "2026-10-24T17:28:53+00:00",
+      "collected_at": "2026-11-05T14:49:55+08:00",
+      "game_ids": [],
+      "category": "demo",
+      "summary": "Stellar Nursery comes out on Wednesday, November 4, at 10 AM Pacific. Here is everything that changed on the way there: the demo got clearer because a streamer told us where it was confusing, the whole game got new sound, its skies came alive, and we checked every real fact in it against NASA. You asked, we built it (in the demo now) This week a Twitch streamer played the whole demo and told us, honestly, where it got confusing: what clicking the star does, and what owning 20 of an upgrade reall",
       "verification_status": "verified",
       "credibility_score": 95,
       "limitations": [
@@ -3882,6 +4306,27 @@
       ],
       "category": "release",
       "summary": "Hello Folks!The game is scheduled to be released on 04.11.2026 and i am really excited! I am finishing up the levels, with a planed total of 64 unique and challenging levels which will take around 3 to 6 hours to complete in total.What’s more, the Steam Next Fest is taking place next week, and Circuit Pulse will be taking part. I have updated the Demo so now is the best time to try the Game before the final Release.I hope you will have fun with it! I you have feedback or something else to say, f",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "2577fdd6bd505ff55f52",
+      "title": "Living Worlds: a whole new Stellar Nursery",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706684498",
+      "source": "Steam 官方公告",
+      "published_at": "2026-10-17T12:49:31+00:00",
+      "collected_at": "2026-11-05T14:49:55+08:00",
+      "game_ids": [
+        "steam-5046850"
+      ],
+      "category": "industry",
+      "summary": "If the last Stellar Nursery you saw was our September demo, you saw a different game. Since then we have rebuilt nearly all of it: how it looks, how you get around, what the worlds do, and what you hear. The free demo has the new version today, in time for Steam Next Fest, October 19 to 26. P.O.R.T.I.A.'s voice in the new trailer is mine. I recorded it myself. A new lookThe busy panels are gone. The station console, the tape deck and the stream of messages that crowded the edges of the screen ha",
       "verification_status": "verified",
       "credibility_score": 95,
       "limitations": [
@@ -4278,6 +4723,25 @@
       "summary_language": null
     },
     {
+      "id": "92003f1cebe598c27353",
+      "title": "Demo v0.3: less at once, and a lot better to look at",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690736",
+      "source": "Steam 官方公告",
+      "published_at": "2026-09-10T01:05:09+00:00",
+      "collected_at": "2026-11-05T14:49:55+08:00",
+      "game_ids": [],
+      "category": "demo",
+      "summary": "The clearest thing people told us about the demo was that there was too much on screen too early. A station console, a tape deck, a puzzle shelf and a panel of systems, all at once, before you had lit anything. So the demo has been rebuilt around the first hour. THE DEMO, UPDATED TODAYAll of this is playable right now, free. The console introduces itself one piece at a timeA new save no longer opens with every system out. Each one arrives the first time it means something. The radio turns up whe",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "a723736af3aef8c824e9",
       "title": "Playtest Ledger: Numbers, Lessons and What's Next",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690182",
@@ -4287,6 +4751,44 @@
       "game_ids": [],
       "category": "industry",
       "summary": "Hey Shopkeepers, It’s been a month since we announced Probably Stolen and opened the Playtest, and thanks to all of your reports, feedback, surveys filled and watching you play the game on Discord, we’d like to share what we’ve captured from your thoughts so far and the playtest statistics!Counting the Contraband: The Playtest Numbers: What you've told us:We’ve found that you've been loving the depth Probably Stolen has to offer and want more of pretty much everything: more unique customers, mor",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "c659cc666fbe58781e77",
+      "title": "Demo v0.2.3: Mac frame rate fixed, and a gentler opening",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440886",
+      "source": "Steam 官方公告",
+      "published_at": "2026-09-02T16:08:46+00:00",
+      "collected_at": "2026-11-05T14:49:55+08:00",
+      "game_ids": [],
+      "category": "demo",
+      "summary": "Two days after the big one, a patch. Most of it came from watching people play the last build. Mac players: please try again If you played the demo on a Mac through Steam this past week, it ran at about 20 frames per second, and that was our bug, not your machine. The Steam overlay helper we ship for Windows was also running on Mac, where the overlay has never worked, and it was costing more than half the frame rate. It is off on Mac now. On the same MacBook the demo went from 22 fps to 165. If ",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "93ca71989a550f8f1730",
+      "title": "Demo v0.2: a new opening, worlds lit by their star, and a Windows fix",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814438810",
+      "source": "Steam 官方公告",
+      "published_at": "2026-09-01T23:36:25+00:00",
+      "collected_at": "2026-11-05T14:49:55+08:00",
+      "game_ids": [],
+      "category": "demo",
+      "summary": "First demo update since August 20, and it is a big one. Here is everything that changed. The opening The game now opens on a Portia Plays studio card, then the title emerges out of black over a living star field. Any click or key skips ahead. First-time players skip the card and go straight into PORTIA's boot sequence. Boot lines animate in properly, and skipping the boot fades instead of cutting. Continue only appears when there is actually a save to continue. Light The star has always been on ",
       "verification_status": "verified",
       "credibility_score": 95,
       "limitations": [
@@ -4335,6 +4837,25 @@
       "summary_language": null
     },
     {
+      "id": "803e680cc432525237f8",
+      "title": "The demo is live",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951298438",
+      "source": "Steam 官方公告",
+      "published_at": "2026-08-27T00:13:05+00:00",
+      "collected_at": "2026-11-05T14:49:55+08:00",
+      "game_ids": [],
+      "category": "demo",
+      "summary": "The demo is liveYou can play Stellar Nursery right now, free, on this page.The demo runs from a dead solar system through the first Reignite, which is somewhere around two hours depending on how much you poke at things. Everything past that point is in the full game, and the demo will show you where it stops rather than pretending it was never there.What it is: the sun went out a long time ago and the worlds emptied. You relight the star, then go world by world, seeding life onto dead rock and w",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "f7f9bb49d5ef95e13528",
       "title": "Gridfire Update",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228674502",
@@ -4346,6 +4867,63 @@
       ],
       "category": "industry",
       "summary": "GridfireFly your ship with your voice Decibel Drive is a new optional way to play Gridfire: you control your ship by making noises into your microphone. Trill to fire the engine and boost. Say \"pew\" to shoot — up to three shots per breath. Hum like an ambulance siren to heal yourself. Shout to spend your overcharge. It is exactly as ridiculous as it sounds, and it turns out to be a genuinely different game. A calibration wizard tunes it to your own voice in about a minute, and you can retry any ",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "e28188b32514226e3922",
+      "title": "Cosmetic Layers",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228667290",
+      "source": "Steam 官方公告",
+      "published_at": "2026-08-21T01:12:34+00:00",
+      "collected_at": "2026-11-05T14:49:55+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Idle games have a reputation, and we understood it going in. Numbers go up, you close the tab. We built one anyway, because the part we actually wanted to make was the part nobody expects to find. Here is a full accounting of one of those layers: the 122 ways you can change how Stellar Nursery looks.Planet themes 58A theme here is not a skin on one planet. It is a recipe, and one purchase dresses every body you own: the planets, their moons, and the sun itself. Equip Stained Glass and the whole ",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "0dca112b22b90bd4d7b1",
+      "title": "The Five Mini Games Inside the Idle Game",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228667286",
+      "source": "Steam 官方公告",
+      "published_at": "2026-08-21T01:09:28+00:00",
+      "collected_at": "2026-11-05T14:49:55+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Someone asked whether the \"Deep Invest\" button next to a quick action was just a bigger version of the same thing. It is not. Every deep action in the Nurture console opens its own real minigame, and until now the only way to know that was to click one yourself. So here are all five.↑ Seed Life, on EarthSeed Life is the only one-time action in the whole console. Drag four glowing seeds out of the dark and onto the waiting planet before they drift past it. Get all four planted and Earth ignites f",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "b910c44991a30f8cc797",
+      "title": "All about the UI",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228667261",
+      "source": "Steam 官方公告",
+      "published_at": "2026-08-21T00:54:39+00:00",
+      "collected_at": "2026-11-05T14:49:55+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Every panel in Stellar Nursery is custom. No UI framework, no template. This is a close look at the console.The tape deck is a real tape deck. A cassette with its own handwritten label, spinning reels, a live VU meter, EQ bars, and bass and treble knobs that answer when you turn them.On PORTIA's desk there is a harmonograph that draws Lissajous figures from your solar system's actual orbital resonances, a prime spiral with Euler's polynomial picked out in gold, a double pendulum, and her tapping",
       "verification_status": "verified",
       "credibility_score": 95,
       "limitations": [
@@ -6280,7 +6858,7 @@
       "steam_display_release_date": "2024-08-19",
       "release_date_precision": "day",
       "release_source": "https://store.steampowered.com/app/2358720/",
-      "release_checked_at": "2026-11-05T01:23:44+08:00",
+      "release_checked_at": "2026-11-05T14:49:41+08:00",
       "release_coming_soon": false,
       "heat_evidence": {
         "review_count": null,
@@ -6672,7 +7250,7 @@
       "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
       "investment_relation": "无明确关联",
       "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-      "discovered_at": "2026-11-05T01:23:45+08:00",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
       "heat_evidence": {
         "review_count": null,
         "positive_ratio": null,
@@ -6708,7 +7286,7 @@
       "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
       "investment_relation": "无明确关联",
       "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-      "discovered_at": "2026-11-05T01:23:45+08:00",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
       "heat_evidence": {
         "review_count": null,
         "positive_ratio": null,
@@ -6744,7 +7322,7 @@
       "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
       "investment_relation": "无明确关联",
       "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-      "discovered_at": "2026-11-05T01:23:45+08:00",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
       "heat_evidence": {
         "review_count": null,
         "positive_ratio": null,
@@ -6816,7 +7394,7 @@
       "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
       "investment_relation": "无明确关联",
       "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-      "discovered_at": "2026-11-05T01:23:45+08:00",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
       "release_date_raw": "2025 年 3 月 4 日",
       "steam_display_release_date": "2025-03-04",
       "release_date_precision": "day",
@@ -6900,7 +7478,7 @@
       "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
       "investment_relation": "无明确关联",
       "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-      "discovered_at": "2026-11-05T01:23:45+08:00",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
       "release_date_raw": "2018 年 11 月 16 日",
       "steam_display_release_date": "2018-11-16",
       "release_date_precision": "day",
@@ -7878,7 +8456,7 @@
       "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
       "investment_relation": "无明确关联",
       "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-      "discovered_at": "2026-11-05T01:23:45+08:00",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
       "heat_evidence": {
         "review_count": null,
         "positive_ratio": null,
@@ -9210,7 +9788,7 @@
       "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
       "investment_relation": "无明确关联",
       "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-      "discovered_at": "2026-11-05T01:23:45+08:00",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
       "heat_evidence": {
         "review_count": null,
         "positive_ratio": null,
@@ -9309,8 +9887,8 @@
       "aliases": [
         "罪恶海岸"
       ],
-      "developer": null,
-      "publisher": null,
+      "developer": "NEON VICE",
+      "publisher": "NEON VICE",
       "official_url": "https://store.steampowered.com/app/5500000/",
       "steam_app_id": 5500000,
       "heat_grade": "B",
@@ -9337,7 +9915,13 @@
           "review_count",
           "media_coverage"
         ]
-      }
+      },
+      "release_date_raw": "2026 年 11 月 3 日",
+      "steam_display_release_date": "2026-11-03",
+      "release_date_precision": "day",
+      "release_source": "https://store.steampowered.com/app/5500000/",
+      "release_checked_at": "2026-11-05T14:49:41+08:00",
+      "release_coming_soon": false
     },
     {
       "id": "steam-5111890",
@@ -9345,8 +9929,8 @@
       "aliases": [
         "泣魂"
       ],
-      "developer": null,
-      "publisher": null,
+      "developer": "灵境研究",
+      "publisher": "灵境研究",
       "official_url": "https://store.steampowered.com/app/5111890/",
       "steam_app_id": 5111890,
       "heat_grade": "B",
@@ -9373,7 +9957,13 @@
           "review_count",
           "media_coverage"
         ]
-      }
+      },
+      "release_date_raw": "2026 年 11 月 3 日",
+      "steam_display_release_date": "2026-11-03",
+      "release_date_precision": "day",
+      "release_source": "https://store.steampowered.com/app/5111890/",
+      "release_checked_at": "2026-11-05T14:49:41+08:00",
+      "release_coming_soon": false
     },
     {
       "id": "steam-5465990",
@@ -9381,8 +9971,8 @@
       "aliases": [
         "A Cat Lived Here"
       ],
-      "developer": null,
-      "publisher": null,
+      "developer": "Hayan Ryu",
+      "publisher": "Hayan Ryu",
       "official_url": "https://store.steampowered.com/app/5465990/",
       "steam_app_id": 5465990,
       "heat_grade": "B",
@@ -9409,7 +9999,13 @@
           "review_count",
           "media_coverage"
         ]
-      }
+      },
+      "release_date_raw": "2026 年 11 月 3 日",
+      "steam_display_release_date": "2026-11-03",
+      "release_date_precision": "day",
+      "release_source": "https://store.steampowered.com/app/5465990/",
+      "release_checked_at": "2026-11-05T14:49:41+08:00",
+      "release_coming_soon": false
     },
     {
       "id": "steam-5000980",
@@ -9417,8 +10013,8 @@
       "aliases": [
         "Gunship Incremental"
       ],
-      "developer": null,
-      "publisher": null,
+      "developer": "StrongArm Softworks",
+      "publisher": "StrongArm Softworks",
       "official_url": "https://store.steampowered.com/app/5000980/",
       "steam_app_id": 5000980,
       "heat_grade": "B",
@@ -9445,7 +10041,13 @@
           "review_count",
           "media_coverage"
         ]
-      }
+      },
+      "release_date_raw": "2026 年 11 月 3 日",
+      "steam_display_release_date": "2026-11-03",
+      "release_date_precision": "day",
+      "release_source": "https://store.steampowered.com/app/5000980/",
+      "release_checked_at": "2026-11-05T14:49:41+08:00",
+      "release_coming_soon": false
     },
     {
       "id": "steam-5416440",
@@ -9453,8 +10055,8 @@
       "aliases": [
         "The Last Debugger"
       ],
-      "developer": null,
-      "publisher": null,
+      "developer": "pyrus",
+      "publisher": "pyrus",
       "official_url": "https://store.steampowered.com/app/5416440/",
       "steam_app_id": 5416440,
       "heat_grade": "B",
@@ -9481,7 +10083,13 @@
           "review_count",
           "media_coverage"
         ]
-      }
+      },
+      "release_date_raw": "2026 年 11 月 3 日",
+      "steam_display_release_date": "2026-11-03",
+      "release_date_precision": "day",
+      "release_source": "https://store.steampowered.com/app/5416440/",
+      "release_checked_at": "2026-11-05T14:49:41+08:00",
+      "release_coming_soon": false
     },
     {
       "id": "steam-4286110",
@@ -9489,8 +10097,8 @@
       "aliases": [
         "妹调教日记"
       ],
-      "developer": null,
-      "publisher": null,
+      "developer": "NANACAN",
+      "publisher": "TamaMako Gaming",
       "official_url": "https://store.steampowered.com/app/4286110/",
       "steam_app_id": 4286110,
       "heat_grade": "B",
@@ -9517,7 +10125,13 @@
           "review_count",
           "media_coverage"
         ]
-      }
+      },
+      "release_date_raw": "2026 年 11 月 3 日",
+      "steam_display_release_date": "2026-11-03",
+      "release_date_precision": "day",
+      "release_source": "https://store.steampowered.com/app/4286110/",
+      "release_checked_at": "2026-11-05T14:49:41+08:00",
+      "release_coming_soon": false
     },
     {
       "id": "steam-5046850",
@@ -9525,8 +10139,8 @@
       "aliases": [
         "Stellar Nursery"
       ],
-      "developer": null,
-      "publisher": null,
+      "developer": "Portia Plays",
+      "publisher": "Portias Publishing LLC",
       "official_url": "https://store.steampowered.com/app/5046850/",
       "steam_app_id": 5046850,
       "heat_grade": "B",
@@ -9553,7 +10167,13 @@
           "review_count",
           "media_coverage"
         ]
-      }
+      },
+      "release_date_raw": "2026 年 11 月 4 日",
+      "steam_display_release_date": "2026-11-04",
+      "release_date_precision": "day",
+      "release_source": "https://store.steampowered.com/app/5046850/",
+      "release_checked_at": "2026-11-05T14:49:41+08:00",
+      "release_coming_soon": false
     },
     {
       "id": "steam-5486290",
@@ -10081,6 +10701,618 @@
       "release_source": "https://store.steampowered.com/app/5451030/",
       "release_checked_at": "2026-11-05T01:23:44+08:00",
       "release_coming_soon": false,
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5402190",
+      "name": "Digging Up Together",
+      "aliases": [
+        "Digging Up Together"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5402190/",
+      "steam_app_id": 5402190,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-3810240",
+      "name": "In Full Bloom",
+      "aliases": [
+        "In Full Bloom"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/3810240/",
+      "steam_app_id": 3810240,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-4908020",
+      "name": "Love Joy Happiness",
+      "aliases": [
+        "Love Joy Happiness"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/4908020/",
+      "steam_app_id": 4908020,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-4951310",
+      "name": "FLIP OVER",
+      "aliases": [
+        "FLIP OVER"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/4951310/",
+      "steam_app_id": 4951310,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5380560",
+      "name": "False Feed",
+      "aliases": [
+        "False Feed"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5380560/",
+      "steam_app_id": 5380560,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5337120",
+      "name": "Monster Club League Manager",
+      "aliases": [
+        "Monster Club League Manager"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5337120/",
+      "steam_app_id": 5337120,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5042190",
+      "name": "Retail Nation: My Supermarket",
+      "aliases": [
+        "Retail Nation: My Supermarket"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5042190/",
+      "steam_app_id": 5042190,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-3573120",
+      "name": "SpellChain",
+      "aliases": [
+        "SpellChain"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/3573120/",
+      "steam_app_id": 3573120,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-34203",
+      "name": "Tomb Raider Definitive Survivor Trilogy",
+      "aliases": [
+        "Tomb Raider Definitive Survivor Trilogy"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/34203/",
+      "steam_app_id": 34203,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-4176000",
+      "name": "False Myth 2",
+      "aliases": [
+        "False Myth 2"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/4176000/",
+      "steam_app_id": 4176000,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-4446030",
+      "name": "Stellar Smash",
+      "aliases": [
+        "Stellar Smash"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/4446030/",
+      "steam_app_id": 4446030,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5052450",
+      "name": "挂币英雄",
+      "aliases": [
+        "挂币英雄"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5052450/",
+      "steam_app_id": 5052450,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-4139580",
+      "name": "崩落之国",
+      "aliases": [
+        "崩落之国"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/4139580/",
+      "steam_app_id": 4139580,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5456160",
+      "name": "Domino Together",
+      "aliases": [
+        "Domino Together"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5456160/",
+      "steam_app_id": 5456160,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5441360",
+      "name": "Localhost Hero",
+      "aliases": [
+        "Localhost Hero"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5441360/",
+      "steam_app_id": 5441360,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5372430",
+      "name": "Neuroflip",
+      "aliases": [
+        "Neuroflip"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5372430/",
+      "steam_app_id": 5372430,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-4135930",
+      "name": "斯凯尔的乌鸦",
+      "aliases": [
+        "斯凯尔的乌鸦"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/4135930/",
+      "steam_app_id": 4135930,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-05T14:49:41+08:00",
       "heat_evidence": {
         "review_count": null,
         "positive_ratio": null,
@@ -48200,7 +49432,7 @@
       ],
       "score_breakdown": [],
       "price_age_days": 1,
-      "recorded_at": "2026-11-05T01:23:44+08:00"
+      "recorded_at": "2026-11-05T14:49:41+08:00"
     },
     {
       "signal_date": "2026-11-05",
@@ -48228,7 +49460,7 @@
       ],
       "score_breakdown": [],
       "price_age_days": 1,
-      "recorded_at": "2026-11-05T01:23:44+08:00"
+      "recorded_at": "2026-11-05T14:49:41+08:00"
     },
     {
       "signal_date": "2026-11-05",
@@ -48256,12 +49488,12 @@
       ],
       "score_breakdown": [],
       "price_age_days": 1,
-      "recorded_at": "2026-11-05T01:23:44+08:00"
+      "recorded_at": "2026-11-05T14:49:41+08:00"
     }
   ],
   "report": {
     "date": "2026-11-05",
-    "generated_at": "2026-11-05T01:24:23+08:00",
+    "generated_at": "2026-11-05T14:50:19+08:00",
     "summary": "观察等待",
     "reasons": [
       "未同时满足已确认催化剂、趋势及受益关联条件",
@@ -48281,16 +49513,16 @@
   },
   "system": {
     "status": "partial_failure",
-    "generated_at": "2026-11-05T01:24:23+08:00",
+    "generated_at": "2026-11-05T14:50:19+08:00",
     "last_success_at": null,
-    "last_partial_success_at": "2026-11-05T01:24:23+08:00",
+    "last_partial_success_at": "2026-11-05T14:50:19+08:00",
     "source_status": [
       {
         "id": "steam_discovery",
         "name": "Steam 动态游戏发现",
         "status": "ok",
         "records": 24,
-        "checked_at": "2026-11-05T01:23:45+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "url": "https://store.steampowered.com/api/featuredcategories",
         "error": null
       },
@@ -48298,8 +49530,8 @@
         "id": "steam_news",
         "name": "Steam 官方公告",
         "status": "ok",
-        "checked_at": "2026-11-05T01:23:59+08:00",
-        "records": 27,
+        "checked_at": "2026-11-05T14:49:55+08:00",
+        "records": 29,
         "url": "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/",
         "error": null
       },
@@ -48307,7 +49539,7 @@
         "id": "playstation",
         "name": "PlayStation Blog",
         "status": "ok",
-        "checked_at": "2026-11-05T01:24:00+08:00",
+        "checked_at": "2026-11-05T14:49:56+08:00",
         "records": 10,
         "url": "https://blog.playstation.com/feed/",
         "error": null
@@ -48316,7 +49548,7 @@
         "id": "gematsu",
         "name": "Gematsu",
         "status": "ok",
-        "checked_at": "2026-11-05T01:24:00+08:00",
+        "checked_at": "2026-11-05T14:49:56+08:00",
         "records": 20,
         "url": "https://www.gematsu.com/feed",
         "error": null
@@ -48325,7 +49557,7 @@
         "id": "pcgamer",
         "name": "PC Gamer",
         "status": "ok",
-        "checked_at": "2026-11-05T01:24:01+08:00",
+        "checked_at": "2026-11-05T14:49:57+08:00",
         "records": 40,
         "url": "https://www.pcgamer.com/rss/",
         "error": null
@@ -48334,7 +49566,7 @@
         "id": "steam_details_2358720",
         "name": "黑神话：悟空 官方日期",
         "status": "ok",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 1,
         "url": "https://store.steampowered.com/app/2358720/",
         "error": null
@@ -48343,142 +49575,142 @@
         "id": "steam_reviews_2358720",
         "name": "黑神话：悟空 评价数据",
         "status": "error",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 0,
         "url": "https://store.steampowered.com/appreviews/2358720",
         "error": "JSONDecodeError"
       },
       {
-        "id": "steam_details_5045680",
-        "name": "全民对抗外星人 官方日期",
+        "id": "steam_details_5500000",
+        "name": "罪恶海岸 官方日期",
         "status": "ok",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 1,
-        "url": "https://store.steampowered.com/app/5045680/",
+        "url": "https://store.steampowered.com/app/5500000/",
         "error": null
       },
       {
-        "id": "steam_reviews_5045680",
-        "name": "全民对抗外星人 评价数据",
+        "id": "steam_reviews_5500000",
+        "name": "罪恶海岸 评价数据",
         "status": "error",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 0,
-        "url": "https://store.steampowered.com/appreviews/5045680",
+        "url": "https://store.steampowered.com/appreviews/5500000",
         "error": "JSONDecodeError"
       },
       {
-        "id": "steam_details_4718360",
-        "name": "Strike Wings 官方日期",
+        "id": "steam_details_5111890",
+        "name": "泣魂 官方日期",
         "status": "ok",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 1,
-        "url": "https://store.steampowered.com/app/4718360/",
+        "url": "https://store.steampowered.com/app/5111890/",
         "error": null
       },
       {
-        "id": "steam_reviews_4718360",
-        "name": "Strike Wings 评价数据",
+        "id": "steam_reviews_5111890",
+        "name": "泣魂 评价数据",
         "status": "error",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 0,
-        "url": "https://store.steampowered.com/appreviews/4718360",
+        "url": "https://store.steampowered.com/appreviews/5111890",
         "error": "JSONDecodeError"
       },
       {
-        "id": "steam_details_5344010",
-        "name": "Abyssal Moonlight-Chapter1 Digital Art Book 官方日期",
-        "status": "error",
-        "checked_at": "2026-11-05T01:23:44+08:00",
-        "records": 0,
-        "url": "https://store.steampowered.com/app/5344010/",
-        "error": "ValueError"
-      },
-      {
-        "id": "steam_reviews_5344010",
-        "name": "Abyssal Moonlight-Chapter1 Digital Art Book 评价数据",
-        "status": "error",
-        "checked_at": "2026-11-05T01:23:44+08:00",
-        "records": 0,
-        "url": "https://store.steampowered.com/appreviews/5344010",
-        "error": "JSONDecodeError"
-      },
-      {
-        "id": "steam_details_5389850",
-        "name": "Deskrot 官方日期",
+        "id": "steam_details_5465990",
+        "name": "A Cat Lived Here 官方日期",
         "status": "ok",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 1,
-        "url": "https://store.steampowered.com/app/5389850/",
+        "url": "https://store.steampowered.com/app/5465990/",
         "error": null
       },
       {
-        "id": "steam_reviews_5389850",
-        "name": "Deskrot 评价数据",
+        "id": "steam_reviews_5465990",
+        "name": "A Cat Lived Here 评价数据",
         "status": "error",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 0,
-        "url": "https://store.steampowered.com/appreviews/5389850",
+        "url": "https://store.steampowered.com/appreviews/5465990",
         "error": "JSONDecodeError"
       },
       {
-        "id": "steam_details_4941280",
-        "name": "House Of Echoes 官方日期",
+        "id": "steam_details_5000980",
+        "name": "Gunship Incremental 官方日期",
         "status": "ok",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 1,
-        "url": "https://store.steampowered.com/app/4941280/",
+        "url": "https://store.steampowered.com/app/5000980/",
         "error": null
       },
       {
-        "id": "steam_reviews_4941280",
-        "name": "House Of Echoes 评价数据",
+        "id": "steam_reviews_5000980",
+        "name": "Gunship Incremental 评价数据",
         "status": "error",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 0,
-        "url": "https://store.steampowered.com/appreviews/4941280",
+        "url": "https://store.steampowered.com/appreviews/5000980",
         "error": "JSONDecodeError"
       },
       {
-        "id": "steam_details_5456960",
-        "name": "Cleanup Gone Wrong 官方日期",
+        "id": "steam_details_5416440",
+        "name": "The Last Debugger 官方日期",
         "status": "ok",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 1,
-        "url": "https://store.steampowered.com/app/5456960/",
+        "url": "https://store.steampowered.com/app/5416440/",
         "error": null
       },
       {
-        "id": "steam_reviews_5456960",
-        "name": "Cleanup Gone Wrong 评价数据",
+        "id": "steam_reviews_5416440",
+        "name": "The Last Debugger 评价数据",
         "status": "error",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 0,
-        "url": "https://store.steampowered.com/appreviews/5456960",
+        "url": "https://store.steampowered.com/appreviews/5416440",
         "error": "JSONDecodeError"
       },
       {
-        "id": "steam_details_5451030",
-        "name": "Fast Taxi Driver 官方日期",
+        "id": "steam_details_4286110",
+        "name": "妹调教日记 官方日期",
         "status": "ok",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 1,
-        "url": "https://store.steampowered.com/app/5451030/",
+        "url": "https://store.steampowered.com/app/4286110/",
         "error": null
       },
       {
-        "id": "steam_reviews_5451030",
-        "name": "Fast Taxi Driver 评价数据",
+        "id": "steam_reviews_4286110",
+        "name": "妹调教日记 评价数据",
         "status": "error",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 0,
-        "url": "https://store.steampowered.com/appreviews/5451030",
+        "url": "https://store.steampowered.com/appreviews/4286110",
+        "error": "JSONDecodeError"
+      },
+      {
+        "id": "steam_details_5046850",
+        "name": "Stellar Nursery 官方日期",
+        "status": "ok",
+        "checked_at": "2026-11-05T14:49:41+08:00",
+        "records": 1,
+        "url": "https://store.steampowered.com/app/5046850/",
+        "error": null
+      },
+      {
+        "id": "steam_reviews_5046850",
+        "name": "Stellar Nursery 评价数据",
+        "status": "error",
+        "checked_at": "2026-11-05T14:49:41+08:00",
+        "records": 0,
+        "url": "https://store.steampowered.com/appreviews/5046850",
         "error": "JSONDecodeError"
       },
       {
         "id": "benchmark",
         "name": "沪深300市场对照",
         "status": "ok",
-        "checked_at": "2026-11-05T01:24:18+08:00",
+        "checked_at": "2026-11-05T14:50:14+08:00",
         "records": 928,
         "url": "https://quotes.sina.cn/cn/api/jsonp_v2.php/var%20_data=/CN_MarketDataService.getKLineData",
         "error": null
@@ -48487,7 +49719,7 @@
         "id": "holdings_516770",
         "name": "游戏ETF华泰柏瑞持仓",
         "status": "ok",
-        "checked_at": "2026-11-05T01:24:21+08:00",
+        "checked_at": "2026-11-05T14:50:18+08:00",
         "records": 15,
         "url": "https://fundf10.eastmoney.com/ccmx_516770.html",
         "error": null
@@ -48496,7 +49728,7 @@
         "id": "prices_516770",
         "name": "游戏ETF华泰柏瑞行情",
         "status": "ok",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 928,
         "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516770&klt=101&fqt=0&beg=20230101&end=20500101",
         "error": null
@@ -48505,7 +49737,7 @@
         "id": "holdings_159869",
         "name": "游戏ETF华夏持仓",
         "status": "ok",
-        "checked_at": "2026-11-05T01:24:22+08:00",
+        "checked_at": "2026-11-05T14:50:18+08:00",
         "records": 10,
         "url": "https://fundf10.eastmoney.com/ccmx_159869.html",
         "error": null
@@ -48514,7 +49746,7 @@
         "id": "prices_159869",
         "name": "游戏ETF华夏行情",
         "status": "ok",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 928,
         "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=0.159869&klt=101&fqt=0&beg=20230101&end=20500101",
         "error": null
@@ -48523,7 +49755,7 @@
         "id": "holdings_516010",
         "name": "游戏ETF国泰持仓",
         "status": "ok",
-        "checked_at": "2026-11-05T01:24:23+08:00",
+        "checked_at": "2026-11-05T14:50:19+08:00",
         "records": 28,
         "url": "https://fundf10.eastmoney.com/ccmx_516010.html",
         "error": null
@@ -48532,7 +49764,7 @@
         "id": "prices_516010",
         "name": "游戏ETF国泰行情",
         "status": "ok",
-        "checked_at": "2026-11-05T01:23:44+08:00",
+        "checked_at": "2026-11-05T14:49:41+08:00",
         "records": 928,
         "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516010&klt=101&fqt=0&beg=20230101&end=20500101",
         "error": null
@@ -48555,8 +49787,8 @@
     "latest_market_date": "2026-11-04",
     "market_calendar_status": "已核验 2026 年上交所休市表；跨年及缺失应完成交易日时暂停判断",
     "build_status": "production_build_passed",
-    "build_commit": "4fbcd4505e68c369a1d57389c937b3b5c617a40d",
-    "build_run_url": "https://github.com/zjjxwpstcnsm-gif/game516770/actions/runs/41877106906"
+    "build_commit": "7d53aa7a8074041ce6b43d66ed298d795a590a81",
+    "build_run_url": "https://github.com/zjjxwpstcnsm-gif/game516770/actions/runs/41982956848"
   },
   "event_studies": [
     {
