@@ -1,5 +1,216 @@
 [
   {
+    "id": "474838913c27e06ac48c",
+    "title": "Saudi Arabia owns EA, and according to a Reuters report, Unity is next",
+    "url": "https://www.pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next",
+    "source": "PC Gamer",
+    "published_at": "2026-11-06T05:27:40+00:00",
+    "collected_at": "2026-11-06T14:50:40+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Recent games made in Unity include Big Walk, Endless Legend 2, and Agent 64: Spies Never Die.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0b9eb846da408a7b9a9d",
+    "title": "Japanese Rural Life Adventure now available for PS4",
+    "url": "https://www.gematsu.com/2026/11/japanese-rural-life-adventure-now-available-for-ps4",
+    "source": "Gematsu",
+    "published_at": "2026-11-06T05:02:27+00:00",
+    "collected_at": "2026-11-06T14:50:39+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Publisher G-MODE Corporation and developer GAME START LLC have released a PlayStation 4 version of &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "94a53f9672b77640e993",
+    "title": "Richard Garriott on the state of the games industry: 'The bells and whistles are no longer what's important'",
+    "url": "https://www.pcgamer.com/gaming-industry/richard-garriott-on-the-state-of-the-games-industry-the-bells-and-whistles-are-no-longer-whats-important",
+    "source": "PC Gamer",
+    "published_at": "2026-11-06T03:17:27+00:00",
+    "collected_at": "2026-11-06T14:50:40+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "\"Pre-EA, we never cancelled a project.\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "28d50b8aed069d2d7b8f",
+    "title": "Gridfire Game Update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643343439",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-05T22:54:54+00:00",
+    "collected_at": "2026-11-06T14:50:25+08:00",
+    "game_ids": [
+      "steam-3787980"
+    ],
+    "category": "industry",
+    "summary": "Gridfire Update: Siege Frame, New Loadout ScreenNew frame: Siege- A heavy artillery ship and the slowest in the fleet, built to hit harder and take more punishment than anything else.- Flamethrower: a short-range stream of fire that sets enemies Burning. Burning stacks with poison, and the flame's damage builds up the longer you keep it on a target.- Cluster Mortar: a long-range shell that bursts into a spray of bomblets, each throwing shrapnel.- Carpet Bombing (overcharge): draw a path with you",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2103ee0863053e260198",
+    "title": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too",
+    "url": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too",
+    "source": "PC Gamer",
+    "published_at": "2026-11-05T22:32:22+00:00",
+    "collected_at": "2026-11-06T14:50:40+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "An updated version of the Xbox PC app available to Xbox Insiders loads up to 60% faster, and it's got some other nice improvements too.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "af9e1c31faa7d632a0a5",
+    "title": "Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'",
+    "url": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world",
+    "source": "PC Gamer",
+    "published_at": "2026-11-05T22:20:18+00:00",
+    "collected_at": "2026-11-06T14:50:40+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Two weeks after his uncharacteristically spicy comments on the demise of BioWare, Spector's anger clearly has not subsided.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "672776a5a5cc99af19ca",
+    "title": "Sam Altman is annoyed his DRAM comment was 'taken out of context'",
+    "url": "https://www.pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context",
+    "source": "PC Gamer",
+    "published_at": "2026-11-05T20:34:00+00:00",
+    "collected_at": "2026-11-06T14:50:40+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Him being annoyed has not made DRAM cheaper, however.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "67fcf78ba74504a3d183",
+    "title": "Nvidia, Micron, and other AI stocks take a dive after elections",
+    "url": "https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections",
+    "source": "PC Gamer",
+    "published_at": "2026-11-05T19:32:47+00:00",
+    "collected_at": "2026-11-06T14:50:40+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "No loud popping sounds yet, but an AI market correction appears to be underway.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "6b178fe931de0c7f61b6",
+    "title": "EA's releasing a truckload of classic games on Steam, and 7 of them are remasters",
+    "url": "https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters",
+    "source": "PC Gamer",
+    "published_at": "2026-11-05T18:30:00+00:00",
+    "collected_at": "2026-11-06T14:50:40+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The remasters are also coming to GOG (which already had the re-released originals).",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "1e0526373186cd11dcfc",
+    "title": "Hard West II for PS5, Xbox Series launches November 10",
+    "url": "https://www.gematsu.com/2026/11/hard-west-ii-for-ps5-xbox-series-launches-november-10",
+    "source": "Gematsu",
+    "published_at": "2026-11-05T18:27:50+00:00",
+    "collected_at": "2026-11-06T14:50:39+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Wild West-themed turn-based strategy game sequel Hard West II will launch for PlayStation 5 and &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "c0b053819fc72acf8429",
+    "title": "I have added parkour to GTA 5, and also accidentally turned on like 20 mods I forgot I'd installed",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-added-parkour-to-gta-5-and-also-accidentally-turned-on-like-20-mods-i-forgot-id-installed",
+    "source": "PC Gamer",
+    "published_at": "2026-11-05T18:00:00+00:00",
+    "collected_at": "2026-11-06T14:50:40+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Oh well.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "a45192116813ebc99a76",
     "title": "Rockstar drops a pile of new GTA 6 launch screenshots featuring dancers, combat dogs, and so many pores",
     "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-drops-a-pile-of-new-gta-6-launch-screenshots-featuring-dancers-combat-dogs-and-so-many-pores",
@@ -136,7 +347,7 @@
   },
   {
     "id": "fa3855b7c8d745f8d8dd",
-    "title": "Assassin’s Creed Valhalla: new update brings New Game+, upgraded PSSR support for PS5 Pro today",
+    "title": "Assassin’s Creed Valhalla: new update brings New Game Plus, upgraded PSSR support for PS5 Pro today",
     "url": "https://blog.playstation.com/2026/11/05/assassins-creed-valhalla-new-update-brings-new-game-upgraded-pssr-support-for-ps5-pro-today",
     "source": "PlayStation Blog",
     "published_at": "2026-11-05T14:00:38+00:00",
@@ -174,7 +385,7 @@
   },
   {
     "id": "d5ced8f3f273ae7cb1fb",
-    "title": "Famitsu Sales: 10/26/26 – 11/1/26",
+    "title": "Famitsu Sales: 10/26/26 – 11/1/26 [Update]",
     "url": "https://www.gematsu.com/2026/11/famitsu-sales-10-26-26-11-1-26",
     "source": "Gematsu",
     "published_at": "2026-11-05T13:06:18+00:00",
@@ -302,6 +513,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3429a0ed73e78e5a2ff5",
+    "title": "v1.0.2 Update Notes",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643340207",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-05T07:58:09+00:00",
+    "collected_at": "2026-11-06T14:50:34+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello, this is Flowdot! Here are the details of the v1.0.2 update. This update reworks the economy of Transfer Market Mode based on your feedback. Transfer Market Mode Players now base their salary demands on the going rate in their club's division. However, if another club is after a player, their demand rises to what that club is willing to pay. Promoted clubs receive a promotion grant for their first two seasons. Beating a relatively stronger team now wins you more fans, and losing to one cos",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -836,6 +1066,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "7e75afbcb21eab496be9",
+    "title": "v1.0.1 Update Notes",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880478885",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-04T12:06:01+00:00",
+    "collected_at": "2026-11-06T14:50:34+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello, this is Flowdot! Here's what's new in v1.0.1. Multiplayer Multiplayer now supports up to 8 players. Transfer Market Mode Loan deals in Transfer Market Mode now come with more detailed contract terms. You can now sell players even if it takes your roster below four. General Reworked the visual effects for the Missile and Phantom skills. Improved highlights so they focus on the moments that matter most. We'll keep making improvements based on your feedback. We're also working on a design ov",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
