@@ -1,5 +1,214 @@
 [
   {
+    "id": "531745a5785834e40f15",
+    "title": "Patch Notes 1.0.20261106.001",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643347953",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-07T00:43:22+00:00",
+    "collected_at": "2026-11-07T14:00:29+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Fixed a bug where online lobbies would some times fail to be created.Fixed a bug in the room “Lightbulb Moment” where the marble didn’t have enabled physics on first load.Fixed a bug in the room “Mind Your Elders” where the hidden achievement didn’t trigger on room replays.Fixed a bug during the quest “Quanty: Rebooted” where players were no longer able to pick up Quanty if they left the area in the middle of the quest.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e203868f5955af8a8d06",
+    "title": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December",
+    "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december",
+    "source": "PC Gamer",
+    "published_at": "2026-11-06T23:36:21+00:00",
+    "collected_at": "2026-11-07T14:00:30+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "The full release will feature new classes, finished campaign, a new league, and more.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "ca61f0339a06968c4f10",
+    "title": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours",
+    "source": "PC Gamer",
+    "published_at": "2026-11-06T23:11:50+00:00",
+    "collected_at": "2026-11-07T14:00:30+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Are we being trolled here?",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d7ae48f19290f79735c3",
+    "title": "The AI posting war is heating up: 'Please, leave me behind,' says artist who got into it with Epic CEO Tim Sweeney on X",
+    "url": "https://www.pcgamer.com/software/ai/the-ai-posting-war-is-heating-up-please-leave-me-behind-says-artist-who-got-into-it-with-epic-ceo-tim-sweeney-on-x",
+    "source": "PC Gamer",
+    "published_at": "2026-11-06T22:21:50+00:00",
+    "collected_at": "2026-11-07T14:00:30+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Two factions of gamers and game developers are at an impasse.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "7131797b535d285047a1",
+    "title": "Path of Exile 2 announces a second new class, the Shadow, for its December 1.0 release",
+    "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release",
+    "source": "PC Gamer",
+    "published_at": "2026-11-06T21:50:58+00:00",
+    "collected_at": "2026-11-07T14:00:30+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Two classes two furious.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "39e21723052f18fefd5f",
+    "title": "Underkeep is my favorite old-school dungeon crawler since Legend of Grimrock, and yes that includes Queen's Domain",
+    "url": "https://www.pcgamer.com/games/rpg/underkeep-is-my-favorite-old-school-dungeon-crawler-since-legend-of-grimrock-and-yes-that-includes-queens-domain",
+    "source": "PC Gamer",
+    "published_at": "2026-11-06T21:14:51+00:00",
+    "collected_at": "2026-11-07T14:00:30+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Queen's Domain might be the trendy game of the moment but for my money, the classic grid-based action of Underkeep is where it's at. (And yes, there's a demo.)",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "855d090e5a493c6978f4",
+    "title": "'It came out of nowhere. I was shocked and sad': He was the face of Hunt: Showdown for years, then Crytek laid him off",
+    "url": "https://www.pcgamer.com/games/fps/it-came-out-of-nowhere-i-was-shocked-and-sad-he-was-the-face-of-hunt-showdown-for-years-then-crytek-laid-him-off",
+    "source": "PC Gamer",
+    "published_at": "2026-11-06T21:06:01+00:00",
+    "collected_at": "2026-11-07T14:00:30+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Bence \"Beedyboy\" Hamos reflects on 8 years at Crytek helping build Hunt: Showdown's community.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "30043e2f6e222a683eda",
+    "title": "Hozy for PS5, Xbox Series launches November 9",
+    "url": "https://www.gematsu.com/2026/11/hozy-for-ps5-xbox-series-launches-november-9",
+    "source": "Gematsu",
+    "published_at": "2026-11-06T19:38:23+00:00",
+    "collected_at": "2026-11-07T14:00:30+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Cozy renovation and cleaning game Hozy will launch for PlayStation 5 and Xbox Series on &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "4444e5258094d5c3e23b",
+    "title": "It's hard to meet women when I keep teleporting all the time",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/its-hard-to-meet-women-when-i-keep-teleporting-all-the-time",
+    "source": "PC Gamer",
+    "published_at": "2026-11-06T18:00:00+00:00",
+    "collected_at": "2026-11-07T14:00:30+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "This is why there's a male loneliness epidemic.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b869fda836a6c22cdd87",
+    "title": "All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything",
+    "url": "https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything",
+    "source": "PC Gamer",
+    "published_at": "2026-11-06T17:31:29+00:00",
+    "collected_at": "2026-11-07T14:00:30+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Eeeeeeeeeeeeeep. Thankfully there's already a fix out.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0234fd23a415dc0c9b13",
+    "title": "Hozy brings calm, tactile home restoration to PS5 on November 9",
+    "url": "https://blog.playstation.com/2026/11/06/hozy-brings-calm-tactile-home-restoration-to-ps5-on-november-9",
+    "source": "PlayStation Blog",
+    "published_at": "2026-11-06T17:00:12+00:00",
+    "collected_at": "2026-11-07T14:00:30+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Imagine actually enjoying cleaning your house or ripping out old tiles. Unhinged, isn’t it? You put on your favourite music and open the windows to let the fresh air in. The dust disappears, the floor begins to shine with every sweep of the mop, and the rooms start to transform into cozy, welcoming spaces. There’s [&#8230;]",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "6611a75dcb8dd6299e76",
     "title": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says",
     "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says",
@@ -361,6 +570,25 @@
     "summary_language": null
   },
   {
+    "id": "3ab7e29b87390c0f270a",
+    "title": "Major Update: The Tarot Deck + Steam Leaderboards",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344094",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-06T03:38:24+00:00",
+    "collected_at": "2026-11-07T14:00:22+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Neuroflip just got its biggest update since launch: a whole new deck and world leaderboards on Steam. Tarot Deck Thirteen major arcana, from the Fool to the Sun, with their own wooden frame. The Tarot Deck has a run of its own, longer than the others (18 stages), an amber table and new music, Arcana Parlor. Win a run with the Creatures Deck to unlock it. Bosses The Magician: Every few seconds, the Magician lights up three face-down cards and swaps them around, like the cups trick. Keep your eyes",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "94a53f9672b77640e993",
     "title": "Richard Garriott on the state of the games industry: 'The bells and whistles are no longer what's important'",
     "url": "https://www.pcgamer.com/gaming-industry/richard-garriott-on-the-state-of-the-games-industry-the-bells-and-whistles-are-no-longer-whats-important",
@@ -435,6 +663,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9833e382640255446375",
+    "title": "Launch Day Hotfix Update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643343152",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-05T21:09:44+00:00",
+    "collected_at": "2026-11-07T14:00:29+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Thanks for joining us on our first school day! We’ve been monitoring bug reports, and made a few immediate hot fixes, based on the feedback so far:Fixed a bug where saving & exiting midway through the “Memory Leak” questline could permanently delete the brain/drain chemicals from the world. Your chemicals should now be safe!Fixed a similar bug during the “Rest in Paint” questline, where stencils/paints could be deleted from the world if you saved + quit midway thru the quest.Fixed dialogue with ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -530,6 +777,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "bb15cceab429ee1610b0",
+    "title": "Escape Academy 2: Back 2 School is Out Now!!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643342429",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-05T17:37:06+00:00",
+    "collected_at": "2026-11-07T14:00:29+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Escape Academy 2: Back 2 School is Out Now!! A new semester starts today! On behalf on Coin Crew Games and iam8bit Presents, we are thrilled to say that Escape Academy 2: Back 2 School is out now on Steam, Xbox Series X|S, and PlayStation 5. Escape Academy 2 Add-Ons! Escape Academy 2 Season Pass The Escape Academy 2 Season Pass includes two upcoming major expansions for Escape Academy 2: Back 2 School. Each expansion will include an all-new narrative set in the Escape Academy universe along with",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -1009,6 +1275,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a8047479b00ea6201428",
+    "title": "Scared Crow Is Out Now — 10% Off During Launch Week!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848557880481704",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-05T03:03:28+00:00",
+    "collected_at": "2026-11-07T14:00:23+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Hello, card battlers!Scared Crow is now available on Steam for $8.99 USD, with 10% off during launch week!Thank you to everyone who played the demo, joined us during Steam Next Fest, and shared your feedback. It’s time to bring your builds to the table!One card. Three sticker slots. What will you create?In Scared Crow, picking a card is just the beginning. Each card has three sticker slots, letting you customize its effects and discover new synergies.Double down on a favorite card, build around ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -5134,6 +5419,25 @@
     "summary_language": null
   },
   {
+    "id": "0c0427423f264cfe7132",
+    "title": "Scared Crow Launches November 5! Play the Free Demo During Steam Next Fest",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706693514",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-20T03:01:08+00:00",
+    "collected_at": "2026-11-07T14:00:23+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hello, deckbuilders!Scared Crow is taking part in Steam Next Fest! Download the free demo, take a seat at the table, and put your build to the test.We’re also excited to announce that Scared Crow launches on November 5 for US$8.99, with 10% off during launch week!It’s been over nine months since we released the Scared Crow demo on January 12, 2026. Since then, we’ve released multiple updates, reworking the UI, adjusting card and ability balance, and refining the tutorial. Our goal has been to ma",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "2f07cb7d08e517b07f28",
     "title": "Clicker Astro Planet 2 — Releases in 12 Days! Play the Demo Now",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692863",
@@ -5391,6 +5695,25 @@
     "summary_language": null
   },
   {
+    "id": "c0bb4a163c0d1651dcf2",
+    "title": "Demo Update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706683426",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-16T23:54:34+00:00",
+    "collected_at": "2026-11-07T14:00:29+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hey Escapists!We are full steam ahead towards release on November 5th. Mark it in your calendarAhead of launch we're pushing out an update to the demo. Below are the patch notes:* Performance Improvements. Large strides have been made on the performance front. If you've played the old demo and the performance hasn't been up to snuff, please give the new demo a whirl.* Localization updates and bug fixes. We were a bit mid-stream with the last batch of translations and localization QA so the old d",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "ff5c9be75772dbd70ef0",
     "title": "The RindTown Demo is OUT on Steam! + 3 difficulties, 30 languages",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706681580",
@@ -5438,6 +5761,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Hey everyone!Last time, we announced that the release would take place on Wednesday, 23 September… But there have been a few changes to the plans (totally the Homonculus fault by the way)! Be reassured, the new official release date is not far away: the launch is planned for November 3rd, so in less than a month! But why this change? There are 2 main reasons:We now have a publisher!We have time to polish and improve Corpus et Spiritus even more before launch!Our new publisher: FiresquidOur new p",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "457cb9c527ef1d81b583",
+    "title": "Escape Academy 2: Back 2 School is coming November 5th!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943806",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-13T12:00:09+00:00",
+    "collected_at": "2026-11-07T14:00:29+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Autumn is shaping up to be puzzle season because all the pieces are FALL-ing into place for Escape Academy 2: Back 2 School!We’re excited to announce that Escape Academy 2: Back 2 School will be launching November 5th on Steam! Get ready to jump into the fully explorable campus, tackle our new and improved (and possibly deadly) escape rooms, loads of fun side quests, brand new characters and, of course, getting quality time with… THE PURRFESSOR!And don’t forget to bring a friend along for the pu",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -5720,6 +6062,27 @@
     "summary_language": null
   },
   {
+    "id": "84a674c2ce391a247f08",
+    "title": "The AI Clicker demo is available now!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010493261",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-17T20:48:31+00:00",
+    "collected_at": "2026-11-07T14:00:27+08:00",
+    "game_ids": [
+      "steam-3476610"
+    ],
+    "category": "demo",
+    "summary": "The AI Clicker demo is available now! You can now play AI Clicker for free on Steam. Create your first artificial intelligence, collect Bits, improve its algorithms, and automate its growth. The demo includes the tutorial and the complete first progression loop, up to your first Prestige. Help us spread the word Play the demo, share it with your friends, and add the full game to your wishlist. Your feedback will help us improve AI Clicker before launch. Play the free demo The full game launches ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "e21f5a12d7678fc85f91",
     "title": "Food Devils is part of Steam's Party-Based RPG Fest! ⚔️✨",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702904",
@@ -5952,6 +6315,63 @@
     "summary_language": null
   },
   {
+    "id": "616e69310fe40b1efa97",
+    "title": "[Official Announcement] Scared Crow Teams Up with Flawless Gaming!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228670772",
+    "source": "Steam 官方公告",
+    "published_at": "2026-08-22T05:11:55+00:00",
+    "collected_at": "2026-11-07T14:00:23+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Hello everyone!We’ve got some huge news to share today: the strategy card rogue-lite game Scared Crow is officially joining the Flawless Gaming publishing family! We are also incredibly honored to participate in the Steam China Showcase 2026!🎮 Demo & Survey InfoThe free playable Demo is available now! You can access the feedback survey directly from the main menu in-game (or here). We can't wait to hear your honest feedback!Demo Content: Features 3 main bosses, with an estimated play time of aro",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "717fc2e7f4f07110f0dc",
+    "title": "Arts Campus | Devlog #19",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669949",
+    "source": "Steam 官方公告",
+    "published_at": "2026-08-21T20:00:55+00:00",
+    "collected_at": "2026-11-07T14:00:29+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "🔔WISHLIST ESCAPE ACADEMY 2🔔Hey there, Escapists! Today, we’re continuing our Campus Tour series (as I’ve dubbed it) with the Arts Campus!Welcome to the Arts Campus.The Arts Campus is inspired by Spanish architecture, painted stucco walls, terracotta tiles, iron balconies/rails, hand-painted signs, painted brick ground, and paint splash stains found everywhere. At the top of the hill is the Hall of Escapists & Workshop. Built along the steep hillside/ocean cliffside leading down to the quad, the ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a55b5de1c477a16e5d22",
+    "title": "Escape Academy is Steam’s Daily Deal & Escape Academy 2 Release Date Update!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669585",
+    "source": "Steam 官方公告",
+    "published_at": "2026-08-21T17:36:18+00:00",
+    "collected_at": "2026-11-07T14:00:29+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Escape Academy, the game that started it all, is up as today’s Steam Daily Deal with our BIGGEST discount ever at 85% off! Now is the perfect time to jump into the game and enjoy the original experience with friends who haven’t tried it yet to get ready for Escape Academy 2’s release! And speaking of that release we’ve had some internal puzzling talks and have decided to move Escape Academy 2’s release date to November to give the final push to launch as much polish and the best chance to reach ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "e28188b32514226e3922",
     "title": "Cosmetic Layers",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228667290",
@@ -6165,6 +6585,25 @@
     "summary_language": null
   },
   {
+    "id": "7be654d9287d3bc8d32e",
+    "title": "The Campus Gardens | Devlog #18",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314346087",
+    "source": "Steam 官方公告",
+    "published_at": "2026-08-07T20:00:36+00:00",
+    "collected_at": "2026-11-07T14:00:29+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "🔔WISHLIST ESCAPE ACADEMY 2🔔Hey there, Escapists! In a recent blog, we talked about Science Campus being “1 of 5” campuses. While the Campus Gardens isn’t an official campus in the traditional sense, we still would like to include it when talking about the campus areas, because just like The Quad, this scenic beauty shouldn’t be underestimated.Welcome to the Campus GardensThe Campus Gardens are a great place to go and relax, find some Red Herrings, get some extra credit quests done, and \\! 😉 So g",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "89a7036da8095a212369",
     "title": "Black Myth: Wukong — 30% Off Coming Soon",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314337994",
@@ -6214,6 +6653,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Bask in two weeks of highly profitable criminal activity in GTA Online, as summer crowds flock to Southern San Andreas and Cayo Perico in search of lucrative treasures across the asphalt jungle and the sun-soaked shores. Capitalize on doubled GTA$ payouts for your first weekly completion of both The Fleeca Heist and The Pacific Standard Heist — active for the first week of the GTA Online Summer Heist Event (July 30–August 5). On August 6, the Panther Statue returns to El Rubio’s vault in The Cay",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5abece8f3be80bf66f45",
+    "title": "Science Campus | Devlog #17",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357030603",
+    "source": "Steam 官方公告",
+    "published_at": "2026-07-24T20:00:09+00:00",
+    "collected_at": "2026-11-07T14:00:29+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "🔔WISHLIST ESCAPE ACADEMY 2🔔Hey Escapists!Today’s blog focuses on the broader campus as a whole, showing off some of the fun stuff we’re cooking up for the Science Campus, one of five major locations you’ll be able to explore in Escape Academy 2: Back 2 School.My apologies for the quality of this next photo. It seems our class pet, Nugget, got ahold of this one…more on her later!Meet: Von Bellini.Do you like experiments? Do you like a complete, total and utter disregard for safety from your profe",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -6321,6 +6779,25 @@
     "summary_language": null
   },
   {
+    "id": "2e2240f5abad3df7ec81",
+    "title": "Death Of An Artist | Devlog #16",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055358123",
+    "source": "Steam 官方公告",
+    "published_at": "2026-07-10T22:00:31+00:00",
+    "collected_at": "2026-11-07T14:00:29+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hey there, Escapists!We haven’t dove into any escape rooms in a while, so you might be wondering what some of the later escape rooms look like; Worry not, because today we’re going over…Death Of An Artist! A Narrative-Driven Escape RoomThis escape room is unlike anything else we’ve put in the game. This time around, you’ll follow a mini-arc within the Art Campus' own theater. But just as the play is about to begin, disaster strikes! The lead, Edie Quill, is nowhere to be found!(If you watched ou",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "f20dbfde0366a2edc7cb",
     "title": "The Kortz Center Heist, Coming to GTA Online July 14",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055356437",
@@ -6387,6 +6864,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Hey everyone, this update introduces a security change to Wallpaper Engine. In the next week, we will be permanently removing the \"Application\" wallpaper type from the public Steam Workshop. While this sounds drastic, it affects merely 0.5% of all wallpapers with actual user numbers being much lower than even that. The overwhelming majority of users never used any applications wallpapers at all, since they are hidden by default in the app. As part of this transition, we are currently cleaning up",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "fec0ba006a1547610211",
+    "title": "Just Here For The Zips | Devlog #15",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165555094",
+    "source": "Steam 官方公告",
+    "published_at": "2026-06-26T20:00:10+00:00",
+    "collected_at": "2026-11-07T14:00:29+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "🔔WISHLIST ESCAPE ACADEMY 2!🔔Hey there, Escapists! We promised a locomotion blog a long time ago that never got to see the light of day; but that’s for good reason. If you’ve been keeping up with our development, you know that campus is BIG. If you’re going to pick up some Herring and Milk from the Headmaster’s Tower and make it to your class in the Campus Gardens with Professor Bonilla on time, you’re gonna need something a little extra. Introducing: The Zipline!The zipline is your best friend. ",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -6553,6 +7049,25 @@
     "summary_language": null
   },
   {
+    "id": "be2f409a55b63cdd803f",
+    "title": "Escape Academy 2 - Demo NextFest Patch Notes | June 16 '26",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783575587",
+    "source": "Steam 官方公告",
+    "published_at": "2026-06-16T21:08:03+00:00",
+    "collected_at": "2026-11-07T14:00:29+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hey Escapists! In order to make the NextFest celebration as smooth as it can be, we’ve got some bug fixes coming to the Escape Academy 2: Back 2 School demo. Take a peek below: Fixed a bug where the walls of the bookstore were mysteriously absent.Fixed a bug causing Ralph Wrexler’s trophies to disappear from existence upon reloading a save.Fixed another bug where Ralph Wrexler would rearrange the correctly sorted trophies when you weren’t looking.The cafeteria doors now align properly when they ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "e9484946db7c6847fd08",
     "title": "Hotfix Deployed! Major FPS rate update! Addressing Your Feedback & Fixing Bugs",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783574518",
@@ -6581,6 +7096,25 @@
     "game_ids": [],
     "category": "demo",
     "summary": "What to expect in this demo:Get the Engine Running: Experience the core RV maintenance systems. You will need to repair and prepare your RV before you can even think about hitting the gas.Survive the Sands: Take your first drive into our procedurally generated desert environment. Resources are scarce, and the elements won't make it easy on you.The Core Simulation: Get a hands on feel for the survival and driving mechanics that form the heart of the full experience.We need your feedback! Since th",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e8091a2b017d1d622317",
+    "title": "Steam Next Fest: Escape Academy 2: Back 2 School Developer Live Stream!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783571774",
+    "source": "Steam 官方公告",
+    "published_at": "2026-06-15T17:59:54+00:00",
+    "collected_at": "2026-11-07T14:00:29+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Steam Next Fest Developer Live Steam - Now Live!! Join Coin Crew Games in Celebrating Steam Next Fest! Check out our Escape Academy 2: Back 2 School developer Live Stream and then play the new demo for yourself! Play the NEW Escape Academy 2 DEMO available now!This demo contains the entire FIRST CHAPTER of Escape Academy 2: Back 2 School. Enjoy a preview of this year’s upcoming curriculum right from the start of the game! In this NEW Demo you will: Buy a ticket and take a ride to the enigmatic E",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -6808,6 +7342,25 @@
     "summary_language": null
   },
   {
+    "id": "a4d78c615841e499bf49",
+    "title": "We're Updating Our Demo! | Thinky Direct & Cerebral Puzzle Showcase",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889016",
+    "source": "Steam 官方公告",
+    "published_at": "2026-05-28T17:48:03+00:00",
+    "collected_at": "2026-11-07T14:00:29+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "🔔WISHLIST ESCAPE ACADEMY 2!🔔Hey there Escapists! We don’t have a traditional devlog for you today, however, keep reading, because we have some exciting stuff coming your way regardless.We’re Updating Our Demo! 🤩You heard that right! We’ve been hard at work on Escape Academy 2: Back 2 School since we dropped our demo, and looking back, it’s time for a refresh. Play the NEW Escape Academy 2 DEMO, available NOW on Steam!This demo contains the entire FIRST CHAPTER of Escape Academy 2: Back 2 School.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "d6db64d70917107e8fc8",
     "title": "Wallpaper Engine 2.8 - Dynamic Model Generation & Text Rendering Improvements",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530888344",
@@ -6855,6 +7408,25 @@
     "game_ids": [],
     "category": "demo",
     "summary": "Hey Nomads,It’s been a while since our last update, but we’re finally here with some exciting news. We know we haven’t shared a Nomad Drive devlog in quite some time, but behind the scenes we’ve been working hard and making a lot of progress. The Nomad Drive: Official Gameplay Overview Trailer is now live on youtube, along with our newly updated Steam store page! If you enjoy the trailer, sharing it on YouTube with friends who might be interested in Nomad Drive would mean a lot to us and would r",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "f5072235e422fbff80f6",
+    "title": "Extra Extra (Credit), read all about it! | Devlog #14",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502816372",
+    "source": "Steam 官方公告",
+    "published_at": "2026-05-08T22:00:50+00:00",
+    "collected_at": "2026-11-07T14:00:29+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "🔔WISHLIST ESCAPE ACADEMY 2🔔Hey there, Escapists!Today we’re going a little off-curriculum with something we’re excited to tell you about: Extra Credit. If you’re a teacher’s pet, completionist, or just someone who loves going the extra mile, this blog post is for you!As you may know from our previous blog posts, we have two types of quest systems, which we’ve been referring to as “crit-path” (the main story) and another quest type: The semi-optional, semi-mandatory Extra Credit quest.Let’s get i",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -7021,6 +7593,120 @@
     "summary_language": null
   },
   {
+    "id": "7c7e4f25f224a8cc5e69",
+    "title": "1.25 demo daily update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746164877",
+    "source": "Steam 官方公告",
+    "published_at": "2026-01-25T06:08:53+00:00",
+    "collected_at": "2026-11-07T14:00:23+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Fix the shortcut-related bugs and add a new shortcut to open the discard pile.Make the range indicator a toggleable feature and fix bugs where it is misaligned or does not disappear in time.Add a toggleable feature to display stickers in battles, and fix bugs where they do not disappear at the end of battles, as well as virus-related issues.Introduce the new blue card \"Moss\" (thanks to the inspiration from netizen \"心火焚花\").Reduce the rarity of the Ice Block and Fire Extinguisher cards.Add a sleep",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5c5d1a058674a06d08ff",
+    "title": "1.21 demo daily update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746156105",
+    "source": "Steam 官方公告",
+    "published_at": "2026-01-21T07:46:35+00:00",
+    "collected_at": "2026-11-07T14:00:23+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "The same enemy will not be encountered within the same floor.Optimize the size of description text to prevent overlapping elements.Revise the reward method for stickers—now distributed in sticker packs instead of multiple duplicate stickers.The stickers from Thorny Operations now have a fixed rarity.The growth target of the Pure Seed is changed to the first card in the backpack.Fixed interaction bugs with lasers, corrected the issue where mirrors did not strictly copy energy, and resolved the bu",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e7be9d0b0bec5714a84f",
+    "title": "1.19 demo daily update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921820967",
+    "source": "Steam 官方公告",
+    "published_at": "2026-01-19T12:11:30+00:00",
+    "collected_at": "2026-11-07T14:00:23+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "UFO can now draw a card each time it enters the battlefield.Fixed various bugs caused by removing the Joker.Fixed the bug where the Piggy Bank's money could be stolen.Further optimized some UI elements and the timing of card description display during battles.Virus, Carbon, and other similar cards now benefit from target attribute bonuses.Added a UI indicator for area-of-effect range.Updated cards on the bench.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "44fa5c98e5b893908d76",
+    "title": "1.17 demo daily update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921817698",
+    "source": "Steam 官方公告",
+    "published_at": "2026-01-17T09:00:29+00:00",
+    "collected_at": "2026-11-07T14:00:23+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Adjust the position of action prompts to prevent them from appearing off-screen.Replace the initial boss with a more friendly grandfather clock.Modify some of the art and UI elements.The leaderboard is now hidden by default to prevent new players from immediately competing against experienced ones.Add additional background music tracks.Add subtle animations to the action buttons.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "55c2e995d862f1df490a",
+    "title": "1.16 demo daily update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921815291",
+    "source": "Steam 官方公告",
+    "published_at": "2026-01-16T08:33:56+00:00",
+    "collected_at": "2026-11-07T14:00:23+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Fixed a texture bug caused by discarding seeds with the shieldFixed the audio bug for the Copper Treasure Chest and a bug where the treasure chest event duration could be extended via Save/Load.Adjusted the effect of Maple Leaves—they now benefit from target attribute bonuses.Fixed a bug where tooltip descriptions sometimes did not disappear in a timely manner.Fixed an issue where cards like the Anchor could exceed the energy limit, and capped the maximum number of elements in the healing animat",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "71fe1e88350f094d4dca",
+    "title": "1.14 Demo daily update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921810037",
+    "source": "Steam 官方公告",
+    "published_at": "2026-01-14T09:07:45+00:00",
+    "collected_at": "2026-11-07T14:00:23+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Added Discord invite link.Improved music looping functionality.Turn-end effects now trigger in positional order.The scarecrow now only has a one-third chance of displaying an emote upon victory.Fixed the calculation method for the \"All Is Void\" action.Adjusted card decks for multiple scarecrows including Blacksmith Bear, Great Goose, etc.Fixed seed-related bugs.Added the ability to retry a battle after defeat.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "0102b4bc204dd6652d99",
     "title": "Black Myth: Wukong 1.0.21.23831 Patch Notes",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821922921809932",
@@ -7032,6 +7718,25 @@
     ],
     "category": "industry",
     "summary": "Version: 1.0.21.23831 Update Time: January 14, 2026 16:00 (UTC+8) What to Know Before Patch Installation The patch size is approximately 2.0 GB. However, due to the platform's update mechanism, your computer will need to reserve a certain amount of free disk space (not necessarily on the same disk) for temporary storage of the update files. If you have installed any mods in the game, installing the patch may cause compatibility issues. This could prevent you from launching the game, corrupt your",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2809a002ba8ec11bbd27",
+    "title": "Demo 1.13 daily update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821288646587798",
+    "source": "Steam 官方公告",
+    "published_at": "2026-01-13T11:13:26+00:00",
+    "collected_at": "2026-11-07T14:00:23+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Fixed the bug preventing the \"Reakless\" achievement from triggering.Reduced the time cost for \"Initiative\" and \"Stopwatch\" by one day.Adjusted the effect of \"Cake\" to grant a trait; its time cost increased to four days.Fixed the bug causing \"Croissant\" to be ineffective.Increased the default volume for music and sound effects.Updated the \"Bench\" card.",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [

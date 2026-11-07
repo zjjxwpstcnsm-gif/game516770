@@ -769,5 +769,26 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "1d48e0bbeb25d8bf956f",
+    "game_id": "steam-3476610",
+    "title": "The AI Clicker demo is available now!",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-09-17T20:48:31+00:00",
+    "first_seen_at": "2026-11-07T14:00:15+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010493261"
+    ],
+    "source_ids": [
+      "84a674c2ce391a247f08"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]
