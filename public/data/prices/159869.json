@@ -4,28 +4,28 @@
   "index_name": "中证动漫游戏指数",
   "index_code": "930901",
   "price_type": "exchange_close",
-  "as_of": "2026-11-06",
-  "data_cutoff_time": "2026-11-06T15:00:00+08:00",
+  "as_of": "2026-11-09",
+  "data_cutoff_time": "2026-11-09T15:00:00+08:00",
   "source": "Eastmoney",
   "source_url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=0.159869&klt=101&fqt=0&beg=20230101&end=20500101",
   "adjustment": "unadjusted",
   "volume_unit": "shares",
   "latest": {
-    "close": 1.068,
-    "change_pct": -0.02197802197802201,
-    "volume": 886229300.0,
-    "amount": 953459848.953
+    "close": 1.048,
+    "change_pct": -0.01872659176029967,
+    "volume": 469329900.0,
+    "amount": 498710595.005
   },
   "indicators": {
-    "ma5": 1.0623999999999998,
-    "ma10": 1.0318,
-    "ma20": 1.0281500000000001,
-    "ma60": 1.0701666666666665,
-    "return5": 0.12067156348373564,
-    "return20": 0.02005730659025806,
-    "return60": -0.05903083700440526,
-    "rsi14": 55.86034912718206,
-    "volatility20": 0.49477896436517027
+    "ma5": 1.0646,
+    "ma10": 1.0334999999999999,
+    "ma20": 1.028,
+    "ma60": 1.0687833333333332,
+    "return5": 0.010607521697203692,
+    "return20": -0.0028544243577544037,
+    "return60": -0.07338638373121131,
+    "rsi14": 52.53012048192773,
+    "volatility20": 0.4996091501579081
   },
   "prices": [
     {
@@ -8397,6 +8397,15 @@
       "close": 1.068,
       "volume": 886229300.0,
       "amount": 953459848.953
+    },
+    {
+      "date": "2026-11-09",
+      "open": 1.077,
+      "high": 1.081,
+      "low": 1.046,
+      "close": 1.048,
+      "volume": 469329900.0,
+      "amount": 498710595.005
     }
   ],
   "holdings": [
@@ -8601,7 +8610,7 @@
   "calendar": {
     "status": "verified",
     "verified": true,
-    "expected_last_session": "2026-11-06",
+    "expected_last_session": "2026-11-09",
     "source_url": "https://www.sse.com.cn/disclosure/announcement/general/c/c_20251222_10802507.shtml",
     "coverage_year": 2026,
     "published_date": "2025-12-22",
@@ -8619,7 +8628,7 @@
     "source": "Sina",
     "source_url": "https://quotes.sina.cn/cn/api/jsonp_v2.php/var%20_data=/CN_MarketDataService.getKLineData",
     "adjustment": "price_index_not_total_return",
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-09",
     "prices": [
       {
         "date": "2023-01-03",
@@ -12340,6 +12349,10 @@
       {
         "date": "2026-11-06",
         "close": 4054.277
+      },
+      {
+        "date": "2026-11-09",
+        "close": 4056.108
       }
     ],
     "limitation": "宽基市场对照，并非 ETF 跟踪的动漫游戏指数；指数价格收益不含股息"

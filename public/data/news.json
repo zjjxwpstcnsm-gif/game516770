@@ -1,5 +1,425 @@
 [
   {
+    "id": "74d63f6f3be310094f70",
+    "title": "A week after expanding its publishing division, Killing Floor studio Tripwire Interactive lays off 36 people",
+    "url": "https://www.pcgamer.com/gaming-industry/a-week-after-expanding-its-publishing-division-killing-floor-studio-tripwire-interactive-lays-off-36-people",
+    "source": "PC Gamer",
+    "published_at": "2026-11-09T19:32:33+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Tripwire said the decision to put people out of work was \"a necessary one for the organization.\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "782e4f0c578027854244",
+    "title": "Beholder IV announced for PC",
+    "url": "https://www.gematsu.com/2026/11/beholder-iv-announced-for-pc",
+    "source": "Gematsu",
+    "published_at": "2026-11-09T18:16:10+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Alawar has announced Beholder IV, the latest installment in its dystopian narrative series, as part &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "62d466ca80f37c066264",
+    "title": "Cozy life simulation game Wish Upon a Llama launches December 9 for PS5, Xbox Series, PS4, Xbox One, Switch, and PC",
+    "url": "https://www.gematsu.com/2026/11/cozy-life-simulation-game-wish-upon-a-llama-launches-december-9-for-ps5-xbox-series-ps4-xbox-one-switch-and-pc",
+    "source": "Gematsu",
+    "published_at": "2026-11-09T18:05:04+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Cozy life simulation game Wish Upon a Llama will launch for PlayStation 5, Xbox Series, &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "beb6d7b13f51555f1c49",
+    "title": "AMD users are reporting a misfiring utility is eating SSD health by 1% a month. AMD says a fix is on the way for its GPU drivers",
+    "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-users-are-reporting-a-misfiring-utility-is-eating-ssd-health-by-1-percent-a-month-amd-says-a-fix-is-on-the-way-for-its-gpu-drivers",
+    "source": "PC Gamer",
+    "published_at": "2026-11-09T17:15:26+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "No rush. SSDs are cheap as chips right now, eh?",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "07070ca74bf6ad514ba2",
+    "title": "Warhammer 40K: Rogue Trader follow-up Dark Heresy will launch at the end of January",
+    "url": "https://www.pcgamer.com/games/rpg/warhammer-40k-rogue-trader-follow-up-dark-heresy-will-launch-at-the-end-of-january",
+    "source": "PC Gamer",
+    "published_at": "2026-11-09T17:06:59+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Gettin' heretical with it.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "8a1dd12c6c7cb893e46b",
+    "title": "Cheaper OLEDs may be here even quicker than we thought as TCL CSOT says its new inkjet printing facility could be up and running as soon as this time next year",
+    "url": "https://www.pcgamer.com/hardware/gaming-monitors/cheaper-oleds-may-be-here-even-quicker-than-we-thought-as-tcl-csot-says-its-new-inkjet-printing-facility-could-be-up-and-running-as-soon-as-this-time-next-year",
+    "source": "PC Gamer",
+    "published_at": "2026-11-09T16:58:52+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Previous rumours had it penned for 2028.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2e25bd6c60343036330a",
+    "title": "Jensen Huang’s affair with alleged Chinese spy highlights how the GPU company’s dealings are now everyone’s business",
+    "url": "https://www.pcgamer.com/hardware/graphics-cards/jensen-huangs-affair-with-alleged-chinese-spy-highlights-how-the-gpu-companys-dealings-are-now-everyones-business",
+    "source": "PC Gamer",
+    "published_at": "2026-11-09T16:56:37+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "He used to sell gaming GPUs, now he's in the middle of a geopolitical quagmire.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "54aa8a0d0e06972fb792",
+    "title": "Warhammer 40,000: Dark Heresy launches January 28, 2027 for PS5, Xbox Series, and PC, later for Switch 2",
+    "url": "https://www.gematsu.com/2026/11/warhammer-40000-dark-heresy-launches-january-28-2027-for-ps5-xbox-series-and-pc-later-for-switch-2",
+    "source": "Gematsu",
+    "published_at": "2026-11-09T16:13:25+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Party-based, story-driven cRPG Warhammer 40,000: Dark Heresy will launch for PlayStation 5, Xbox Series, and &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5ff662378e438e5464e4",
+    "title": "'Floppy disks are out, 21st century tech is in': The FAA is finally ditching 55-year-old storage",
+    "url": "https://www.pcgamer.com/hardware/floppy-disks-are-out-21st-century-tech-is-in-the-faa-is-finally-ditching-55-year-old-storage",
+    "source": "PC Gamer",
+    "published_at": "2026-11-09T16:07:08+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Better late than never.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a17953195dafa9e15165",
+    "title": "The Golden Joystick Awards return this Wednesday—here's how to watch them",
+    "url": "https://www.pcgamer.com/gaming-industry/events-conferences/the-golden-joystick-awards-return-this-wednesday-heres-how-to-watch-them",
+    "source": "PC Gamer",
+    "published_at": "2026-11-09T15:47:21+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "A golden joystick would be pretty heavy, I bet.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "cc17b461607feb324f9d",
+    "title": "The pillars of AI are shaking beneath our feet",
+    "url": "https://www.pcgamer.com/software/ai/the-pillars-of-ai-are-shaking-beneath-our-feet",
+    "source": "PC Gamer",
+    "published_at": "2026-11-09T14:52:38+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Strap yourselves in, whatever happens next isn't going to be pretty.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9e532b9afd922b3409ee",
+    "title": "Great news! Nier: Automata's install size is no longer 7x bigger than it should be (it was 366 GB)",
+    "url": "https://www.pcgamer.com/games/rpg/great-news-nier-automatas-install-size-is-no-longer-7x-bigger-than-it-should-be-it-was-366-gb",
+    "source": "PC Gamer",
+    "published_at": "2026-11-09T14:51:27+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "2B, times 183, plus G.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "50c0f45b24dd61ae0605",
+    "title": "Sea of Remnants ‘Dawnbreaker’ closed beta test begins December 3",
+    "url": "https://www.gematsu.com/2026/11/sea-of-remnants-dawnbreaker-closed-beta-test-begins-december-3",
+    "source": "Gematsu",
+    "published_at": "2026-11-09T14:30:41+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Publisher NetEase Games and developer Joker Studio will host the &#8220;Dawnbreaker&#8221; closed beta test for &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "cef71272492864775832",
+    "title": "Grand Theft Auto VI: The Festival live event set for November 21",
+    "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-the-festival-live-event-set-for-november-21",
+    "source": "Gematsu",
+    "published_at": "2026-11-09T14:10:13+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Rockstar Games and Sony Interactive Entertainment will host &#8220;Grand Theft Auto VI: The Festival,&#8221; a &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d323bbef6008ecd46119",
+    "title": "Atelier Karia: The Night Kingdom & the Guide of Memories ‘Story’ trailer, digital pre-orders now available",
+    "url": "https://www.gematsu.com/2026/11/atelier-karia-the-night-kingdom-the-guide-of-memories-story-trailer-digital-pre-orders-now-available",
+    "source": "Gematsu",
+    "published_at": "2026-11-09T13:00:03+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "preorder",
+    "summary": "Publisher Koei Tecmo and developer Gust have released the story trailer and opened digital pre-orders &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "48a30d18cdaf11e222ba",
+    "title": "Capcom Platinum Titles sales update – as of September 30, 2026",
+    "url": "https://www.gematsu.com/2026/11/capcom-platinum-titles-sales-update-as-of-september-30-2026",
+    "source": "Gematsu",
+    "published_at": "2026-11-09T12:30:16+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "sales",
+    "summary": "Capcom has updated its list of &#8220;Platinum Titles&#8220;&#8212;games that have sold over one million units&#8212;providing &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "f8b2663d6fb11db99560",
+    "title": "Skyrim lead designer gives the most succinct summary of Bethesda's design I've ever heard: 'You're not playing my game, I'm making your game'",
+    "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-gives-the-most-succinct-summary-of-bethesdas-design-ive-ever-heard-youre-not-playing-my-game-im-making-your-game",
+    "source": "PC Gamer",
+    "published_at": "2026-11-09T12:28:31+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Though, to be honest, sometimes I want to play someone else's game.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "cee179c4df7b55e1fd80",
+    "title": "Consider this blackened plug your weekly reminder to check your RTX 50-series GPU cables",
+    "url": "https://www.pcgamer.com/hardware/graphics-cards/consider-this-blackened-plug-your-weekly-reminder-to-check-your-rtx-50-series-gpu-cables",
+    "source": "PC Gamer",
+    "published_at": "2026-11-09T12:24:38+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "And maybe buy a cable monitor, too.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0d9e56f7743e5254e3ea",
+    "title": "MSI Maestro 900R PC case review",
+    "url": "https://www.pcgamer.com/hardware/pc-cases/msi-maestro-900r-review",
+    "source": "PC Gamer",
+    "published_at": "2026-11-09T12:08:54+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The Maestro is a monstrous PC chassis with premium pretentions it just fails to grasp.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2737082629197277b1ab",
+    "title": "World of Warcraft: Forever bumps dungeon XP from monsters by 50% after some community feedback I will diplomatically call passionate",
+    "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-bumps-dungeon-xp-from-monsters-by-50-percent-after-some-community-feedback-i-will-diplomatically-call-passionate",
+    "source": "PC Gamer",
+    "published_at": "2026-11-09T12:00:26+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [
+      "steam-648800"
+    ],
+    "category": "industry",
+    "summary": "Back on that grindset.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "07811fe613ca65219ab6",
+    "title": "EVE Online's new expansion looks to make it simpler than ever to get into a huge space battle: 'Every 10 weeks or so, you're gonna know: I can roll up with whatever I have and go shoot some structures and have a big fight'",
+    "url": "https://www.pcgamer.com/games/mmo/eve-onlines-new-expansion-looks-to-make-it-simpler-than-ever-to-get-into-a-huge-space-battle-every-10-weeks-or-so-youre-gonna-know-i-can-roll-up-with-whatever-i-have-and-go-shoot-some-structures-and-have-a-big-fight",
+    "source": "PC Gamer",
+    "published_at": "2026-11-09T11:30:00+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "A proposition that's hard to argue against.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2e46bbf33e413d4647e9",
+    "title": "'I think we'd accidentally created the most hardcore extraction game of all time:' EVE Vanguard is taking hard-won playtest lessons into a '24/7 Alpha'",
+    "url": "https://www.pcgamer.com/games/fps/i-think-wed-accidentally-created-the-most-hardcore-extraction-game-of-all-time-eve-vanguard-is-taking-hard-won-playtest-lessons-into-a-24-7-alpha",
+    "source": "PC Gamer",
+    "published_at": "2026-11-09T11:30:00+00:00",
+    "collected_at": "2026-11-10T03:56:26+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "It's not early access, not yet. Super-early access.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "0344ed33e49c0e120a69",
     "title": "Lead designer Bruce Nesmith says Skyrim was a hit because it was built on institutional knowledge from Oblivion",
     "url": "https://www.pcgamer.com/games/the-elder-scrolls/lead-designer-bruce-nesmith-says-skyrim-was-a-hit-because-it-was-built-on-institutional-knowledge-from-oblivion",
