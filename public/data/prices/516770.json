@@ -4,28 +4,28 @@
   "index_name": "中证动漫游戏指数",
   "index_code": "930901",
   "price_type": "exchange_close",
-  "as_of": "2026-11-09",
-  "data_cutoff_time": "2026-11-09T15:00:00+08:00",
+  "as_of": "2026-11-10",
+  "data_cutoff_time": "2026-11-10T15:00:00+08:00",
   "source": "Eastmoney",
   "source_url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516770&klt=101&fqt=0&beg=20230101&end=20500101",
   "adjustment": "unadjusted",
   "volume_unit": "shares",
   "latest": {
-    "close": 1.103,
-    "change_pct": -0.02042628774422728,
-    "volume": 23082000.0,
-    "amount": 25958972.0
+    "close": 1.134,
+    "change_pct": 0.02810516772438798,
+    "volume": 22550800.0,
+    "amount": 25407630.0
   },
   "indicators": {
-    "ma5": 1.1225999999999998,
-    "ma10": 1.0907,
-    "ma20": 1.08515,
-    "ma60": 1.1254000000000002,
-    "return5": 0.006386861313868453,
-    "return20": -0.004512635379061436,
-    "return60": -0.06919831223628703,
-    "rsi14": 52.11267605633803,
-    "volatility20": 0.48841710174963565
+    "ma5": 1.1283999999999998,
+    "ma10": 1.0989,
+    "ma20": 1.0866000000000002,
+    "ma60": 1.1241333333333334,
+    "return5": 0.02624434389140262,
+    "return20": 0.02624434389140262,
+    "return60": -0.062809917355372,
+    "rsi14": 56.98198198198197,
+    "volatility20": 0.4982085965182075
   },
   "prices": [
     {
@@ -8406,6 +8406,15 @@
       "close": 1.103,
       "volume": 23082000.0,
       "amount": 25958972.0
+    },
+    {
+      "date": "2026-11-10",
+      "open": 1.107,
+      "high": 1.136,
+      "low": 1.107,
+      "close": 1.134,
+      "volume": 22550800.0,
+      "amount": 25407630.0
     }
   ],
   "holdings": [
@@ -8546,14 +8555,14 @@
     }
   ],
   "holdings_as_of": "2026-09-30",
-  "holdings_status": "ok",
+  "holdings_status": "historical_snapshot",
   "collection_status": "ok",
   "limitations": [
     "价格为场内未复权收盘价，非净值、非实时行情",
     "历史持仓未核验，不计算直接收益权重"
   ],
   "holdings_evidence": {
-    "status": "ok",
+    "status": "historical_snapshot",
     "as_of": "2026-09-30",
     "holdings": [
       {
@@ -8694,13 +8703,14 @@
     ],
     "source_url": "https://fundf10.eastmoney.com/ccmx_516770.html",
     "published_at": null,
-    "limitation": "披露期持仓快照，非实时权重；公告时间缺失，不用于历史时点策略；披露可能仅前十大"
+    "limitation": "披露期持仓快照，非实时权重；公告时间缺失，不用于历史时点策略；披露可能仅前十大",
+    "error": "ConnectTimeout"
   },
   "calendar_verified": true,
   "calendar": {
     "status": "verified",
     "verified": true,
-    "expected_last_session": "2026-11-09",
+    "expected_last_session": "2026-11-10",
     "source_url": "https://www.sse.com.cn/disclosure/announcement/general/c/c_20251222_10802507.shtml",
     "coverage_year": 2026,
     "published_date": "2025-12-22",
@@ -8709,7 +8719,7 @@
     "session_close": "15:00",
     "limitation": "按已公布全年休市表；临时停市需另外核验，跨年自动暂停"
   },
-  "benchmark_verified": true,
+  "benchmark_verified": false,
   "benchmark": {
     "status": "ok",
     "code": "000300",

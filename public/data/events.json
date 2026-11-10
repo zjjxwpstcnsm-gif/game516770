@@ -809,5 +809,121 @@
     "history": [],
     "verification_note": "Steam 商店显示的计划日期，日精度、原始时区未知（可能与北京时间相差一天）；须以官方精确时刻复核。首次公布时间未知，不用于历史已知信息回放。",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "c2a49c1b30b6e27617c9",
+    "game_id": "steam-3891660",
+    "title": "The House Dreams Along With Them releases November 10th, 2026",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-22T18:22:29+00:00",
+    "first_seen_at": "2026-11-10T15:21:47+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114033806"
+    ],
+    "source_ids": [
+      "5c46c40e3c9d3fd71a17"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "6bb99f78b6c44f1ce75b",
+    "game_id": "steam-5461550",
+    "title": "超自然百货生产公司 | 怪物管理 · Steam 发售日期",
+    "type": "release",
+    "importance": "B",
+    "event_date": "2026-11-10",
+    "announced_at": null,
+    "first_seen_at": "2026-11-10T15:21:47+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://store.steampowered.com/app/5461550/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [],
+    "verification_note": "Steam 商店显示的计划日期，日精度、原始时区未知（可能与北京时间相差一天）；须以官方精确时刻复核。首次公布时间未知，不用于历史已知信息回放。",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "3b1fe30ff5ad174d6196",
+    "game_id": "steam-3891660",
+    "title": "The House Dreams Along With Them · Steam 发售日期",
+    "type": "release",
+    "importance": "B",
+    "event_date": "2026-11-10",
+    "announced_at": null,
+    "first_seen_at": "2026-11-10T15:21:47+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://store.steampowered.com/app/3891660/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [],
+    "verification_note": "Steam 商店显示的计划日期，日精度、原始时区未知（可能与北京时间相差一天）；须以官方精确时刻复核。首次公布时间未知，不用于历史已知信息回放。",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "921589a8c10dfc04a132",
+    "game_id": "steam-3975350",
+    "title": "汉堡叠叠乐：谁是内鬼 · Steam 发售日期",
+    "type": "release",
+    "importance": "B",
+    "event_date": "2026-11-10",
+    "announced_at": null,
+    "first_seen_at": "2026-11-10T15:21:47+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://store.steampowered.com/app/3975350/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [],
+    "verification_note": "Steam 商店显示的计划日期，日精度、原始时区未知（可能与北京时间相差一天）；须以官方精确时刻复核。首次公布时间未知，不用于历史已知信息回放。",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "f96065c92a20207c1267",
+    "game_id": "steam-2638080",
+    "title": "勇者小队全灭了。 · Steam 发售日期",
+    "type": "release",
+    "importance": "B",
+    "event_date": "2026-11-10",
+    "announced_at": null,
+    "first_seen_at": "2026-11-10T15:21:47+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://store.steampowered.com/app/2638080/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [],
+    "verification_note": "Steam 商店显示的计划日期，日精度、原始时区未知（可能与北京时间相差一天）；须以官方精确时刻复核。首次公布时间未知，不用于历史已知信息回放。",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "d1a52a5de7a2e59331f0",
+    "game_id": "steam-5061890",
+    "title": "Scramshaw · Steam 发售日期",
+    "type": "release",
+    "importance": "B",
+    "event_date": "2026-11-10",
+    "announced_at": null,
+    "first_seen_at": "2026-11-10T15:21:47+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://store.steampowered.com/app/5061890/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [],
+    "verification_note": "Steam 商店显示的计划日期，日精度、原始时区未知（可能与北京时间相差一天）；须以官方精确时刻复核。首次公布时间未知，不用于历史已知信息回放。",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]
