@@ -1,5 +1,636 @@
 [
   {
+    "id": "2907aa79928a15fdd266",
+    "title": "Acer Predator Atlas 8 (G3 Extreme) review",
+    "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-predator-atlas-8-g3-extreme-review",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T17:01:48+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The cheapest way to get the best handheld chip right now.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3e083d430f4450147371",
+    "title": "Educational game dev program cancelled because students were submitting games made entirely with AI",
+    "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T16:59:19+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The growing use of generative AI meant it was \"harder to judge what students made themselves.\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e9049800c8bea12c0c41",
+    "title": "‘AMDLSS5’ gets Nvidia’s neural rendering running on AMD graphics cards and claims 64% better performance than other mods",
+    "url": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T16:53:20+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [
+      "steam-4444310"
+    ],
+    "category": "industry",
+    "summary": "Seems like an easy install, too. Though not everyone is convinced it's worth it.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "48927250743d4b479774",
+    "title": "PlayStation Plus Game Catalog and Classics Catalog lineup for November 2026 announced",
+    "url": "https://www.gematsu.com/2026/11/playstation-plus-game-catalog-and-classics-catalog-lineup-for-november-2026-announced",
+    "source": "Gematsu",
+    "published_at": "2026-11-10T16:40:46+00:00",
+    "collected_at": "2026-11-11T01:10:55+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Sony Interactive Entertainment has announced the November 2026 Game Catalog lineup for PlayStation Plus Extra &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b642e0dbfde8aa76a1d6",
+    "title": "PlayStation Plus Game Catalog for November: Death Stranding 2: On the Beach, Like a Dragon: Pirate Yakuza in Hawaii, Atomfall, Dragon Quest III HD-2D Remake and more",
+    "url": "https://blog.playstation.com/2026/11/10/playstation-plus-game-catalog-for-november-death-stranding-2-on-the-beach-like-a-dragon-pirate-yakuza-in-hawaii-atomfall-dragon-quest-iii-hd-2d-remake-and-more",
+    "source": "PlayStation Blog",
+    "published_at": "2026-11-10T16:30:03+00:00",
+    "collected_at": "2026-11-11T01:10:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "This month, embark on an inspiring mission of human connection in Death Stranding 2: On the Beach, assemble a one-of-a-kind crew as you explore the open sea in Like a Dragon: Pirate Yakuza in Hawaii, navigate the cult-controlled ruins, natural caves, and nuclear bunkers of a green and unpleasant British countryside in Atomfall, or explore [&#8230;]",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b41454d691f77375a8b4",
+    "title": "Alienware AW3226Q OLED gaming monitor review",
+    "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw3226q-review",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T16:26:09+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "RGB-stripe OLED awesomeness for way less money.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "762799d63c806fdafff0",
+    "title": "I fought Queens and Knights, but somehow my hardest opponents in Stack Order, the next great deckbuilder, were 2 birds",
+    "url": "https://www.pcgamer.com/games/roguelike/i-fought-queens-and-knights-but-somehow-my-hardest-opponents-in-stack-order-the-next-great-deckbuilder-were-2-birds",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T16:12:12+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Those birds kept stealing all my good cards.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "1bfdc594d2ea28d5b7a6",
+    "title": "Teenage Mutant Ninja Turtles: Splintered Fate ‘Shell Squad Co-Op Update’ now available",
+    "url": "https://www.gematsu.com/2026/11/teenage-mutant-ninja-turtles-splintered-fate-shell-squad-co-op-update-now-available",
+    "source": "Gematsu",
+    "published_at": "2026-11-10T16:00:18+00:00",
+    "collected_at": "2026-11-11T01:10:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Super Evil Megacorp has released the &#8220;Shell Squad Co-Op Update&#8221; for Teenage Mutant Ninja Turtles: &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "32900e8749a958ab979d",
+    "title": "I feel better than ever waiting for GTA 6 on PC now Rockstar confirms it's targeting 30 fps on PlayStation and Xbox",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/i-feel-better-than-ever-waiting-for-gta-6-on-pc-now-rockstar-confirms-its-targeting-30-fps-on-playstation-and-xbox",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T15:41:26+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "This is NOT copium. Do not put on website that it is copium.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "8deed2cafd3a40cadece",
+    "title": "Pre-load Grand Theft Auto VI on PS5 starting today",
+    "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today",
+    "source": "PlayStation Blog",
+    "published_at": "2026-11-10T15:41:17+00:00",
+    "collected_at": "2026-11-11T01:10:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Grand Theft Auto VI is now the most pre-ordered game in the history of PlayStation Store. Given this unprecedented demand, we&#8217;ve joined with Rockstar Games to allow players to start pre-loading the game nine days early, so they’re ready to play on launch day. We’ve also adopted a rolling midnight launch by country, beginning at [&#8230;]",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "fb81671ffa0d900349ae",
+    "title": "How Silent Hill: Townfall's developer created a fictional town that's still real—'It exists. It's there'",
+    "url": "https://www.pcgamer.com/games/horror/how-silent-hill-townfalls-developer-created-a-fictional-town-thats-still-real-it-exists-its-there",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T15:00:00+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Welcome to St. Amelia.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b2ad5e9c4911cf2f5de4",
+    "title": "2D action platformer isekizima: Ruins and Tails Journey launches January 19, 2027 for PC, later for Switch",
+    "url": "https://www.gematsu.com/2026/11/2d-action-platformer-isekizima-ruins-and-tails-journey-launches-january-19-2027-for-pc-later-for-switch",
+    "source": "Gematsu",
+    "published_at": "2026-11-10T14:50:17+00:00",
+    "collected_at": "2026-11-11T01:10:55+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "2D action platformer isekizima: Ruins and Tails Journey will launch for PC via Steam on &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d72bebbf84f238c9f5ed",
+    "title": "Big Walk developer reveals it used generative AI 'sparingly', estimates 'well under 0.1%' was actually coded using LLMs",
+    "url": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T14:36:16+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "House House says that generative AI was not used anywhere else.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "4242f607466e3992552f",
+    "title": "The Falconeer: Revolution Remaster coming to PS5, Xbox Series on December 2",
+    "url": "https://www.gematsu.com/2026/11/the-falconeer-revolution-remaster-coming-to-ps5-xbox-series-on-december-2",
+    "source": "Gematsu",
+    "published_at": "2026-11-10T14:17:30+00:00",
+    "collected_at": "2026-11-11T01:10:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Publisher Wired Productions and developer Tomas Sala will release aerial combat RPG remaster The Falconeer: &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d1d9eadb7b95185a34a7",
+    "title": "Crystals of Irm delayed to January 21, 2027",
+    "url": "https://www.gematsu.com/2026/11/crystals-of-irm-delayed-to-january-21-2027",
+    "source": "Gematsu",
+    "published_at": "2026-11-10T14:10:11+00:00",
+    "collected_at": "2026-11-11T01:10:55+08:00",
+    "game_ids": [],
+    "category": "delay",
+    "summary": "Publisher Deck13 Spotlight and developer Lots of Stuff have delayed school RPG Crystals of Irm &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2be001ba038037e923d8",
+    "title": "Grand Theft Auto VI pre-load now available, PS5 Pro support confirmed [Update]",
+    "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-pre-load-now-available-ps5-pro-support-confirmed",
+    "source": "Gematsu",
+    "published_at": "2026-11-10T14:05:01+00:00",
+    "collected_at": "2026-11-11T01:10:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Rockstar Games has released a new trailer for Grand Theft Auto VI to commemorate the &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "7569dd3b056b7d80a01f",
+    "title": "Trump calls his pal Jensen Huang an ‘honourable guy’ and says he ‘probably has an excuse’ for Nvidia CEO’s affair with alleged spy",
+    "url": "https://www.pcgamer.com/hardware/graphics-cards/trump-calls-his-pal-jensen-huang-an-honourable-guy-and-says-he-probably-has-an-excuse-for-nvidia-ceos-affair-with-alleged-spy",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T14:01:26+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "It's been a tough week for Team Green.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "16a6a8e67fafbb78ed58",
+    "title": "Marathon Symbiosis update launches December 8, adding new PvE and PvP modes, weapons, and more",
+    "url": "https://blog.playstation.com/2026/11/10/marathon-symbiosis-update-launches-december-8-adding-new-pve-and-pvp-modes-weapons-and-more",
+    "source": "PlayStation Blog",
+    "published_at": "2026-11-10T14:00:13+00:00",
+    "collected_at": "2026-11-11T01:10:55+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Marathon&#8216;s Symbiosis update arrives December 8, bringing new PvE and PvP modes, weapons, a Runner shell, and expanded areas to explore on Tau Ceti IV. Today we’ve got first details on the updated Perimeter zone, Expedition mode, and more. What&#8217;s new in Marathon: Symbiosis&#160; Updated Perimeter zone: Fungal growth and alien life have transformed Perimeter, [&#8230;]",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a83cf920982e144807e8",
+    "title": "Fallout and Elder Scrolls actor Stephen Russell returns as Garrett in Thief: The Tarnished Mirror: 'Great to be back with the old guy'",
+    "url": "https://www.pcgamer.com/games/fps/fallout-and-elder-scrolls-actor-stephen-russell-returns-as-garrett-in-thief-the-tarnished-mirror-great-to-be-back-with-the-old-guy",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T14:00:00+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Return of the King.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "22eb6cce53495adfa6bb",
+    "title": "Steam now lets you see exactly what frame rate you should get in games using a Steam Deck",
+    "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-now-lets-you-see-exactly-what-frame-rate-you-should-get-in-games-using-a-steam-deck",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T13:31:56+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Valve opens up the doors to the data it's been collecting.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "8979036415c7a5982eef",
+    "title": "AMD's next-gen GPU architecture has appeared in new Linux kernel patches as GFX13 updates roll out",
+    "url": "https://www.pcgamer.com/hardware/graphics-cards/amds-next-gen-gpu-architecture-has-appeared-in-new-linux-kernel-patches-as-gfx13-updates-roll-out",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T13:06:31+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The suite of GFX13 patches aren't particularly exciting in themselves, but they do suggest there might actually be some new GPUs next year.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b7e18afafe4a7c5ed38e",
+    "title": "HUNGER launches in Early Access on December 3",
+    "url": "https://www.gematsu.com/2026/11/hunger-launches-in-early-access-on-december-3",
+    "source": "Gematsu",
+    "published_at": "2026-11-10T12:40:54+00:00",
+    "collected_at": "2026-11-11T01:10:55+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Multiplayer extraction RPG HUNGER will launch in Early Access for PC via Steam on December &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d78cbaa3899581d9d2c1",
+    "title": "Redditor runs PC cooling loop outside of their house to keep it cool in one of the bravest yet unnecessary mods I’ve ever seen",
+    "url": "https://www.pcgamer.com/hardware/cooling/redditor-runs-pc-cooling-loop-outside-of-their-house-to-keep-it-cool-in-one-of-the-bravest-yet-unnecessary-mods-ive-ever-seen",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T12:22:25+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "With the help of a separate Arduino computer to manage temps.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e1528ba7a5e3ace2f633",
+    "title": "Law firms lining up for a chance to bop Nvidia’s nose on behalf of its own shareholders; president Trump says FBI are sniffing around the AI company's case",
+    "url": "https://www.pcgamer.com/hardware/graphics-cards/law-firms-lining-up-for-a-chance-to-bop-nvidias-nose-on-behalf-of-its-own-shareholders-president-trump-says-fbi-are-sniffing-around-the-case",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T12:18:45+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "It's all kicking off now.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5670abe43c1bc0ceffb4",
+    "title": "Rockstar is putting on a last-minute live music festival featuring Travis Scott and Cardi B to celebrate GTA 6's launch",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-is-putting-on-a-last-minute-live-music-festival-featuring-travis-scott-and-cardi-b-to-celebrate-gta-6s-launch",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T12:14:01+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "How far would you travel to make it to the GTA 6 festival?",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "846db5896c4361d2bbe8",
+    "title": "I'm so glad I'm not using a questing addon in World of Warcraft: Forever",
+    "url": "https://www.pcgamer.com/games/world-of-warcraft/im-so-glad-im-not-using-a-questing-addon-in-world-of-warcraft-forever",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T12:07:27+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [
+      "steam-648800"
+    ],
+    "category": "industry",
+    "summary": "I can't remember the last time I just went on an adventure in an MMO.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "14911e4db1d138141756",
+    "title": "Phasmophobia raises over $200,000 for charity in the annual Ghost Hunts for Hearts collaboration with the American Heart Association",
+    "url": "https://www.pcgamer.com/games/horror/phasmophobia-raises-over-usd200-000-for-charity-in-the-annual-ghost-hunts-for-hearts-collaboration-with-the-american-heart-association",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T11:17:09+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Players have managed to double the charitable donations reached last year.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "620aca7e6a6532a3835a",
+    "title": "Warhammer Survivors review: More than just Vampire Survivors with Space Marines",
+    "url": "https://www.pcgamer.com/games/roguelike/warhammer-survivors-review",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T11:02:26+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "It's more than Vampire Survivors with Space Marines, but it is Vampire Survivors with Space Marines.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "78bf4cf830502872dfc8",
+    "title": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle unveiled",
+    "url": "https://www.gematsu.com/2026/11/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-unveiled",
+    "source": "Gematsu",
+    "published_at": "2026-11-10T11:00:11+00:00",
+    "collected_at": "2026-11-11T01:10:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Publisher Square Enix and developer WFS have officially unveiled Dragon Quest RPG: The Cursed Tree &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "489d0a6d681bc8ec52e0",
+    "title": "I have converted GTA 5 to its final form: A GTA 6 countdown app",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-converted-gta-5-to-its-final-form-a-gta-6-countdown-app",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T10:52:35+00:00",
+    "collected_at": "2026-11-11T01:10:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "We should all be so lucky.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e06e1fd5f33e74c30982",
+    "title": "Winter Whiskers launches December 9",
+    "url": "https://www.gematsu.com/2026/11/winter-whiskers-launches-december-9",
+    "source": "Gematsu",
+    "published_at": "2026-11-10T10:45:50+00:00",
+    "collected_at": "2026-11-11T01:10:55+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Winter Whiskers, a &#8220;simple cleaning sim that turns the chore of snow-clearing into a relaxing &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "ac148c032d18a4446f9b",
+    "title": "Ravenswatch – Nintendo Switch 2 Edition launches December 10 worldwide, December 18 in North America",
+    "url": "https://www.gematsu.com/2026/11/ravenswatch-nintendo-switch-2-edition-launches-december-10-worldwide-december-18-in-north-america",
+    "source": "Gematsu",
+    "published_at": "2026-11-10T09:15:30+00:00",
+    "collected_at": "2026-11-11T01:10:55+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Cooperative roguelike action game Ravenswatch &#8211; Nintendo Switch 2 Edition will launch on December 18 &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b31cdf39b86cee302499",
+    "title": "NIGHTMARE OPERATOR to be published by Shueisha Games",
+    "url": "https://www.gematsu.com/2026/11/nightmare-operator-to-be-published-by-shueisha-games",
+    "source": "Gematsu",
+    "published_at": "2026-11-10T09:00:02+00:00",
+    "collected_at": "2026-11-11T01:10:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Shueisha Games will publish DDDistortion-developed third-person action horror shooter NIGHTMARE OPERATOR when it launches for PC &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "cd5841963b477a61cd46",
     "title": "Version 1.0.1 Patch Notes",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358321",
@@ -610,6 +1241,25 @@
     "summary_language": null
   },
   {
+    "id": "07ab5ca2d13f33a42a8a",
+    "title": "Small fixes",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354605",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-09T07:51:32+00:00",
+    "collected_at": "2026-11-11T01:10:54+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Coin flip fix Blaster energy disabled Ui fix",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "0344ed33e49c0e120a69",
     "title": "Lead designer Bruce Nesmith says Skyrim was a hit because it was built on institutional knowledge from Oblivion",
     "url": "https://www.pcgamer.com/games/the-elder-scrolls/lead-designer-bruce-nesmith-says-skyrim-was-a-hit-because-it-was-built-on-institutional-knowledge-from-oblivion",
@@ -895,6 +1545,25 @@
     "summary_language": null
   },
   {
+    "id": "44323a20d83fc7cc201d",
+    "title": "Fishing Is Here! | November 8 Update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643352472",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-08T13:58:37+00:00",
+    "collected_at": "2026-11-11T01:10:54+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Fishing is now available in Junkyard Reseller! Take a break from the scrapyard, grab your rod, and head to the lake.Cast your line and keep an eye on the bobber. When it dips, set the hook and start reeling. Watch the line tension as the fish fights back, and ease off when the line gets too tight to keep your catch from getting away.There are different fish to catch, each with its own weight. How big will your first catch be?",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "b7b70f8932beca8d1455",
     "title": "This massive mod essentially turns Skyrim into a persistent MMO 'where player actions create lasting consequences'",
     "url": "https://www.pcgamer.com/games/the-elder-scrolls/this-massive-mod-essentially-turns-skyrim-into-a-persistent-mmo-where-player-actions-create-lasting-consequences",
@@ -1066,6 +1735,25 @@
     "summary_language": null
   },
   {
+    "id": "3eaac0efdc35bdff208c",
+    "title": "07 November Small fix",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643350159",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-07T17:25:26+00:00",
+    "collected_at": "2026-11-11T01:10:54+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "UI small fix",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "334f7aaeeec0ad565a45",
     "title": "What's the toughest choice you've made in an RPG?",
     "url": "https://www.pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg",
@@ -1138,6 +1826,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "452d4f586ccca070c619",
+    "title": "Update 7 November Scrap Metal, Ore Smelting & Weapon Durability",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643349469",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-07T13:46:26+00:00",
+    "collected_at": "2026-11-11T01:10:54+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "- Scrap Metal — Collect scrap metal, a new resource in Junkyard Reseller. - Ore Smelter — Smelt ore into metal ingots. - Dismantling — Break down rusty objects to recover scrap metal. - Tools Durability — Tools now wear down with use. - Settings — Improved the settings menu. Fixed a resolution issue on wider displays.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -1826,6 +2533,27 @@
     "summary_language": null
   },
   {
+    "id": "64ff76499ab780ca26fa",
+    "title": "Junkyard Reseller Is Out Now!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344611",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-06T08:23:51+00:00",
+    "collected_at": "2026-11-11T01:10:54+08:00",
+    "game_ids": [
+      "steam-5271040"
+    ],
+    "category": "industry",
+    "summary": "Junkyard Reseller is out now on Steam!Grab your keys, hop into your pickup, and head to the junkyard. That rusty figurine at the bottom of a scrap pile might be your best find of the day.Bring your haul back to the workshop and use your laser cleaner to reveal the original colors and details beneath the rust. The better you restore an item, the more it sells for. As your business grows, you can add automatic cleaning machines to process more of your finds.What you can do at launchExplore the ful",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "474838913c27e06ac48c",
     "title": "Saudi Arabia owns EA, and according to a Reuters report, Unity is next",
     "url": "https://www.pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next",
@@ -2001,6 +2729,25 @@
     "summary_language": null
   },
   {
+    "id": "20b88a1ab9dbca4ef858",
+    "title": "Big Update — Full Map, Metal Detecting & Oil Pumping",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643343072",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-05T20:35:40+00:00",
+    "collected_at": "2026-11-11T01:10:54+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The full map of Junkyard Reseller is now open! Load up your pickup, head out to new locations, and bring back whatever’s worth saving.Sell Your Finds & Deliver to Villagers Turn your salvage into cash through the selling system or pick up delivery jobs and bring requested items directly to villagers.Track Down Vintage Items Keep an eye out for rare vintage finds while exploring. Bring them to the Vintage Item Hunter for a chance to earn more from your best discoveries.Search with the Metal Scann",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "672776a5a5cc99af19ca",
     "title": "Sam Altman is annoyed his DRAM comment was 'taken out of context'",
     "url": "https://www.pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context",
@@ -2155,6 +2902,27 @@
     "summary_language": null
   },
   {
+    "id": "fc4a989e6520266736af",
+    "title": "SWARM HARVEST IS OUT NOW",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643342205",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-05T16:55:08+00:00",
+    "collected_at": "2026-11-11T01:10:44+08:00",
+    "game_ids": [
+      "steam-4810500"
+    ],
+    "category": "industry",
+    "summary": "ATTENTION, EMPLOYEESYour deployment has been authorised.SWARM HARVEST IS OUT NOW!And to celebrate the occasion, corporate is offering a one-time generous launch discount of 20%.Report to your nearest landing zone, eliminate the local bug population, harvest valuable resources, and make your contribution to our ongoing corporate expansion.Remember: Survival is optional. Profit is mandatory.Now get to work!",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "ad476b2c41274c88aac3",
     "title": "PC Gamer magazine's new issue is on sale now: Metro 2039",
     "url": "https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-metro-2039",
@@ -2170,6 +2938,46 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e9ca6ccf5904c770ff1e",
+    "title": "CLEAN START IS OUT TODAY!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643342069",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-05T16:16:43+00:00",
+    "collected_at": "2026-11-11T01:10:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The day is finally here!! Clean Start is officially OUT NOW!To celebrate, we’ve just dropped our official Launch Trailer! Head over to our social channels to watch it, share it with your fellow cozy gaming friends, and get a sneak peek at what’s waiting for you.From the bottom of our hearts, thank you. Bringing this game to life has been an incredible journey, and this community’s support, kind words, and excitement have kept us going every single step of the way.What to expect & how to join the",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "bc3066c64984bcfb0c71",
+    "title": "DERAIL is out now. The last train is gone.",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643341979",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-05T16:00:04+00:00",
+    "collected_at": "2026-11-11T01:10:46+08:00",
+    "game_ids": [
+      "steam-4252720"
+    ],
+    "category": "industry",
+    "summary": "It's 2:47 AM. The last train is gone. You never left the station. DERAIL is out now on Steam. Every time you climb the stairs, you come back down onto the same platform. Same benches. Same posters. Same flickering lights. Almost. Something here is always wrong. You can't run from it. You can only photograph it. Your camera's flash erases what doesn't belong. Miss one, and the loop begins again. Clear ten platforms to escape. What's waiting down there A pool of 45 anomalies. None ever repeats wit",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -3733,6 +4541,25 @@
     "summary_language": null
   },
   {
+    "id": "f7b4ed2cd1dccd238cf5",
+    "title": "75,000 of you found our game!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302252641",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-03T16:10:25+00:00",
+    "collected_at": "2026-11-11T01:10:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "We are officially at 75,000 Wishlists! When we started building this game, we never imagined seeing such a BIG community being so positive and rallying behind it. Hitting 75,000 wishlists with just 48 hours left until launch is a dream milestone for our entire team.Every wishlist, comment, share, and piece of feedback from the demo has helped shape the game into what it is today. From the bottom of our hearts!Thank YOU.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "d9d5c7ad55591663e784",
     "title": "POPUCOM for PS5 launches November 17",
     "url": "https://www.gematsu.com/2026/11/popucom-for-ps5-launches-november-17",
@@ -5044,6 +5871,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Enhanced the \"breathing\" animation effect for better visual feedback. Updated font colors to improve overall readability and visibility.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "58326c78ef400ff75026",
+    "title": "70,000 Wishlists & Only 4 Days Until Launch! 🎉",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302247434",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-02T08:52:04+00:00",
+    "collected_at": "2026-11-11T01:10:42+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "We just hit 70,000 wishlists! 🥳Honestly, we are completely blown away. When we started building Clean Start, we could only dream of seeing this kind of excitement and support. Hitting 70,000 right before launch is huge, and every single wishlist, follow, and comment means the absolute world to our small team.🚨 4 DAYS UNTIL LAUNCH! 🚨We are counting down those days now and we are so excited but we also want to hear from you! 👇 What was your favorite moment or feature in the demo?Was it getting a r",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -7364,6 +8210,25 @@
     "summary_language": null
   },
   {
+    "id": "fefe5256b33afc1744b2",
+    "title": "Big Update: A Bigger World & New Ways to Earn",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114038216",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-23T22:48:22+00:00",
+    "collected_at": "2026-11-11T01:10:54+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hey, resellers!Junkyard Reseller is getting a big update! There’s more ground to explore, more scrap to discover, and new ways to turn your finds into profit.A Bigger World to Explore The map is now five times larger, with new junkyard locations to search. Discover over 50 new junk objects and more than 10 new junk cars as you explore.New Junk Selling System Turn scrap into cash with a new selling system that gives you more reasons to search through the junkyard.New Delivery System Take on deliv",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "d0f8e40861c99a71e7da",
     "title": "Ultimate Scream rises again in EA SPORTS FC™ 27",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114037326",
@@ -7870,6 +8735,25 @@
     "summary_language": null
   },
   {
+    "id": "fbcc897fb4576113bf9b",
+    "title": "Clean Start at NEXT FEST!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706690783",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-19T15:28:34+00:00",
+    "collected_at": "2026-11-11T01:10:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "TWO ANNOUNCEMENTS IN ONE DAY!We’re thrilled to announce that Clean Start our cozy game is taking part in Steam Next Fest! You can jump in and play our demo and wishlist now! What does \"Cleaning with Meaning\" mean to us?In Clean Start, cleaning isn't just about clearing away dirt or ticking off a checklist and throwing out the rubbish. You will come by a number of characters and each of their rooms will have stories and items to tell. Help Support us!Download our demo directly from our Steam page",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "bef28ea087a733eb4284",
     "title": "EA SPORTS FC™ 27 | The Grounds Developer Archetypes Update",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706690708",
@@ -7978,6 +8862,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Hello again, Rind Town! Thank you so much for playing the demo and for every message you sent us. A lot of this update comes straight from your feedback, and from us playing our own deckbuilder a bit too much. Here is everything new. The big one: meme stickers!Your customers can now get meme stickers on their cups, and yes, they react. Each one is loved by different customers. Find them in sticker boxes at the Morning Market (a box shows up on about one morning in three), drag one onto a custome",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "c16755756a922d4d16ad",
+    "title": "50,000 WISHLISTS! 🎉 You guys are absolutely incredible! Thank you!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706689214",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-19T08:15:35+00:00",
+    "collected_at": "2026-11-11T01:10:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "We’re sitting here staring at the dashboard, and we genuinely can’t thank you enough: Clean Start has officially crossed 50,000 wishlists!When we started working on this game, we hoped people would find it, but the overwhelming support, feedback, and love from this community have completely blown us away. Every single wishlist gives our tiny indie team a massive boost as we charge toward the finish line.Seriously from the bottom of our hearts, thank you. ❤️ As we are creeping towards launch we w",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -8277,6 +9180,25 @@
     "summary_language": null
   },
   {
+    "id": "4cd57ff8d235c29a5f0e",
+    "title": "Localisation Demo Update!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673862",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-14T10:25:09+00:00",
+    "collected_at": "2026-11-11T01:10:42+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hello players!We have just released an update for our playable demo, adding full text localisation across multiple languages!Whether you’re dealing with tricky landlords like Mr. Kowal in French, Chinese, Spanish, German, Japanese, Korean, or Polish, you can now enjoy the demo completely in your native tongue.Supported Languages:French (Français)Chinese (Simplified & Traditional)Spanish (Español)Japanese (日本語)German (Deutsch)Korean (한국어)Polish (Polski)How to switch languages:Ensure your demo bui",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "43992d8f39294d819e8f",
     "title": "[School-Wide Announcement] 10,000+ Players on Day 1! Emergency Repairs Completed",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673733",
@@ -8324,6 +9246,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Autumn is shaping up to be puzzle season because all the pieces are FALL-ing into place for Escape Academy 2: Back 2 School!We’re excited to announce that Escape Academy 2: Back 2 School will be launching November 5th on Steam! Get ready to jump into the fully explorable campus, tackle our new and improved (and possibly deadly) escape rooms, loads of fun side quests, brand new characters and, of course, getting quality time with… THE PURRFESSOR!And don’t forget to bring a friend along for the pu",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "78d90f3d0429a4170eec",
+    "title": "The Performance Enhancement Update - LIVE NOW",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067941356",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-12T15:27:51+00:00",
+    "collected_at": "2026-11-11T01:10:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "In anticipation of the full game launching on November 5, management has decided to reward you with a brand-new update. 🙌Please enjoy these enhancements while continuing to meet all harvesting and profitability targets.🚀 JETPACK UPGRADEThrust is now under your control. Use it wisely.🏆 STEAM ACHIEVEMENTSOutstanding performance is now officially recognised and rewarded.⚠️ NEW ENEMY TYPEBeware there have also been reports of a dangerous new enemy lurking in Sectors 2 and 3.🔧 OPERATIONAL IMPROVEMENT",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -8967,6 +9908,25 @@
     "summary_language": null
   },
   {
+    "id": "85dca95cd39c587259e5",
+    "title": "🍂 Clean Start is Featured in Companion Falls For You! Play the Demo Now!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498217793",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-23T08:48:18+00:00",
+    "collected_at": "2026-11-11T01:10:42+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Good Morning and Hello everyone!! Clean Start is featured at the 'Companion Falls for you' event over on Steam and you can play our updated demo today! Whether you're taking a break from work or looking for a cosy companion to keep you company on your screen, now is the perfect time to dive in.Play the Free Demo Today!To celebrate the event, our New playable demo is live! Here is what you can check out right now:How You Can Help UsIf you enjoy your time with the demo, here are two quick ways to ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "73ce15c163674a9f27d7",
     "title": "Exploding the Moon using Unreal Sequencer",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216975",
@@ -9142,6 +10102,25 @@
     "summary_language": null
   },
   {
+    "id": "a30dda85e19a5c623603",
+    "title": "The Operational Efficiency Update - LIVE NOW",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701952",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-14T15:04:03+00:00",
+    "collected_at": "2026-11-11T01:10:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Attention, Employees!Management thanks you for all your valuable feedback, and has chosen to reward your efforts with a new patch.This update focuses on interplanetary balancing, quality-of-life improvements, and bug fixes designed to improve operational efficiency.💰 OVERTIME ACCOUNTABILITYTo help recoup increased investment costs, dying during Overtime will now incur a 50% earnings penalty.Remember: completing your contract is the easiest way to protect your earnings.🐛 INCREASED HOSTILE ACTIVIT",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "4050480b50ba060aa62e",
     "title": "The Blacksmith Is Now Open!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262701382",
@@ -9227,6 +10206,27 @@
     "game_ids": [],
     "category": "industry",
     "summary": "In this week's devlog, I go over my workflow for creating music for my game. It's Cubase and Adobe Audition. So....not that complicated!One of the puzzle rooms in my game is a brick facade wreathed in chains, set on an endless wooden expanse. The only soundtrack at first is the creaking of your footsteps and the sparse, distant reverberations of grinding metal.In order to create a seamlessly looping dark ambient soundtrack for this wood and metal nightmare, I start by opening my music sequencer ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3e9f553e9f6af3566504",
+    "title": "SWARM HARVEST DEMO: OUT NOW!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443120",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-03T12:24:07+00:00",
+    "collected_at": "2026-11-11T01:10:44+08:00",
+    "game_ids": [
+      "steam-4810500"
+    ],
+    "category": "demo",
+    "summary": "Congratulations, employee! Your opportunity to prove your value to the corporation has arrived.🚨 The SWARM HARVEST demo is now LIVE! 🚨Mow through overwhelming alien swarms, stack ridiculous upgrades and deploy corporation-approved defensive towers to survive the harvest and turn alien biomass into pure profit.🫡 ➡️ 🐛 ➡️ 💰If you enjoy it, we'd really appreciate a wishlist, and we'd love to hear what you think! Your feedback helps us make the game better before launch. 💜--StarMulk Industries™Recrui",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -9737,6 +10737,25 @@
     "summary_language": null
   },
   {
+    "id": "440c295f49f1817ae68a",
+    "title": "Tiny Teams is almost over! Share your demo highlights!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314354098",
+    "source": "Steam 官方公告",
+    "published_at": "2026-08-11T13:24:04+00:00",
+    "collected_at": "2026-11-11T01:10:42+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "A HUGE thank you to everyone who has taken part, played our demo, and added Clean Start to their Wishlist during Tiny Teams! We are SO Close to our milestone! With only 2 days left of the event, we’d love to see what you’ve been up to in game!Played the demo? Share your favorite screenshots, clips, and highlights with us we’d love to see what you enjoyed most!Got questions or feedback? Drop us a message or leave a comment below.Thank you all so much for the incredible support! If you haven't yet",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "7be654d9287d3bc8d32e",
     "title": "The Campus Gardens | Devlog #18",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314346087",
@@ -9746,6 +10765,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "🔔WISHLIST ESCAPE ACADEMY 2🔔Hey there, Escapists! In a recent blog, we talked about Science Campus being “1 of 5” campuses. While the Campus Gardens isn’t an official campus in the traditional sense, we still would like to include it when talking about the campus areas, because just like The Quad, this scenic beauty shouldn’t be underestimated.Welcome to the Campus GardensThe Campus Gardens are a great place to go and relax, find some Red Herrings, get some extra credit quests done, and \\! 😉 So g",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9ba2440b2e4660522306",
+    "title": "Huge News: Clean Start is at Tiny Teams!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314341312",
+    "source": "Steam 官方公告",
+    "published_at": "2026-08-06T09:26:41+00:00",
+    "collected_at": "2026-11-11T01:10:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Our Game Clean Start is at Tiny Teams! Running from August 6th – August 13th! Tiny Teams is all about celebrating amazing games made by micro-studios and solo developers. We are honoured to be included alongside so many incredible titles.Throughout the event, keep an eye on our Steam page for updates, streams, and the BIG announcement at 2pm today! Thank you so much to everyone who has wishlisted, playtested, and supported us on this journey so far we couldn't have done it without you! Can we hi",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -10102,6 +11140,25 @@
     "summary_language": null
   },
   {
+    "id": "032e33e1acb86878a68b",
+    "title": "Ask us anything! One Week After the Clean Start Trailer",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562388",
+    "source": "Steam 官方公告",
+    "published_at": "2026-06-30T12:48:23+00:00",
+    "collected_at": "2026-11-11T01:10:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "It’s been one week since we revealed our brand-new trailer for Clean Start, and we’d love to hear from you!Do you have any questions about the game? Any questions behind our brand new trailer, mechanics, story, or anything else you’d like to know so far? Drop them below in the comments and we’ll answer as many as we can. Some may even appear on our Q&A's which we are creating a series on socials as well as our Steam page. We’re excited to hear your thoughts and feedback, thanks for being part of",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "494cb65bdfb7af4aacf4",
     "title": "World Stability Overhaul & Single Player Mode: Explore as Far as You Want",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165561222",
@@ -10189,6 +11246,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Prepare to target the city's cultural centerpiece in The Kortz Center Heist by first enrolling in the new Fine Art Collector program to earn special rewards in GTA Online, including up to GTA$1,500,000 in bonus cash, now through July 13. {STEAM_CLAN_IMAGE}/45517848/fd13534cb146fc3b0c90c20f9ae2b484a7bf72f3.jpg Play GTA Online between June 18 and July 13 to qualify as an Enthusiast and receive GTA$500,000 and a free Benefactor Turreted Limo (Sedan) from Warstock. This luxurious sedan has a suite o",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "f8ef2f11c963a1a94def",
+    "title": "Developer Q&A - Know more about Clean Start",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199315351",
+    "source": "Steam 官方公告",
+    "published_at": "2026-06-23T11:59:45+00:00",
+    "collected_at": "2026-11-11T01:10:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Developer Q&A Hey everyone!We recently had some time to do a Q&A and talk a bit more about our game and for what's more to come and wanted to share with you all! What kind of game is Clean Start? - At its heart, Clean Start is a cozy, narrative-driven cleaning game. It combines the satisfying, meditative loop of tidying up with heartwarming storytelling. What inspired the game’s concept? Most of us have experienced having a parent work abroad to support the family financially. So the game is ins",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -10315,6 +11391,25 @@
     "summary_language": null
   },
   {
+    "id": "69ff01c575fc380c2d3d",
+    "title": "JOIN US PLAYTESTERS!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199304254",
+    "source": "Steam 官方公告",
+    "published_at": "2026-06-18T13:27:35+00:00",
+    "collected_at": "2026-11-11T01:10:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "We are working hard behind the scenes on Clean Start, and we have reached a point where we need fresh eyes on the game. We are officially opening sign-ups for our upcoming playtest.Your feedback is incredibly valuable to us, whether it is finding bugs, letting us know if a mechanic feels satisfying, or telling us what you want to see more of in the final release. How to Join: Head over to our main Steam store page and click into the demo, where you will find 'Join Playtest' Where to Leave Feedba",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "6855d0d02839229954eb",
     "title": "Bug fixes & improvements",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199299387",
@@ -10372,6 +11467,25 @@
     "summary_language": null
   },
   {
+    "id": "dcd52e3593fc3f903e53",
+    "title": "Clean Start comes to Baltic Showcase",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783573189",
+    "source": "Steam 官方公告",
+    "published_at": "2026-06-16T06:38:28+00:00",
+    "collected_at": "2026-11-11T01:10:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "We are at the Baltic Showcase June 15th - June 21st - Thank you for having us Digital Vikings / Dev GAMM! As part of the showcase, we're also launching our new level playtest starting today!This is your chance to jump into the latest content, experience new challenges, and help shape the future of Clean Start with your feedback.What's New?🧽 Brand-new playable level✨ Fresh cleaning challenges🔧 Ongoing improvements and polish💬 Your feedback helps us make the game even betterJoin the PlaytestThe pl",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "e55bc1c755bf0e9c1e20",
     "title": "Steam Next Fest Demo Out Now!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783571971",
@@ -10419,6 +11533,25 @@
     "game_ids": [],
     "category": "demo",
     "summary": "Dear Alchemists,We are very happy to announce the release of a brand new demo of Corpus et Spiritus, right in time for Steam Next Fest! We have done a lot of balancing to make the game more fun and more accessible. There are a bunch of new cards, some talismans that have changed, and we've fine-tuned the mechanics of the game.We've also made a brand new trailer for this update, check it out:As you probably noticed, the Next Fest has started! It means it is time to play demos, and we sure hope yo",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "04fe04db85a7466068f3",
+    "title": "Clean Start Joins the Cozy Job Sims Event!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783565394",
+    "source": "Steam 官方公告",
+    "published_at": "2026-06-13T07:18:15+00:00",
+    "collected_at": "2026-11-11T01:10:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Clean Start is Joining the Cozy Job Sims Event!Today we're going to be featuring our demo at the Cozy Jobs Sims Event!Clean Start has been a really lovely journey and seeing our game featured alongside so many other cozy and hardworking simulation experiences is something we're genuinely grateful for.If you've been following development, thank you for all your support so far. And if you're discovering Clean Start for the first time through the event, welcome! We'd love for you to jump into the d",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -10516,6 +11649,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Dive into exciting new player-created GTA Online experiences in the Community Mission Series on PC (Enhanced), including a second showcased submission from GTA Series Videos along with new featured creators including ShelbyGR, and many more. Earn 4X GTA$ and RP in any of the curated Community Mission Series selections through June 17, as well as an additional GTA$500,000 bonus each week for completing all the featured Community Missions. {STEAM_CLAN_IMAGE}/45517848/874ebf159b3828c0a5d1b8f1e7e9b7",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2bbf7feb146df32609f5",
+    "title": "30,000 Wishlists!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187611",
+    "source": "Steam 官方公告",
+    "published_at": "2026-06-04T14:06:48+00:00",
+    "collected_at": "2026-11-11T01:10:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello everyone!Today, we're celebrating a huge milestone for Clean Start we've officially reached 30,000 wishlists on Steam! 🎉To everyone who has wishlist the game, played the demo, shared feedback, or supported us along the way, thank you. Every bit of support has helped us reach this incredible milestone, and we're so grateful to have you on this journey with us.Please make sure to check us our across all socials too as we share more soon! As if that wasn't exciting enough, Clean Start is also",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [

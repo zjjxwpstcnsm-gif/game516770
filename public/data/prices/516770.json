@@ -8555,14 +8555,14 @@
     }
   ],
   "holdings_as_of": "2026-09-30",
-  "holdings_status": "historical_snapshot",
+  "holdings_status": "ok",
   "collection_status": "ok",
   "limitations": [
     "价格为场内未复权收盘价，非净值、非实时行情",
     "历史持仓未核验，不计算直接收益权重"
   ],
   "holdings_evidence": {
-    "status": "historical_snapshot",
+    "status": "ok",
     "as_of": "2026-09-30",
     "holdings": [
       {
@@ -8703,8 +8703,7 @@
     ],
     "source_url": "https://fundf10.eastmoney.com/ccmx_516770.html",
     "published_at": null,
-    "limitation": "披露期持仓快照，非实时权重；公告时间缺失，不用于历史时点策略；披露可能仅前十大",
-    "error": "ConnectTimeout"
+    "limitation": "披露期持仓快照，非实时权重；公告时间缺失，不用于历史时点策略；披露可能仅前十大"
   },
   "calendar_verified": true,
   "calendar": {
@@ -8719,7 +8718,7 @@
     "session_close": "15:00",
     "limitation": "按已公布全年休市表；临时停市需另外核验，跨年自动暂停"
   },
-  "benchmark_verified": false,
+  "benchmark_verified": true,
   "benchmark": {
     "status": "ok",
     "code": "000300",
@@ -8728,7 +8727,7 @@
     "source": "Sina",
     "source_url": "https://quotes.sina.cn/cn/api/jsonp_v2.php/var%20_data=/CN_MarketDataService.getKLineData",
     "adjustment": "price_index_not_total_return",
-    "as_of": "2026-11-09",
+    "as_of": "2026-11-10",
     "prices": [
       {
         "date": "2023-01-03",
@@ -12453,6 +12452,10 @@
       {
         "date": "2026-11-09",
         "close": 4056.108
+      },
+      {
+        "date": "2026-11-10",
+        "close": 4059.111
       }
     ],
     "limitation": "宽基市场对照，并非 ETF 跟踪的动漫游戏指数；指数价格收益不含股息"
