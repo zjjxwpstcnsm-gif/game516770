@@ -1,5 +1,404 @@
 [
   {
+    "id": "c50096f28eb75523f6ae",
+    "title": "The Legend of Heroes: Trails beyond the Horizon sequel to launch by September 2027 in Japan",
+    "url": "https://www.gematsu.com/2026/11/the-legend-of-heroes-trails-beyond-the-horizon-sequel-to-launch-by-september-2027-in-japan",
+    "source": "Gematsu",
+    "published_at": "2026-11-11T05:21:56+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Falcom will release a sequel to The Legend of Heroes: Trails beyond the Horizon, the &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e743ef2773be90a595bf",
+    "title": "PS5 shipments top 100 million",
+    "url": "https://www.gematsu.com/2026/11/ps5-shipments-top-100-million",
+    "source": "Gematsu",
+    "published_at": "2026-11-11T03:54:30+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "PlayStation 5 has shipped more than 100 million units worldwide as of November 10, 2026, &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "4c52e108bc08edf3ab2a",
+    "title": "Monster Hunter Stories 3: Twisted Reflection sales top one million",
+    "url": "https://www.gematsu.com/2026/11/monster-hunter-stories-3-twisted-reflection-sales-top-one-million",
+    "source": "Gematsu",
+    "published_at": "2026-11-11T01:58:44+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "sales",
+    "summary": "Total sales for Monster Hunter Stories 3: Twisted Reflection have surpassed one million units worldwide, &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2aeebd1d8cc2f624c506",
+    "title": "‘Mega Man Legends – New Media’ listing appears on ACTRA Toronto current projects page",
+    "url": "https://www.gematsu.com/2026/11/mega-man-legends-new-media-listing-appears-on-actra-toronto-current-projects-page",
+    "source": "Gematsu",
+    "published_at": "2026-11-11T01:44:20+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "A listing for &#8220;Mega Man Legends &#8211; New Media&#8221; has appeared on the &#8220;What&#8217;s Shooting&#8221; &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "c650c6748629ec6703ef",
+    "title": "Steam's age verification in Australia now takes your account's age into consideration",
+    "url": "https://www.pcgamer.com/software/platforms/steams-age-verification-in-australia-now-takes-your-accounts-age-into-consideration",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T01:34:31+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "If your Steam account is at least nine years old, you should be good. Maybe.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "7466885ad31b5c5e9181",
+    "title": "One Elder Scrolls fan is reviving and upgrading (with AI) a lost spin-off for the Nokia N-Gage and porting it to PC",
+    "url": "https://www.pcgamer.com/games/the-elder-scrolls/one-elder-scrolls-fan-is-reviving-and-upgrading-a-lost-spin-off-for-the-nokia-n-gage-and-porting-it-to-pc",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T00:00:19+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Anyone remember Shadowkey?",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "65de3dec59f59d9a70a0",
+    "title": "Sony cancels another live service game ahead of release, but at least there won't be any layoffs this time",
+    "url": "https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T23:15:38+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Fairgames was revealed in 2023, but nothing more was ever seen of it.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0e4643ed42e3b2f8d713",
+    "title": "Capcom quietly updates the Monster Hunter Wilds beta listing on Steam, indicating a possible expansion playtest",
+    "url": "https://www.pcgamer.com/games/action/capcom-quietly-updates-the-monster-hunter-wilds-beta-listing-on-steam-indicating-a-possible-expansion-playtest",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T22:22:30+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "We might get an early taste of Ascendance before long.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e489018d3a151cfafe4c",
+    "title": "Bungie drops gameplay trailer for Marathon's 'co-op PvE roguelite' mode and swanky new social space",
+    "url": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T21:16:59+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The Symbiosis update, which will also kick off a beta for a new Team Deathmatch mode, will launch on December 8 with a free-play week.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "bdd12273f9d5fe21dd9c",
+    "title": "Fairgame$ canceled",
+    "url": "https://www.gematsu.com/2026/11/fairgame-canceled",
+    "source": "Gematsu",
+    "published_at": "2026-11-10T20:58:47+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Sony Interactive Entertainment has canceled development subsidiary Haven Interactive Studios&#8217; May 2023-announced multiplayer shooter Fairgame$, &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "1fccb384bb484eac2dc8",
+    "title": "Bug Fixes, Gameplay Improvements & New Control Options",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643361171",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-10T20:40:27+00:00",
+    "collected_at": "2026-11-11T14:25:52+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Update Notes1. The First Two Storybooks Are Now Unlocked from the StartYou no longer need to complete Enlist before starting Rise of the Chicken King.We've heard feedback from players who felt that Enlist was too slow-paced, so we've made both storybooks available right from the beginning.You can now skip the introductory chapter, where you play as a human soldier, and jump straight into Rise of the Chicken King to experience the main adventure.Rise of the Chicken King also includes nearly all t",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0ba4f1071adaa7581673",
+    "title": "2 years after Unknown 9: Awakening bombed, Bandai Namco is closing the studio that made it",
+    "url": "https://www.pcgamer.com/gaming-industry/2-years-after-unknown-9-awakening-bombed-bandai-namco-is-closing-the-studio-that-made-it",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T19:55:36+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Reflector Entertainment had a new game in pre-production, but Bandai decided it wasn't worth the time or money to pursue.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a7195fcb0b0a38a487fd",
+    "title": "PlayStation Plus PC app is being shut down in December because less than 0.4% of eligible subscribers are using it",
+    "url": "https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T18:57:18+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Yes, this fits with Sony's broader pullback from PC, but the real reason the app is \"retiring\" is a simple lack of interest.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a174f335a5af070db654",
+    "title": "Mouse Work launches December 7",
+    "url": "https://www.gematsu.com/2026/11/mouse-work-launches-december-7",
+    "source": "Gematsu",
+    "published_at": "2026-11-10T18:29:05+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Party game Mouse Work will launch for Switch 2 on December 7, developer Nitrome announced. &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "51e6c156930dcfd0dc6f",
+    "title": "The Outer Worlds 2 DLC ‘Side Effects Guaranteed’ launches December 2",
+    "url": "https://www.gematsu.com/2026/11/the-outer-worlds-2-dlc-side-effects-guaranteed-launches-december-2",
+    "source": "Gematsu",
+    "published_at": "2026-11-10T18:17:44+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Publisher Xbox Game Studios and developer Obsidian Entertainment will release The Outer Worlds 2 downloadable &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2bbbe8530cb153efe928",
+    "title": "The Outer Worlds 2’s first DLC arrives December 2",
+    "url": "https://blog.playstation.com/2026/11/10/the-outer-worlds-2s-first-dlc-arrives-december-2",
+    "source": "PlayStation Blog",
+    "published_at": "2026-11-10T18:00:31+00:00",
+    "collected_at": "2026-11-11T14:25:54+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The time has come to expand on the experience for The Outer Worlds 2 with the first of a two-part story expansion, Side Effects Guaranteed, arriving on December 2. After a distress signal from a derelict ship is picked up, you and your crew quickly get embroiled into the story of an abandoned settlement, a [&#8230;]",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5844d2002897b08706b5",
+    "title": "I installed a GTA 5 mod that makes it rain human beings, and no I don't know why either",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-gta-5-mod-that-makes-it-rain-human-beings-and-no-i-dont-know-why-either",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T18:00:00+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "It's raining men. And others.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e0f9ed35ea6e7f7e99d6",
+    "title": "Grand Theft Auto 6 is 'the most pre-ordered' game of all time on both Xbox and PlayStation",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T17:34:18+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "preorder",
+    "summary": "On PC, however, GTA 6 remains among the least pre-ordered games of all time because, well, you know.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "17421a2d595194a18810",
+    "title": "Note to self: If playing Call of Duty in an airport, don't say words like 'bomb' lest you want to evacuate an entire plane",
+    "url": "https://www.pcgamer.com/games/call-of-duty/note-to-self-if-playing-call-of-duty-in-an-airport-dont-say-words-like-bomb-lest-you-want-to-evacuate-an-entire-plane",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T17:15:33+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Oopsie daisy.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "c0e2560eb4a85eea9432",
+    "title": "MS has messily patched a Microsoft Paint security vulnerability, but the update still isn’t showing up for some",
+    "url": "https://www.pcgamer.com/software/windows/ms-has-messily-patched-a-microsoft-paint-security-vulnerability-but-the-update-still-isnt-showing-up-for-some",
+    "source": "PC Gamer",
+    "published_at": "2026-11-10T17:14:03+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "What a shambles.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "7dbcebc94d5c7a2aae52",
+    "title": "Devolver Digital and BlackLight Games announce roguelike auto-battler All Army Attack for PC",
+    "url": "https://www.gematsu.com/2026/11/devolver-digital-and-blacklight-games-announce-roguelike-auto-battler-all-army-attack-for-pc",
+    "source": "Gematsu",
+    "published_at": "2026-11-10T17:13:01+00:00",
+    "collected_at": "2026-11-11T14:25:55+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Publisher Devolver Digital and developer BlackLight Games have announced All Army Attack, a &#8220;chaotic, large-scale &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "2907aa79928a15fdd266",
     "title": "Acer Predator Atlas 8 (G3 Extreme) review",
     "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/acer-predator-atlas-8-g3-extreme-review",
@@ -74,6 +473,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "436c3d14726e6f65e6e2",
+    "title": "Version 1.0.3 – Patch Notes",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360268",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-10T16:30:36+00:00",
+    "collected_at": "2026-11-11T14:25:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "A Little Thank You ❤️A huge thank you to everyone who has taken the time to stream the game, leave a review, or share feedback with us! It really means a lot to our little team of two. We're reading all your feedback and doing our best to keep improving the game. Thank you for being part of this journey! ❤️ Improvements & Quality of LifeCustom Key Bindings: Key bindings now support custom mouse buttons and keyboard keys.New Shortcuts: Added default shortcuts for construction (N) and demolition (",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -513,6 +931,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2a341094032b31d3dd52",
+    "title": "Update 1.5.3.0",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358963",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-10T11:05:02+00:00",
+    "collected_at": "2026-11-11T14:25:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Changelog: Adjusted the brightness of game areas. Added a halo marker above the character to indicate that the \"God Mode\" achievement can still be unlocked in the current save. Fixed a rare crash that could occur during the meta-progression screen.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -1222,6 +1659,25 @@
     "summary_language": null
   },
   {
+    "id": "a0730f52d4409cd7c59f",
+    "title": "Version 1.0.0 --> Version 1.0.2",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354806",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-09T09:32:00+00:00",
+    "collected_at": "2026-11-11T14:25:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Version 1.0.2 – Hotfix Update (19:00 GMT+1)Bug FixesFixed an issue in the starting cinema where walls placed in the bottom corners could not be demolished.Fixed controller navigation during ticket clerk tutorial dialogues. Players can now correctly advance through conversations.Fixed controller issues during the research tutorial.Fixed an issue where confirming multiple object placements could accidentally open the menu of an object underneath. Also prevented duplicate interactions.Fixed a game-",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "c293c08c5010599da3e1",
     "title": "24 Hours Until Launch & 200,000 Wishlists!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354643",
@@ -1250,6 +1706,84 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Coin flip fix Blaster energy disabled Ui fix",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9b81536c3052e058ab64",
+    "title": "Cinema Theater Tycoon Is OUT NOW!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354506",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-09T07:05:24+00:00",
+    "collected_at": "2026-11-11T14:25:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hey, cinema lovers!The doors are finally open: Cinema Theater Tycoon is now available on Steam! 🎉After almost 3 years of development, Juliette and I are incredibly happy to finally share our game with the world!What started as a small project between the two of us has grown into something much bigger than we ever imagined. It's been a long journey filled with challenges, countless hours of work, and a lot of passion for cinema and video games. We also want to give a huge thank you to everyone wh",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d24be26827899e3d31d1",
+    "title": "Last Chickenburg Early Access Is Here!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354488",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-09T07:00:35+00:00",
+    "collected_at": "2026-11-11T14:25:52+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Dear players,Last Chickenburg Early Access Launches Today!Jump into this quirky action-adventure RPG and enjoy a unique world that we've crafted behind the scenes!To appreciate player support, we're offering a 10% launch discount for 2 weeks. So grab it now if you haven't already!Early Access RoadmapWe’ve also published our Early Access roadmap, outlining all the new content still in the works as we move forward through this Early Access period.Last Chickenburg is our team’s debut project, over ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d1498d4253360a723238",
+    "title": "Travellin Cats Advent Calendar Now Available!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354410",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-09T06:35:24+00:00",
+    "collected_at": "2026-11-11T14:25:46+08:00",
+    "game_ids": [
+      "steam-2806540"
+    ],
+    "category": "industry",
+    "summary": "Hi everyone, Travellin Cats Advent Calendar is out! 🎉It's hard to believe, but I've literally been working on this for over 2.5 years. 25 levels in classic black & white as well as in color are waiting for you. The game is deliberately kept on the easier side because it's meant to be relaxing and cozy. :)If you enjoy it, a review would mean the world to me. Launch-week reviews make a huge difference for a small indie game like this and help more people discover it. Peace & LovePatrick",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "95dc16e41556566452a1",
+    "title": "Bullet Meltdown OUT NOW!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354370",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-09T06:02:31+00:00",
+    "collected_at": "2026-11-11T14:25:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "After all the hard work, countless hours, and your amazing support, the day has finally come! Thank you to everyone who added the game to their wishlist and supported me on this journey. It truly means the world to me. Get your copy now and jump into the game! I hope you'll enjoy playing it as much as I enjoyed creating it! Thank you for making this day possible! Stay Cheezy! 🧀",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -1754,6 +2288,25 @@
     "summary_language": null
   },
   {
+    "id": "404c567d501e365d58dc",
+    "title": "When Can You Start Building Your Cinema?",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643350135",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-07T17:15:48+00:00",
+    "collected_at": "2026-11-11T14:25:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hey, cinema lovers!Opening day is almost here! Cinema Theater Tycoon launches worldwide on November 9 at 8:00 AM CET (UTC+1).Here’s when you can start playing:LocationLocal release dateLocal release timeLos AngelesNovember 811:00 PM PSTNew YorkNovember 92:00 AM ESTSão PauloNovember 94:00 AM BRTLondonNovember 97:00 AM GMTParis / BerlinNovember 98:00 AM CETBeijingNovember 93:00 PM CSTTokyo / SeoulNovember 94:00 PM JST / KSTSydneyNovember 96:00 PM AEDTEveryone gets access at the same moment, which ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "334f7aaeeec0ad565a45",
     "title": "What's the toughest choice you've made in an RPG?",
     "url": "https://www.pcgamer.com/games/rpg/whats-the-toughest-choice-youve-made-in-an-rpg",
@@ -1934,6 +2487,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "The Whip, rebuilt from scratch The whip now moves like a real whip: a short wind-up, a loop that rolls out to the tip, a crack straight ahead, then the recoil. Damage lands the moment the tip reaches an enemy, and the crack is timed to the sound. It strikes forward in a narrow fan. Wide Echo widens the fan, Long Arm extends the reach, Manyfold adds damage. Lightning Whip is fast and sharp. Every third crack calls a golden bolt from the sky that splits the ground, and its chain lightning now star",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "ec12d85050abd8d24951",
+    "title": "ZhaoYou: Yin-Yang Crossing — Early Access Launch Postponed",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643348369",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-07T03:57:39+00:00",
+    "collected_at": "2026-11-11T14:25:54+08:00",
+    "game_ids": [],
+    "category": "delay",
+    "summary": "Hello everyone, I am the developer of ZhaoYou: Yin-Yang Crossing. The Steam Early Access launch originally planned for November 9 has been postponed. The earlier build review identified a compatibility issue with the startup videos. I have submitted an updated build and tested it on another PC. It is now awaiting Steam re-review. I am sorry to keep you waiting. A new release date will be announced after the build has been approved and our release arrangements are confirmed. In the meantime, I wi",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -2447,6 +3019,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "V 1.1.0 Update – Localisation, Fixes & Improvements Updates• In game text in now localized into French, Italian, German, Spanish, Japanese, Polish, Portuguese, Russian, Korean, Simplified Chinese • Added Grenade Counter UI to Grenade pouch • Added Option in Settings Menu to turn off Screen Fading when teleporting • Added Option in Settings Menu to bring Settings Menu/Game Over screen Closer/FurtherFixes• Fixed - Users hands remain rendered on the floor with the Universal Menu open.• Fixed - User",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "600ed754454ca3e01fb2",
+    "title": "Patch Notes: Demo 1.0.1–1.0.5 & Pre-Release 0.9.22–0.9.26",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344889",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-06T09:57:54+00:00",
+    "collected_at": "2026-11-11T14:25:50+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hello everyone!Over the past few updates, we've been working hard to improve both the Cinema Theater Tycoon demo and the pre-release version of the full game, focusing on gameplay balancing, performance, bug fixes, UI improvements, and overall quality of life.These updates include a major overhaul of the spectator attendance system, improvements to room construction, better film programming mechanics, and dozens of fixes across the entire game.Here's a complete overview of the improvements intro",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -5136,6 +5727,25 @@
     "summary_language": null
   },
   {
+    "id": "aa15fda1348c2e4c4364",
+    "title": "One Week Until We Open the Doors!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302249506",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-02T19:55:52+00:00",
+    "collected_at": "2026-11-11T14:25:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hey, cinema lovers!In just one week, it will be time to welcome your very first audience: Cinema Theater Tycoon launches on Steam on November 9! To celebrate the launch and thank everyone who has supported us along the way, the game will be 10% off during its first week on Steam.Whether you discovered the project early on, played the demo, shared feedback or recently joined us, thank you. Every message, wishlist and shared screenshot has helped us get to this moment.Soon, you’ll be building and ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "fa34e13d1d4465343d17",
     "title": "Release & Full Game Walkthrough",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302249213",
@@ -5645,6 +6255,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d451019f138b94edc1de",
+    "title": "🎉 Thank You for 6,000 Wishlists!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302248233",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-02T13:56:38+00:00",
+    "collected_at": "2026-11-11T14:25:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "What an incredible milestone! I'm truly grateful to everyone who added my game to their wishlist, followed my development journey, shared it with others, and supported me along the way. Reaching 6,000 wishlists means so much to me. Seeing so many people excited about my game makes these final days before launch even more special. Just 7 days to go! I'm working hard to put the finishing touches on everything, and I can't wait for you to finally get your hands on the game. If you haven't wishliste",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -7778,6 +8407,25 @@
     "summary_language": null
   },
   {
+    "id": "a6f9686798a062c67393",
+    "title": "Item Lock, Enemy Book, Item Book & MORE!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230271",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-28T09:28:15+00:00",
+    "collected_at": "2026-11-11T14:25:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hey, we have a BIG changelog this time!New features:Added a highly requested feature: item locking in the shop! Added the Encyclopedia, featuring the Enemy Book, Item Book, and Tips section!The Enemy Book contains information about each enemy, including its threat level, stats, and a description of its special abilities.To unlock enemies in the Enemy Book, you first need to encounter them in-game. The Item Book lets you preview item cards for all the items you've unlocked. The Tips section lets ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "0ec71151abdce3e563cf",
     "title": "A Slacking-Friendly Tower Defense You Can Hide With One Click",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230155",
@@ -8080,6 +8728,25 @@
     "game_ids": [],
     "category": "release",
     "summary": "Probably Stolen Global Release Times & PricingProbably Stolen is launching in just 2 days! With opening day just around the corner, here's everything you need to know about when you can play the full game and how much it'll cost.When Can You Play?We're launching on October 28 at 2:00 PM CET / 9:00 AM EDT / 6:00 AM PDT!Regional PricingHere's a look at the expected pricing for Probably Stolen across different regions.US: $19.99EU: €19.99UK: £16.99CN: ¥55RU: ₽499PL: zł49.99JP: ¥1,999CA: C$24.99AU: ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "31e9bd9c35009308cce6",
+    "title": "The Cinema Theater Tycoon Demo Has Been Updated!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114043923",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-26T07:12:40+00:00",
+    "collected_at": "2026-11-11T14:25:50+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "The Cinema Theater Tycoon demo has received a major update and is available now.This new version brings the demo up to date with the latest improvements made during the development of the full game.That means demo players can now benefit from the newest gameplay changes, interface improvements, balancing adjustments, quality-of-life features, performance optimizations, and general polish developed for version 1.0.Experience the Latest Version of the GameThe demo remains focused on the beginning ",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -8436,6 +9103,25 @@
     ],
     "category": "industry",
     "summary": "Patch Notes As Heepcaps begin to make their way onto our dining tables, I hope all you Owners are doing well! This time, we're bringing you a long-awaited new class, new cards, and new gameplay systems! Without further ado, let's jump right in! First, let's start with the trailer! Ver. 0.1.0 Introduction Trailer New Class: Hunter Arrives! Hunter's defining feature is \"Treasure Hunt,\" a mechanic centered around searching for treasure. Reroll the shop, search for treasure chests, and claim the rew",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "f9a04d3471ce726fcacb",
+    "title": "Check out Last Chickenburg Demo During Steam Next Fest!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114028460",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-21T11:08:13+00:00",
+    "collected_at": "2026-11-11T14:25:52+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Dear players,Last Chickenburg is currently participating Steam Next Fest, with demo available to try out for free!The demo features 1–2 hour sneak peek at our action-packed, hardcore gameplay, and we’d love to hear what you think of it!If the game catches your interest, please add it to your wishlist. Your support means everything to our small team, and we truly appreciate it!Last Chickenburg is set to launch on Steam via Early Access on November 9th, stay tuned for more content in the coming we",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -9123,6 +9809,25 @@
     "summary_language": null
   },
   {
+    "id": "db0fc0c15fa53fb6ec36",
+    "title": "Last Chickenburg Demo is Now Live! Early Access Coming Nov 9",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706680749",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-16T09:27:43+00:00",
+    "collected_at": "2026-11-11T14:25:52+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hi everyone, It's been a few years since we last shared any update on this game, and today it's finally time to share what's going on behind the scenes, our demo launch, and most importantly, the upcoming Early Access coming on November 9th!Last Chickenburg Demo Now Available!A rather surprise drop, but Last Chickenburg Demo is now available on Steam right now! Featuring 1–2 hour sneak peek at our action-packed, hardcore gameplay, and we’d love to hear what you think of it :)Check out the demo w",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "9c4d63f00f89703034a7",
     "title": "Not Now, Aliens! is Coming to Steam Next Fest!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706678529",
@@ -9132,6 +9837,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Hello!Great news! Not Now, Aliens! will be part of Steam Next Fest! Try the free demo and take on the alien invasion solo or with up to 4 players in online co-op.The aliens have given humanity just 8 hours before Earth is destroyed. Luckily, they dropped a Gravity Gun—and now the whole city is your building material!What to expect?Build your way to the UFO — pick up, rotate, and stack objects to create your own path into the sky.Upgrade your Gravity Gun — collect alien technology and unlock the ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "ef3c4ee15192d7e01a37",
+    "title": "Cinema Theater Tycoon – Steam Deck Compatibility",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677970",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-15T14:42:06+00:00",
+    "collected_at": "2026-11-11T14:25:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello, theater owners!We're happy to confirm that Cinema Theater Tycoon is fully playable on Steam Deck!We have tested the game on both Steam Deck LCD and OLED, and we're pleased with the overall experience. Here's everything you need to know about compatibility, performance, and future improvements.Controls & GameplayCinema Theater Tycoon offers full controller support, allowing you to enjoy every aspect of the game without needing an external keyboard or mouse.100% controller compatible: All g",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -9180,6 +9904,25 @@
     "summary_language": null
   },
   {
+    "id": "302bb25d8389193a38c0",
+    "title": "Save scumming & cheats prevention dialogues",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706674064",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-14T11:57:38+00:00",
+    "collected_at": "2026-11-11T14:25:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Changelog:Added a new dialogue with the dog if you try to save-scum. Don't try to anger him, or you'll have a bad time!Added another special dialogue with the dog if you try to cheat your way to getting all 25 Golden Balls. It's pretty funny, and as a penalty, he deletes your save file!Fixed a bug where the game still considered a tile occupied when placing new structures or units on a tile where something had died during the previous wave.Made some other minor fixes and polish.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "4cd57ff8d235c29a5f0e",
     "title": "Localisation Demo Update!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673862",
@@ -9208,6 +9951,25 @@
     "game_ids": [],
     "category": "announcement",
     "summary": "Dear Teachers and Students,Hello everyone!We honestly never expected this—just yesterday, on our very first day of the Demo launch, over 10,000+ players downloaded and hopped into the game!Seeing the dashboard stats blew our minds; the entire dev team was both thrilled and incredibly humbled. A huge, heartfelt thank you to everyone who gave the demo a spin and showed us love! At the same time, we received a mountain of constructive feedback, hilarious critiques, and bug reports. We know the game",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "8041417442f6abe4b2d5",
+    "title": "Cinema Theater Tycoon Launches on 09/11/2026!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706673452",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-14T07:31:45+00:00",
+    "collected_at": "2026-11-11T14:25:50+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Today, we are excited to announce that Cinema Theater Tycoon will launch in version 1.0 on 09/11/2026, priced at $14.99 on Steam.To celebrate the announcement, here is our new Release Date Trailer: Cinema Theater Tycoon is a top-down pixel-art management game where you build, customize, and operate your own movie theaters.Starting in 1906, you will guide your business through more than a century of cinema history. New technologies, audience expectations, film distribution methods, and visual sty",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -9381,6 +10143,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "The foundation of every tactical masterclass starts on the training ground. It’s where players and managers alike spend most of their time, running drills, refining plans, and working on physical preparation as they look for that vital edge in the next game. In FM27, we’ve given Training a usability refresh and a system overhaul. It’s easier to navigate, more intuitive to interact with, and more tailored towards giving you the best possible chance of winning matches. The goal is clear: this is w",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "460c3d051e2be923195e",
+    "title": "Tutorial hints & even more balance!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067932820",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-09T10:19:52+00:00",
+    "collected_at": "2026-11-11T14:25:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Version 1.3.0.0 is out!Changelog:Added first-time explanations of game mechanics, with a dog explaining the main game features at key moments. This should make it much easier to understand how the game works!Rebalanced the waves to make the game less easy in areas with blue and green threat levels. The game should now be more challenging in both the early and late game.Changed how new areas are unlocked. After completing a blue threat level, you gain access to the blue threat level of the next a",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -9830,6 +10611,44 @@
     "summary_language": null
   },
   {
+    "id": "0011c5386f2511b0d9b5",
+    "title": "Farewell screen & more balance!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498233674",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-29T09:28:59+00:00",
+    "collected_at": "2026-11-11T14:25:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Changelog:New farewell screen that lets you properly say goodbye to fallen companions. Get to know who you lost and who has defeated them.More balance: I lowered the chance of getting high-level weapons from shop companions, so players need to rely more on developed and armed units from the stash.Early threat levels on Freezer Edge and Hotplates have been slightly rebalanced to provide more of a challenge.Stay cheezy!",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "6ab7f115122217aa0efb",
+    "title": "Your name in the game!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498233260",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-29T06:18:34+00:00",
+    "collected_at": "2026-11-11T14:25:46+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Thank you everyone for participating!Further submissions will not be considered at this point.Hi everyone, The game releases in about a month! :O Since I literally need thousands of names for this game, I thought it would be fun to include some of yours.Do you have a beloved pet whose name you'd like to see in the game? Want to surprise a friend?Comment your suggestions below and I will later let you know if which level you will be able to find it. :) Peace & LovePatrick",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "7fc2dd6e63bddc06cc22",
     "title": "The Steam demo is out",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498233150",
@@ -10206,6 +11025,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "In this week's devlog, I go over my workflow for creating music for my game. It's Cubase and Adobe Audition. So....not that complicated!One of the puzzle rooms in my game is a brick facade wreathed in chains, set on an endless wooden expanse. The only soundtrack at first is the creaking of your footsteps and the sparse, distant reverberations of grinding metal.In order to create a seamlessly looping dark ambient soundtrack for this wood and metal nightmare, I start by opening my music sequencer ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5cca19496ed03d9dcbda",
+    "title": "Bullet Meltdown Launches November 9!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814452752",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-07T10:21:59+00:00",
+    "collected_at": "2026-11-11T14:25:42+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Bullet Meltdown, a blend of roguelite shooting and real-time tower defense, launches on Steam on November 9, 2026!Pulling the trigger is just the beginning. Experiment with outrageous weapon combinations and discover how different weapons and units work together to turn your wildest ideas into devastating firepower. Dodge, shoot, hire & level up your units, build structures and watch your army clash against crazy bosses.Take on five regions and multiple difficulty levels, with permanent progress",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -10988,6 +11826,25 @@
     "summary_language": null
   },
   {
+    "id": "af7b2c87c03617464c32",
+    "title": "New area, 950+ weapons, specials and more!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329265409",
+    "source": "Steam 官方公告",
+    "published_at": "2026-07-20T12:31:41+00:00",
+    "collected_at": "2026-11-11T14:25:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello there!Last Friday we published a new demo update packed with lots of fresh content!Changelog:A new area, Freezer Edge, is now fully available in the demo to better showcase the experience awaiting you in the full release. There you will encounter 3 new regular enemy types and 3 new bosses.3 new abilities are now available. After unlocking all 3 weapon slots, you gain access to:Dodge RollChronos (yes, it stops time!)Valor (a temporary companion boost)5 new weapon attributes and a new attrib",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "c070f685b81ddeba3a41",
     "title": "Major Patch 0.4.0 - Stream Level System and Trophy Room Overhaul",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329262404",
@@ -11543,6 +12400,25 @@
     "summary_language": null
   },
   {
+    "id": "1c607847ed5ec3212dbb",
+    "title": "Our Demo is Featured in the Cozy Job Simulators Sale 2026!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783566483",
+    "source": "Steam 官方公告",
+    "published_at": "2026-06-13T19:05:02+00:00",
+    "collected_at": "2026-11-11T14:25:50+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Cinema Theater Tycoon is part of the Cozy Job Simulators Sale 2026! We’re happy to announce that Cinema Theater Tycoon has been selected to take part in the Cozy Job Simulators Sale 2026 on Steam! For the occasion, our free demo is available, giving you the perfect opportunity to discover the game before its upcoming release. We’ve also refreshed our Steam store page with new screenshots and updated visuals, so you can get a better look at the world of Cinema Theater Tycoon. In the demo, you’ll ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "04fe04db85a7466068f3",
     "title": "Clean Start Joins the Cozy Job Sims Event!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783565394",
@@ -11630,6 +12506,25 @@
     "game_ids": [],
     "category": "demo",
     "summary": "Hello Chefs! Thank you to everyone who has played the Food Devils demo and shared feedback so far. We're happy to see that thousands of players have downloaded and played our game, and that many are enjoying its gameplay loop!We're also aware of some issues that are souring the taste test for some players more than any Tomoilo acid ever could!This update is here to let you know that we are indeed listening to feedback and doing our best to keep improving the game.Scheduled Improvements📝 Info Too",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d6b1d0bfa3f4ef0740f3",
+    "title": "Bullet Meltdown 0.8.0.0 comes for Bullet Hell Festival and Steam Next Fest!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721190653",
+    "source": "Steam 官方公告",
+    "published_at": "2026-06-05T13:21:46+00:00",
+    "collected_at": "2026-11-11T14:25:42+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Bullet Meltdown is hitting two major Steam festivals this June.From June 8–14, we're taking part in the Bullet Hell Festival, the perfect home for a game that throws dozens of unique enemy types, giant bosses at you every run. Right after that, from June 15–21, we'll be part of Steam Next Fest.To celebrate both events, we've updated the demo with a fresh build, polished, tighter, and better than before. We've also dropped a brand new trailer that shows off what full release of Bullet Meltdown is",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -11874,6 +12769,25 @@
     "summary_language": null
   },
   {
+    "id": "f485e604a05ee262fc79",
+    "title": "Cinema Theater Tycoon Is Approaching the Finish Line...",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318573997",
+    "source": "Steam 官方公告",
+    "published_at": "2026-05-23T14:35:48+00:00",
+    "collected_at": "2026-11-11T14:25:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello! It has now been over two months since the main development of Cinema Theater Tycoon entered its final stage. Since the latest demo patches, we’ve been working tirelessly on optimizations, polishing, and all the small details that will bring the full game experience to life.Over the past few weeks, our focus has been entirely dedicated to one thing: finishing the game in the best possible conditions. And today… we’re finally ready to show you more 👀 Very soon, we’ll be sharing brand-new co",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "5735c4162513cb3b4f04",
     "title": "BitSummit Announcement!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800450",
@@ -12066,6 +12980,25 @@
     "summary_language": null
   },
   {
+    "id": "42a722293be3d9aa97e7",
+    "title": "Demo update 0.7.4.0",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770239741",
+    "source": "Steam 官方公告",
+    "published_at": "2026-04-26T06:42:51+00:00",
+    "collected_at": "2026-11-11T14:25:42+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hi players!Yesterday, demo version 0.7.4.0 went live. First, here’s the most important part — the changelog:Reworked the item randomization system and dynamic price adjustments. From the player’s perspective, the shop is now much less likely to offer items that are too expensive. It automatically balances based on your current funds and dynamic item pricing.Added new weapon showcase options (on the item card). Instead of 3 stages (early, mid, late), you now have buttons 1–5, with colors correspo",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "1b8fea78c5691244aed0",
     "title": "Release Date Set for July 22, 2026!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770238271",
@@ -12142,6 +13075,25 @@
     "summary_language": null
   },
   {
+    "id": "ebd8bef94b98cbafd74d",
+    "title": "PATCH NOTE ! Demo Version 0.2.12",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365768609",
+    "source": "Steam 官方公告",
+    "published_at": "2026-03-25T16:46:46+00:00",
+    "collected_at": "2026-11-11T14:25:50+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "🎮 Patch Notes – v0.2.12 📅 Release Date: March 25, 2026BUGS \\ Critical programming issue in the tutorial \\ Clicking trash/toilet elements now cleans correctly \\ Facade dithering issue fixed \\ ESC button behavior is now more accurate and no longer opens the main menu unexpectedly \\ Save issue when building a room while saving that could break loading \\ Room scaling issue fixedUI / UX \\ New GIFs and tutorial UI improvements \\ Tutorial cursor highlight for click and drag actions is now more visible ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "f32cb70f68e9fe98f586",
     "title": "Staff Radio vol.13",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365767165",
@@ -12180,6 +13132,25 @@
     "summary_language": null
   },
   {
+    "id": "a6a747e0192a7ef91ded",
+    "title": "PATCH NOTE ! Demo Version 0.2.11 Released!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588592220",
+    "source": "Steam 官方公告",
+    "published_at": "2026-03-12T12:04:24+00:00",
+    "collected_at": "2026-11-11T14:25:50+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hello movie lovers and cozy tycoon fans! 🎬Today we’re releasing a new update focused on improving player freedom inside the game.Some of you mentioned feeling frustrated when trying to move or delete objects while a customer or employee was standing on them. In some situations you couldn’t move the object at all, which could make building and reorganizing your cinema a bit annoying.Good news: that limitation is gone!You now have much more freedom when editing your cinema. Objects can be moved ev",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "db20655cecc710a2c765",
     "title": "Joining TOKYO INDIE GAMES SUMMIT 2026!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588591610",
@@ -12189,6 +13160,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Come visit us at booth S-25 (WePlay Expo)! Business Day: Mar 20 (Fri)Public Day: Mar 21 (Sat)Venue: IMAGINUS (Koenji, Tokyo) Check out the official site for more details:https://indiegamessummit.tokyo/",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "59122bcba60f9ab9a86c",
+    "title": "Demo Version 0.7.2.0 is out!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588589544",
+    "source": "Steam 官方公告",
+    "published_at": "2026-03-11T10:11:20+00:00",
+    "collected_at": "2026-11-11T14:25:42+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hello there! Today I’m posting a small update for the game. The main new feature is that if you exit a run, the game crashes, or your power goes out, the game will now save your progress and resume from the start of the last played wave.This was necessary because it was too easy to lose your favorite units if you couldn’t finish a run.There are also some small interface fixes.Stay tuned for more!",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -12218,6 +13208,25 @@
     "summary_language": null
   },
   {
+    "id": "6750ac2ff64c24af7e36",
+    "title": "Demo is out!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059923910",
+    "source": "Steam 官方公告",
+    "published_at": "2026-03-06T11:53:07+00:00",
+    "collected_at": "2026-11-11T14:25:42+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "The Bullet Meltdown Demo is now live! 🔥🧀Jump into chaotic bullet-heaven action, blast through waves of enemies, and test your survival skills. This is your first chance to experience the madness of Bullet Meltdown.Play the demo and let me know what you think!",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "46156ca9b8e50ea37d0d",
     "title": "Staff Radio vol.12",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806719058",
@@ -12237,6 +13246,25 @@
     "summary_language": null
   },
   {
+    "id": "868cc0a5e5d0f1140c0a",
+    "title": "Steam Next Fest Feedback Update — DEMO Patch 0.2.10",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806715397",
+    "source": "Steam 官方公告",
+    "published_at": "2026-03-01T15:30:31+00:00",
+    "collected_at": "2026-11-11T14:25:50+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hello everyone!Thank you to all the players who tested the game during Steam Next Fest. Thanks to the huge influx of players and everyone who shared feedback, both positive and negative we were able to gather a lot of valuable information about bugs and technical issues.We’ve taken note of everything and we’re fixing problems step by step, not only for the full game (of course), but also for the demo. We’ve just released a big patch to make your demo experience smoother, more stable, and as bug-",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "721b0f16c478e0672633",
     "title": "Patch 0.2.2 Early Access",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806713998",
@@ -12246,6 +13274,46 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Early Access 0.2.2Major ChangesUpdated the tutorial to fix a lot of the blind spotsAdded new card rarity chart located in the trophy roomUpdated the graded card filter to show ALL graded cards together. This is now the default sort option. Minor ChangesFixed the visuals on the soccer ballMade the popup for how much a card sold for bigger and easier to see Added help menu to esc screen. This will allow you to see all tutorials you have previously seen. Updated the text on some upgrades to better ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "1c55f3d55a6e7f0e423a",
+    "title": "Rebranding to Travellin Cats Advent Calendar",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806704022",
+    "source": "Steam 官方公告",
+    "published_at": "2026-02-25T08:33:24+00:00",
+    "collected_at": "2026-11-11T14:25:46+08:00",
+    "game_ids": [
+      "steam-2806540"
+    ],
+    "category": "industry",
+    "summary": "TLDR: Cats Hidden Advent Calendar is now called Travellin Cats Advent Calendar, due to trademark complications.Hi everyone, This is not a post I thought I'd ever have to make, but let me start from the beginning. In September of 2025, Nukearts registered the trademark \"Hidden Cats\" in the USA, with a claimed first-use date of 2022. These past few days, they filed a trademark infringement complaint with Valve, listing many games that include the words \"Hidden\" and \"Cats\" in their titles, includin",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "c48de4b4bc3c49e1a5e6",
+    "title": "PATCH NOTE ! Demo Version 0.2.09 Released!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633198516",
+    "source": "Steam 官方公告",
+    "published_at": "2026-02-24T18:59:00+00:00",
+    "collected_at": "2026-11-11T14:25:50+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Welcome back for more patch notes!We encourage you to share your feedback on our DISCORD in the #bug-and-feedback channel! 🐞 Bug FixesAudio\\ Fast-forward audio desync / synchronization offset issue.\\ Projector audio bug causing an abrupt sound cut.\\ Repair sound error.\\ Projection sound did not stop when film broke.UI / UX\\ Visual bug on Film UI: hover opacity glitch.\\ Research UI: persistent “Finish mission” message not clearing properly.\\ Film stats UI: inverted list + incorrect number bufferi",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -12284,6 +13352,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Early Access 0.2.0Major Changes Movespeed has been greatly improved. The new basemove speed is the old sprint. New sprint is much faster.Updated con activities to despawn or reset after a few minutes. This is to prevent people from afking at their booth all day and then cleaning at the end of con.Redesigned the leveling experience to be more fun and rewarding. Every single level has a reward now. Level cap extended to 29. Con levels no longer require purchase. They are now unlocked when you reac",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "7c3bda3ebdf6f24736a9",
+    "title": "Demo on the Horizon!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466493714",
+    "source": "Steam 官方公告",
+    "published_at": "2026-02-04T10:48:33+00:00",
+    "collected_at": "2026-11-11T14:25:42+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "The public demo of the game is coming soon! It will offer up to several hours of solid gameplay, and importantly progress made in the demo is planned to carry over to the full version of the game.Currently in development are, among others, the following features:Permanent upgrades to the character’s starting stats, unlocked with special orbs earned during gameplayProgression of special abilities that significantly impact playstyle, the demo will include the option to increase the number of weapo",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -13390,6 +14477,25 @@
     "summary_language": null
   },
   {
+    "id": "efc1fd7caaf12457a976",
+    "title": "Last Chickenburg is now on the Eastern Game Fest!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6539831443777819155",
+    "source": "Steam 官方公告",
+    "published_at": "2023-04-13T10:26:38+00:00",
+    "collected_at": "2026-11-11T14:25:52+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello everyone, our game is now on the Eastern Game Fest. Currently we are still making changes on the sandbox map and gameplay functions. We'll have more features and gameplay to share in the future. Please wishlist if you like our game!",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "9605dbbaf07a74f226ac",
     "title": "Wallpaper Engine 2.2 - Album Cover Integration, Fluid Simulation & More",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4613399405944282222",
@@ -13418,6 +14524,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Hello everyone, today we're introducing Wallpaper Engine 2.1 for Windows and Android with a wide range of new features, overall improvements and bug fixes. We will walk you through some of the most impactful new features in this update. User Texture Imports Another highly requested feature was the ability to allow for users to import their own images and even videos into existing wallpapers created with the Wallpaper Engine editor. These altered versions of a wallpaper can then also be shared on",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0655feca47285442c6ec",
+    "title": "Enter the Dragon is Live!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4348797798079769198",
+    "source": "Steam 官方公告",
+    "published_at": "2022-04-22T18:14:49+00:00",
+    "collected_at": "2026-11-11T14:25:52+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "{STEAM_CLAN_IMAGE}/35272741/17d66775517edaaf11797949e9345c89964f9dee.png Our livestream as part of Enter the Dragon is about to begin! We'll be streaming Last Chickenburg for one hour over on the Enter the Dragon Steam event page, and we would love for you to join us. See you there!",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
