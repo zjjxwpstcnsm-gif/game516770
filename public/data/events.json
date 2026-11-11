@@ -946,5 +946,26 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "9165eea97f39524202da",
+    "game_id": "steam-3707150",
+    "title": "till death ROLLS us apart demo is live for Steam Next Fest!",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-06-14T11:41:31+00:00",
+    "first_seen_at": "2026-11-12T01:17:23+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783567546"
+    ],
+    "source_ids": [
+      "54f436759091a2b54205"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]

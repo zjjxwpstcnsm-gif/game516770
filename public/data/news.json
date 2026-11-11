@@ -1,5 +1,368 @@
 [
   {
+    "id": "f4c5a82bd9237ff8092e",
+    "title": "Dark Souls 2 and 3 multiplayer is back: We still don't know what went wrong but at least it didn't take almost a year to fix it",
+    "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-and-3-multiplayer-is-back-we-still-dont-know-what-went-wrong-but-at-least-it-didnt-take-almost-a-year-to-fix-it",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T17:05:30+00:00",
+    "collected_at": "2026-11-12T01:17:39+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "A \"server issue\" knocked both games offline, across all platforms, for nearly two weeks.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "48d9259afe154bcec92c",
+    "title": "Don’t Fret launches December 8",
+    "url": "https://www.gematsu.com/2026/11/dont-fret-launches-december-8",
+    "source": "Gematsu",
+    "published_at": "2026-11-11T17:04:36+00:00",
+    "collected_at": "2026-11-12T01:17:38+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "First-person psychological horror game Don&#8217;t Fret will launch for PlayStation 5, Xbox Series, and PC &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "8997c184b3dc316b3091",
+    "title": "Antec C6 Curve Air review",
+    "url": "https://www.pcgamer.com/hardware/pc-cases/antec-c6-curve-air-review",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T16:50:44+00:00",
+    "collected_at": "2026-11-12T01:17:39+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "A chassis that ticks all the right boxes at just the right price.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "781cc1a89ad8e2d587b1",
+    "title": "Kioxia has chained together 640 SSDs to create a 157 *petabyte* storage solution, because AI data centers get all the cool toys",
+    "url": "https://www.pcgamer.com/hardware/storage/kioxia-has-chained-together-640-ssds-to-create-a-157-petabyte-storage-solution-because-ai-data-centers-get-all-the-cool-toys",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T16:16:16+00:00",
+    "collected_at": "2026-11-12T01:17:39+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Got any spare gigabytes, guv?",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "fe3c59422ded8aa70bb0",
+    "title": "Final Fantasy 14 players are gathering in virtual vigils to honour the passing of the game's most prestigious bass player",
+    "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-players-are-gathering-in-virtual-vigils-to-honour-the-passing-of-the-games-most-prestigious-bass-player",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T15:53:31+00:00",
+    "collected_at": "2026-11-12T01:17:39+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The Primals' Eikichi Iwai has died at the age of 57.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "70b73211e2c58a966882",
+    "title": "No more need to slap 'reddit' on the end of your Google searches as Reddit Reviews is here to amalgamate everyone's thoughts",
+    "url": "https://www.pcgamer.com/hardware/no-more-need-to-slap-reddit-on-the-end-of-your-google-searches-as-reddit-reviews-is-here-to-amalgamate-everyones-thoughts",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T15:42:03+00:00",
+    "collected_at": "2026-11-12T01:17:39+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Prepare for the review bombing.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3188ae745bb92cc8293e",
+    "title": "Sudokoo SK700V review",
+    "url": "https://www.pcgamer.com/hardware/cooling/sudokoo-sk700v-review",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T15:41:38+00:00",
+    "collected_at": "2026-11-12T01:17:39+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "If all air towers were built like this, I'd probably never use an AIO.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "6a8c77ed4ef795ab18d2",
+    "title": "Overwatch is adding 6v6 role queue to its Competitive play: 'We've realised that there doesn't have to be a winner between 5v5 and 6v6'",
+    "url": "https://www.pcgamer.com/games/fps/overwatch-is-adding-6v6-role-queue-to-its-competitive-play-weve-realised-that-there-doesnt-have-to-be-a-winner-between-5v5-and-6v6",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T15:31:58+00:00",
+    "collected_at": "2026-11-12T01:17:39+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "This town is big enough for the both of us.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "6ed9ce2282cf3132fa4d",
+    "title": "Glorious GMMK Eternal review",
+    "url": "https://www.pcgamer.com/hardware/gaming-keyboards/glorious-gmmk-eternal-review",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T14:43:47+00:00",
+    "collected_at": "2026-11-12T01:17:39+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "A solid, fuss-free step-up mechanical keyboard.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "6fbc93254520e7049292",
+    "title": "AMD's Zen 6 gaming CPUs might be absolute monsters by the looks of the server chips—and there's a 3D V-Cache variant to keep an eye on",
+    "url": "https://www.pcgamer.com/hardware/processors/amds-zen-6-gaming-cpus-might-be-absolute-monsters-by-the-looks-of-the-server-chips-and-theres-a-3d-v-cache-variant-to-keep-an-eye-on",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T14:36:40+00:00",
+    "collected_at": "2026-11-12T01:17:39+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "A tantalising tease.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "fe85a12544e6a3e6630b",
+    "title": "Apparently now we *won’t* see a 24 GB RTX 5080, which is probably actually good for our wallets",
+    "url": "https://www.pcgamer.com/hardware/graphics-cards/apparently-now-we-wont-see-a-24-gb-rtx-5080-which-is-probably-actually-good-for-our-wallets",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T13:09:01+00:00",
+    "collected_at": "2026-11-12T01:17:39+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Though it might not matter for most gamers either way, with how expensive the RTX 5080 is.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "f97888682c00ba0b4396",
+    "title": "Microsoft’s own upscaler and alternative to FSR just landed on Xbox Ally X handhelds - actually uses an NPU for something useful",
+    "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/microsofts-own-upscaler-and-alternative-to-fsr-just-landed-on-xbox-ally-x-handhelds-actually-uses-an-npu-for-something-useful",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T12:11:36+00:00",
+    "collected_at": "2026-11-12T01:17:39+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "FSR is still preferred, when available and well-implemented, though.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9efafab60c6e3fab4095",
+    "title": "WoW: Forever to add extra gold to high-level quests, since it turns out you don't get extra cash at 60",
+    "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-to-add-extra-gold-to-high-level-quests-since-it-turns-out-you-dont-get-extra-cash-at-60",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T11:41:45+00:00",
+    "collected_at": "2026-11-12T01:17:39+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Money, money, money.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "ccf4db23112a9aa61a76",
+    "title": "'We're kind of friendslop': CEO of Jackbox Games sees the link between party games and this new trend but doesn't think it's necessarily 'a negative moniker'",
+    "url": "https://www.pcgamer.com/games/were-kind-of-friendslop-ceo-of-jackbox-games-sees-the-link-between-party-games-and-this-new-trend-but-doesnt-think-its-necessarily-a-negative-moniker",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T11:22:49+00:00",
+    "collected_at": "2026-11-12T01:17:39+08:00",
+    "game_ids": [
+      "steam-4444310"
+    ],
+    "category": "industry",
+    "summary": "\"It means that our kind of genre that we play in is popular.\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0890ce29e813b5acac94",
+    "title": "Console Archives Nobunaga Oda den launches November 12",
+    "url": "https://www.gematsu.com/2026/11/console-archives-nobunaga-oda-den-launches-november-12",
+    "source": "Gematsu",
+    "published_at": "2026-11-11T10:15:43+00:00",
+    "collected_at": "2026-11-12T01:17:38+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Console Archives Nobunaga Oda den will launch for PlayStation 5 and Switch 2 on November &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0b1ed1c2380cd759a5a1",
+    "title": "Black Forest Games splits from THQ Nordic",
+    "url": "https://www.gematsu.com/2026/11/black-forest-games-splits-from-thq-nordic",
+    "source": "Gematsu",
+    "published_at": "2026-11-11T10:00:44+00:00",
+    "collected_at": "2026-11-12T01:17:38+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Black Forest Games has split from THQ Nordic after nearly 10 years of ownership, the &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "95a6821a1595a3a6a501",
+    "title": "Arcade Archives Shot Rider launches November 12",
+    "url": "https://www.gematsu.com/2026/11/arcade-archives-shot-rider-launches-november-12",
+    "source": "Gematsu",
+    "published_at": "2026-11-11T08:15:43+00:00",
+    "collected_at": "2026-11-12T01:17:38+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Arcade Archives 2 Shot Rider will launch for PlayStation 5, Xbox Series, and Switch 2, &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b7d54e990871ff5b8b5b",
+    "title": "Shade of the Marionette: The Story of Piyorita debut trailer",
+    "url": "https://www.gematsu.com/2026/11/shade-of-the-marionette-the-story-of-piyorita-debut-trailer",
+    "source": "Gematsu",
+    "published_at": "2026-11-11T08:00:04+00:00",
+    "collected_at": "2026-11-12T01:17:38+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Kiwi Walks has released the first trailer for Shade of the Marionette: The Story of &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a9424d08fb086bd71f3f",
+    "title": "The Legend of Zelda: Ocarina of Time remake sales top 5.2 million in four days",
+    "url": "https://www.gematsu.com/2026/11/the-legend-of-zelda-ocarina-of-time-remake-sales-top-5-2-million-in-four-days",
+    "source": "Gematsu",
+    "published_at": "2026-11-11T06:30:38+00:00",
+    "collected_at": "2026-11-12T01:17:38+08:00",
+    "game_ids": [],
+    "category": "sales",
+    "summary": "Total sales for the remake of The Legend of Zelda: Ocarina of Time for Switch 2 &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "c50096f28eb75523f6ae",
     "title": "The Legend of Heroes: Trails beyond the Horizon sequel to launch by September 2027 in Japan",
     "url": "https://www.gematsu.com/2026/11/the-legend-of-heroes-trails-beyond-the-horizon-sequel-to-launch-by-september-2027-in-japan",
@@ -224,6 +587,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "46ca28dfc31968d47c54",
+    "title": "Hotfix #3",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360977",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-10T19:35:39+00:00",
+    "collected_at": "2026-11-12T01:17:31+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Made saving more consistent to prevent getting into bad world states.Fixed a progression blocker during “In Darkness The Truth Will Be Revealed” where players would some times not be able to interact with the exit ladder. This should retroactive fix saves for people who were previously stuck.Fixed a progression blocker during “Deciphering Melodies” where one side of the music box puzzle could become non-interactable. This should retroactive fix saves for people who were previously stuck.Fixed a ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -751,7 +1133,7 @@
     "collected_at": "2026-11-11T01:10:55+08:00",
     "game_ids": [],
     "category": "release",
-    "summary": "Marathon&#8216;s Symbiosis update arrives December 8, bringing new PvE and PvP modes, weapons, a Runner shell, and expanded areas to explore on Tau Ceti IV. Today we’ve got first details on the updated Perimeter zone, Expedition mode, and more. What&#8217;s new in Marathon: Symbiosis&#160; Updated Perimeter zone: Fungal growth and alien life have transformed Perimeter, [&#8230;]",
+    "summary": "Marathon&#8216;s Symbiosis update arrives December 8, bringing new PvE and PvP modes, weapons, a Runner shell, and expanded areas to explore on Tau Ceti IV. Today we’ve got first details on the updated Perimeter zone, Expedition mode, and more.&#160; What&#8217;s new in Marathon: Symbiosis&#160; Updated Perimeter zone: Fungal growth and alien life have transformed Perimeter, [&#8230;]",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -1235,6 +1617,44 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "dac7510a01f0ae703041",
+    "title": "Escape Academy 2 is Steam Deck Verified!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643357132",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-09T21:39:06+00:00",
+    "collected_at": "2026-11-12T01:17:31+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Greetings Students! Some exciting news following last week's launch: Escape Academy 2: Back 2 School is now officially verified for Steam Deck. Take your escape studies with you wherever you go: to the park, or on the bus, or even to school (tell your teachers you've taken on some new classes, they'll totally understand). Thanks to everyone who has jumped into the game since our launch last week. We couldn't be happier with the reception. We're currently rated as Very Positive (97%) on our user ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "f128eacfe32596c5c246",
+    "title": "Hotfix 1.0.2",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643356820",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-09T19:56:17+00:00",
+    "collected_at": "2026-11-12T01:17:34+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Patch Notes Hotfix 1.0.2Fixed a bug where pausing while a boss was changing phase could stop combat from scoring on every later turn.Fixed a bug where locking in your turn during a boss's health refill skipped scoring and cleared the boss's dice.Fixed bosses loading with the wrong health if the game saved during a phase change.A phase change still in progress no longer carries over into the next fight.Moved the health heart to the top right of the map and made it slightly transparent.Dice panel ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -2212,6 +2632,25 @@
     "summary_language": null
   },
   {
+    "id": "c2cb8dda3ece1c394e42",
+    "title": "Watch MintyMikkusu & Cytrina Shutterbug Play Escape Academy 2: Back 2 School!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643350971",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-07T23:48:06+00:00",
+    "collected_at": "2026-11-12T01:17:31+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Follow Follow",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "f68f2bc14a44ff6ffcdc",
     "title": "One of the buggiest D&D games ever released, Pool of Radiance: Ruins of Myth Drannor, is back and actually playable again",
     "url": "https://www.pcgamer.com/games/rpg/one-of-the-buggiest-d-and-d-games-ever-released-pool-of-radiance-ruins-of-myth-drannor-is-back-and-actually-playable-again",
@@ -2421,6 +2860,25 @@
     "summary_language": null
   },
   {
+    "id": "6fd7a4fef1e99482de5a",
+    "title": "Hotfix 1.0.1",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643349231",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-07T12:39:57+00:00",
+    "collected_at": "2026-11-12T01:17:34+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Patch Notes Hotfix 1.0.1We noticed you couldn't check your health or dice while on the map screen, so we added a little heart icon to the top right corner. Now you can see your health outside of combat, and if you click the heart, you can also check your inventory and read the descriptions of your dice.And some other stuff we fixed:There was a problem with save files. Your keybind settings should now save properly.We made some small UI/UX tweaks here and there. Some parts still need a bit of wor",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "8c53f159697224f9525a",
     "title": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
     "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff",
@@ -2517,7 +2975,7 @@
   },
   {
     "id": "531745a5785834e40f15",
-    "title": "Patch Notes 1.0.20261106.001",
+    "title": "Hotfix #2",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643347953",
     "source": "Steam 官方公告",
     "published_at": "2026-11-07T00:43:22+00:00",
@@ -3354,6 +3812,27 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3339250130ea112e3e26",
+    "title": "till death ROLLS us apart is OUT NOW! Early Access Roadmap",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643343021",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-05T20:12:52+00:00",
+    "collected_at": "2026-11-12T01:17:34+08:00",
+    "game_ids": [
+      "steam-3707150"
+    ],
+    "category": "industry",
+    "summary": "Hey everyone! till death ROLLS us apart is officially out in Early Access right now! If you caught our earlier devlogs, you might remember us talking about how tdRua was sitting quietly because of low wishlist numbers while the three of us (team members) just played it alone. But seeing people actually sit down and enjoy it at GIST (local game event), combined with how much fun we still have playing it ourselves, convinced us that leaving it on a shelf was a waste. Instead of keeping it locked a",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -12016,6 +12495,25 @@
     "summary_language": null
   },
   {
+    "id": "c29d541609489487d16a",
+    "title": "A Small Note From Vesvese Studios",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165562149",
+    "source": "Steam 官方公告",
+    "published_at": "2026-06-30T11:00:12+00:00",
+    "collected_at": "2026-11-12T01:17:34+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hey everyone, We wanted to write a small note about how we make our games. At Vesvese Studios, we do not use AI-generated art during the development of our games. We know this topic can easily become loud and tiring, so we don’t want to turn this into a big speech. We just wanted to be clear about our own way of working. For us, games are personal things. They are not only code, art, music, or mechanics. They are also the weird little choices, mistakes, jokes, moods, and memories that happen whi",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "494cb65bdfb7af4aacf4",
     "title": "World Stability Overhaul & Single Player Mode: Explore as Far as You Want",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165561222",
@@ -12390,6 +12888,27 @@
     "game_ids": [],
     "category": "demo",
     "summary": "Dear Alchemists,We are very happy to announce the release of a brand new demo of Corpus et Spiritus, right in time for Steam Next Fest! We have done a lot of balancing to make the game more fun and more accessible. There are a bunch of new cards, some talismans that have changed, and we've fine-tuned the mechanics of the game.We've also made a brand new trailer for this update, check it out:As you probably noticed, the Next Fest has started! It means it is time to play demos, and we sure hope yo",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "54f436759091a2b54205",
+    "title": "till death ROLLS us apart demo is live for Steam Next Fest!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783567546",
+    "source": "Steam 官方公告",
+    "published_at": "2026-06-14T11:41:31+00:00",
+    "collected_at": "2026-11-12T01:17:34+08:00",
+    "game_ids": [
+      "steam-3707150"
+    ],
+    "category": "demo",
+    "summary": "Our Steam Next Fest demo is live! Hey everyone, We’re happy to say that till death ROLLS us apart is now part of Steam Next Fest, and the demo is ready to play. If you like dice, weird builds, risky decisions, and turning a basic d20 into something completely unreasonable, you can try the demo now. Watch the new trailer YouTube Trailer Play the demo We’re really looking forward to hearing what you think. Your feedback during Next Fest will help us understand what works, what feels confusing, and",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -12816,6 +13335,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Annihilated has hit 100,000 wishlists! We owe this milestone entirely to your incredible support — thank you so much!Development is now in its final stretch, and the whole team is pushing hard to make sure the July 22 release lives up to your expectations. We hope you'll continue to cheer us on!",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3b4b7dc2914c56778c72",
+    "title": "Ready to roll on Next Fest",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592798263",
+    "source": "Steam 官方公告",
+    "published_at": "2026-05-18T12:06:04+00:00",
+    "collected_at": "2026-11-12T01:17:34+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "What we've been working on Hey, as you know, we're making a dice game where you buy modifiers to turn your d20 into an absolute menace. After the playtest, we decided to improve our stats screen, since it wasn't obvious that there are more maps and enemies to discover in the full game. You can see the before and after images below. AFTER {STEAM_CLAN_IMAGE}/45857220/f6a27ce727578a9f00dbf63511c359e76b5729ce.jpg BEFORE {STEAM_CLAN_IMAGE}/45857220/fd02e1b00136843b8c73ef527fbaed13d529b7e1.jpg Also, o",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
