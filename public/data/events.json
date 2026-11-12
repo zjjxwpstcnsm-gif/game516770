@@ -967,5 +967,89 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "0c59793bed2075db1f80",
+    "game_id": "steam-3551820",
+    "title": "Castlebound is at Steam Next Fest! Play Our New Demo!",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-19T18:05:27+00:00",
+    "first_seen_at": "2026-11-13T01:39:47+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692039"
+    ],
+    "source_ids": [
+      "e5190db127baaec8719b"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "2dc6186ee7b9b8395984",
+    "game_id": "steam-3551820",
+    "title": "🏰 Castlebound Launches November 11, 2026! 🎉",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-14T21:11:40+00:00",
+    "first_seen_at": "2026-11-13T01:39:47+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675608"
+    ],
+    "source_ids": [
+      "9cf33f2abf93f96c166f"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "213b04b1d131f85336fa",
+    "game_id": "steam-5079620",
+    "title": "Potions Galore Official Announcement!",
+    "type": "announcement",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-09-18T16:09:21+00:00",
+    "first_seen_at": "2026-11-13T01:39:47+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495333"
+    ],
+    "source_ids": [
+      "5dbe34146b035a4c8ad1"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "b16d7e9d8d21de5e5508",
+    "game_id": "steam-3551820",
+    "title": "Castlebound New Demo!",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2025-08-14T21:41:06+00:00",
+    "first_seen_at": "2026-11-13T01:39:47+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1808061939352427"
+    ],
+    "source_ids": [
+      "ccf2a44e7f980748d8c8"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]
