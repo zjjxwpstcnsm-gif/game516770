@@ -842,7 +842,7 @@
   {
     "signal_date": "2026-11-12",
     "etf_code": "516770",
-    "data_cutoff_time": "2026-11-11T15:00:00+08:00",
+    "data_cutoff_time": "2026-11-12T15:00:00+08:00",
     "signal": "观察等待",
     "signal_score": 0.0,
     "confidence_basis": "启发式规则，尚未经足够样本的独立验证；评分不是上涨概率",
@@ -861,22 +861,21 @@
     ],
     "strategy_version": "1.0.0-heuristic",
     "source_ids": [
-      "prices:516770:2026-11-11"
+      "prices:516770:2026-11-12"
     ],
     "score_breakdown": [],
-    "price_age_days": 1,
-    "recorded_at": "2026-11-12T01:17:23+08:00"
+    "price_age_days": 0,
+    "recorded_at": "2026-11-12T15:13:38+08:00"
   },
   {
     "signal_date": "2026-11-12",
     "etf_code": "159869",
-    "data_cutoff_time": "2026-11-11T15:00:00+08:00",
-    "signal": "观察等待",
+    "data_cutoff_time": "2026-11-12T15:00:00+08:00",
+    "signal": "减仓风险",
     "signal_score": 0.0,
     "confidence_basis": "启发式规则，尚未经足够样本的独立验证；评分不是上涨概率",
     "reasons": [
-      "未同时满足已确认催化剂、趋势及受益关联条件",
-      "无个人持仓信息，不假设持有状态"
+      "近 5 个交易日跌幅超过配置风险阈值；仅作条件化风险研究"
     ],
     "risks": [
       "事件热度不等于 ETF 成分股盈利",
@@ -889,16 +888,16 @@
     ],
     "strategy_version": "1.0.0-heuristic",
     "source_ids": [
-      "prices:159869:2026-11-11"
+      "prices:159869:2026-11-12"
     ],
     "score_breakdown": [],
-    "price_age_days": 1,
-    "recorded_at": "2026-11-12T01:17:23+08:00"
+    "price_age_days": 0,
+    "recorded_at": "2026-11-12T15:13:38+08:00"
   },
   {
     "signal_date": "2026-11-12",
     "etf_code": "516010",
-    "data_cutoff_time": "2026-11-11T15:00:00+08:00",
+    "data_cutoff_time": "2026-11-12T15:00:00+08:00",
     "signal": "观察等待",
     "signal_score": 0.0,
     "confidence_basis": "启发式规则，尚未经足够样本的独立验证；评分不是上涨概率",
@@ -917,10 +916,10 @@
     ],
     "strategy_version": "1.0.0-heuristic",
     "source_ids": [
-      "prices:516010:2026-11-11"
+      "prices:516010:2026-11-12"
     ],
     "score_breakdown": [],
-    "price_age_days": 1,
-    "recorded_at": "2026-11-12T01:17:23+08:00"
+    "price_age_days": 0,
+    "recorded_at": "2026-11-12T15:13:38+08:00"
   }
 ]

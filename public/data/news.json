@@ -1,5 +1,366 @@
 [
   {
+    "id": "0df4a17f73d6a8c58148",
+    "title": "Romancing SaGa 3: Destinies United release date moved up to February 4, 2027",
+    "url": "https://www.gematsu.com/2026/11/romancing-saga-3-destinies-united-release-date-moved-up-to-february-4-2027",
+    "source": "Gematsu",
+    "published_at": "2026-11-12T07:08:38+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Square Enix has moved up Romancing SaGa 3: Destinies United from its previously planned February &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "03386a5db77530933a85",
+    "title": "Romance visual novel Renai, Hajimemashite coming to PS5, PS4, and Switch on March 25, 2027 in Japan",
+    "url": "https://www.gematsu.com/2026/11/romance-visual-novel-renai-hajimemashite-coming-to-ps5-ps4-and-switch-on-march-25-2027-in-japan",
+    "source": "Gematsu",
+    "published_at": "2026-11-12T06:29:54+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "AirVelocity will release ASa Project-developed romance visual novel Renai, Hajimemashite for PlayStation 5, PlayStation 4, &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "6b71695dc19f8ca1c80f",
+    "title": "Sakuna Chronicles: Kokorowa and the Gears of Creation second teaser trailer",
+    "url": "https://www.gematsu.com/2026/11/sakuna-chronicles-kokorowa-and-the-gears-of-creation-second-teaser-trailer",
+    "source": "Gematsu",
+    "published_at": "2026-11-12T03:21:22+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Publisher Marvelous and developer Edelweiss have released a second teaser trailer for Sakuna Chronicles: Kokorowa &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a72598d03dacf4892a34",
+    "title": "CD Projekt used AI to modify the voice of Geralt's Polish actor after a stroke left it significantly changed: 'This was a special case'",
+    "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case",
+    "source": "PC Gamer",
+    "published_at": "2026-11-12T00:02:47+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Jacek Rozenek was the voice of Geralt in all previous Polish-language Witcher releases, and CD Projekt wanted to work with him again—but his voice is no longer a match.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3c5a596d8a360d0687eb",
+    "title": "After cracking down on 'cheat' mods in Helldivers 2 and taking another Steam review beating, Arrowhead plans hotfix that should allow harmless cosmetics",
+    "url": "https://www.pcgamer.com/games/third-person-shooter/after-cracking-down-on-cheat-mods-in-helldivers-2-and-taking-another-steam-review-beating-arrowhead-plans-hotfix-that-should-allow-harmless-cosmetics",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T23:29:59+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The move to a better anti-cheat has not been wholly embraced by players.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9eeb24f0cecdc5270c7e",
+    "title": "Nvidia CEO Jensen Huang allegedly had a second affair with another Nvidia exec",
+    "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T23:25:39+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "A new report says that video evidence of the affair exists, but was swept under the rug.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "164f593de5a4de76df1b",
+    "title": "Giana Sisters developer Black Forest Games buys itself out of Embracer: 'Some of the best games of the last decade came from teams of fifty, not five hundred'",
+    "url": "https://www.pcgamer.com/gaming-industry/giana-sisters-developer-black-forest-games-buys-itself-out-of-embracer-some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-not-five-hundred",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T22:57:44+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "According to the press release, \"THQ Nordic and Black Forest Games continue to collaborate on game development tasks.\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9bec370d4fac6be5b68a",
+    "title": "This solo dev is building 'the most violent cozy farming game ever made' and lumberjacking has never looked cooler",
+    "url": "https://www.pcgamer.com/games/rpg/this-solo-dev-is-building-the-most-violent-cozy-farming-game-ever-made-and-lumberjacking-has-never-looked-cooler",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T22:38:37+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "New type of wizard just dropped.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "12ed559b391d9a8c5757",
+    "title": "Crimson Desert wins 'PC Game of the Year' at the 2026 Golden Joystick Awards",
+    "url": "https://www.pcgamer.com/games/crimson-desert-wins-pc-game-of-the-year-at-the-2026-golden-joystick-awards",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T21:31:30+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Resident Evil Requiem and Meccha Chameleon were the night's other big winners.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5d13deafc6d3cb682b59",
+    "title": "Bethesda shoots down Elder Scrolls 6: Sentinel announcement rumor on Skyrim's 15th anniversary",
+    "url": "https://www.pcgamer.com/games/the-elder-scrolls/bethesda-shoots-down-elder-scrolls-6-sentinel-announcement-rumor-on-skyrims-15th-anniversary",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T20:13:02+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Sorry, everyone, but Bethesda said it's going to be \"some time\" before more Sentinel news is released, and it meant it.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "098c93a5034d07a97080",
+    "title": "Former id Software developers form their own employee-owned shooter studio in the wake of Microsoft's mass layoffs",
+    "url": "https://www.pcgamer.com/gaming-industry/former-id-software-developers-form-their-own-employee-owned-shooter-studio-in-the-wake-of-microsofts-mass-layoffs",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T20:09:58+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hidden Horses, co-founded by \"approximately 20\" former id devs, is planning a Kickstarter campaign to help fund its first project.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b1966510ed1214556d49",
+    "title": "The Road of Dust and Sorrow delayed to February 19, 2027",
+    "url": "https://www.gematsu.com/2026/11/the-road-of-dust-and-sorrow-delayed-to-february-19-2027",
+    "source": "Gematsu",
+    "published_at": "2026-11-11T19:50:52+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "delay",
+    "summary": "Publisher Silver Lining Interactive and developed Painted Black Games have delayed cozy survival horror adventure &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0cd27e0a0ebba0253dc1",
+    "title": "Patch Notes for version 1.232",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144180070",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-11T19:16:10+00:00",
+    "collected_at": "2026-11-12T15:13:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Here are the first post release patch notes for The House Dreams Along With Them! The main focus of this update is clarifying hints added to later game areas. The puzzles are intended to be cryptic, but not impossible!Changes:A hidden button was made highlightable to make it easier to spotA hidden wall was made highlightable to make it easier to spotUpdated the painting for \"The Point\" to offer a better hintUpdated the painting for \"The Focus\" to offer a better hintUpdated the painting for \"The ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b7319b101ae2f3c794e3",
+    "title": "Exterminauts looks like another Helldivers 2, but it's really the Deep Rock Galactic sickos who should take notice",
+    "url": "https://www.pcgamer.com/games/third-person-shooter/exterminauts-looks-like-another-helldivers-2-but-its-really-the-deep-rock-galactic-sickos-who-should-take-notice",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T19:09:00+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The Dead By Daylight studio takes on a co-op shooter.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e3b6254068a2e3fd4933",
+    "title": "Roguelite action RPG Conan: The Black Pyramid announced for PC",
+    "url": "https://www.gematsu.com/2026/11/roguelite-action-rpg-conan-the-black-pyramid-announced-for-pc",
+    "source": "Gematsu",
+    "published_at": "2026-11-11T18:00:57+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Publisher Grindstone and developer Games Farm have announced Conan: The Black Pyramid, a roguelite action &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5f7b9cf82489b7152c66",
+    "title": "I have converted GTA 5 from crime sim to train sim",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-converted-gta-5-from-crime-sim-to-train-sim",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T18:00:00+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Choo choo.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5fde779abf923963fb54",
+    "title": "Marvel Rivals' creative director addresses hate speech controversy and promises 'we've ramped up our disciplinary measures'",
+    "url": "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-creative-director-addresses-hate-speech-controversy-and-promises-weve-ramped-up-our-disciplinary-measures",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T17:34:01+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "A September incident that saw hate speech removed from the game's reporting system \"sparked massive controversy in the community.\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "8ec3053241228a42de2c",
+    "title": "Got a Synology NAS? Time to check your updates, as two high-level vulnerabilities let ne’er-do-wells read and write files and conduct DDOS attacks",
+    "url": "https://www.pcgamer.com/hardware/storage/got-a-synology-nas-time-to-check-your-updates-as-two-high-level-vulnerabilities-let-neer-do-wells-read-and-write-files-and-conduct-ddos-attacks",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T17:24:05+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Big oof.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b650449f1e229ce8bdd5",
+    "title": "Ex-Tekken director savages Xbox Series S in front of senior Xbox staff: ‘feels like having to do extra work for a slightly weaker child’",
+    "url": "https://www.pcgamer.com/hardware/ex-tekken-director-savages-xbox-series-s-in-front-of-senior-xbox-staff-feels-like-having-to-do-extra-work-for-a-slightly-weaker-child",
+    "source": "PC Gamer",
+    "published_at": "2026-11-11T17:17:42+00:00",
+    "collected_at": "2026-11-12T15:13:53+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "\"You just used a very polite and elegant way to say 'Xbox Series S sucks,' right?\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "f4c5a82bd9237ff8092e",
     "title": "Dark Souls 2 and 3 multiplayer is back: We still don't know what went wrong but at least it didn't take almost a year to fix it",
     "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-and-3-multiplayer-is-back-we-still-dont-know-what-went-wrong-but-at-least-it-didnt-take-almost-a-year-to-fix-it",
@@ -1201,6 +1562,25 @@
     "summary_language": null
   },
   {
+    "id": "099fe7b06e02dc19a82a",
+    "title": "Version 1.0.0 Patch Notes",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643359301",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-10T13:02:25+00:00",
+    "collected_at": "2026-11-12T15:13:52+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Here are the changes in version 1.0.0: New Features In-game news now shows an unread marker. A red dot appears on the news button on the title screen and on unread entries in the list. In-game news can now include links, such as to the store page. Improvements In-game news now only shows posts meant for your language. The Credits have been updated with new content and animations, including the names of those who worked on translation, QA and publishing. CPU players no longer pile ingredients up ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "b7e18afafe4a7c5ed38e",
     "title": "HUNGER launches in Early Access on December 3",
     "url": "https://www.gematsu.com/2026/11/hunger-launches-in-early-access-on-december-3",
@@ -1450,6 +1830,27 @@
     "summary_language": null
   },
   {
+    "id": "b04bb9ba4452f0df1efc",
+    "title": "The House Dreams Along With Them Is Out Now!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358449",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-10T08:00:28+00:00",
+    "collected_at": "2026-11-12T15:13:50+08:00",
+    "game_ids": [
+      "steam-3891660"
+    ],
+    "category": "industry",
+    "summary": "My horror puzzle adventure game, The House Dreams Along With Them, is now out! Thank you to everyone for pushing the game past 5,000 Wishlists! I hope that's enough for the algorithm to be kind.There are layers and layers of cryptic mysteries awaiting. I'm so excited to see how far everyone can get in this strange world I've spent the last 3 years creating. It's finally time to turn it over to other folks and see what y'all make of it! Find someone to play with to bounce ideas off of, and have a",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "cd5841963b477a61cd46",
     "title": "Version 1.0.1 Patch Notes",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358321",
@@ -1573,6 +1974,27 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Dear Teachers and Students,The bell is ringing! Teachers, grab your chalk, and students, hurry back to your seats. Worst Class Ever is officially in session!Enjoy 35% OFF for the first 14 days! The game is normally priced at $6.99 on Steam.Visit the Steam StoreSince the October Steam Next Fest, our demo has surpassed 1 million downloads and ranked No. 1 in player count during the event. A huge thank-you to everyone who came to try it out, shared their feedback, and helped us identify issues alon",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "6e5ae6053c4aa43a9a91",
+    "title": "Crystal Commanders Blasts onto Steam!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643357507",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-10T00:08:25+00:00",
+    "collected_at": "2026-11-12T15:13:40+08:00",
+    "game_ids": [
+      "steam-4390380"
+    ],
+    "category": "industry",
+    "summary": "RTS fans, I am SO happy to finally be able to share our VR RTS, Crystal Commanders, with all of you. You are joining us at the best possible moment, with the game receiving so much new content as a part of this epic launch. This release represents our true vision for the game, an homage to the RTS games we grew up playing, fully translated to VR. We've been taking in feedback, suggestions, and new ideas for over a year, and are so proud of the game we've made as a result. This release was worked",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
