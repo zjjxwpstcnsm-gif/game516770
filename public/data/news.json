@@ -1,5 +1,271 @@
 [
   {
+    "id": "b8751e29da08ad7480fb",
+    "title": "Super Meat Boy Again+ announced for PC",
+    "url": "https://www.gematsu.com/2026/11/super-meat-boy-again-announced-for-pc",
+    "source": "Gematsu",
+    "published_at": "2026-11-14T04:36:04+00:00",
+    "collected_at": "2026-11-14T14:27:09+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Team Meat has announced Super Meat Boy Again+, a game described as &#8220;everything you remember &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "83b875fd9818b872681a",
+    "title": "Girls und Panzer Hakunetsu! Mahjong Tag Battle Desu! announced for PS5, Switch 2",
+    "url": "https://www.gematsu.com/2026/11/girls-und-panzer-hakunetsu-mahjong-tag-battle-desu-announced-for-ps5-switch-2",
+    "source": "Gematsu",
+    "published_at": "2026-11-14T01:57:41+00:00",
+    "collected_at": "2026-11-14T14:27:09+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "MAGES. has announced Girls und Panzer Hakunetsu! Mahjong Tag Battle Desu! for PlayStation 5 and &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3033297c9a2a1f0977f5",
+    "title": "Yes, some brave games are still launching on Steam during GTA 6 week",
+    "url": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week",
+    "source": "PC Gamer",
+    "published_at": "2026-11-13T22:28:10+00:00",
+    "collected_at": "2026-11-14T14:27:09+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Roundabouts, merchant republics, and dark fantasy roguelikes aren't budging their release plans.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "83181886723a5f8d1706",
+    "title": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'",
+    "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline",
+    "source": "PC Gamer",
+    "published_at": "2026-11-13T22:17:06+00:00",
+    "collected_at": "2026-11-14T14:27:09+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Pearl Abyss apologized for the presence of AI-generated art in Crimson Desert earlier this year, but it's not slowing down.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "f7cd879af8629f405281",
+    "title": "A survival game we once called 'Stalker and Tarkov's alien baby' is closing down less than a year after launch",
+    "url": "https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch",
+    "source": "PC Gamer",
+    "published_at": "2026-11-13T20:37:35+00:00",
+    "collected_at": "2026-11-14T14:27:09+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Pioner seemed headed in the right direction when it went into early access in late 2025, but it all went wrong just a few months later.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a3bf60f7b5039c0dcb63",
+    "title": "Microsoft ‘deeply’ apologizes for global service outage, says no AI or hackers are to blame",
+    "url": "https://www.pcgamer.com/software/microsoft-deeply-apologizes-for-global-service-outage-says-no-ai-or-hackers-are-to-blame",
+    "source": "PC Gamer",
+    "published_at": "2026-11-13T19:54:20+00:00",
+    "collected_at": "2026-11-14T14:27:09+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Presumably none of the roughly 30,000 Microsoft employees laid off in the last four years could have prevented this.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "7172128c9626c3676f6c",
+    "title": "New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6",
+    "source": "PC Gamer",
+    "published_at": "2026-11-13T19:30:31+00:00",
+    "collected_at": "2026-11-14T14:27:09+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Macca and Friends is coming to Weazel TV on November 19.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e656d6380564bbbcb07f",
+    "title": "Think you know videogame cats? Then name 17 of them",
+    "url": "https://www.pcgamer.com/games/think-you-know-videogame-cats-then-name-17-of-them",
+    "source": "PC Gamer",
+    "published_at": "2026-11-13T18:43:11+00:00",
+    "collected_at": "2026-11-14T14:27:09+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Talking cats, magic cats, scientific cats, and even cats that think they're people.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "4b4cccab0e2aa2304479",
+    "title": "Vindictus: Defying Fate ‘Let the Righteous Judge’ cinematic trailer",
+    "url": "https://www.gematsu.com/2026/11/vindictus-defying-fate-let-the-righteous-judge-cinematic-trailer",
+    "source": "Gematsu",
+    "published_at": "2026-11-13T18:05:39+00:00",
+    "collected_at": "2026-11-14T14:27:09+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "NEXON has released a new cinematic trailer for medieval fantasy action RPG Vindictus: Defying Fate, &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "4a49b97d2e2c60659ff5",
+    "title": "Sturmjager ‘Co-Op’ trailer",
+    "url": "https://www.gematsu.com/2026/11/sturmjager-co-op-trailer",
+    "source": "Gematsu",
+    "published_at": "2026-11-13T18:00:35+00:00",
+    "collected_at": "2026-11-14T14:27:09+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Byteproduct has released a new trailer for science-fiction shoot &#8217;em up Sturmjager introducing the game&#8217;s &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9d2017cb83549d8088a3",
+    "title": "I cannot stop everyone staring at me in GTA 5",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/i-cannot-stop-everyone-staring-at-me-in-gta-5",
+    "source": "PC Gamer",
+    "published_at": "2026-11-13T18:00:00+00:00",
+    "collected_at": "2026-11-14T14:27:09+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "They're looking right at me, aren't they?",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "09d04c87fd174e8fdbd4",
+    "title": "8BitDo Ultimate 3E wireless controller review",
+    "url": "https://www.pcgamer.com/hardware/controllers/8bitdo-ultimate-3e-review",
+    "source": "PC Gamer",
+    "published_at": "2026-11-13T17:20:13+00:00",
+    "collected_at": "2026-11-14T14:27:09+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Is Xbox wireless connectivity and modularity really worth that price?",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "fa7e2f1eefbaa53e09e2",
+    "title": "Overwatch's creative director accidentally leaks the name of season 6's upcoming hero and reveals that he 'got the highest scores of any hero that we've tested'",
+    "url": "https://www.pcgamer.com/games/fps/overwatchs-creative-director-accidentally-leaks-the-name-of-season-6s-upcoming-hero-and-reveals-that-he-got-the-highest-scores-of-any-hero-that-weve-tested",
+    "source": "PC Gamer",
+    "published_at": "2026-11-13T17:15:16+00:00",
+    "collected_at": "2026-11-14T14:27:09+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Well that certainly clears things up.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0f73c1489e91de78a941",
+    "title": "22 years after the Hot Coffee controversy, UK politician says Grand Theft Auto 6 is 'something that we can be really proud of'",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/22-years-after-the-hot-coffee-controversy-uk-politician-says-grand-theft-auto-6-is-something-that-we-can-be-really-proud-of",
+    "source": "PC Gamer",
+    "published_at": "2026-11-13T17:12:56+00:00",
+    "collected_at": "2026-11-14T14:27:09+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "My, how times have changed.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "ef7a32bd27ba7b6b0d4f",
     "title": "Share of the Week: Lights",
     "url": "https://blog.playstation.com/2026/11/13/share-of-the-week-lights",
@@ -210,7 +476,7 @@
   },
   {
     "id": "5e8aa992d7d737d7247e",
-    "title": "QSSR arrives in Marvel’s Spider-Man 2, Control Resonant, The Finals, ARC Raiders, and Hell Let Loose: Vietnam",
+    "title": "QSSR arrives in Marvel’s Spider-Man 2, Control Resonant, The Finals, Arc Raiders, No Man’s Sky, and Hell Let Loose: Vietnam",
     "url": "https://blog.playstation.com/2026/11/13/qssr-arrives-in-marvels-spider-man-2-control-resonant-the-finals-arc-raiders-and-hell-let-loose-vietnam",
     "source": "PlayStation Blog",
     "published_at": "2026-11-13T14:00:16+00:00",
@@ -1712,6 +1978,25 @@
     "summary_language": null
   },
   {
+    "id": "1b3aef3721c60f2dfe6e",
+    "title": "InkQuest 1.3.0 · Item Use, Smarter Rules & Scene Art",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144181425",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-12T04:09:06+00:00",
+    "collected_at": "2026-11-14T14:27:06+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "InkQuest 1.3.0 · Item Use, Smarter Rules & Scene ArtThis update makes it easier to build crafting sequences, check inventory, and control how your story looks and reads.🛠️ Item-specific Use actions. Pick a target for An item is used. Choice mode now shows a clickable Use action for items with matching rules, so crafting ingredients and dialogue items can trigger their own effects.🎒 Inventory quantities. Stacks display as Sword x5 in both Parser and Choice modes. Rules can now require a minimum q",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "6b71695dc19f8ca1c80f",
     "title": "Sakuna Chronicles: Kokorowa and the Gears of Creation second teaser trailer",
     "url": "https://www.gematsu.com/2026/11/sakuna-chronicles-kokorowa-and-the-gears-of-creation-second-teaser-trailer",
@@ -1879,6 +2164,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a50e6d1470cb9ca73e56",
+    "title": "Oracle update: find missing items #2",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144180391",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-11T20:44:54+00:00",
+    "collected_at": "2026-11-14T14:26:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The Oracle has been added! Now, when there are only 30 items or less left to complete the game, you can activate the Oracle, and it will bring the items to you. If you still believe there is a bug and that an item is missing, I can manually restore your save file -- just reach out to me via the support email \"hello@bricchigames.com\"",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -2419,6 +2723,25 @@
     "summary_language": null
   },
   {
+    "id": "16c6c431f8d3f6a3f548",
+    "title": "Update #3",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144178046",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-11T10:11:35+00:00",
+    "collected_at": "2026-11-14T14:27:00+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "A small update with improvements, balancing adjustments and new localizations.ChangelogImproved: Unlocked weapons are now highlighted more clearly.Improved: Weapons upgraded through auto-upgrade alternate between sides of the ship.Changed: Upgraded weapons now sell for more gold than their base versions.Changed: Losing several crew members in a row after getting hit is now less likely.Changed: Crab enemies no longer spawn on Day 1 of Adventure 2.Changed: Slightly reduced difficulty of Adventures",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "0b1ed1c2380cd759a5a1",
     "title": "Black Forest Games splits from THQ Nordic",
     "url": "https://www.gematsu.com/2026/11/black-forest-games-splits-from-thq-nordic",
@@ -2434,6 +2757,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "84cb520f83c8d133b2a5",
+    "title": "You asked, we delivered!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144177715",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-11T08:26:36+00:00",
+    "collected_at": "2026-11-14T14:26:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "I’ve watched a lot of playthroughs of Leviathan: Rhino. For this first update, I wanted to add a few things players had been missing and fix an issue that some of you found frustrating.You can now open the Options menu from the pause menu without having to return to the main menu.You can now adjust mouse sensitivity in Options.Fixed a bug that could cause a delay in regaining control after a conversation ended.Thanks to everyone who played, shared feedback, and let us see how you reacted to the ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -3852,6 +4194,25 @@
     "summary_language": null
   },
   {
+    "id": "5daed8a270ce084d5ae3",
+    "title": "InkQuest 1.2.0 — Rule Actions & Creator Guide",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643356949",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-09T20:25:58+00:00",
+    "collected_at": "2026-11-14T14:27:06+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "InkQuest 1.2.0 — Rule Actions & Creator Guide🎮 Gameplay and rules✍️ Ask for text input. Let players enter a name, password, or answer in Parser or Choices mode. Store the answer in a text variable and use it in later actions, conditions, and messages. Answers are preserved in saved games.🎲 Dice roll each time a rule runs. Expressions like 1d6 or 2d8+3 now roll again whenever the numeric action runs. Save, load, undo, and redo preserve the random sequence.🧭 New movement actions. Move a character ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "f128eacfe32596c5c246",
     "title": "Hotfix 1.0.2",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643356820",
@@ -4291,6 +4652,25 @@
     "summary_language": null
   },
   {
+    "id": "763801d93831536c8748",
+    "title": "Update #2",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354826",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-09T09:38:27+00:00",
+    "collected_at": "2026-11-14T14:27:00+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The second update is live!ChangelogNew: Ship's Bells. A new ship customization option. Equip a bell from the main menu to gain bonuses that last throughout your run. Bells give collected gems extra value and let you strengthen specific builds or offset a captain's weaknesses.New: Auto-save. Adventures now save automatically.Improved: Weapon and officer upgrades now show a before-and-after comparison.Changed: The Treasure Map item no longer appears in the item pool after Day 9.Fixed: A bug where ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "a0730f52d4409cd7c59f",
     "title": "Version 1.0.0 --> Version 1.0.2",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354806",
@@ -4540,6 +4920,25 @@
     "summary_language": null
   },
   {
+    "id": "e71e744c615dd63ef4d4",
+    "title": "Skill update: find missing items",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643353526",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-08T21:28:12+00:00",
+    "collected_at": "2026-11-14T14:26:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Prior to this update, using the \"parrot's eye\" only worked if you were holding an item in your hand...Now, you can use it even with empty hands -- the eyes will activate and automatically select an item category that has not yet been completed.The ability selects an item category each time it is used (provided your hands are empty). This means that, after emptying your hands, you will need to wait for the cooldown period to end before you can activate it again to locate a different item category",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "6d8acf93e2b99d6ce5d9",
     "title": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'",
     "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways",
@@ -4612,6 +5011,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9c3ad625edecdae28caa",
+    "title": "📦 InkQuest 1.1.8 · Workshop, Playtest & Export Fixes",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643352922",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-08T16:49:23+00:00",
+    "collected_at": "2026-11-14T14:27:06+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "InkQuest 1.1.8 · Workshop, Playtest & Export Fixes - 🚀 Smoother startup. The loading animation appears sooner, and Workshop loads after the editor opens. - Playtest and panels. Moving Playtest on Windows keeps its size. Floating panels use system window controls on Linux, and Reset layout restores default positions. - 🖱️ Choice menu combat. Attack targets the selected character even when names or aliases overlap. - 📦 Native exports. Linux .deb exports include the required package details. Failed",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -4777,6 +5195,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "The first week of Early Access went the way it did because of you. Most of the fixes in this update came straight from your messages, screenshots and clips. Thank you. Three new Kams There are now 15 playable Kams, up from 12. Each of the three comes with its own Kam's Path. Toy Beyi (neutral): starts with two wedding games, Cirit and Whirligig. To unlock: Get Cirit and Whirligig to max level within the first 20 minutes. Kongıra (Tengri): formerly Kayçı. The iron rings on its robe chime, and its",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "bba829060d285d72b46b",
+    "title": "InkQuest 1.1.7 — Steam Workshop BETA",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643351232",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-08T02:43:13+00:00",
+    "collected_at": "2026-11-14T14:27:06+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "InkQuest 1.1.7 — Steam Workshop BETAWe wanted to make it easier to share the games you create in InkQuest and get your stories in front of new players. So we’ve brought Steam Workshop directly into the Full Steam edition of InkQuest. Open the Steam Workshop · BETA tab to publish a project, discover what others are making, or jump straight into a community game.📝 Publish and manage your projectsPublish from the editor. Add a title, description, cover image and tags. InkQuest includes the language",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -4977,6 +5414,25 @@
     "summary_language": null
   },
   {
+    "id": "c85caa49e4391011af65",
+    "title": "✨ InkQuest Update 1.0.55",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643349789",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-07T15:33:03+00:00",
+    "collected_at": "2026-11-14T14:27:06+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "✨ InkQuest 1.0.5 + 1.0.55These updates bring a dedicated Images tab, a workspace you can spread across monitors, and improvements to narration, settings, and export.🖼️ New Images tab. Import PNG, JPEG, or WebP files into your project’s image library, then assign them to rooms, items, characters, or narration scenes. Transparent artwork keeps its alpha channel, and character portraits can appear during conversations. You can add translatable alt text, and the images are embedded in your project a",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "b8ee291a43d66211d2b0",
     "title": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
     "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice",
@@ -5043,6 +5499,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "- Scrap Metal — Collect scrap metal, a new resource in Junkyard Reseller. - Ore Smelter — Smelt ore into metal ingots. - Dismantling — Break down rusty objects to recover scrap metal. - Tools Durability — Tools now wear down with use. - Settings — Improved the settings menu. Fixed a resolution issue on wider displays.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "255bd4324a01a6a4463a",
+    "title": "Update #1",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643349329",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-07T13:09:15+00:00",
+    "collected_at": "2026-11-14T14:27:00+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The first update after the release.ChangelogAdded difficulty levels. You can now choose to play each adventure on Easy, Normal or Hard. The game is meant to be challenging, but it should also be possible to play it more casually. On Easy, you’ll get more gold, take less damage and defeat enemies faster. To keep the leaderboards fair, this comes with a reduction in the leaderboard multiplier.Fixed a controller navigation issue in the tavernFixed an issue with flags not displaying correctly on the",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -5338,6 +5813,25 @@
     "summary_language": null
   },
   {
+    "id": "7dab94f162adbb900c03",
+    "title": "InkQuest is out now, and we’re happy to share it with you! (new version 1.0.4)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643346958",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-06T18:26:40+00:00",
+    "collected_at": "2026-11-14T14:27:06+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "InkQuest is out now, and we’re happy to share it with you!Thank you to everyone who has tried InkQuest, shared feedback, and helped us improve it. We hope you enjoy creating your own text adventures—we can’t wait to see where your creativity takes you!Version 1.0.4 includes:More flexible game languages: add and manage languages in Translations and Settings, or choose a custom language when creating a project. Game languages are separate from the editor’s interface language.Translatable player co",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "4bf581a09bd579e5bd8f",
     "title": "Every match matters in UEFA Road to the Knockouts",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643346877",
@@ -5414,6 +5908,46 @@
     "summary_language": null
   },
   {
+    "id": "ea7529da66b206eec77b",
+    "title": "The game is out now!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643346471",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-06T16:41:07+00:00",
+    "collected_at": "2026-11-14T14:26:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "There you go— Pirate Treasure: Tidy Up! is available at a 30% discount (the price won’t drop any further than this for a long time, so take advantage of it).Thank you to everyone who has shown interest in the game -- as always, a piece of me is in it. Thank you!",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "ffeccb4c771d60a83640",
+    "title": "Leviathan: Rhino is out now!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643346443",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-06T16:33:57+00:00",
+    "collected_at": "2026-11-14T14:26:56+08:00",
+    "game_ids": [
+      "steam-4784510"
+    ],
+    "category": "industry",
+    "summary": "Leviathan: Rhino is out now on Steam! It's a narrative horror about an old man who stayed behind in his village to wait for his death, and for the giant Leviathan walking straight toward it. It's a game about loneliness, despair and the fear of the inevitable. Feed the cow, have a drink with your neighbour, walk to the village shop, and run into the eldritch creatures that follow the Leviathan. https://store.steampowered.com/app/4784510/Leviathan_Rhino/ This is our first game as a publisher, and",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "6611a75dcb8dd6299e76",
     "title": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says",
     "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says",
@@ -5429,6 +5963,27 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0658a4804e5f859cc959",
+    "title": "It's About Pirates is OUT NOW!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643346334",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-06T16:10:19+00:00",
+    "collected_at": "2026-11-14T14:27:00+08:00",
+    "game_ids": [
+      "steam-4468540"
+    ],
+    "category": "industry",
+    "summary": "A huge thank you to everyone who wishlisted the game, played the demo, and shared feedback. Today I finally hit the release button, and I can't wait to see players explore the full game!Since the demo launched, I've added many new features based on your suggestions, and I'll keep improving and expanding the game after release.If you're enjoying it, please also consider leaving a review.Time to set sail! Fair winds 🏴‍☠️",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -5524,6 +6079,27 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9ea659998122c95fd9df",
+    "title": "Definitely Not Poker is coming to Steam today!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643345753",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-06T14:27:08+00:00",
+    "collected_at": "2026-11-14T14:27:02+08:00",
+    "game_ids": [
+      "steam-5075610"
+    ],
+    "category": "industry",
+    "summary": "The full version of Definitely Not Poker is coming today to the Steam store. To celebrate reaching this milestone, the game will be 20% off during its first week of release.What makes DNP different from other poker games?DNP is a game focused on luck, but also on skill, thanks to unique mechanics that will help you during gameplay. Keep in mind, though, that your opponents will also have these advantages.How many players can play simultaneously?The game is designed to have a total of 6 players a",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -6134,6 +6710,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Escape Academy 2: Back 2 School is Out Now!! A new semester starts today! On behalf on Coin Crew Games and iam8bit Presents, we are thrilled to say that Escape Academy 2: Back 2 School is out now on Steam, Xbox Series X|S, and PlayStation 5. Escape Academy 2 Add-Ons! Escape Academy 2 Season Pass The Escape Academy 2 Season Pass includes two upcoming major expansions for Escape Academy 2: Back 2 School. Each expansion will include an all-new narrative set in the Escape Academy universe along with",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0abd9f9ca7aeff3c36d5",
+    "title": "20 000 wishlists - Thank you!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643342412",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-05T17:35:04+00:00",
+    "collected_at": "2026-11-14T14:26:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Leviathan: Rhino just passed 20,000 wishlists. That's double our 10,000 goal. Thank you! {STEAM_CLAN_IMAGE}/46258469/b88859ce24c36c4f833d973be47f2f235ae71f16.jpg We're now just 24 hours away from launch, and I'll admit I'm a bit nervous. It's a narrative horror walking sim with stylized low-poly visuals, and our first game as a publisher. To say thanks, here are a few screenshots you haven't seen yet. {STEAM_CLAN_IMAGE}/46258469/75a44004e97b6dd2ffbc59dfb8b0b510071377da.jpg {STEAM_CLAN_IMAGE}/462",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -8321,6 +8916,25 @@
     "summary_language": null
   },
   {
+    "id": "ce56d873b7038fe78753",
+    "title": "InkQuest 1.0.2 — Export, Editor and Gameplay Fixes",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302249977",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-02T23:09:49+00:00",
+    "collected_at": "2026-11-14T14:27:06+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "InkQuest 1.0.2 — Export, Editor and Gameplay FixesFixed Windows game exports failing because required build tools were missing from the packaged editor.Improved export progress messages, build logs and error reporting.Added integrated minimize, maximize/restore and close controls to desktop game exports, with window dragging and edge resizing.Fixed mouse interaction in choice menus, including numbered dialogue choices.Added clickable arrows to reveal additional actions, making actions such as At",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "4540b848d82f600841c1",
     "title": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy ‘Overview’ trailer",
     "url": "https://www.gematsu.com/2026/11/pikmin-4-nintendo-switch-2-edition-dandori-academy-overview-trailer",
@@ -9429,6 +10043,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "4b5ff6aad9019f978262",
+    "title": "The Leviathan Is Coming! Just 5 Days Until Release!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302246498",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-02T00:35:00+00:00",
+    "collected_at": "2026-11-14T14:26:56+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Steam Next Fest and Scream Fest are almost over, and today evening we'll be taking down the Leviathan: Rhino demo. With just a few days left until launch, we wanted to share some news and take a quick look back at how things went! {STEAM_CLAN_IMAGE}/46258469/fbf0e49b6d14d4ddf8b298ac9ee380eee318cf1d.png Around 1,800 players tried the demo during the festivals, and 80 of them took the time to fill out our feedback form. The median playtime was 21 minutes. These are fairly modest numbers, but we we",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -12076,6 +12709,25 @@
     "summary_language": null
   },
   {
+    "id": "c90561db76ab9232f335",
+    "title": "Wishlist During Steam Next Fest",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706691963",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-19T17:54:55+00:00",
+    "collected_at": "2026-11-14T14:26:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Leviathan: Rhino is part of Steam Next Fest (October 19-26), and the demo is live right now. The demo will stay up for the whole fest and for one more week after it. Then we'll switch it off before the full release on November 6. Wishlist during Next Fest If the demo stays with you, please add Leviathan: Rhino to your wishlist. Wishlists during Next Fest help Steam show the game to more players at launch - and you'll get a notification the moment it's out on November 6. https://store.steampowere",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "0ddb61ce3801e6293eac",
     "title": "Demo 1.1.0 Update",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706691827",
@@ -12154,6 +12806,25 @@
     "summary_language": null
   },
   {
+    "id": "4a384ffd1a40e6ac3a3d",
+    "title": "Launch date, launch trailer and 1k+ wishlists",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706690844",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-19T15:42:38+00:00",
+    "collected_at": "2026-11-14T14:26:58+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Hey Greenhorns!The game will be released on Friday, November 6th.A new launch trailer and fresh screenshots are now available featuring the final map.The game has also reached 1,000+ wishlists here on Steam—all achieved organically—for which I am truly grateful!Thanks, and see you in the cave!",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "fbcc897fb4576113bf9b",
     "title": "Clean Start at NEXT FEST!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706690783",
@@ -12203,6 +12874,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "During Steam Next Fest, we're streaming a playtest session on our store page. *This is pre-recorded footage, not a live stream. Japanese voice chat with English subtitles. Stack & Sus is a social deduction game for 3–6 players where everyone stacks one burger together. The Staff try to complete the burger, while the hidden Spy secretly sabotages it. Each game takes about 10 minutes. The free demo is available now, and the full game is coming soon. Add it to your wishlist!",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "56111a266369d5c2546b",
+    "title": "Demo is out now",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706690430",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-19T14:11:11+00:00",
+    "collected_at": "2026-11-14T14:26:56+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "The Leviathan: Rhino demo is now live on Steam as part of Steam Next Fest (October 19-26). A giant leviathan is walking toward a small village. Almost everyone has left. One old man stays - his whole life and all his memories are here. You spend his last days with him as the creature gets closer. What's in the demo Your first look at the village and the people who still live in it The first characters you'll meet - and the old man at the center of it all The opening of the story The demo takes a",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -12926,6 +13616,25 @@
     "summary_language": null
   },
   {
+    "id": "691b53153e49645ebe00",
+    "title": "Demo Update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067933779",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-09T15:40:29+00:00",
+    "collected_at": "2026-11-14T14:26:58+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "A brief update for the demo:- Color adjustmentsSome people had trouble distinguishing the coins in the darker parts of the map, so I made the coins a bit more vibrant- Controller supportIt is now possible to play the entire demo using a controller- Coin bonus for completing all items in the same category- Bugged fonts have been fixed- Resolved the issue where money would disappear from the UI- Fixed other minor UI and lighting bugs",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "bd74ed5f91b50b4cbb8b",
     "title": "FM27: Training and Tactical Effectiveness",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067933073",
@@ -13087,6 +13796,27 @@
     "game_ids": [],
     "category": "industry",
     "summary": "The streets of Los Santos are crawling with creepy apparitions, paranormal visions, and more this Halloween season. Prepare for a month of ghastly mayhem with vengeful Slashers roaming the streets and tides of shambling undead occupying Ludendorff Cemetery. Hunt down spooky visions of deceased tech executives for Ghosts Exposed and make a killing across the Halloween Featured Series, the kill-or-be-killed tension of Slasher, racing in the San Andreas Super Sport Series, or fighting off the force",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "81010f8c0d7a59949da8",
+    "title": "Definitely Not Poker Demo release date",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656393695",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-05T15:00:42+00:00",
+    "collected_at": "2026-11-14T14:27:02+08:00",
+    "game_ids": [
+      "steam-5075610"
+    ],
+    "category": "demo",
+    "summary": "Definitely Not Poker is gearing up to take it's first big step: the first public version, which any player can download, and that will be available for three weeks.¿What is Definitely Not Poker?DNP is a game based on the Texas Hold’Em version of poker; but you will find that its main difference from the traditional version lies in the addition of new mechanics that completely change the course of the game in a matter of seconds.When will the demo be available?You’ll be able to download this firs",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -13671,6 +14401,25 @@
     "summary_language": null
   },
   {
+    "id": "83b3d7d5382bd438954b",
+    "title": "DEMO OUT NOW",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495606",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-18T17:30:25+00:00",
+    "collected_at": "2026-11-14T14:26:58+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hello everyone!The demo is now live and ready to play. It lasts about 30–35 minutes and the content within it will NOT be available in the final game. The demo serves to organize the \"fake\" treasure, while the final game will feature only the \"real\" one.The demo also features its own achievements. So if you're like me and enjoy unlocking it, this is a great demo for that.Thanks in advance to everyone who plays.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "5dbe34146b035a4c8ad1",
     "title": "Potions Galore Official Announcement!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495333",
@@ -13829,6 +14578,25 @@
     "summary_language": null
   },
   {
+    "id": "690c3e28e5f806db2aa5",
+    "title": "Release Date",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262699969",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-13T18:24:57+00:00",
+    "collected_at": "2026-11-14T14:27:00+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Ahoy!I'm happy to announce that It's About Pirates is releasing on November 6, 2026!If you haven't added it to your wishlist yet, you can do so here:See you at sea!",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "0eccb3e29eed045b783d",
     "title": "Compete Across Entrepreneurial Endeavors in the Business Rivalries Event",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692367",
@@ -13914,6 +14682,44 @@
     "game_ids": [],
     "category": "release",
     "summary": "Bullet Meltdown, a blend of roguelite shooting and real-time tower defense, launches on Steam on November 9, 2026!Pulling the trigger is just the beginning. Experiment with outrageous weapon combinations and discover how different weapons and units work together to turn your wildest ideas into devastating firepower. Dodge, shoot, hire & level up your units, build structures and watch your army clash against crazy bosses.Take on five regions and multiple difficulty levels, with permanent progress",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "946df19dc5b622503f70",
+    "title": "Demo coming soon",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814447590",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-04T19:07:19+00:00",
+    "collected_at": "2026-11-14T14:26:58+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hello everyone reading this!I’m the game's solo developer, and I’d like to announce the demo: it’s arriving in mid-September (like 10~15 days from now) and will offer a preview of what the game is all about. The demo will feature achievements and provide around 30 to 35 minutes of gameplay.I know organization games are trending and that few developers release demos for it, but I truly believe having a demo is essential for any indie game.That’s it—thanks for reading this far. If you like what yo",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a916bf4b87c598138047",
+    "title": "Steam Deck Compatibility",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814447427",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-04T18:00:22+00:00",
+    "collected_at": "2026-11-14T14:27:00+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hi everyone!Until It's About Pirates is officially Steam Deck Verified, I wanted to clarify what you can expect.The game should run well on the Deck! It has full controller support for gameplay and menu navigation.At Max settings I experienced solid performance: 60 FPS most of the time, with occasional drops into the 50s. For extra headroom or longer battery life, try reducing the quality level to Medium or turning off heavy settings like water reflections.If you notice any issues, please let me",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -14032,6 +14838,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Here are the updates from August: Challenge runs are now recorded, and you can go for a high score Traditional Chinese and Korean have been added The settings screen has been rebuilt, and you can now choose your region Credits have been added The item Catalog can now be opened during a match Challenge runs are now recorded, and you can go for a high score {STEAM_CLAN_IMAGE}/45764409/f44edc180691c43f7261f41e6abcc5a8b9b6b80e.png Your runs in the single-player Challenge mode are now recorded. Each ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3c2e0779d78724fb223c",
+    "title": "Demo Update #4",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951305478",
+    "source": "Steam 官方公告",
+    "published_at": "2026-08-29T11:48:40+00:00",
+    "collected_at": "2026-11-14T14:27:00+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "In this demo update I fixed some bugs, improved performance, and made balancing tweaks.ChangelogFixed jitter on enemy knockbackFixed weapon upgrades showing wrong statsFixed enemy ships sometimes not catching fire from a flamethrowerDisabled performance-heavy water reflections on low quality settingsFixed the crew loss indicator popping up when already at 0 crewGeneral performance improvementsBuffed reload stat influenceManta rays no longer spawn on day 4Reduced flamethrower damageIncreased navy",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -14407,6 +15232,25 @@
     "summary_language": null
   },
   {
+    "id": "82e107903a8b0222cff9",
+    "title": "Demo Update #3",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183784469",
+    "source": "Steam 官方公告",
+    "published_at": "2026-08-16T19:14:38+00:00",
+    "collected_at": "2026-11-14T14:27:00+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "This patch includes further control improvements, additional tutorial steps and minor bug fixes.ChangelogImproved steering-relative ship controlsAdded a steering direction indicator to the standard controlsFixed \"Repair deals damage\" effect not triggering when player is at full health Added additional tutorial steps to explain game mechanicsEnemy balancing adjustmentsCrew lost to damage now triggers an indicatorIncreased gold received from mermaidsJoin the It's About Pirates CommunityIf you want",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "4a8dc8836c6dae7fcb93",
     "title": "Demo is Out! Play Clicker Astro Planet 2 Now!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183779495",
@@ -14525,6 +15369,25 @@
     "summary_language": null
   },
   {
+    "id": "7c952e178b934000097e",
+    "title": "Demo Update #2",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314342275",
+    "source": "Steam 官方公告",
+    "published_at": "2026-08-06T15:38:19+00:00",
+    "collected_at": "2026-11-14T14:27:00+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Another update addressing balance changes, bug fixes and explanations of game mechanics has been deployed.ChangelogWeapon base damage now scales with the weapon level. Previously, only damage received from items increased with the weapon level.Fixed health bar glow on low HPFixed fire barrels do not explode when a ram is equippedAdded a display showing how many officer/weapon picks have been receivedDamage numbers now scale up in size for higher damageImproved mermaid crew loss indicator visibil",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "9ba2440b2e4660522306",
     "title": "Huge News: Clean Start is at Tiny Teams!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314341312",
@@ -14584,6 +15447,25 @@
     "summary_language": null
   },
   {
+    "id": "84bfcb649485dc5e01fa",
+    "title": "Demo Update #1",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055898374",
+    "source": "Steam 官方公告",
+    "published_at": "2026-08-04T20:21:09+00:00",
+    "collected_at": "2026-11-14T14:27:00+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "This update includes improvements based on the feedback I've received since the demo's release last week, with a focus on easing the difficulty for new players and adding an alternative steering mode.ChangelogAdded a \"second chance\" mechanic to the first adventure. You can now continue once without losing progress after a defeat.Added an alternative steering mode that can be activated in the settingsReduced damage and HP of the first bossCaptain Brandon Bounty now starts with 2 harpoons instead ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "3696c58cd2b60819cf12",
     "title": "Major Demo Update! 🍖 ✨ [Full v.0.4.0 Changelog]",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055888671",
@@ -14612,6 +15494,27 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Bask in two weeks of highly profitable criminal activity in GTA Online, as summer crowds flock to Southern San Andreas and Cayo Perico in search of lucrative treasures across the asphalt jungle and the sun-soaked shores. Capitalize on doubled GTA$ payouts for your first weekly completion of both The Fleeca Heist and The Pacific Standard Heist — active for the first week of the GTA Online Summer Heist Event (July 30–August 5). On August 6, the Panther Statue returns to El Rubio’s vault in The Cay",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e1a7c27157c27c245a47",
+    "title": "It's About Pirates - Demo available now!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055888464",
+    "source": "Steam 官方公告",
+    "published_at": "2026-07-31T15:07:13+00:00",
+    "collected_at": "2026-11-14T14:27:00+08:00",
+    "game_ids": [
+      "steam-4468540"
+    ],
+    "category": "demo",
+    "summary": "It's time to set sail in the It's About Pirates demo. But first, let me say thank you to the over 5000 people who have already wishlisted the game! What awaits? The demo will take you to a pirate realm called Windward Waters. You get 10 rounds to shape your build before facing the first boss of the game. Score well, and you can make your mark on the leaderboard of best pirates.FeedbackIf you want to share some feedback, report a bug, or chat with others about the game, you're welcome to join my ",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -15943,6 +16846,27 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Jinro Burger Radio Vol. 15 is out now! 📻",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3add2ee10b04e6391716",
+    "title": "It's About Pirates - Announcement",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770240437",
+    "source": "Steam 官方公告",
+    "published_at": "2026-04-26T16:37:54+00:00",
+    "collected_at": "2026-11-14T14:27:00+08:00",
+    "game_ids": [
+      "steam-4468540"
+    ],
+    "category": "announcement",
+    "summary": "Ahoy pirate fans!After 2 years of development I finally announced my pirate roguelike.Thanks to everyone who has already wishlisted the game, it helps a ton! If you haven't wishlisted yet, you can do it here:Some questions I've received about the game so far:Will there be a demo?Yes! Probably in July.Does it work on the Steam Deck?Yes, Steam Deck support is planned!Is it singleplayer or multiplayer?Singleplayer.How much will the game cost?Not yet decided, but it will be a reasonable price compar",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
