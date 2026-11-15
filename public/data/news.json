@@ -1,5 +1,216 @@
 [
   {
+    "id": "c1b549d3473f9acb46d5",
+    "title": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
+    "url": "https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator",
+    "source": "PC Gamer",
+    "published_at": "2026-11-15T18:00:00+00:00",
+    "collected_at": "2026-11-16T03:02:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Quiet and unassuming, or loud and proud?",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2a13e42c13b5e17d2db9",
+    "title": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client",
+    "url": "https://www.pcgamer.com/games/moba/league-of-legends-will-get-an-overhaul-called-new-dawn-with-new-visuals-build-options-and-an-updated-client",
+    "source": "PC Gamer",
+    "published_at": "2026-11-15T17:45:48+00:00",
+    "collected_at": "2026-11-16T03:02:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "\"We want League to stand the test of time.\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e94f96411bac656fba23",
+    "title": "The pandemic was transformative for Jackbox: 'We went from a gamer name to a household name'",
+    "url": "https://www.pcgamer.com/games/the-pandemic-was-transformative-for-jackbox-we-went-from-a-gamer-name-to-a-household-name",
+    "source": "PC Gamer",
+    "published_at": "2026-11-15T17:30:00+00:00",
+    "collected_at": "2026-11-16T03:02:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "\"People realized how easy it was to just share the screen over a Zoom call and everyone's playing.\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "78c75b37548740e35a64",
+    "title": "YouTuber and comedian Ashens has 1,000 hours in Baldur's Gate 3 and reveals the worst retro game he's ever played: 'By the time you've hacked it to work, it's just no fun whatsoever'",
+    "url": "https://www.pcgamer.com/gaming-industry/youtuber-and-comedian-ashens-has-1-000-hours-in-baldurs-gate-3-and-reveals-the-worst-retro-game-hes-ever-played-by-the-time-youve-hacked-it-to-work-its-just-no-fun-whatsoever",
+    "source": "PC Gamer",
+    "published_at": "2026-11-15T17:00:00+00:00",
+    "collected_at": "2026-11-16T03:02:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The filmmaker and author of Terrible Old Games You've Probably Never Heard Of gives us a tour of his Steam library.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "6d9599e1ee9fddf3fc02",
+    "title": "Slay the Spire 2 has a new character in testing, and she's really quite busted",
+    "url": "https://www.pcgamer.com/games/roguelike/slay-the-spire-2-has-a-new-character-in-testing-and-shes-really-quite-busted",
+    "source": "PC Gamer",
+    "published_at": "2026-11-15T16:00:00+00:00",
+    "collected_at": "2026-11-16T03:02:14+08:00",
+    "game_ids": [
+      "steam-2868840"
+    ],
+    "category": "industry",
+    "summary": "I won't miss.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "27861c9f1cac2db35135",
+    "title": "Dragon Ball FighterZ balance update announced",
+    "url": "https://www.gematsu.com/2026/11/dragon-ball-fighterz-balance-update-announced",
+    "source": "Gematsu",
+    "published_at": "2026-11-15T15:15:02+00:00",
+    "collected_at": "2026-11-16T03:02:13+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Publisher Bandai Namco and developer Arc System Works will release a new balance update for &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "c2d1deb372147268263a",
+    "title": "Queen's Domain is the best Dark Souls 1 since Dark Souls 1",
+    "url": "https://www.pcgamer.com/games/rpg/queens-domain-is-the-best-dark-souls-1-since-dark-souls-1",
+    "source": "PC Gamer",
+    "published_at": "2026-11-15T15:00:00+00:00",
+    "collected_at": "2026-11-16T03:02:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "King's Field of dreams.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "ad73f46c426907fe2c28",
+    "title": "This RTS inspired by Star Wars: Empire at War promises colossal space encounters and planetary battles with 'hundreds of thousands of units'",
+    "url": "https://www.pcgamer.com/games/rts/this-rts-inspired-by-star-wars-empire-at-war-promises-colossal-space-encounters-and-planetary-battles-with-hundreds-of-thousands-of-units",
+    "source": "PC Gamer",
+    "published_at": "2026-11-15T14:30:16+00:00",
+    "collected_at": "2026-11-16T03:02:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Horu is expected to launch at the end of next year.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0ddd83d0079f327c479b",
+    "title": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
+    "url": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives",
+    "source": "PC Gamer",
+    "published_at": "2026-11-15T12:33:46+00:00",
+    "collected_at": "2026-11-16T03:02:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Everything including 'creating and deleting single-player characters' can be done without touching the web.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "8e746119e532de0553c6",
+    "title": "Chronicles: Medieval developer declared bankruptcy on the day it announced it was in trouble, but development will continue after a $5 million reprieve from Coffee Stain",
+    "url": "https://www.pcgamer.com/games/strategy/chronicles-medieval-developer-declared-bankruptcy-on-the-day-it-announced-it-was-in-trouble-but-development-will-continue-after-a-usd5-million-reprieve-from-coffee-stain",
+    "source": "PC Gamer",
+    "published_at": "2026-11-15T11:27:41+00:00",
+    "collected_at": "2026-11-16T03:02:14+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "A new studio overseen by \"key members\" of the Chronicles team will finish the historical strategy.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a28a40aeb2afe668d532",
+    "title": "The most annoying questgivers in PC games",
+    "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games",
+    "source": "PC Gamer",
+    "published_at": "2026-11-15T07:21:40+00:00",
+    "collected_at": "2026-11-16T03:02:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The XP isn't worth it.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "48fdad791b416151cd06",
     "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
     "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards",
@@ -224,6 +435,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e00dd6b2970b96763b1a",
+    "title": "Full release date: May 17, 2027!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702682265",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-14T03:18:19+00:00",
+    "collected_at": "2026-11-16T03:02:09+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Dear residents of our happy North American neighborhood, We have wonderful news for you: on May 17, 2027, AMERICAN LIFE SIMULATOR leaves Early Access and launches its full 1.0 version! You made this possible Every lawn you mowed, every hedge you trimmed and every safe you cracked open helped shape this game. Your reviews, bug reports and ideas in the Discussions showed us exactly what to improve, and we read every single one of them. Thank you for believing in a small game with big dreams. A spe",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -2550,6 +2780,27 @@
     "summary_language": null
   },
   {
+    "id": "7c89b06b402f27c6544d",
+    "title": "AMERICAN LIFE SIMULATOR is out now in Early Access – 33% off!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144179776",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-11T18:06:08+00:00",
+    "collected_at": "2026-11-16T03:02:09+08:00",
+    "game_ids": [
+      "steam-4956460"
+    ],
+    "category": "industry",
+    "summary": "The wait is over! AMERICAN LIFE SIMULATOR is now available in Early Access on Steam. Thank you to everyone who played the demo during Steam Next Fest, wishlisted the game and sent us feedback. Many of the improvements in this release came straight from you. Launch discount: 33% off until 25 November What's in the game Mow lawns on a riding tractor and leave perfect stripes Trim hedges with a rented chainsaw, sweep the streets and collect garbage bags Timed bonus jobs with iron, silver and gold s",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "e3b6254068a2e3fd4933",
     "title": "Roguelite action RPG Conan: The Black Pyramid announced for PC",
     "url": "https://www.gematsu.com/2026/11/roguelite-action-rpg-conan-the-black-pyramid-announced-for-pc",
@@ -3141,6 +3392,25 @@
     "summary_language": null
   },
   {
+    "id": "699f70a50a48a273779d",
+    "title": "Pre-Release Update!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144177278",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-11T04:46:12+00:00",
+    "collected_at": "2026-11-16T03:02:13+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Hello everyone! Hill-Z is set to release tomorrow, November 11, however with the proximity of NextFestand the sudden rise in submissions, there is a chance this date may be pushed back until November 14.To compensate for this, I decided to add 3 brand new upgrades, Chaos Rounds, and map reworks!NewUpgradesDash Invincibility has an additional upgrade that heals with each dashLightning Speed + Dash Kill adds additional damage and scoping while sprintingDouble Jump + Slam adds a damage multiplier d",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "e743ef2773be90a595bf",
     "title": "PS5 shipments top 100 million",
     "url": "https://www.gematsu.com/2026/11/ps5-shipments-top-100-million",
@@ -3213,6 +3483,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "98f0f84799c162a78a5f",
+    "title": "MMORPG Merchant Simulator — Exclusive Discount for Stock Owners",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144176875",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-11T01:21:11+00:00",
+    "collected_at": "2026-11-16T03:02:05+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "MMORPG Merchant Simulator store page is now openMy new game, MMORPG Merchant Simulator, now has a Steam store page and is coming soon. Wishlisting is available now.Exclusive discount for Stock: Retail Investors ownersIf you own Stock: Retail Investors, you'll get an exclusive discount when the new game launches:Around 80% off.Eligibility is detected automatically on the store page, so the special price appears with no coupon or extra steps.The discount starts at launch and runs for 14 days.Add i",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -3460,6 +3749,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "1be616201780af758e4a",
+    "title": "Pro Equipment Pack DLC arrives tomorrow: more power & 3× bigger tanks!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360614",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-10T17:50:47+00:00",
+    "collected_at": "2026-11-16T03:02:09+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello neighbors! Tomorrow is a big day for our little street. American Life Simulator enters Early Access on November 11 at 16:57 UTC, and just a few minutes later, at 17:00 UTC, our very first DLC, the Pro Equipment Pack, arrives with it! We built it for everyone who loves spending a whole afternoon mowing lawns and sweeping streets, and who wishes their machines could keep up with them a little better. Here's everything it brings. A more powerful engine Your lawn tractor and street sweeper get",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -13264,6 +13572,25 @@
     "summary_language": null
   },
   {
+    "id": "ddce79a6387e71d77002",
+    "title": "Steam Next Fest is live: play the free demo",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706691405",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-19T17:00:51+00:00",
+    "collected_at": "2026-11-16T03:02:09+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "AMERICAN LIFE SIMULATOR is part of Steam Next Fest (19–26 October)! The free demo is live right now. Download it from the store page and start your neighborhood career. ▶ Play the free demo: store.steampowered.com/app/5382870 What's new in the demo (v0.3.1) New main menu, redesigned from scratch 43 Steam achievements, now unlockable in the demo too Fuel pump with a real hose: pull up, switch the engine off and fill the tank, with gallons and price on screen Street sweeper vacuuming: park next to",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "2ff4b0e700801038b3dd",
     "title": "The NEW Food Devils Demo is OUT for Steam Next Fest! 🍖✨",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706691282",
@@ -16424,6 +16751,25 @@
     "summary_language": null
   },
   {
+    "id": "80a0782f08efe0496f90",
+    "title": "Skins & Guide Update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055364207",
+    "source": "Steam 官方公告",
+    "published_at": "2026-07-13T18:54:38+00:00",
+    "collected_at": "2026-11-16T03:02:13+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello everyone! This pre-launch update introduces a new cosmetics system into Hill-Z, along with many other improvements.NewShop6 skins purchasable through Stars, obtained through defeating zombies and surviving6 skins purchasable through various achievementsGuide MenuIn-game tutorial featuring short videos + text to explain how to play Hill-Z and the many different mechanicsMidnight special roundStats display & zoom slider for Tech TreeAdditional display & keybind settingsImprovementsNew graphi",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "2e2240f5abad3df7ec81",
     "title": "Death Of An Artist | Devlog #16",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055358123",
@@ -18811,6 +19157,63 @@
     "summary_language": null
   },
   {
+    "id": "02688bed08d0424918a6",
+    "title": "Update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6250522009509249377",
+    "source": "Steam 官方公告",
+    "published_at": "2024-09-11T11:34:11+00:00",
+    "collected_at": "2026-11-16T03:02:05+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Added a function to set the data start date, now allowing the selection of the start date. If a random start date is desired, it can be disabled on the game's confirmation screen upon entering",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b7c17c6116489f1b9bc0",
+    "title": "FIX",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6240387642454310092",
+    "source": "Steam 官方公告",
+    "published_at": "2024-08-29T13:02:09+00:00",
+    "collected_at": "2026-11-16T03:02:05+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "1.Fix the abnormal asset score during settlement. 2.Optimize simulated trading and amplify the trading volume of simulated trading. 3.Change the color of the sell marker from red to orange. 4.Fix the bug that retains the conditional orders of the previous game when starting a new game. 5.Modify the position button on the trading interface from a percentage of available funds to a percentage of assets.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3290d1e52278a90b55ec",
+    "title": "Optimization",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6240387642453685609",
+    "source": "Steam 官方公告",
+    "published_at": "2024-08-29T08:55:45+00:00",
+    "collected_at": "2026-11-16T03:02:05+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "1.The player's initial lifespan is adjusted from 300 days to 3000 days 2.The real data training script normalizes the ETF value. Initially, all ETF prices are 100. This change is intended to facilitate knowing how much the price has risen or fallen. 3.When the player's lifespan is less than 10 days, a game pause will be triggered to avoid not knowing the income at the end of the game. 4.The numerical display on the trading interface is adjusted from the left side of the chart to the right side, ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "5f7938c2ba831e2b5b29",
     "title": "Black Myth: Wukong 1.0.8.14860 Patch Notes",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6240387642453553950",
@@ -18851,6 +19254,63 @@
     "summary_language": null
   },
   {
+    "id": "600b489a84159dfa5ca4",
+    "title": "Add time division chart moving average",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6240387642450560262",
+    "source": "Steam 官方公告",
+    "published_at": "2024-08-28T12:21:04+00:00",
+    "collected_at": "2026-11-16T03:02:05+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Add time division chart moving average",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0ab3016d7831c5cbff03",
+    "title": "Update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6240387642448806133",
+    "source": "Steam 官方公告",
+    "published_at": "2024-08-28T00:48:02+00:00",
+    "collected_at": "2026-11-16T03:02:05+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Optimize the initial data of the real data training script. Now the initial data of the daily line has increased from 50 to 150. And the data is real. The initial amount of money for players has been increased to 1,000,000.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "729fb061d36759a3ff49",
+    "title": "Conditional order function is launched",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5875595438706338541",
+    "source": "Steam 官方公告",
+    "published_at": "2024-08-27T12:42:26+00:00",
+    "collected_at": "2026-11-16T03:02:05+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Conditional Orders Currently, we offer two types of conditional orders: One is grid trading, The other is position management. Since I am using it myself, I decided to implement this feature first and also test the feasibility of conditional orders in reality. Entry to Conditional Orders {STEAM_CLAN_IMAGE}/44873682/6c033763a9e6c2b0a35d6c4b0b7e25b85f339cea.png {STEAM_CLAN_IMAGE}/44873682/cb0f2f3f61031c963446e3385bb1708886492961.png Optimization Added display of ten-minute lines and daily line pri",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "0ac054471e4645ff03ed",
     "title": "A Few More Tips Before You Hit the Road",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6909171012612190468",
@@ -18860,6 +19320,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Dear Destined Ones, Big day! Big day! \"Black Myth: Wukong\" has now been officially released. Your epic journey westward starts today! To make this journey smoother, here are some gentle reminders for all the Destined Ones: Plan your gaming time wisely and set up a quiet space to ensure uninterrupted gameplay. If conditions permit, be sure to turn on the sound or put on headphones. Besides engaging in the epic battles with the yaoguai kings, don't miss out on enjoying the beautiful scenery of you",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "4d4da6c99a2577519bbe",
+    "title": "Real Training Script Launched",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6909171012608797781",
+    "source": "Steam 官方公告",
+    "published_at": "2024-08-19T03:41:00+00:00",
+    "collected_at": "2026-11-16T03:02:05+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Real Training Script Launched This script offers 10 times the regular points. The script will randomly select a starting point between 2011 and 2020. Historical data will be scaled to become ETF prices, so players cannot determine the exact historical position of the index based on ETF prices. This script provides all the index ETFs available in this game, so there's no need to specifically choose real data to use. Optimization Optimized candlesticks to make the starting and ending points more r",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -18891,6 +19370,25 @@
     "summary_language": null
   },
   {
+    "id": "04a709b7b0c7853cb4d8",
+    "title": "FIX",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6909171012602987273",
+    "source": "Steam 官方公告",
+    "published_at": "2024-08-17T13:25:16+00:00",
+    "collected_at": "2026-11-16T03:02:05+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Fix the problem of curve amplitude being too small when the rise and fall are too large",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "dddc136fa3d0e1ff0fde",
     "title": "Black Myth: Wukong Global Launch Schedule",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6909171012602785857",
@@ -18912,6 +19410,63 @@
     "summary_language": null
   },
   {
+    "id": "dc7f6c4af5f792e8740f",
+    "title": "Real data",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6909171012602496445",
+    "source": "Steam 官方公告",
+    "published_at": "2024-08-17T10:11:23+00:00",
+    "collected_at": "2026-11-16T03:02:05+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "This update adds 700M of content, mainly consisting of real data including the following: NASDAQ-100 S&P 500 Dow Jones Index Shanghai Stock Exchange Composite Index Shenzhen Stock Exchange Component Index Hang Seng Index Nikkei 225 TWII The index content comprises 1-minute data spanning approximately 20 years Application of Real Data Currently, the intraday trading curves have been replaced with real data, meaning the intraday curves now represent historical, authentic data. However, the data is",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "8f7c10d37b813700bd03",
+    "title": "Fix",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6909171012595251337",
+    "source": "Steam 官方公告",
+    "published_at": "2024-08-15T10:29:28+00:00",
+    "collected_at": "2026-11-16T03:02:05+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "I gave up updating the new trading interface because I wanted to focus on content updates and switch back to the old one Fixed the issue where the candlestick appeared above the wallet and other UI, and now the candlestick will be displayed on the correct layer",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "4232a2c85b7a3c443a7c",
+    "title": "Update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5963414363396299641",
+    "source": "Steam 官方公告",
+    "published_at": "2024-08-10T03:33:12+00:00",
+    "collected_at": "2026-11-16T03:02:05+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Adding historical list records will record the top ten transactions with the highest returns The entrance is the best in the history of information",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "b762b5a7453b2142d17b",
     "title": "DEV DIARY #01 Mechanical Parts & Repair Kits",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5963413728350417403",
@@ -18921,6 +19476,63 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Hey Nomads! We’re thrilled to announce a brand-new batch of assets that will bring even more flair and functionality to your Nomad Drive experience. This latest news is packed with exciting additions, including: Customizable Spray Paints: Give your RV a fresh look with our new spray paints! Whether you want to add vibrant colors or unique patterns, these paints let you personalize your vehicle to match your style. Repair Kits: Keep your RV running smoothly with our new repair kits! From tire fix",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5813a3b95db821375969",
+    "title": "Fixed",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5963413728344743151",
+    "source": "Steam 官方公告",
+    "published_at": "2024-08-04T04:26:18+00:00",
+    "collected_at": "2026-11-16T03:02:05+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Fixed the issue that the industry interface did not display English. Fixed the issue that some Chinese characters could not be displayed. Reworked the company details interface (access is by clicking on the company name in the upper left corner of the trading interface). Added an events page to the company details interface. Reworked the news page of the company details interface. Now let's talk about how your stock trading went this month. I had a premonition before the Nasdaq crash, so I liqui",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9a4c4665a5d6080edb5c",
+    "title": "What have I been doing recently",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5963413094366992980",
+    "source": "Steam 官方公告",
+    "published_at": "2024-07-30T16:33:42+00:00",
+    "collected_at": "2026-11-16T03:02:05+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "It's been about a month since I last updated this game. What have I been doing? Nothing much. The Nasdaq crashed, and for the past month, I've been stuck in a cycle of selling stocks, trying to buy low, cutting my losses, and then trying to buy low again. I feel exhausted. Every time I open VS and see the code, all I want to do is sleep. But, I've finally broken free from that cycle. I've set up a regular investment plan, and I'm going to continue updating this game. Sorry for the delay.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b53a762e986cb9bda1bd",
+    "title": "Partial Function Adjustments and Fixes",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5842939267360083877",
+    "source": "Steam 官方公告",
+    "published_at": "2024-07-11T09:56:18+00:00",
+    "collected_at": "2026-11-16T03:02:05+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Expert Functionality Offline The expert functionality seemed not very useful, so it has been taken offline. Its original position has been replaced by the industry feature. Industry Interface In the industry interface, you can view prices of industry goods. Clicking on a specific industry will bring up detailed information about it. You can also see the prosperity of the industry and the companies it contains here. Company Behavior: Stock Buyback Added Previously, when a company had excess money",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
