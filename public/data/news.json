@@ -1,5 +1,427 @@
 [
   {
+    "id": "0b01996953a478061cef",
+    "title": "Grand Theft Auto 6 hacker pleads guilty to all charges",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T19:40:15+00:00",
+    "collected_at": "2026-11-17T03:43:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Arion Kurtaj released dozens of GTA 6 videos to the public more than a year before the game was formally revealed.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9cac97a9b33c316a9631",
+    "title": "Crazy Taxi: World Tour ‘Welcome to India’ trailer, screenshots",
+    "url": "https://www.gematsu.com/2026/11/crazy-taxi-world-tour-welcome-to-india-trailer-screenshots",
+    "source": "Gematsu",
+    "published_at": "2026-11-16T18:12:16+00:00",
+    "collected_at": "2026-11-17T03:43:43+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "SEGA has released a new trailer and screenshots for Crazy Taxi: World Tour showcasing the &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5fc0fbddbe46354c405a",
+    "title": "I installed a GTA 5 drag racing mod that got derailed by my roving band of hitmen mod",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/i-installed-a-gta-5-drag-racing-mod-that-got-derailed-by-my-roving-band-of-hitmen-mod",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T18:00:00+00:00",
+    "collected_at": "2026-11-17T03:43:44+08:00",
+    "game_ids": [
+      "steam-4252720"
+    ],
+    "category": "industry",
+    "summary": "We've all been there.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "bf31a156c6e374cee3f2",
+    "title": "Someone hijacked old Bitly links to redirect big brands to Skibidi Toilet and the Epstein files wiki",
+    "url": "https://www.pcgamer.com/software/security/someone-hijacked-old-bitly-links-to-redirect-big-brands-to-skibidi-toilet-and-the-epstein-files-wiki",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T17:21:43+00:00",
+    "collected_at": "2026-11-17T03:43:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Even Steven from Mewgenics gets a shout out.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "c2373686902b13a4b2b5",
+    "title": "Star Wars: Galactic Racer to add split-screen-supported ‘Free Play’ mode in early 2027",
+    "url": "https://www.gematsu.com/2026/11/star-wars-galactic-racer-to-add-split-screen-supported-free-play-mode-in-early-2027",
+    "source": "Gematsu",
+    "published_at": "2026-11-16T17:00:37+00:00",
+    "collected_at": "2026-11-17T03:43:43+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Publisher Secret Mode and developer Fuse Games will release a split-screen multiplayer-supported &#8220;Free Play&#8221; mode &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "bdaf2a48028a5299f7cb",
+    "title": "Final Fantasy 14's ongoing pursuit in making its 500-hour story less daunting almost manifested into something in August, but Yoshi-P decided to postpone it",
+    "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-ongoing-pursuit-in-making-its-500-hour-story-less-daunting-almost-manifested-into-something-in-august-but-yoshi-p-decided-to-postpone-it",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T16:57:05+00:00",
+    "collected_at": "2026-11-17T03:43:44+08:00",
+    "game_ids": [],
+    "category": "delay",
+    "summary": "We'll get there… one day.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "404d2417f9c139ba360a",
+    "title": "We almost got a medieval Call of Duty with knights and swords: 'If it's a war story, sure, it can be Call of Duty'",
+    "url": "https://www.pcgamer.com/games/call-of-duty/we-almost-got-a-medieval-call-of-duty-with-knights-and-swords-if-its-a-war-story-sure-it-can-be-call-of-duty",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T16:28:36+00:00",
+    "collected_at": "2026-11-17T03:43:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Instead we just got more guns.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "79fc11523400d0180169",
+    "title": "NBA 2K27 x Grand Theft Auto VI collaboration announced",
+    "url": "https://www.gematsu.com/2026/11/nba-2k27-x-grand-theft-auto-vi-collaboration-announced",
+    "source": "Gematsu",
+    "published_at": "2026-11-16T16:20:51+00:00",
+    "collected_at": "2026-11-17T03:43:43+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Publisher 2K and developer Visual Concepts, in partnership with sister company Rockstar Games, have a &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2a34ed8e8afd60185ee5",
+    "title": "Bad House launches January 11, 2027",
+    "url": "https://www.gematsu.com/2026/11/bad-house-launches-january-11-2027",
+    "source": "Gematsu",
+    "published_at": "2026-11-16T16:09:38+00:00",
+    "collected_at": "2026-11-17T03:43:43+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Auto-battler dungeon crawler Bad House will launch for PC via Steam on January 11, publisher &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "7d1847d226b424750ef3",
+    "title": "Biostar announces the first Intel Panther Lake motherboard and it's tiny, but don't get your hopes up for cramming it into a mini gaming PC",
+    "url": "https://www.pcgamer.com/hardware/motherboards/biostar-announces-the-first-intel-panther-lake-motherboard-and-its-tiny-but-dont-get-your-hopes-up-for-cramming-it-into-a-mini-gaming-pc",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T16:08:45+00:00",
+    "collected_at": "2026-11-17T03:43:44+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "A mini PC with Intel's G3 chip would rock, but alas, we're left with just four Xe3 cores instead.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "fa607bb8c7324123798f",
+    "title": "Final Fantasy 14 really wants Evercold to be the expansion everyone comes back to, so much so it's giving you 30 days free gametime if you've been gone long enough",
+    "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-really-wants-evercold-to-be-the-expansion-everyone-comes-back-to-so-much-so-its-giving-you-30-days-free-gametime-if-youve-been-gone-long-enough",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T15:53:44+00:00",
+    "collected_at": "2026-11-17T03:43:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Time to finish up that post-Dawntrail MSQ, folks.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "f46fb34ca1d4787af6d7",
+    "title": "Book Nook launches December 1 for PC, later for Switch",
+    "url": "https://www.gematsu.com/2026/11/book-nook-launches-december-1-for-pc-later-for-switch",
+    "source": "Gematsu",
+    "published_at": "2026-11-16T15:37:09+00:00",
+    "collected_at": "2026-11-17T03:43:43+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Cozy diorama crafting game Book Nook will launch for PC via Steam on December 1, &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "58bc7c16521eab4c9dc4",
+    "title": "Machine Party coming to PS5, Xbox Series, and Switch on November 26",
+    "url": "https://www.gematsu.com/2026/11/machine-party-coming-to-ps5-xbox-series-and-switch-on-november-26",
+    "source": "Gematsu",
+    "published_at": "2026-11-16T15:07:18+00:00",
+    "collected_at": "2026-11-17T03:43:43+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Publisher Oro Interactive and developer Mike Klubnika will release violent party game collection Machine Party &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b45d8c2e8702e2fee699",
+    "title": "DAVE THE DIVER x Core Keeper crossover updates announced",
+    "url": "https://www.gematsu.com/2026/11/dave-the-diver-x-core-keeper-crossover-updates-announced",
+    "source": "Gematsu",
+    "published_at": "2026-11-16T14:46:13+00:00",
+    "collected_at": "2026-11-17T03:43:43+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "MINTROCKET, Pugstorm, and Fireshine Games have announced a two-way crossover for both DAVE THE DIVER &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2ad608c871f5405311cd",
+    "title": "World of Warcraft: Forever player turns their paladin into a near-unkillable healbot, solos a level 60 monster at level 30, and swims into the ocean",
+    "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-player-turns-their-paladin-into-a-near-unkillable-healbot-solos-a-level-60-monster-at-level-30-and-swims-into-the-ocean",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T14:34:01+00:00",
+    "collected_at": "2026-11-17T03:43:44+08:00",
+    "game_ids": [
+      "steam-648800"
+    ],
+    "category": "industry",
+    "summary": "It took 20 minutes, though.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d9243245c5f068684340",
+    "title": "Ashes of the Singularity 2 review: Some neat ideas undermined by a rubbish campaign and obtrusive generative AI",
+    "url": "https://www.pcgamer.com/games/rts/ashes-of-the-singularity-2-review",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T14:01:32+00:00",
+    "collected_at": "2026-11-17T03:43:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Ashes of the Singularity 2 delivers on gigantic battles, but not much else.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "00574295e3785775ffed",
+    "title": "'Game dev isn't always straightforward': Overwatch's director responds to players upset about season 6's hero being a DPS",
+    "url": "https://www.pcgamer.com/games/fps/game-dev-isnt-always-straightforward-overwatchs-director-responds-to-players-upset-about-season-6s-hero-being-a-dps",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T13:35:19+00:00",
+    "collected_at": "2026-11-17T03:43:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "We don't need any more supports right now.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "75480fbe98be8396bec8",
+    "title": "Intel hit with class action alleging it 'misled investors' – company's recent downturn due in part to how darn expensive PCs are right now",
+    "url": "https://www.pcgamer.com/hardware/processors/intel-hit-with-class-action-alleging-it-misled-investors-companys-recent-downturn-due-in-part-to-how-darn-expensive-pcs-are-right-now",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T13:28:40+00:00",
+    "collected_at": "2026-11-17T03:43:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The company saw a large stock price decline just last week.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "74bdadec816e1afd236d",
+    "title": "New Asus beta BIOS patches now include a fresh AMD feature to stop you thinking your PC's b0rked",
+    "url": "https://www.pcgamer.com/hardware/motherboards/new-asus-beta-bios-patches-now-include-a-fresh-amd-feature-to-stop-you-thinking-your-pcs-b0rked",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T13:16:34+00:00",
+    "collected_at": "2026-11-17T03:43:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The new memory training counter shows your PC hasn't just hung on boot.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3c5d43e271813ebf8c47",
+    "title": "Jensen Huang reportedly eyeing up return to Nvidia as friendly tech execs form 'war room' to fight for him and over 175,000 people sign #bringjensenback petition",
+    "url": "https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T13:14:40+00:00",
+    "collected_at": "2026-11-17T03:43:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "This one might have to wait until after Huang's meetings in Congress.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "6e988c0fd7f21b4f0b79",
+    "title": "WoW: Forever's continued to wrestle with dungeons, as Blizzard admits it briefly 'missed the mark' on hotfixes over the weekend",
+    "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-continued-to-wrestle-with-dungeons-as-blizzard-admits-it-briefly-missed-the-mark-on-hotfixes-over-the-weekend",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T11:51:12+00:00",
+    "collected_at": "2026-11-17T03:43:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Out on the level range.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a8a3dc7adc294f170684",
+    "title": "The latest SteamOS update improves support on Nvidia-powered PCs: makes swapping your rig to the OS less painful",
+    "url": "https://www.pcgamer.com/hardware/steam-machines/the-latest-steamos-update-improves-support-on-nvidia-powered-pcs-makes-swapping-your-rig-to-the-os-less-painful",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T11:47:03+00:00",
+    "collected_at": "2026-11-17T03:43:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "And a custom rig will be better priced than the Steam Machine.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "ef92848a5b0fb133aab9",
     "title": "Alchedoom 1.03 Update: Quick Relic Swaps and a Tougher Endless Challenge!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702688338",
@@ -535,7 +957,7 @@
   },
   {
     "id": "293f8e04d0881e4507fc",
-    "title": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: 'That's the two wolves inside me'",
+    "title": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding new ways to surprise fans: 'That's the two wolves inside me'",
     "url": "https://www.pcgamer.com/games/sim/dishonored-2-director-harvey-smith-wants-to-honour-sacred-imsim-texts-while-finding-news-ways-to-surprise-fans-thats-the-two-wolves-inside-me",
     "source": "PC Gamer",
     "published_at": "2026-11-14T15:00:00+00:00",
@@ -587,6 +1009,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "4ce07c3ce7f466308eb8",
+    "title": "🌱 Farm & Feast Early Access v0.2.1 Patch Notes 🌱",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702683459",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-14T13:58:19+00:00",
+    "collected_at": "2026-11-17T03:43:37+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "💾 SAVESFixed saves disappearing after reopening the game. Missing saves now come back automatically.Saves are no longer deleted or overwritten when something goes wrong.Saves now work without Steam and across devices (e.g. Steam Deck and PC). 🍽️ RESTAURANT & CUSTOMERSFixed the restaurant freezing with full tables, nobody ordering or asking for the check, and the day never ending.Fixed customers eating forever and never asking for the check.Fixed customers standing in line after closing time and ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -1478,6 +1919,27 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Hello, Alchemists!I just released a small update, fixing a bunch of bugs that y'all have reported, as well as improving another round of small features.Some of you have beaten Blood 15, and that's very impressive to the team, because frankly: we never managed to do that. So congratulations to those who did it, and good luck to those who are trying! 🔥Here's the changelog:ContentFix Lavish exploration and Prosperous exploration effects not ending at the end of turn.Make winning with Magnum Opus co",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "818d04f003e3e07e78bf",
+    "title": "Fishing Shop: Tidy Up Is Out Now!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144186219",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-13T08:04:56+00:00",
+    "collected_at": "2026-11-17T03:43:33+08:00",
+    "game_ids": [
+      "steam-5438730"
+    ],
+    "category": "industry",
+    "summary": "Fishing Shop: Tidy Up officially launches on Steam today!After months of development, Fishing Shop: Tidy Up is finally available for everyone to play! The shop may still be closed to customers, but there's plenty of work waiting for you inside. It's time to sort through the merchandise and get those shelves looking spotless!You'll find shelves cluttered with products, boxes full of fishing gear, and all sorts of items waiting to be put in their proper places. Sort products by category, color, an",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -3500,6 +3962,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Nozile now has 26 Steam Achievements.First steps: defeat the mid boss and the final boss, land a PARRYClears with each weapon, each armor weight, an Amulet, or a ModifierSkill challenges for clear time, BOSS TIME, TOTAL damage and MAX DPSA signature feat for each weaponLong-term goals: collect every Amulet and clear with all 18 buildsYour past runs countThe first time you launch the game after this update, you’ll earn any achievements your saved records already qualify for, such as weapon clears",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "6f7f3ba69f9e6f886c4d",
+    "title": "🎉Farm & Feast is now available in Early Access!🎉",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144178719",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-11T13:45:25+00:00",
+    "collected_at": "2026-11-17T03:43:37+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello everyone, 👋 The day is finally here! We are incredibly thrilled to announce that Farm & Feast is now officially available in Early Access! 🎉 As a two-person development team, we have poured our hearts into building this cozy farming and restaurant management experience. Seeing our community grow and feeling your support over the past few months has been amazing, and we cannot wait for you to finally dive into the full game. ❤️ To celebrate our launch, Farm & Feast is available right now wi",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -10737,6 +11218,25 @@
     "summary_language": null
   },
   {
+    "id": "cc8cac43bb9c221ddfb7",
+    "title": "Farm & Feast is Coming to Early Access on November 11! 🎉",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302248228",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-02T13:55:13+00:00",
+    "collected_at": "2026-11-17T03:43:37+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hi everyone! 👋We are incredibly excited to share that Farm & Feast will be launching in Early Access on November 11!We are really happy with where the game is today, but we realize there is still so much more we want to add to it. We ultimately decided on Early Access because it gives us the chance to make Farm & Feast a much deeper and richer experience. Ever since our playtests, staying in touch with the community and shaping the game based on your feedback has been an absolutely amazing and e",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "882cf0354f352b13de44",
     "title": "Ray tracing memory usage could be reduced by up to 90% thanks to 'most significant' DirectX update",
     "url": "https://www.pcgamer.com/hardware/memory/ray-tracing-memory-usage-could-be-reduced-by-up-to-90-percent-thanks-to-most-significant-directx-update",
@@ -13614,6 +14114,25 @@
     "summary_language": null
   },
   {
+    "id": "0a670e7e979cf657d287",
+    "title": "Main Menu Music",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114032067",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-22T10:24:24+00:00",
+    "collected_at": "2026-11-17T03:43:31+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "I forgot it. Yeah.Added music to the main menu.That's it.Enjoy.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "fbfa2e9975b5cd320812",
     "title": "Next Fest, halfway: five languages, a four-hour stream, five keys to win",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031588",
@@ -14253,6 +14772,25 @@
     "summary_language": null
   },
   {
+    "id": "f516f6e43fa9c3cd92b9",
+    "title": "🌾 Farm & Feast is in Steam Next Fest! Play the Demo! 🍳",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706689478",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-19T09:46:24+00:00",
+    "collected_at": "2026-11-17T03:43:37+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hello everyone!We are incredibly excited to announce that Farm & Feast is officially part of the Steam Next Fest! As a two-person indie team, we have been pouring our hearts into creating a truly cozy farming and restaurant management experience, and we can't wait for you to try it.In this demo, you will get a taste of running your very own culinary business. You can:Grow your ingredients: Plant seeds, harvest crops, and turn wheat into fresh flour at the Windmill.Cook delicious meals: Use your ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "c16755756a922d4d16ad",
     "title": "50,000 WISHLISTS! 🎉 You guys are absolutely incredible! Thank you!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706689214",
@@ -14319,6 +14857,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Hello Apprentices! The alchemist is very pleased with the work of the apprentices that have sorted the shop up until now, and has decided to reward you!A second game mode will be available in the demo, right in time for Steam Next Fest!The alchemist has marked every page in the encyclopedia with the category, so you can lock in on the sorting alone, and enjoy an even cozier experience. (Is that even possible?) Choose your playstyleSort the alchemy shop in a relaxed, soothing pace in the Relaxed ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "788da4086bc12d345441",
+    "title": "Skill tree rework",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706686918",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-18T13:02:05+00:00",
+    "collected_at": "2026-11-17T03:43:31+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello!Here's the patch log for the latest Demo Update:Skill Tree Economy ReworkNow skills have different level that give partial buffs and increase in price gradually instead of having just a single level with a big buff in stats.Why?I made this because I figured over time that people wanted to have more control over their advancement on the skill tree.This also allows you to make little purchases here and there that stack up over time instead of just waiting shift over shift to purchase one sin",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -14926,6 +15483,25 @@
     "summary_language": null
   },
   {
+    "id": "c41bcc90f4565b4277dc",
+    "title": "Farm & Feast is part of the Steam Cooking Fest! 🍳🌾",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067941516",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-12T16:22:40+00:00",
+    "collected_at": "2026-11-17T03:43:37+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hi everyone! We are super excited to announce that Farm & Feast is participating in the Steam Cooking Fest! Whether you are discovering our cozy farm and restaurant world for the first time through the festival, or you have already played an earlier version, now is a great time to jump into the demo! Thanks to your amazing feedback and suggestions, we have been hard at work adding lots of new features and improvements to the game, including: ☕ Coffee Machine: Brew coffee to calm down customers w",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "78d90f3d0429a4170eec",
     "title": "The Performance Enhancement Update - LIVE NOW",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067941356",
@@ -14973,6 +15549,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "As the intense summer heat begins to fade and the season arrives when ice mages start their research, I hope all of you Owners are doing well. Now then, thank you all for waiting. Perhaps I have kept you waiting a little too long. Today, I would like to share a preview of the next version update. Ver. 0.1.0 Highlights The next version update will include the following changes. New Class: “Hunter” Arrives The new class “Hunter,” which was previously announced, is finally planned to arrive in the ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "8177a651219f6c5d1e46",
+    "title": "Demo Update Ver 0.6.2",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067938066",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-11T09:29:33+00:00",
+    "collected_at": "2026-11-17T03:43:31+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hello Sellers! Little patch note here for the first Pack It Up Demo update!Changes:Skill Tree upgrades tooltip now are showing the values that will be applied on purchase (if applicable).Changes to End Game perma upgrades buttonBalancing:Balanced costs and effects of many skills.Balanced effects of some black market items.Adjusted Quota prices.Fixes:Overqualified achievement is now working properly.General Minor fixes.",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -15108,6 +15703,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Version 1.3.0.0 is out!Changelog:Added first-time explanations of game mechanics, with a dog explaining the main game features at key moments. This should make it much easier to understand how the game works!Rebalanced the waves to make the game less easy in areas with blue and green threat levels. The game should now be more challenging in both the early and late game.Changed how new areas are unlocked. After completing a blue threat level, you gain access to the blue threat level of the next a",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "4aa88f5a12dd31f469ca",
+    "title": "Farm & FeastDemo Patch Notes v0.1.6",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067930549",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-08T16:54:27+00:00",
+    "collected_at": "2026-11-17T03:43:37+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "🎣 NEW: FISHING Fishing is here! Unlock the Fishing Rod at 800 Hype, buy it from the Workshop, head to the new dock and catch fresh fish for your kitchen.New hold-to-reel system: hold to charge and cast, watch the bobber until a fish bites, then hold to reel it in. Ease off when the fish fights back, or the line snaps. 🌾 NEW: WHEAT → FLOUR → BREAD Full production chain: plant wheat in the field by the windmill, harvest it into a bale, drop the bale at the Windmill and pick up fresh flour sacks.Ma",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -15300,6 +15914,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "FixesFixed a bug with upgrades.Fixed a bug that caused a brief freeze when switching music tracks.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "139631b4356145f391ce",
+    "title": "Farm & Feast Demo Patch Notes v0.1.5",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656390087",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-03T22:23:41+00:00",
+    "collected_at": "2026-11-17T03:43:37+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "☕ Coffee Stand Are guests losing patience while the kitchen is busy? Bring them a hot coffee and their Patience Bar freezes for a while. Coffee costs a few coins to brew and earns no profit, so pour it only when you need to. When the pot runs out, the chefs brew a fresh one on their own. It unlocks on Day 5 with a short tutorial. 🍰 Dessert Stand Served a dish late or made a mistake? Give your guests a dessert while they're eating, before they ask for the bill, to raise their rating. Desserts ear",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -15787,6 +16420,25 @@
     "summary_language": null
   },
   {
+    "id": "97461e100a7b50a2c118",
+    "title": "🌱 Farm & Feast Demo Patch Notes v0.1.41",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498228283",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-27T00:02:42+00:00",
+    "collected_at": "2026-11-17T03:43:37+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "DECORATION MODE IMPROVEMENTSStyle preview: Hover or select a style/color to see it on the object before you buy.Sell decorations: Press C (keyboard) or X (gamepad) to sell items for 90% of their price. Works from the scene or from your storage in the catalog. Style purchases are not refunded. Free items and starting tables can't be sold.Buy/sell feedback: A floating \"-$X\" / \"+$X\" appears with a purchase sound.Reworked gamepad controls: The catalog stays open while you walk around. D-pad browses ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "378b167f1cbb4059e345",
     "title": "Sproutling Diaries 5: Making a house a home",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224964",
@@ -16251,6 +16903,25 @@
     "summary_language": null
   },
   {
+    "id": "b742303e2a8ff2b5e985",
+    "title": "🌿 The Farm & Feast Demo is Officially LIVE! Welcome to Your Cozy Restaurant!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262696165",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-11T18:42:46+00:00",
+    "collected_at": "2026-11-17T03:43:37+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hey everyone! zbeedev and arttec here! After months of hard work, we are beyond thrilled to announce that the Farm & Feast demo is now officially live on Steam! As a two-person core indie team, we wanted to create a low-stakes, relaxing world where you can escape the daily stress. In this demo, you will get a taste of what it is like to grow your own fresh ingredients, manage a bustling little restaurant, and serve happy customers. What’s in the Demo? Stress-Free Management: No harsh penalties, ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "4d1bfbc1e9f6e9a0780c",
     "title": "Sproutling Diaries 3: Our Beautiful World",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695649",
@@ -16355,6 +17026,25 @@
     "game_ids": [],
     "category": "release",
     "summary": "Bullet Meltdown, a blend of roguelite shooting and real-time tower defense, launches on Steam on November 9, 2026!Pulling the trigger is just the beginning. Experiment with outrageous weapon combinations and discover how different weapons and units work together to turn your wildest ideas into devastating firepower. Dodge, shoot, hire & level up your units, build structures and watch your army clash against crazy bosses.Take on five regions and multiple difficulty levels, with permanent progress",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "4d9d2b6378c40ac8b9e1",
+    "title": "🌾 Farm & Feast Playtest Patch Notes v0.1.2",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814449925",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-05T23:26:21+00:00",
+    "collected_at": "2026-11-17T03:43:37+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hey farmers! Thank you for all the reports and feedback. This update brings a big content drop plus a round of fixes. 🏡 Decorate your restaurant• New Decoration Mode: place plants, lamps and wall pieces• New style variants for floors, walls, wood, kitchen, tables and chairs• Decorations unlock as your hype grows, with a notification when a new one opens up• The restaurant is wider now, with more room to decorate 🔧 Workshop• New upgrades: bigger drink tray, carry several plates at once, faster mo",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
