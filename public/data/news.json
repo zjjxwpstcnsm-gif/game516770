@@ -1,5 +1,138 @@
 [
   {
+    "id": "ef92848a5b0fb133aab9",
+    "title": "Alchedoom 1.03 Update: Quick Relic Swaps and a Tougher Endless Challenge!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702688338",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-16T06:08:47+00:00",
+    "collected_at": "2026-11-16T14:33:16+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello, fellow alchemists! Thank you for continuing to report issues! This update makes replacing relics easier, raises the late-game challenge in Endless mode, and fixes problems with letters, the hidden ending, and loading saves. New Features Swap relics directly While holding a relic, aim at one already on the rack and press Interact (default: E) to swap them. No more dropping things on the floor and picking them up again. The new relic takes effect immediately, and the replaced one returns to",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "fe812adf41508d93c206",
+    "title": "Influential Warhammer miniature designer Aly Morrison has died",
+    "url": "https://www.pcgamer.com/games/board-games/influential-warhammer-miniature-designer-aly-morrison-has-died",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T05:30:39+00:00",
+    "collected_at": "2026-11-16T14:33:23+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Morrison retired just six months ago.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b66ad0b776766ead2b1d",
+    "title": "This Week’s Japanese Game Releases: Grand Theft Auto VI, more",
+    "url": "https://www.gematsu.com/2026/11/this-weeks-japanese-game-releases-grand-theft-auto-vi-more",
+    "source": "Gematsu",
+    "published_at": "2026-11-16T03:09:20+00:00",
+    "collected_at": "2026-11-16T14:33:23+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Grand Theft Auto VI for PlayStation 5 and Xbox Series is the highlight of this &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "aad2c2946d2d0ac6d4b1",
+    "title": "Version 1.02",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702687663",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-15T23:41:43+00:00",
+    "collected_at": "2026-11-16T14:33:10+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Changes: Lowered health of Stage 4 final midboss (Kingkiller). Top HUD and Lower HUD will now become transparent when the player's ship goes over them. Changed the opening pattern of Stage 5 boss' final phase. Changed behavior of homing bullets. Changed sprite of accelerating bullets. Bug Fixes: Fixed an issue where the Stage 3 Midboss' Green Turrets would spawn inside the core, preventing it from being shot. Fixed the spawn position of bullets from the explosive missiles of Stage 4 third midbos",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9d8b2aa5432b3d7522a9",
+    "title": "Netcode Warriors adds PS5 version, launches in 2027",
+    "url": "https://www.gematsu.com/2026/11/netcode-warriors-adds-ps5-version-launches-in-2027",
+    "source": "Gematsu",
+    "published_at": "2026-11-15T22:00:36+00:00",
+    "collected_at": "2026-11-16T14:33:23+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Anime-inspired arena fighting game Netcode Warriors will launch for PlayStation 5 and PC via Steam &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e797987d029f6510c22f",
+    "title": "Mega Man: Dual Override Boss Design Contest winner Cleanser Man revealed",
+    "url": "https://www.gematsu.com/2026/11/mega-man-dual-override-boss-design-contest-winner-cleanser-man-revealed",
+    "source": "Gematsu",
+    "published_at": "2026-11-15T21:30:39+00:00",
+    "collected_at": "2026-11-16T14:33:23+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Capcom has revealed Mega Man: Dual Override Boss Design Contest winner Cleanser Man, who will &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "405c9fd5eea835488ca2",
+    "title": "Rivals of Aether II adds Burnette on December 1",
+    "url": "https://www.gematsu.com/2026/11/rivals-of-aether-ii-adds-burnette-on-december-1",
+    "source": "Gematsu",
+    "published_at": "2026-11-15T21:00:31+00:00",
+    "collected_at": "2026-11-16T14:33:23+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Platform fighting game Rivals of Aether II will add Burnette, &#8220;The Scorched Shield,&#8221; as its &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "c1b549d3473f9acb46d5",
     "title": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
     "url": "https://www.pcgamer.com/games/world-of-warcraft/are-you-more-of-an-ambient-music-enjoyer-or-theatrical-atmosphere-appreciator",
@@ -93,6 +226,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "ea94107d9bf74e1b8b74",
+    "title": "Gameplay Update — Bosses, Quests & Fixes",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702686549",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-15T15:40:31+00:00",
+    "collected_at": "2026-11-16T14:33:18+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Server maintenance is scheduled for 15 November at 17:30 CET (Brussels time). The server will be temporarily unavailable while we apply this update. What's changed Improved boss pathfinding around obstacles and ranged attack positioning. Fixed an issue where reconnecting after dying could leave your character walking around as a gravestone. Pressing C now both opens and closes the Character window. Boss and epic monster quest objectives now grant credit without requiring a party or the final hit",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -192,6 +344,25 @@
     "summary_language": null
   },
   {
+    "id": "2042fcdf28d2f07cd7e8",
+    "title": "Scheduled Maintenance - Balance & Fixes",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702685889",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-15T10:27:13+00:00",
+    "collected_at": "2026-11-16T14:33:18+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Server maintenance will begin on November 15 at 13:00 CET. The server will be temporarily unavailable while we apply the following update. World Bosses World Boss respawn times will be randomized to help reduce camping. Balance Aqua Purge's cooldown will be increased to bring its power in line with other starting elemental spells. Fixes Fixed a startup crash on smaller screens and unsupported display resolutions. Channel population labels will now follow your selected language. Removed unintende",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "a28a40aeb2afe668d532",
     "title": "The most annoying questgivers in PC games",
     "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games",
@@ -207,6 +378,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a8ffbeb279948c45aa24",
+    "title": "Alchedoom 1.02 Update: A Clearer Compendium and a New Difficulty Choice!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702685618",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-15T07:04:36+00:00",
+    "collected_at": "2026-11-16T14:33:16+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello, fellow alchemists! Thank you for your suggestions! Version 1.02 improves room lighting, the compendium, and the beginner experience. See more clearly, find information more easily, and choose the challenge that suits you. New Features Always-On Light Enable it in Settings → Display to gently brighten the room and make dark corners easier to see without holding the right mouse button. It is off by default, and the right-click light remains available. Easy and Real difficulties New players ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -302,6 +492,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "de88709a9f5fdedb3f3c",
+    "title": "Alchedoom 1.01 Update: See More Clearly, Play More Comfortably!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702683940",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-14T16:39:22+00:00",
+    "collected_at": "2026-11-16T14:33:16+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "https://clan.akamai.steamstatic.com/images/46667191/dce8ccc9b3e7e3522bb3307a2440b596b9b5d5cc.png Greetings, fellow cultivators! Thank you for playing and sharing your feedback. This update focuses on stuttering, easier controls, and issues that have been getting in the way of your game. New Features Light up the way with right-click Room too dark? Can't see into a corner? Hold the right mouse button while empty-handed to gently light up the area ahead. When holding an item, right-click still let",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -420,6 +629,25 @@
     "summary_language": null
   },
   {
+    "id": "b4e5f4126db9e8d49020",
+    "title": "Update 1.0.1: Sandbox Difficulty & Event Improvements",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702682944",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-14T10:16:20+00:00",
+    "collected_at": "2026-11-16T14:33:12+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "ADDEDSandbox difficulty. You can now start a new game with $5 million, making the early game much more forgiving and giving you more freedom to experiment with different strategies. Sandbox also reduces the impact of certain negative events by 50%. Made for players who just want a more relaxed experience.OTHER CHANGESYou can now hide almost all events that do not require you to make a choice. This should significantly reduce event spam, which many of you mentioned in your feedback.Small localiza",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "b8751e29da08ad7480fb",
     "title": "Super Meat Boy Again+ announced for PC",
     "url": "https://www.gematsu.com/2026/11/super-meat-boy-again-announced-for-pc",
@@ -448,6 +676,44 @@
     "game_ids": [],
     "category": "release",
     "summary": "Dear residents of our happy North American neighborhood, We have wonderful news for you: on May 17, 2027, AMERICAN LIFE SIMULATOR leaves Early Access and launches its full 1.0 version! You made this possible Every lawn you mowed, every hedge you trimmed and every safe you cracked open helped shape this game. Your reviews, bug reports and ideas in the Discussions showed us exactly what to improve, and we read every single one of them. Thank you for believing in a small game with big dreams. A spe",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3882eb05e61fce300727",
+    "title": "Alchedoom — Full Release Today! US$2.09 → US$1.88 (-10%)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702682223",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-14T03:03:04+00:00",
+    "collected_at": "2026-11-16T14:33:16+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Hello everyone! I'm 万古白夜君 (Wangu Baiye Jun), the developer of Alchedoom. 🎉 The full version of Alchedoom launches on Steam today! What began as an idea is now a first-person alchemy roguelite you can step into and play. At last, the doors to this alchemy cell are open. Thank you to everyone who has followed development, tested the game, and shared suggestions along the way. If this is your first time hearing about Alchedoom, welcome. Let's see whether you can survive long enough to escape. 🔥 Wha",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "085cb623cc3e5c566ead",
+    "title": "Version 1.01",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702682178",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-14T02:40:06+00:00",
+    "collected_at": "2026-11-16T14:33:10+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Bug Fixes: How to Play scene now performs Hyper and Blank Install properly. Fixed the crash when reaching the bad ending of the game. Stage 5 boss no longer gives the player infinite invulnerability when the 2nd phase is beaten. (You can no longer \"Dangun Feveron\" the boss.) Removed a left over debug key that gave the player unlimited data and unlocked all ships.",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -724,6 +990,44 @@
     "summary_language": null
   },
   {
+    "id": "99dd343560d2e1060bb6",
+    "title": "Green Again is OUT NOW",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144188180",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-13T17:00:05+00:00",
+    "collected_at": "2026-11-16T14:33:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Ready to revive a planet, Sproutling?Their world needs your help!Green Again is OUT NOWTo celebrate Green Again's release, we're offering a 25% launch discount!Restore a ruined and ravaged world in this relaxing colony-sim. Guide a tribe of little plant people to reclaim and revive their planet after it was left scarred and uninhabitable by defective terraforming machines. Farm crops to feed your Sproutling community and build decorations to keep their happiness high. Because every Sproutling de",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "280f63d81a7c6aa62524",
+    "title": "Small Hiccup",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144188097",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-13T16:42:37+00:00",
+    "collected_at": "2026-11-16T14:33:10+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Well then, nothing goes completley according to plan.Fixed the error for the wrong filepath. Game is now able to launch.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "4b056d7196ca5f4d67f8",
     "title": "'Season 10 has been a challenging one for us': Marvel Rivals is upgrading Storm's summer skin after favouritism complaints",
     "url": "https://www.pcgamer.com/games/third-person-shooter/season-10-has-been-a-challenging-one-for-us-marvel-rivals-is-upgrading-storms-summer-skin-after-favouritism-complaints",
@@ -743,6 +1047,27 @@
     "summary_language": null
   },
   {
+    "id": "5f97bb42a87af48a48e5",
+    "title": "ASSAULT SHELL 2 v1.0 is now Available!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144187989",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-13T16:12:27+00:00",
+    "collected_at": "2026-11-16T14:33:10+08:00",
+    "game_ids": [
+      "steam-2173850"
+    ],
+    "category": "industry",
+    "summary": "It's been a while, but ASSAULT SHELL 2 version 1.0 has finally released! Thank you all for being patient with us. The game has left early access and fully released.Change Notes:Stage 5 has been added, as well as the final boss and true last bossAdded character endings and staff rollImplemented the Extra Menu, with a gallery, lore log viewer, and shopData points and data shop has been implemented, players earn data after runs, which they can use to buy gallery art, wallpapers, ship palettes, and ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "adb0001281b3eea2e220",
     "title": "Clearer first-run guidance",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144187968",
@@ -752,6 +1077,27 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Clearer first-run guidance The first run (tutorial) now names the buttons for your Attack Skill and Magic Skill. For example: “LEFT CLICK / J : ATTACK SKILL” and “RIGHT CLICK / K : MAGIC SKILL” On a gamepad, the tips show your gamepad’s buttons instead. Each tip stays on screen until you press that button. Normal attacks fire on their own, so some players didn’t realize there were other attacks. A “TUTORIAL” label now appears in the top-left corner during the first run. Toggle Magic Skills are e",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "34be31c1db9c2c93586a",
+    "title": "BUSINESS TYCOON is OUT!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144187955",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-13T16:05:29+00:00",
+    "collected_at": "2026-11-16T14:33:12+08:00",
+    "game_ids": [
+      "steam-5256610"
+    ],
+    "category": "industry",
+    "summary": "Build companies, expand across industries and states, and grow your business empire from the ground up.Play now and start building your empire!",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -2204,6 +2550,27 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a2038336228a690d251b",
+    "title": "BUSINESS TYCOON RELEASES TOMORROW!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144182884",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-12T13:21:37+00:00",
+    "collected_at": "2026-11-16T14:33:12+08:00",
+    "game_ids": [
+      "steam-5256610"
+    ],
+    "category": "release",
+    "summary": "Business Tycoon releases worldwide on November 13. Get ready to build your companies, expand across industries and states, and grow your business empire from the ground up.Release times:🇺🇸 🇨🇦 US & Canada — 8:00 AM PST / 9:00 AM MST / 10:00 AM CST / 11:00 AM EST 🇬🇧 United Kingdom — 4:00 PM GMT 🇦🇺 Australia — 12:00 AM AWST / 2:00 AM AEST / 2:30 AM ACDT / 3:00 AM AEDT (November 14) 🇳🇿 New Zealand — 5:00 AM NZDT (November 14)Check the map for release times in other regions.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -5030,6 +5397,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2ef331c46211cd308796",
+    "title": "It's Finally Time",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355870",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-09T15:25:39+00:00",
+    "collected_at": "2026-11-16T14:33:10+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "It's been a long time since this game was announced, and the journey was long and tough, but we can finally announce that... ASSAULT SHELL 2 VERSION 1.0 IS RELEASING ON 11.13.2026!The full game is finally releasing as a full fledged product, with the final stage, boss, and extra boss included. The game is fully playable.Additionally, Version 1.0 will include new features, such as:The Extra Menu is now available, where you can look at in game lore and gallery images!A Data Shop system where you c",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -11767,6 +12153,25 @@
     "summary_language": null
   },
   {
+    "id": "244eb7a9118f959e4c46",
+    "title": "Welcome to Green Again",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302239228",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-30T16:09:46+00:00",
+    "collected_at": "2026-11-16T14:33:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Welcome Sproutlings!Green Again’s November 13th release date is rapidly approaching, and with it we’re preparing to welcome a new wave of Sproutlings to join us in our terraforming efforts. If you’ve been with us throughout the development journey - thank you! If you’re just arriving, here’s an overview of everything awaiting your Sproutling society in Green Again. And if you haven’t already done so, you can Wishlist the game to keep track of our future updates.Turn the planet Green AgainGreen A",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "7fdc3bdc191e3b247e07",
     "title": "Share of the Week: Costumes",
     "url": "https://blog.playstation.com/2026/10/30/share-of-the-week-costumes-3",
@@ -12227,6 +12632,27 @@
     "summary_language": null
   },
   {
+    "id": "e2bf07847a2049501294",
+    "title": "Elementys is ready: still waiting for Steam's approval",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234091",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-29T09:40:53+00:00",
+    "collected_at": "2026-11-16T14:33:18+08:00",
+    "game_ids": [
+      "steam-5300300"
+    ],
+    "category": "industry",
+    "summary": "Hello everyone, I wanted to give you an update on Elementys' release and be transparent with you: on my side, the game is ready and just waiting for you. However, I still haven't received a response from Steam regarding its approval. For now, unfortunately, I can't share any further information or give you a reliable release date. One day, two days, three days… I don't know how long it will take, as I'm still waiting for a response myself. As soon as Steam responds and approves the game, I'll re",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "4c88f5b831050663c2ba",
     "title": "Build Your Dream Team, Forget Perfect Placement!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302233998",
@@ -12508,6 +12934,27 @@
     "game_ids": [],
     "category": "industry",
     "summary": "WELCOME TO YOUR NEW SHOP!Get it now for 10% off!The shop has opened and it's finally time for you to do what it takes to keep your business afloat and try and buy out the shop!Coming from the Demo?Your saves will carry over, but we strongly recommend starting fresh to not miss out on newly added storylines. The Demo is now retired and mods built for it probably won’t work with the full game.What’s new in 1.09 starting scenarios: Apprentice, Water Merchant, Fence, Gunsmith, Chemist, Hydroponic Fa",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b02858d3ac68e72f232f",
+    "title": "An Update on Elementys' Launch",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230671",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-28T11:47:14+00:00",
+    "collected_at": "2026-11-16T14:33:18+08:00",
+    "game_ids": [
+      "steam-5300300"
+    ],
+    "category": "release",
+    "summary": "Hello everyone, Elementys is scheduled to launch on October 29, but the game's build is still awaiting Steam's review. This means the launch may be delayed. I wanted to let you know ahead of time. I'll share another update tomorrow, before the planned launch time, to confirm whether the release will go ahead or be postponed. Elementys will still launch on Steam. You can also join the Elementys Discord to follow development news, ask questions, and chat with me and other players. I'll also post i",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -13962,6 +14409,25 @@
     "summary_language": null
   },
   {
+    "id": "054c2a891178025baba2",
+    "title": "Introducing the Rotten Fighters",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706684293",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-17T10:45:49+00:00",
+    "collected_at": "2026-11-16T14:33:20+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "“It’s genetically modified. Relax.” Pepinudo and Melancildo found some suspicious juice in the locker room. The result: Rotten transformations, ultimate attacks, and a gym that will never be the same. Watch just the 55-second juice sequence: ▶ Watch Introducing the Rotten Fighters {STEAM_CLAN_IMAGE}/46307055/21fb9b527024b3fab5aea0740dab5bf5cc102a93.jpg Try the free Fruit Kombat demo and add the full game to your wishlist: https://store.steampowered.com/app/5082170/",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "a1ce8fb54164e3296b9f",
     "title": "Worst Class Ever Demo 0.1.7 Update Announcement",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706684102",
@@ -14019,6 +14485,25 @@
     "summary_language": null
   },
   {
+    "id": "b102fbe27e10e4c392f5",
+    "title": "We have a release date!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706682713",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-16T18:25:33+00:00",
+    "collected_at": "2026-11-16T14:33:14+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "We're really excited to announce that we finally have a release date pinned down for Green Again!The game will release into 1.0 on drum roll...November 13 2026The Sproutlings can't wait to welcome you to their world and let you help save them from the evil robot AI!We've updated the trailer with some three unique shots which show off the swamp zone and help show off the variety on display in Green Again.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "8a96ff241f21c357557b",
     "title": "Future Stars Team 2 is here",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706682408",
@@ -14028,6 +14513,44 @@
     "game_ids": [],
     "category": "industry",
     "summary": "See the next exciting young talents taking over Football Ultimate Team™.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "97395501f56bd4e459d8",
+    "title": "Sproutling Diaries 8: Dangers of the Swamp",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706682248",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-16T16:30:02+00:00",
+    "collected_at": "2026-11-16T14:33:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The Swamp was always a bit of an enigma to me. For a while, I felt like it didn't have that much going on. People talked about \"Cindercreep\" and all, but it still looked... underwhelming, I guess?I changed my mind today. On the way back from Town, we went past the Swamp, and the descriptions did not do it justice before.I'm a Sproutling. We usually like mud, since it means it rained recently, and the plants will have enough water. But this wasn't that kind of mud. Every step into it struggled to",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b9897eaf220af42d75bb",
+    "title": "Release Date Update & News",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706682233",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-16T16:27:01+00:00",
+    "collected_at": "2026-11-16T14:33:12+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "We’ve decided to push the release date back by a few days to allow a little more time for final polishing and testing of new features. The game will be released on Friday, November 13.Development is progressing as planned. The game now features over 300 unique events, with more than 400 planned for release.Thank you for your support. We are looking forward to sharing Business Tycoon with you very soon!",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -14325,6 +14848,27 @@
     "summary_language": null
   },
   {
+    "id": "2626f8f0899210d2a3bc",
+    "title": "Fruit Kombat: Destructible Arena, Rotten Bosses, and Progression",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067945296",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-13T20:54:20+00:00",
+    "collected_at": "2026-11-16T14:33:20+08:00",
+    "game_ids": [
+      "steam-5082170"
+    ],
+    "category": "industry",
+    "summary": "Almost anything in this gym can become a weapon. We have updated the free demo and the full game's test builds with combat, performance, and presentation improvements. The arena joins the fight Walls, beams, ceilings, glass, bars, pipes, and other gym equipment can break during offline matches. Debris falls with physics and can hurt fighters. Pick up pieces to block shots, throw them back, or bring parts of the structure down on an opponent. Exercise balls burst when hit, releasing air and deali",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "978a73a8c16ecd7cdaeb",
     "title": "Dive into Ancient Athens - The Theos: Cities of Myth Demo is Available NOW!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067944334",
@@ -14488,6 +15032,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "See the most exciting young talents take over Football Ultimate Team™ and develop future prodigies with Future Stars Academy Evolutions. {STEAM_CLAN_IMAGE}/46226104/510eec5d4122930f2e265f6c79818579c73adea3.png {STEAM_CLAN_IMAGE}/46226104/8a20598a46f8b56d35880b2793003c35fe07ca55.png https://store.steampowered.com/app/4080220/EA_SPORTS_FC_27/",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2923f4f70a3709e3c567",
+    "title": "Sproutling Diaries 7: Leaves from the vine",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067933947",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-09T16:30:35+00:00",
+    "collected_at": "2026-11-16T14:33:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "So, I needed to clear my head after last week, and I went back to Town to decompress. I was really surprised by what I found back there!Turns out, there's this tree back there that's started to sprout as we've been terraforming the planet, and it's been helping us back!We're not really sure how it's doing it, though. Thyme says it's the tree's fruits that invigorate us. Lavender, on the other hand, believes it's the smell of the bark that has beneficial properties on sproutlings. Dill, ever the ",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -14766,6 +15329,25 @@
     "summary_language": null
   },
   {
+    "id": "6861d0c99c9e2d224367",
+    "title": "Sproutling Diaries 6: Sometimes life is difficult.",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656386983",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-02T16:30:11+00:00",
+    "collected_at": "2026-11-16T14:33:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "So. This week was a rough one.We were setting up a new colony, and I think we got too used to our current one, because we just got too caught up in setting up farms, and barely had a turret up and running by the time the first bots came.It was... brutal. With drones flying all over, we had no way of getting more materials, and we had to abandon the fledgling colony. I did the Soul Seed run at least four times, and it doesn't get any more pleasant.Honestly, I was all but ready to give up on that ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "a58d41fe1fef473e5783",
     "title": "The Grounds & Clubs Developer Launch Update",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656386940",
@@ -14977,6 +15559,25 @@
     "summary_language": null
   },
   {
+    "id": "b971a85a1f41a0e07237",
+    "title": "The Green Again Playtest is ending soon!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656378296",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-30T16:30:27+00:00",
+    "collected_at": "2026-11-16T14:33:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hey there Sproutlings,We just wanted to take a moment to let you know that the Green Again playtest will be taken offline 48 hours from this announcement, on Friday 2 October at 17:30 BST.It's time for us to put the finishing touches on the game, and we're very grateful for everyone who's taken the time to try out the playtest! If you haven't yet, consider this your last chance before release!We'll be in touch very soon with more news.Much love,Your dev team 💖",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "3b497c6cf5f5cdd60649",
     "title": "PC Developer Launch Notes",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656378268",
@@ -15091,6 +15692,25 @@
     "summary_language": null
   },
   {
+    "id": "7095689a1c1ea4f501b0",
+    "title": "September Dev Blog!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498234836",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-29T16:30:56+00:00",
+    "collected_at": "2026-11-16T14:33:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello Sproutlings!Thank you to everyone who's taken the time to try out the playtest! We've been collecting your feedback and updating the playtest accordingly, and we wanted to gather all the changes we've made in one place for your reading convenience! Without further ado:Gameplay ChangesAdded a new late game upgrade: Outpost Wisps: wisps slowly collect resources from tiles outside the terraformed areaAdded a progress bar to construction projectsFixed music and SFX cutting off when many sound ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "914aa86f8d326398cd8e",
     "title": "Demo is out NOW!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498233882",
@@ -15157,6 +15777,25 @@
     "game_ids": [],
     "category": "demo",
     "summary": "What you're getting intoYour lander is down in the fog with one colonist and nobody coming to help. The purple fungus on the ground is alive, and it breeds alien packs that walk toward your landing site and take whatever they reach. If they take the landing site, the colony is lost. So you explore the fog, claim the ground under it, and send your wardens out to meet the packs before they arrive. Burn the fungus and it stops breeding. Each map is a new colony to hold, 15 to 30 minutes, from plane",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "378b167f1cbb4059e345",
+    "title": "Sproutling Diaries 5: Making a house a home",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224964",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-25T15:30:05+00:00",
+    "collected_at": "2026-11-16T14:33:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Okay. I know I've come off as reluctant in those diaries before, but not today! Because today, I got to spend time doing one of the things I love most. Decorating the settlement!I don't brag about it much, but my neighbourhood back in Town was voted \"Best Decorated\" multiple seasons in a row. We had people coming from all over to try and move in! Turns out, when your neighbourhood looks really nice, lots of sproutlings want to live there, crazy right?The closer a house is to a decoration, the be",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -15418,6 +16057,25 @@
     "summary_language": null
   },
   {
+    "id": "274d97f7caae9d84a010",
+    "title": "Sproutling Diaries 4: I love Farming!!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010495219",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-18T15:30:57+00:00",
+    "collected_at": "2026-11-16T14:33:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Okay. I don't actually love farming, but it's all I've been doing lately. And Dill insists that it's worth writing about in the diary, so what the hell. Sooo, farming. It's how we get all our food! We actually harvest a lot more produce than we end up eating, so there's always some of it going to the market to get traded with the other regions. That way, we can fund some infrastructure upgrades, and keep our base in top condition, even in the face of robots or poor weather.Speaking of weather, t",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "84a674c2ce391a247f08",
     "title": "The AI Clicker demo is available now!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010493261",
@@ -15448,6 +16106,25 @@
     "game_ids": [],
     "category": "demo",
     "summary": "Play it now!Multiplayer mode is supported.Save data from the demo will carry over to the full version, so enjoy!Feel free to comment and discuss the demo.Thank you for your support~( ^_^ ) Demo limitations:Limited content in some blocks, items, and character appearances.Limited world creation size.Limited number of dolls (NPCs) that can be placed in the scene.Limited number of save space.Only some exploration tasks are available.Steam Workshop is unavailable.Cloud storage are unavailable. The de",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9b35a580f646ec1fcd0f",
+    "title": "Green Again - New Playtest Trailer",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010488333",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-16T07:29:32+00:00",
+    "collected_at": "2026-11-16T14:33:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hey everyone!We're still looking for feedback in our latest round of playtesting which you can join today - it's open to all!We've also created another trailer to showcase the latest build of the game which you can see here!We look forward to hearing your feedback using the in-game form!",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -15564,6 +16241,25 @@
     "game_ids": [],
     "category": "release",
     "summary": "Ahoy!I'm happy to announce that It's About Pirates is releasing on November 6, 2026!If you haven't added it to your wishlist yet, you can do so here:See you at sea!",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "4d1bfbc1e9f6e9a0780c",
+    "title": "Sproutling Diaries 3: Our Beautiful World",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262695649",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-11T15:30:53+00:00",
+    "collected_at": "2026-11-16T14:33:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Okay, so this week was even less eventful than the last one. I was on farming duty the whole time, and it's not like I can write about that, right?So, since I can't think of anything better, I guess I'll write about home. But not just my own comfy home back in Town. I should write about the world.Our planet. I wish I could have seen it before Reshaper ruined it. Well, that's not very fair. We ruined it. We built Reshaper, gave it free reign to mold the world as it saw fit. And we weren't thoroug",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -15697,6 +16393,44 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Hi everyone!Until It's About Pirates is officially Steam Deck Verified, I wanted to clarify what you can expect.The game should run well on the Deck! It has full controller support for gameplay and menu navigation.At Max settings I experienced solid performance: 60 FPS most of the time, with occasional drops into the 50s. For extra headroom or longer battery life, try reducing the quality level to Medium or turning off heavy settings like water reflections.If you notice any issues, please let me",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5a4568da483d373f5820",
+    "title": "Sproutling Diaries 2: Totally Towerful!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446968",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-04T15:30:48+00:00",
+    "collected_at": "2026-11-16T14:33:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "So... It's been a few days since the last entry, and things have been going surprisingly well. Dill said I should also write some things in here even when nothing's going wrong, just so I don't associate this diary with just disasters, so here goes.I spent most of last week on tower maintenance, with Dandelion and Edamame. The power grid was stable (for once) so we were focusing on shoring up our defenses. Since we established our base next to a mountain to the North, we only needed to check up ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "54d0ef72a4c8ea701089",
+    "title": "The Green Again Playtest is now live!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446806",
+    "source": "Steam 官方公告",
+    "published_at": "2026-09-04T14:41:24+00:00",
+    "collected_at": "2026-11-16T14:33:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello everyone!We've got some exciting news for all sproutlings today, as the Green Again Playtest has just been activated on Steam! The game is available in English, Simplified Chinese, Korean, Japanese, French and German, so if you speak any of those languages, please try playing it in that language as well!We've just let the first wave of players in, and will be letting in more and more as time goes on. You know what that means: if you've not already signed up, it's not too late! Just visit o",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -15891,6 +16625,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Hey, shopkeepers! Thanks so all of you, Probably Stolen has reached 100,000 wishlists!And also 100,000 players have tried our Steam playtest.Developer Bei Ning and the art team have been hard at work behind the counter and we’re excited to announce that a Probably Stolen Demo is coming on September 14th! That’s right, demo, not playtest! It will feature a new starting scenario: The Water Merchant, along with tons of improvements we’ve made using everything we learned from your feedback. Some of ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "533f8532c131fbc1f759",
+    "title": "Sproutling Diaries: My life in a Sproutling Colony!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951303596",
+    "source": "Steam 官方公告",
+    "published_at": "2026-08-28T15:30:57+00:00",
+    "collected_at": "2026-11-16T14:33:14+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "\"Sproutling diaries\" are a new, weekly post where we will be sharing little tidbits of information about the game and its inner workings from the perspective of a sproutling. We hope you enjoy reading them!My name is Mulberry. I'm one of the sproutlings who were recently sent to settle in the Junkyard zone. I had a bit of a freak out recently after a close call with some robots, and my friend Dill advised I should write my thoughts down to calm myself down. So, here we are.Honestly, the biggest ",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -16374,6 +17127,25 @@
     "game_ids": [],
     "category": "demo",
     "summary": "A HUGE thank you to everyone who has taken part, played our demo, and added Clean Start to their Wishlist during Tiny Teams! We are SO Close to our milestone! With only 2 days left of the event, we’d love to see what you’ve been up to in game!Played the demo? Share your favorite screenshots, clips, and highlights with us we’d love to see what you enjoyed most!Got questions or feedback? Drop us a message or leave a comment below.Thank you all so much for the incredible support! If you haven't yet",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "94a3eeb333e42678e17b",
+    "title": "Homestretch",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314351757",
+    "source": "Steam 官方公告",
+    "published_at": "2026-08-10T15:02:49+00:00",
+    "collected_at": "2026-11-16T14:33:10+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello everyone! Sorry for so little updates. To keep excuses brief, the world has not been so kind to us, but we're doing everything in our power to get the game out. Progress has been slow but steady, and we are making various improvements to the game.Essentially, we're aiming to release v1.0 in August of this year, but no later than early September. The soundtrack is almost complete as only two more tracks remain. Additional adjustments to gameplay were made, such as scoring balance, enemy and",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -18909,6 +19681,101 @@
     ],
     "category": "industry",
     "summary": "Dear Destined Ones, We are pleased to announce that all digital editions of Black Myth: Wukong will be on sale for the first time—20% off across all platforms. On Steam, the discount will run from June 20, 1:00 to July 11, 1:00 (Beijing Time). Please note: the Steam discount begins on June 20, not June 18. Additionally, starting June 27, Black Myth: Wukong will also be featured in the Steam Summer Sale (with the same discount). Feel free to make your purchase whenever it suits you best. We know,",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b8385cf75828d6836f95",
+    "title": "An Update on the Game's State",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1800357164388284",
+    "source": "Steam 官方公告",
+    "published_at": "2025-05-21T23:16:52+00:00",
+    "collected_at": "2026-11-16T14:33:10+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello Pilots, Someguy's here to address the current state of the game. First, I would like to apologize for the lack of communication between us and the players. Personal life has kept all of us busy, but this is no excuse to leave those participating in the Early Access demo in the dark. We will make better efforts in the future to communicate with everyone. As for the game, we are currently working on the soundtrack for Stage 5. All that's left are 4 more tracks and a couple more assets before",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "705e47b7e5427e28be2c",
+    "title": "Small Update: Version v0.9.2.3",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1798454487736597",
+    "source": "Steam 官方公告",
+    "published_at": "2025-05-05T16:45:04+00:00",
+    "collected_at": "2026-11-16T14:33:10+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Adjustments Kingkillers's theme will now fade out upon defeating it. Added music for the Rankings menu. Bug Fixes Fixed a bug where the game would crash on Stage 3 boss",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "1dba20865ed61a288f90",
+    "title": "Small Update: Version 0.9.2.1",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1797820624533521",
+    "source": "Steam 官方公告",
+    "published_at": "2025-04-26T18:57:24+00:00",
+    "collected_at": "2026-11-16T14:33:10+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Bug Fixes Fixed a bug where the player would quickly die when hit with 0 shields while in single player, causing the continue screen to not appear.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9f18529ca91c2fc38bf6",
+    "title": "Major Update!: Version 0.9.2",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1797820624494985",
+    "source": "Steam 官方公告",
+    "published_at": "2025-04-25T14:20:06+00:00",
+    "collected_at": "2026-11-16T14:33:10+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "New Stage Added! {STEAM_CLAN_IMAGE}/44417730/d424ddc5a5b568881a696b81959c9ff0f99186a0.png - Added Stage 4 to the game - Stage 4 is now accessible in practice mode. Adjustments - Reduced the amount needed to buy alt colors to 1000 data per color. - Reduced the increment for buying credits from 1000 increase to a 500 increase. - Added a function where some bosses give off small amounts of hyper energy when reaching a certain HP threshold. Bug Fixes - Fixed a bug where Rouge Delta wouldn't leave it",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "8af1ea26c7413ebf2fd0",
+    "title": "Small Update: Version 0.9.1.1",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1797185861686278",
+    "source": "Steam 官方公告",
+    "published_at": "2025-04-18T23:43:13+00:00",
+    "collected_at": "2026-11-16T14:33:10+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Bug Fixes - Fixed a bug where in practice mode, the timeline for events and enemy formations do not progress, preventing large enemies and bosses from appearing.",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [

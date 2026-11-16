@@ -1114,5 +1114,47 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "b312bd77364dc5ee5bc2",
+    "game_id": "steam-5256610",
+    "title": "BUSINESS TYCOON RELEASES TOMORROW!",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-12T13:21:37+00:00",
+    "first_seen_at": "2026-11-16T14:33:08+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144182884"
+    ],
+    "source_ids": [
+      "a2038336228a690d251b"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "9ae464d1e33aeb268d63",
+    "game_id": "steam-5300300",
+    "title": "An Update on Elementys' Launch",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-28T11:47:14+00:00",
+    "first_seen_at": "2026-11-16T14:33:08+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302230671"
+    ],
+    "source_ids": [
+      "b02858d3ac68e72f232f"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]
