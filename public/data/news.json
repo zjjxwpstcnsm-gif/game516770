@@ -1,5 +1,252 @@
 [
   {
+    "id": "9937e1c22e80269b454e",
+    "title": "Multi-ending visual novel Attention Addicted NEET announced for PC",
+    "url": "https://www.gematsu.com/2026/11/multi-ending-visual-novel-attention-addicted-neet-announced-for-pc",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T07:12:14+00:00",
+    "collected_at": "2026-11-17T15:57:24+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Publisher Kniv Studio and developer Dreamery have announced Attention Addicted NEET, a multi-ending visual novel &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a2aecb300e14eac6749f",
+    "title": "ARIKA director Akira Kurabayashi dies",
+    "url": "https://www.gematsu.com/2026/11/arika-director-akira-kurabayashi-dies",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T06:58:30+00:00",
+    "collected_at": "2026-11-17T15:57:24+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Akira Kurabayashi, a company director and head of the software development division at ARIKA, passed &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "32a3c44a6f51b8a52d11",
+    "title": "RPG Maker U2U launches January 28, 2027",
+    "url": "https://www.gematsu.com/2026/11/rpg-maker-u2u-launches-january-28-2027",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T03:16:03+00:00",
+    "collected_at": "2026-11-17T15:57:24+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Role-playing game creation software RPG Maker U2U will launch for PC via Steam on January &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e3d4efbf23ded76b2754",
+    "title": "Danganronpa 2×2 details Akimbo Consensus system, refined returning systems",
+    "url": "https://www.gematsu.com/2026/11/danganronpa-2x2-details-akimbo-consensus-system-refined-returning-systems",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T02:08:15+00:00",
+    "collected_at": "2026-11-17T15:57:24+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Publisher Spike Chunsoft and developer Gemdrops have released new information, video, and screenshots for Danganronpa &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9832ec78194fa50275df",
+    "title": "HARMA Early Access roadmap announced",
+    "url": "https://www.gematsu.com/2026/11/harma-early-access-roadmap-announced",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T02:00:16+00:00",
+    "collected_at": "2026-11-17T15:57:24+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Publisher Astrolabe Games and developer INDIRECT SHINE have announced the Early Access roadmap for Roguelike &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "ca08128d63138d294186",
+    "title": "Splatoon 3 version 12.0.0 update launches November 17",
+    "url": "https://www.gematsu.com/2026/11/splatoon-3-version-12-0-0-update-launches-november-17",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T01:44:31+00:00",
+    "collected_at": "2026-11-17T15:57:24+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Nintendo will release the version 12.0.0 update for Splatoon 3 on November 17, the company &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2416dc06b715f1502960",
+    "title": "Splatoon Raiders demo now available",
+    "url": "https://www.gematsu.com/2026/11/splatoon-raiders-demo-now-available",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T01:35:24+00:00",
+    "collected_at": "2026-11-17T15:57:24+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "A demo for Splatoon Raiders is now available via Nintendo eShop, Nintendo announced. &#8220;Get a &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "328f4b683397f210790a",
+    "title": "High Roller Penny launches January 12, 2027",
+    "url": "https://www.gematsu.com/2026/11/high-roller-penny-launches-january-12-2027",
+    "source": "Gematsu",
+    "published_at": "2026-11-16T23:27:21+00:00",
+    "collected_at": "2026-11-17T15:57:24+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Pachinko-inspired roguelike game High Roller Penny, a pachinko-inspired roguelike game, will launch for PC via &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d52c5b4289ffac4b6f78",
+    "title": "That 007 First Light theme song I didn't like is up for a Grammy Award",
+    "url": "https://www.pcgamer.com/games/action/that-007-first-light-theme-song-i-didnt-like-is-up-for-a-grammy-award",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T22:34:55+00:00",
+    "collected_at": "2026-11-17T15:57:25+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Well, there's no accounting for taste.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "46800ebd776501d0e38f",
+    "title": "Mercenaries Grace launches November 25 for PS5 in Japan, in December for Switch, and in early 2027 for PC",
+    "url": "https://www.gematsu.com/2026/11/mercenaries-grace-launches-november-25-for-ps5-in-japan-in-december-for-switch-and-in-early-2027-for-pc",
+    "source": "Gematsu",
+    "published_at": "2026-11-16T22:19:34+00:00",
+    "collected_at": "2026-11-17T15:57:24+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Strategy RPG Mercenaries Grace will launch for PlayStation 5 on November 25 in Japan for &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "88897ec6e7336d617735",
+    "title": "Gabe Newell stuns superyacht enthusiasts by treating crew like human beings: 'That is something we've never really seen before in our industry'",
+    "url": "https://www.pcgamer.com/gaming-industry/gabe-newell-stuns-superyacht-enthusiasts-by-treating-crew-like-human-beings-that-is-something-weve-never-really-seen-before-in-our-industry",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T22:05:57+00:00",
+    "collected_at": "2026-11-17T15:57:25+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The crew retention on Newell's boats is six times the average on other superyachts.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "1c7fcdcf54814dd0d33b",
+    "title": "Trump supports Jensen Huang's return as Nvidia CEO, but it doesn't sound like the board is interested",
+    "url": "https://www.pcgamer.com/software/ai/trump-supports-jensen-huangs-return-as-nvidia-ceo-but-it-doesnt-sound-like-the-board-is-interested",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T21:13:07+00:00",
+    "collected_at": "2026-11-17T15:57:25+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The US president doesn't seem too concerned about the potential risks to US national security: \"I think he learned a big lesson, I guess.\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "fc31e630bdffff673f6a",
+    "title": "GTA 6 online rumors: When might the inevitable multiplayer launch happen?",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-online-multiplayer",
+    "source": "PC Gamer",
+    "published_at": "2026-11-16T20:57:03+00:00",
+    "collected_at": "2026-11-17T15:57:25+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Despite no official word on the subject, we aren't buying that there's no GTA 6 online.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "0b01996953a478061cef",
     "title": "Grand Theft Auto 6 hacker pleads guilty to all charges",
     "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges",
@@ -7849,6 +8096,25 @@
     "summary_language": null
   },
   {
+    "id": "ce9ede7b427e630b3f26",
+    "title": "v1.0.3 Update Notes",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344682",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-06T08:48:21+00:00",
+    "collected_at": "2026-11-17T15:57:13+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hello, this is Flowdot! Here are the details of the v1.0.3 update. This update is the first step of the design overhaul we mentioned last time. Design Overhaul Buttons and cards have a new look, and buttons now make a sound when pressed. New screen transitions have been added. When moving between the Hub and the arena, your squad travels by bus. Your team's garage now appears behind the Hub, and it looks different depending on your division. Press to see the garage. Hover over a driver to see th",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "22873efae2ab92b0f3fc",
     "title": "Ragnarok Console Project ‘A New Ragnarok Adventure Awaits’ trailer",
     "url": "https://www.gematsu.com/2026/11/ragnarok-console-project-a-new-ragnarok-adventure-awaits-trailer",
@@ -8655,6 +8921,25 @@
     ],
     "category": "industry",
     "summary": "Thank you for playing the demo. ERLIK is now out in Early Access, 20% off until November 16. Your demo progress comes with you On the same PC, the full game picks up your Törü, unlocks, Bestiary and up to 500 Kut. If you beat Kül-Kurgan in the demo, Tunga, the Pioneer Kam, is already waiting in your Otağ. What the full game adds 12 Kam, each with their own starting weapon and path. Two realms: the Bozkır steppe and the Karaorman forest. The Endless Night after the khan falls. Today's 0.6.6 updat",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0ad334f4357843015056",
+    "title": "RindTown is out now! The full game is here 🍹",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643340359",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-05T08:47:56+00:00",
+    "collected_at": "2026-11-17T15:57:19+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "RindTown is out now! 🎉🍹 Hi everyone! We can finally say it: RindTown is out. The full game is live on Steam right now. RindTown is a cozy deckbuilder about running a little juice stand in an anime town. Read each customer's order, build a five card drink, blend it and watch the score climb. Thirty days, a target that keeps rising, and a lot of very picky customers. To everyone who played the demo, wishlisted, streamed, sent a bug report or just said something kind on Discord: thank you. You shap",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
