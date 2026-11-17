@@ -1156,5 +1156,89 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "dc392b738922c5553f78",
+    "game_id": "steam-5165010",
+    "title": "NOT Home Free - Live Gameplay & Demo Walkthrough",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-07T17:33:18+00:00",
+    "first_seen_at": "2026-11-18T02:40:35+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643350181"
+    ],
+    "source_ids": [
+      "353839caf424e6362866"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "11d7fc7f5d2a9478e507",
+    "game_id": "steam-5165010",
+    "title": "NOT Home Free - Live Gameplay & Demo Walkthrough",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-07T17:21:28+00:00",
+    "first_seen_at": "2026-11-18T02:40:35+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643350150"
+    ],
+    "source_ids": [
+      "3017939618a28d996209"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "a807e089908411a85c1d",
+    "game_id": "steam-5165010",
+    "title": "The Demo Is Out! Welcome to NOT Home Free",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-19T21:40:34+00:00",
+    "first_seen_at": "2026-11-18T02:40:35+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692844"
+    ],
+    "source_ids": [
+      "b0239ec9e5b4a77492e2"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "1c4d99a1f25befd17b4c",
+    "game_id": "steam-5165010",
+    "title": "The Countdown Is Almost Over! NOT Home Free Demo Launches Today",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-19T14:45:36+00:00",
+    "first_seen_at": "2026-11-18T02:40:35+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706690581"
+    ],
+    "source_ids": [
+      "3d1aed9cb946e737165b"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]

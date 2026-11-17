@@ -1,5 +1,520 @@
 [
   {
+    "id": "5a1697db9a75da0df271",
+    "title": "Spyro: A Realm Beyond teased for The Game Awards 2026",
+    "url": "https://www.gematsu.com/2026/11/spyro-a-realm-beyond-teased-for-the-game-awards-2026",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T18:38:26+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Publisher Activision and developer Toys for Bob will share more information on Spyro: A Realm &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5faf917c7288e220c761",
+    "title": "We got 8 Game Awards nominations for GTA 6 before GTA 6",
+    "url": "https://www.pcgamer.com/gaming-industry/events-conferences/we-got-8-game-awards-nominations-for-gta-6-before-gta-6",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T18:35:38+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The Game Awards says its judges \"may be provided with advance or pre-release access to games for critical evaluation.\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "ca1a30aaf251725b29fa",
+    "title": "I have replaced (most) cars in GTA 5 with bicycles and also my own clones",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-replaced-most-cars-in-gta-5-with-bicycles-and-also-my-own-clones",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T18:00:00+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Can't have one without the other.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "299fd7b341dbd9b4c460",
+    "title": "Game Pass adds Hela: of Mice & Magic, The Outlast Trials, Sniper Ghost Warrior Contracts 2, and more in late November",
+    "url": "https://www.gematsu.com/2026/11/game-pass-adds-hela-of-mice-magic-the-outlast-trials-sniper-ghost-warrior-contracts-2-and-more-in-late-november",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T17:57:40+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Microsoft has announced new titles coming to Game Pass in late November, including Hela: of &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "f996059dac33c9994844",
+    "title": "Valve-sanctioned Half-Life remake Black Mesa gets a mondo update and a Steam Deck verified badge",
+    "url": "https://www.pcgamer.com/games/fps/valve-sanctioned-half-life-remake-black-mesa-gets-a-mondo-update-and-a-steam-deck-verified-badge",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T17:46:25+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "And cubemaps. Which, thank god.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "60f52370cc85f3bd3260",
+    "title": "Calame launches in February 2027",
+    "url": "https://www.gematsu.com/2026/11/calame-launches-in-february-2027",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T17:41:01+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Calame, a single-player isometric strategy RPG that &#8220;blends deep, classic strategy with innovative reality-shifting gameplay,&#8221; &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "78cc50b9871d5f8df2a4",
+    "title": "The Game Awards 2026 nominees announced",
+    "url": "https://www.gematsu.com/2026/11/the-game-awards-2026-nominees-announced",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T17:38:18+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "The Game Awards has announced its nominees for 2026, as selected by a global jury &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "19c9370ace9c2c772e64",
+    "title": "Civilization dev Firaxis reportedly lays off a third of its staff, studio head departs",
+    "url": "https://www.pcgamer.com/gaming-industry/civilization-dev-firaxis-reportedly-lays-off-a-third-of-its-staff-studio-head-departs",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T17:27:39+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "A new XCOM game in development at Firaxis has reportedly struggled and missed a major milestone earlier this year.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "357e5b7981eda0ed363d",
+    "title": "Jensen Huang says he would come back as Nvidia's CEO if America needs him – a technique I now intend to use at my next job interview",
+    "url": "https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-would-come-back-as-nvidias-ceo-if-america-needs-him-a-technique-i-now-intend-to-use-at-my-next-job-interview",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T17:02:45+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "\"I would be honored to answer these calls and return as CEO.\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "33e0aacc6d5cfb080b67",
+    "title": "Firaxis Games lays off a third of staff",
+    "url": "https://www.gematsu.com/2026/11/firaxis-games-lays-off-a-third-of-staff",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T16:50:34+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Firaxis Games, the 2K-owned studio behind the Civilization and XCOM series, has laid off around &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "36e9e6a00c259389d65a",
+    "title": "EXODUS ‘Female Jun Reveal + Scrappy Salvager’ featurette",
+    "url": "https://www.gematsu.com/2026/11/exodus-female-jun-reveal-scrappy-salvager-featurette",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T15:54:27+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Archetype Entertainment has released an eight-minute featurette for science-fiction action adventure RPG EXODUS revealing the &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "717377f31d7a3edff00a",
+    "title": "'I want to be clear, I want people to have a lot of RAM' says Sam Altman, weeks after seeming to say the opposite",
+    "url": "https://www.pcgamer.com/hardware/memory/i-want-to-be-clear-i-want-people-to-have-a-lot-of-ram-says-sam-altman-weeks-after-seeming-to-say-the-opposite",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T15:50:35+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Altman claims his remarks were taken out of context, but has since elaborated on his stance.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a7b96e4cda0fe2a93820",
+    "title": "Hounded adds PS5 version",
+    "url": "https://www.gematsu.com/2026/11/hounded-adds-ps5-version",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T15:48:33+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Third-person story-driven adventure game Hounded will launch for PlayStation 5 alongside its previously announced PC &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "87f362f3f2180d4dfd2e",
+    "title": "TCL CSOT's new OLED panels might not only be cheaper, but also have high refresh rates and hassle-free pixel burn-in compensation",
+    "url": "https://www.pcgamer.com/hardware/gaming-monitors/tcl-csots-new-oled-panels-might-not-only-be-cheaper-but-also-have-high-refresh-rates-and-hassle-free-pixel-burn-in-compensation",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T15:22:45+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "They might not even need you to wait for pixel compensation cycles.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d975e9c70547a4b209df",
+    "title": "Introducing Hounded: Crafting the dog adventure coming to PS5 in 2027",
+    "url": "https://blog.playstation.com/2026/11/17/introducing-hounded-crafting-the-dog-adventure-coming-to-ps5-in-2027",
+    "source": "PlayStation Blog",
+    "published_at": "2026-11-17T15:00:56+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [
+      "steam-648800"
+    ],
+    "category": "industry",
+    "summary": "Hey PlayStation community! We’ve been keeping a secret under wraps at Imprnt Studios and Silver Lining Interactive, and we can finally let the dog out of the bag: Hounded is heading to PS5 in 2027. Get ready to step into the paws of a brave (and incredibly adorable) Border Collie, Duke, as you help him [&#8230;]",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9baf951430d348afea46",
+    "title": "Phasmophobia ‘Resonance’ update launches November 24",
+    "url": "https://www.gematsu.com/2026/11/phasmophobia-resonance-update-launches-november-24",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T15:00:31+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Kinetic Games will release the &#8220;Resonance&#8221; update for Phasmophobia on November 14, which introduces new investigation &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e70936c57403d849db72",
+    "title": "Twitchers rejoice: GTA 6 will have 62 different species of birds, though that falls a bit short of the over 500 native species found in Florida",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/twitchers-rejoice-gta-6-will-have-62-different-species-of-birds-though-that-falls-a-bit-short-of-the-over-500-native-species-found-in-florida",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T14:35:57+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "They better have a Snowy Plover.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "94808da7a115f0d0b2d5",
+    "title": "MLB The Show 27 announced",
+    "url": "https://www.gematsu.com/2026/11/mlb-the-show-27-announced",
+    "source": "Gematsu",
+    "published_at": "2026-11-17T14:24:33+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Publisher Sony Interactive Entertainment and developer San Diego Studio have officially announced MLB The Show &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2a89649cb9d5691c2fe5",
+    "title": "First details on MLB The Show 27",
+    "url": "https://blog.playstation.com/2026/11/17/first-details-on-mlb-the-show-27",
+    "source": "PlayStation Blog",
+    "published_at": "2026-11-17T14:00:23+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Before we dive into new information on MLB The Show 27, let’s take a look back. As we reflect on 2026, two things stand out above everything else: the incredible passion and support of the MLB The Show community, and our need to better communicate and react to community feedback going forward. Whether you&#8217;ve been [&#8230;]",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "4f972a3c735ade1480bf",
+    "title": "AMD introduces Capacity Aware Scheduling to the Linux kernel, which sure is the thing I'd do if I were introducing Zen 6 LP cores next year",
+    "url": "https://www.pcgamer.com/hardware/processors/amd-introduces-capacity-aware-scheduling-to-the-linux-kernel-which-sure-is-the-thing-id-do-if-i-were-introducing-zen-6-lp-cores-next-year",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T13:12:39+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Any way that more efficiently uses cores has the thumbs up from me.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e3bed159885b8e2138f6",
+    "title": "Nvidia tightens up control of its own national security policies as it cozies up to US government with new board-controlled committee",
+    "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-tightens-up-control-of-its-own-national-security-policies-as-it-cozies-up-to-us-government-with-new-board-controlled-committee",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T12:55:30+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Another committee for the committee pile.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "cccf7c337e560e8662d3",
+    "title": "WoW: Forever's economy has a problem, as a now-hotfixed grind rakes in thousands of gold for the people who got in early",
+    "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-economy-has-a-problem-as-a-now-hotfixed-grind-rakes-in-thousands-of-gold-for-the-people-who-got-in-early",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T11:56:46+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Something's gotta give, something's gotta give, something's gotta give.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e5953b43f6ceb6882cf8",
+    "title": "US agencies confirm criminal investigation into Megaspeed - datacenter company is in a colossal tangle over Nvidia chips",
+    "url": "https://www.pcgamer.com/hardware/graphics-cards/us-agencies-confirm-criminal-investigation-into-megaspeed-datacenter-company-is-in-a-colossal-tangle-over-nvidia-chips",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T11:50:33+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Investigation into Megaspeed first started in 2024.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "597dae65addbd69c8b36",
+    "title": "'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T11:47:29+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "There's always room for a bit more polish.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "6a34a92997e8ddbd20c2",
+    "title": "Modder beats Valve to the punch adding Steam Controller tracking for the Steam Frame",
+    "url": "https://www.pcgamer.com/hardware/vr-hardware/modder-beats-valve-to-the-punch-adding-steam-controller-tracking-for-the-steam-frame",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T11:30:45+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "\"I'll try to maintain this at least until Valve releases official tracking support for the Steam Controller.\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "df60ad7a73d74a89256b",
+    "title": "GTA 6 release times: How far behind the first launch will GTA 6 unlock in your time zone?",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-release-time-date",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T11:00:00+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Grand Theft Auto 6 is on a rolling launch, which means everyone's getting access at different times.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "7cfddf28a8b575656044",
+    "title": "Ex-Call of Duty live service manager joins EA as the new GM of Battlefield",
+    "url": "https://www.pcgamer.com/games/fps/ex-call-of-duty-live-service-manager-joins-ea-as-the-new-gm-of-battlefield",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T09:57:28+00:00",
+    "collected_at": "2026-11-18T02:40:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "This has ignited some fears within the community of the COD-ification of Battlefield.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "9937e1c22e80269b454e",
     "title": "Multi-ending visual novel Attention Addicted NEET announced for PC",
     "url": "https://www.gematsu.com/2026/11/multi-ending-visual-novel-attention-addicted-neet-announced-for-pc",
@@ -153,14 +668,14 @@
   },
   {
     "id": "d52c5b4289ffac4b6f78",
-    "title": "That 007 First Light theme song I didn't like is up for a Grammy Award",
+    "title": "007 First Light soundtrack is up for a Grammy award—but that theme song I didn't like isn't included for some reason",
     "url": "https://www.pcgamer.com/games/action/that-007-first-light-theme-song-i-didnt-like-is-up-for-a-grammy-award",
     "source": "PC Gamer",
     "published_at": "2026-11-16T22:34:55+00:00",
     "collected_at": "2026-11-17T15:57:25+08:00",
     "game_ids": [],
     "category": "industry",
-    "summary": "Well, there's no accounting for taste.",
+    "summary": "The 007 First Light score is competing with four other videogame soundtracks for the prestigious music industry trophy.",
     "verification_status": "reported",
     "credibility_score": 75,
     "limitations": [
@@ -7083,6 +7598,27 @@
     "summary_language": null
   },
   {
+    "id": "353839caf424e6362866",
+    "title": "NOT Home Free - Live Gameplay & Demo Walkthrough",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643350181",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-07T17:33:18+00:00",
+    "collected_at": "2026-11-18T02:40:49+08:00",
+    "game_ids": [
+      "steam-5165010"
+    ],
+    "category": "demo",
+    "summary": "Watch the developer play the updated NOT Home Free demo (v1.5.9)",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "3eaac0efdc35bdff208c",
     "title": "07 November Small fix",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643350159",
@@ -7092,6 +7628,27 @@
     "game_ids": [],
     "category": "industry",
     "summary": "UI small fix",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3017939618a28d996209",
+    "title": "NOT Home Free - Live Gameplay & Demo Walkthrough",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643350150",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-07T17:21:28+00:00",
+    "collected_at": "2026-11-18T02:40:49+08:00",
+    "game_ids": [
+      "steam-5165010"
+    ],
+    "category": "demo",
+    "summary": "Watch the developer play the updated NOT Home Free demo (v1.5.9)",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -7358,6 +7915,27 @@
     "game_ids": [],
     "category": "industry",
     "summary": "The Whip, rebuilt from scratch The whip now moves like a real whip: a short wind-up, a loop that rolls out to the tip, a crack straight ahead, then the recoil. Damage lands the moment the tip reaches an enemy, and the crack is timed to the sound. It strikes forward in a narrow fan. Wide Echo widens the fan, Long Arm extends the reach, Manyfold adds damage. Lightning Whip is fast and sharp. Every third crack calls a golden bolt from the sky that splits the ground, and its chain lightning now star",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "51c6aa1463842904c4fe",
+    "title": "NOT Home Free Traps & Guns",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643348667",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-07T07:12:58+00:00",
+    "collected_at": "2026-11-18T02:40:49+08:00",
+    "game_ids": [
+      "steam-5165010"
+    ],
+    "category": "industry",
+    "summary": "Traps & GunsUpdate 1.5.9 is now live in the demo!This new update brings:3 new items5 new world hazards4 balance adjustmentsAnd numerous bug fixes📦 NEW ITEMSBear Trap: Can be found out in the world (and used for base defense).Revolver: Can be found at the parking lot and watchtowers.Revolver Ammo: Can be found out in the world (very small, but often in plain sight).⚠️ NEW HAZARDSSewers: New pipes have appeared that can scorch your skin — some of them feel almost alive, lying in wait for you (3 ty",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -12995,6 +13573,25 @@
     "summary_language": null
   },
   {
+    "id": "93f1c743bf5b2ca9b4dc",
+    "title": "Steam Next Fest has come to an end!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302238669",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-30T13:51:18+00:00",
+    "collected_at": "2026-11-18T02:40:49+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Steam Next Fest has come to an end!This post is a little late due to our rather busy schedule, but we couldn't let the event pass without saying a huge THANK YOU to everyone who tried our demo!We're incredibly grateful to everyone who played, shared kind words, supported the project, helped us spot bugs, or took the time to share their feedback and gameplay suggestions.Every bit of feedback means a lot to us and helps make NOT Home Free a better game. We're happy to see people giving our little ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "8a90e4a3c69c058fee65",
     "title": "Road Ahead",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302238574",
@@ -13573,6 +14170,25 @@
     "summary_language": null
   },
   {
+    "id": "5b3c2145f450839c3563",
+    "title": "Network Update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231880",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-28T16:53:31+00:00",
+    "collected_at": "2026-11-18T02:40:49+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Ping has been improved (possibly) and a couple of bugs have been fixed.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "8f4eec882ab944164fef",
     "title": "EA SPORTS FC™ 27 | Gameplay Developer Notes - October",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302231694",
@@ -13982,6 +14598,25 @@
     "summary_language": null
   },
   {
+    "id": "53e383d3b52ea477186e",
+    "title": "Steam Deck and Steam Machine Support",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114047203",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-27T00:12:50+00:00",
+    "collected_at": "2026-11-18T02:40:41+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Pocket TD was built to be played on a controller, and the Steam Deck was on our list from the start. Everything in the game works with any controller.Native on the Deck. On a Deck the game runs at 90+ FPS and allows for various HUD zoom levels.Made for a controller. The left stick snaps a cursor from tile to tile, the right stick pans the map, and pulling the left trigger opens a radial build menu: let go to place the tower. Hold the right trigger to call the next wave early, and hold View to mo",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "c52ab803cf027515d9a5",
     "title": "Update 0.5.35: a fifth card, a calmer Tuğ and far-off altars",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114046987",
@@ -14010,6 +14645,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "{STEAM_CLAN_IMAGE}/46207134/99ca5bcf8d80452c219f65b3c115f7a9b875c4f5.gif The free demo and the full game are now on 0.5.34. If you had the demo before, this one update brings everything since 0.5.26, and most of it comes straight from your videos, reviews and messages. Thank you. Tunga, the Pioneer Kam Beat Kül-Kurgan in the demo and Tunga, the Pioneer Kam, joins your roster right away as a fifth Kam. Unlocking Tunga in the demo gives the card a permanent Pioneer coin. On the same PC, Tunga is w",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "dea73d27b5438fc84577",
+    "title": "Camera Updates",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045555",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-26T16:25:24+00:00",
+    "collected_at": "2026-11-18T02:40:49+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The camera has improved Redesigned the balance of the Night Wanderer The clown has been improved Fixed bugs",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -14338,6 +14992,25 @@
     "summary_language": null
   },
   {
+    "id": "62b048ddc6e103bdac98",
+    "title": "Version 1.5.8.4 adds a few minor changes and fixes.",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035014",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-23T05:04:27+00:00",
+    "collected_at": "2026-11-18T02:40:49+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Version 1.5.8.4 adds a few minor changes and fixes. New cell Added the \"live milk\" item Reduced the chance of objects hitting the tower Significantly reduced the chance of getting to other worlds in the tower Added a night difficulty system to make it easier to adapt to the process (the first night is easier than the rest) The power supply system has been redesignedMinor corrections have been made",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "82521249b3296b321a0e",
     "title": "ERLIK 0.5.26: Tonight's Törüs and Reworked Evolutions",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034394",
@@ -14427,6 +15100,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Three days into Steam Next Fest. Thanks to everyone who landed in the fog this week. Here is where things stand. Five interface languages. The demo now plays in English, Simplified Chinese, Spanish, Portuguese (Brazil) and Russian. Switch in Options. The store page is in those languages too. Spotted a wrong word? Tell me in the discussions, the tables get fixes before launch. A four-hour session to watch. RonEmpire played the full game from planetfall through the campaign: Colonize an Alien Plan",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "393debcbf36ce7329f09",
+    "title": "Version 1.5.8.3 (fixed)",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031038",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-22T03:14:03+00:00",
+    "collected_at": "2026-11-18T02:40:49+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Version 1.5.8.3 (fixed)The balance of the house has been rewritten, now the chairs do not work on the doors of the second floorThe Grey Watchers lost 50% of their healthFixed items descriptionsThe artificial intelligence in the store has been improved, and there should be no cracks under the floor and walls.The image can be hung correctlyADDITIONS TO THE WORLDA new microcosm in the fire tower Added 3 new hints (1 house and 2 worlds)A new sign at the edge of the worldAdded new music for enemiesan",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -14726,6 +15418,27 @@
     "summary_language": null
   },
   {
+    "id": "b0239ec9e5b4a77492e2",
+    "title": "The Demo Is Out! Welcome to NOT Home Free",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692844",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-19T21:40:34+00:00",
+    "collected_at": "2026-11-18T02:40:49+08:00",
+    "game_ids": [
+      "steam-5165010"
+    ],
+    "category": "demo",
+    "summary": "Hello everyone!The doors are open. The demo of NOT Home Free is now live on Steam!Steam Next Fest has officially begun, and we're incredibly excited to share the first public build of our debut game with all of you.We've poured a lot of hard work into creating NOT Home Free — a liminal co-op horror experience where teamwork, resource management, and the threats lurking outside your home all play a part in your survival. Now, it's finally your turn to step inside.Gather Your CrewNOT Home Free is ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "7029bfdf42d5d6014491",
     "title": "Next Fest Demo",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692302",
@@ -14931,6 +15644,27 @@
     ],
     "category": "industry",
     "summary": "In our previous Developer Notes for The Grounds, we shared that we were actively investigating incorrect Attribute Point (AP) costs for certain upgrades. Now that we’ve had a chance to evaluate a couple weeks of live gameplay, we want to share an update on where things stand and outline the next steps we are taking. When we designed the Player Archetypes system as part of FC 27, our goal was to create progression routes that allowed players to build their Pros with distinct differences in both A",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3d1aed9cb946e737165b",
+    "title": "The Countdown Is Almost Over! NOT Home Free Demo Launches Today",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706690581",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-19T14:45:36+00:00",
+    "collected_at": "2026-11-18T02:40:49+08:00",
+    "game_ids": [
+      "steam-5165010"
+    ],
+    "category": "demo",
+    "summary": "Hello everyone!The countdown is almost over! Today, October 19th, Steam Next Fest officially begins, and in just a few hours, the first public demo of NOT Home Free will be available to play.For our team at FluffyStone, this is a huge milestone. As our debut game, NOT Home Free represents a lot of hard work, ato Team UpNOT Home Free is designed for up to 4 players, so we highly recommend gathering your friends before jumping in. Make sure your microphones are ready, too — the game features proxi",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
