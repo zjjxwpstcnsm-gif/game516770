@@ -4,28 +4,28 @@
   "index_name": "中证动漫游戏指数",
   "index_code": "930901",
   "price_type": "exchange_close",
-  "as_of": "2026-11-17",
-  "data_cutoff_time": "2026-11-17T15:00:00+08:00",
+  "as_of": "2026-11-18",
+  "data_cutoff_time": "2026-11-18T15:00:00+08:00",
   "source": "Eastmoney",
   "source_url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516010&klt=101&fqt=0&beg=20230101&end=20500101",
   "adjustment": "unadjusted",
   "volume_unit": "shares",
   "latest": {
-    "close": 0.96,
-    "change_pct": -0.026369168356997985,
-    "volume": 112954500.0,
-    "amount": 108717961.0
+    "close": 0.939,
+    "change_pct": -0.021874999999999978,
+    "volume": 114402400.0,
+    "amount": 107564482.0
   },
   "indicators": {
-    "ma5": 1.014,
-    "ma10": 1.0380000000000003,
-    "ma20": 1.0196,
-    "ma60": 1.0507,
-    "return5": -0.10028116213683225,
-    "return20": -0.057899901864573056,
-    "return60": -0.13978494623655924,
-    "rsi14": 44.05063291139241,
-    "volatility20": 0.5381255048880397
+    "ma5": 0.9858,
+    "ma10": 1.0259,
+    "ma20": 1.0160500000000001,
+    "ma60": 1.0480166666666666,
+    "return5": -0.13055555555555565,
+    "return20": -0.07029702970297036,
+    "return60": -0.14636363636363647,
+    "rsi14": 42.33576642335766,
+    "volatility20": 0.5420878939927499
   },
   "prices": [
     {
@@ -8460,6 +8460,15 @@
       "close": 0.96,
       "volume": 112954500.0,
       "amount": 108717961.0
+    },
+    {
+      "date": "2026-11-18",
+      "open": 0.957,
+      "high": 0.961,
+      "low": 0.927,
+      "close": 0.939,
+      "volume": 114402400.0,
+      "amount": 107564482.0
     }
   ],
   "holdings": [
@@ -8988,7 +8997,7 @@
   "calendar": {
     "status": "verified",
     "verified": true,
-    "expected_last_session": "2026-11-17",
+    "expected_last_session": "2026-11-18",
     "source_url": "https://www.sse.com.cn/disclosure/announcement/general/c/c_20251222_10802507.shtml",
     "coverage_year": 2026,
     "published_date": "2025-12-22",
@@ -8997,7 +9006,7 @@
     "session_close": "15:00",
     "limitation": "按已公布全年休市表；临时停市需另外核验，跨年自动暂停"
   },
-  "benchmark_verified": true,
+  "benchmark_verified": false,
   "benchmark": {
     "status": "ok",
     "code": "000300",

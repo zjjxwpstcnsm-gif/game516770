@@ -1,5 +1,157 @@
 [
   {
+    "id": "9e810f9eb1717bcfdc51",
+    "title": "Darktide's new Sister Novitiate class gets a holy hand grenade and a crossbow that can pin enemies to walls",
+    "url": "https://www.pcgamer.com/games/fps/darktides-new-sister-novitiate-class-gets-a-holy-hand-grenade-and-a-crossbow-that-can-pin-enemies-to-walls",
+    "source": "PC Gamer",
+    "published_at": "2026-11-18T03:53:54+00:00",
+    "collected_at": "2026-11-18T15:31:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Half-Life 2 Resistance Crossbow, that you?",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "1aab9b55d37502e6f6dd",
+    "title": "Hakoniwa Electric launches November 30",
+    "url": "https://www.gematsu.com/2026/11/hakoniwa-electric-launches-november-30",
+    "source": "Gematsu",
+    "published_at": "2026-11-18T02:07:42+00:00",
+    "collected_at": "2026-11-18T15:31:43+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Hakoniwa Electric, a cozy puzzle exploration game about fixing electrical problems, will launch for PC &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2fc7ef6482f107b96c6d",
+    "title": "Newzoo analyst expects Grand Theft Auto to turn around a rough year for console gaming: 'without GTA 6 the console market would likely be down year-over-year in 2026'",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/newzoo-analyst-expects-grand-theft-auto-to-turn-around-a-rough-year-for-console-gaming-without-gta-6-the-console-market-would-likely-be-down-year-over-year-in-2026",
+    "source": "PC Gamer",
+    "published_at": "2026-11-18T00:35:59+00:00",
+    "collected_at": "2026-11-18T15:31:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "There's a lot riding on Jason and Lucia.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "49b89d5c8ae040bb340f",
+    "title": "Miami Heat shows off its 'Vice City hardwood' ahead of the big Grand Theft Auto 6 basketball game",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/miami-heat-shows-off-its-vice-city-hardwood-ahead-of-the-big-grand-theft-auto-6-basketball-game",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T23:08:11+00:00",
+    "collected_at": "2026-11-18T15:31:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "They've got new uniforms, too. They're pretty cool.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "08406066ad9b035c3d30",
+    "title": "Caves of Qud's first DLC is forcing its devs to ask important questions: 'How does a crab get high?'",
+    "url": "https://www.pcgamer.com/games/roguelike/caves-of-quds-first-dlc-is-forcing-its-devs-to-ask-important-questions-how-does-a-crab-get-high",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T22:35:14+00:00",
+    "collected_at": "2026-11-18T15:31:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Qud's co-creators discuss dogs with guns, handless tattooing, and the tragedy of a sinning tree.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "6975599b4e3ef7a30006",
+    "title": "Jensen Huang isn't coming back, says Nvidia board",
+    "url": "https://www.pcgamer.com/software/ai/jensen-huang-isnt-coming-back-says-nvidia-board",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T22:33:32+00:00",
+    "collected_at": "2026-11-18T15:31:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Huang announced that he would accept reinstatement, but Nvidia isn't offering it.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "67af63dcd28022e79859",
+    "title": "Tomb Raider developer makes fifth round of layoffs in less than 2 years",
+    "url": "https://www.pcgamer.com/gaming-industry/tomb-raider-developer-makes-fifth-round-of-layoffs-in-less-than-2-years",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T20:57:44+00:00",
+    "collected_at": "2026-11-18T15:31:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Crystal Dynamics confirmed that eight people have been let go in a \"necessary business decision.\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e96803d0d925cbf24ff2",
+    "title": "Sci-fi RPG Exodus gets even more Mass Effect-like with its female lead, who they are calling Femjun",
+    "url": "https://www.pcgamer.com/games/rpg/sci-fi-rpg-exodus-gets-even-more-mass-effect-like-with-its-female-lead-who-they-are-calling-femjun",
+    "source": "PC Gamer",
+    "published_at": "2026-11-17T18:55:21+00:00",
+    "collected_at": "2026-11-18T15:31:44+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Yup, it's official.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "5a1697db9a75da0df271",
     "title": "Spyro: A Realm Beyond teased for The Game Awards 2026",
     "url": "https://www.gematsu.com/2026/11/spyro-a-realm-beyond-teased-for-the-game-awards-2026",
@@ -402,14 +554,14 @@
   },
   {
     "id": "cccf7c337e560e8662d3",
-    "title": "WoW: Forever's economy has a problem, as a now-hotfixed grind rakes in thousands of gold for the people who got in early",
+    "title": "Blizzard drops the hammer on WoW: Forever players who exploited a now-hotfixed grind to rake in thousands of gold",
     "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-economy-has-a-problem-as-a-now-hotfixed-grind-rakes-in-thousands-of-gold-for-the-people-who-got-in-early",
     "source": "PC Gamer",
     "published_at": "2026-11-17T11:56:46+00:00",
     "collected_at": "2026-11-18T02:40:50+08:00",
     "game_ids": [],
     "category": "industry",
-    "summary": "Something's gotta give, something's gotta give, something's gotta give.",
+    "summary": "Blizzard says \"significant abusers\" of the bug will lose their ill-gotten gains and possibly have their accounts suspended.",
     "verification_status": "reported",
     "credibility_score": 75,
     "limitations": [
@@ -492,6 +644,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3726d21893a7b8620d0d",
+    "title": "November 17 Update",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702693064",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-17T10:24:43+00:00",
+    "collected_at": "2026-11-18T15:31:36+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Optimized lag issues Changed the batch selection function on the warehouse page to a batch sell function Adjusted Battle Soul production to be obtained upon first defeating a Boss",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -1104,6 +1275,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "06a83f30833f978433d1",
+    "title": "November 16 Patch",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702689484",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-16T13:18:45+00:00",
+    "collected_at": "2026-11-18T15:31:36+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Fix the issue where leaderboard data is not displayed",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
