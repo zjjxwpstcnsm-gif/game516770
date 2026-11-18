@@ -1,32 +1,32 @@
 {
   "status": "partial_failure",
-  "generated_at": "2026-11-18T15:32:13+08:00",
+  "generated_at": "2026-11-19T02:16:32+08:00",
   "last_success_at": null,
-  "last_partial_success_at": "2026-11-18T15:32:13+08:00",
+  "last_partial_success_at": "2026-11-19T02:16:32+08:00",
   "source_status": [
     {
       "id": "steam_discovery",
       "name": "Steam 动态游戏发现",
       "status": "ok",
-      "records": 24,
-      "checked_at": "2026-11-18T15:31:32+08:00",
+      "records": 23,
+      "checked_at": "2026-11-19T02:14:51+08:00",
       "url": "https://store.steampowered.com/api/featuredcategories",
       "error": null
     },
     {
       "id": "steam_news",
       "name": "Steam 官方公告",
-      "status": "error",
-      "checked_at": "2026-11-18T15:31:42+08:00",
-      "records": 17,
+      "status": "ok",
+      "checked_at": "2026-11-19T02:15:05+08:00",
+      "records": 26,
       "url": "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/",
-      "error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=74190&count=15&maxlength=600&feeds=steam_community_announcements'\nFor more inf"
+      "error": null
     },
     {
       "id": "playstation",
       "name": "PlayStation Blog",
       "status": "ok",
-      "checked_at": "2026-11-18T15:31:43+08:00",
+      "checked_at": "2026-11-19T02:15:06+08:00",
       "records": 10,
       "url": "https://blog.playstation.com/feed/",
       "error": null
@@ -35,7 +35,7 @@
       "id": "gematsu",
       "name": "Gematsu",
       "status": "ok",
-      "checked_at": "2026-11-18T15:31:43+08:00",
+      "checked_at": "2026-11-19T02:15:06+08:00",
       "records": 20,
       "url": "https://www.gematsu.com/feed",
       "error": null
@@ -44,7 +44,7 @@
       "id": "pcgamer",
       "name": "PC Gamer",
       "status": "ok",
-      "checked_at": "2026-11-18T15:31:44+08:00",
+      "checked_at": "2026-11-19T02:15:07+08:00",
       "records": 40,
       "url": "https://www.pcgamer.com/rss/",
       "error": null
@@ -53,7 +53,7 @@
       "id": "steam_details_2358720",
       "name": "黑神话：悟空 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-18T15:31:32+08:00",
+      "checked_at": "2026-11-19T02:14:50+08:00",
       "records": 1,
       "url": "https://store.steampowered.com/app/2358720/",
       "error": null
@@ -62,143 +62,143 @@
       "id": "steam_reviews_2358720",
       "name": "黑神话：悟空 评价数据",
       "status": "error",
-      "checked_at": "2026-11-18T15:31:32+08:00",
+      "checked_at": "2026-11-19T02:14:50+08:00",
       "records": 0,
       "url": "https://store.steampowered.com/appreviews/2358720",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_2889210",
-      "name": "Zippy the Circle 官方日期",
+      "id": "steam_details_3769420",
+      "name": "Hill-Z 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-18T15:31:32+08:00",
+      "checked_at": "2026-11-19T02:14:50+08:00",
       "records": 1,
-      "url": "https://store.steampowered.com/app/2889210/",
+      "url": "https://store.steampowered.com/app/3769420/",
       "error": null
     },
     {
-      "id": "steam_reviews_2889210",
-      "name": "Zippy the Circle 评价数据",
+      "id": "steam_reviews_3769420",
+      "name": "Hill-Z 评价数据",
       "status": "error",
-      "checked_at": "2026-11-18T15:31:32+08:00",
+      "checked_at": "2026-11-19T02:14:50+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/2889210",
+      "url": "https://store.steampowered.com/appreviews/3769420",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_5287810",
-      "name": "进击的军团 官方日期",
+      "id": "steam_details_5068940",
+      "name": "Swirl Together 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-18T15:31:32+08:00",
+      "checked_at": "2026-11-19T02:14:50+08:00",
       "records": 1,
-      "url": "https://store.steampowered.com/app/5287810/",
+      "url": "https://store.steampowered.com/app/5068940/",
       "error": null
     },
     {
-      "id": "steam_reviews_5287810",
-      "name": "进击的军团 评价数据",
+      "id": "steam_reviews_5068940",
+      "name": "Swirl Together 评价数据",
       "status": "error",
-      "checked_at": "2026-11-18T15:31:32+08:00",
+      "checked_at": "2026-11-19T02:14:50+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/5287810",
+      "url": "https://store.steampowered.com/appreviews/5068940",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_5282320",
-      "name": "服从我吧！最终抉择：路西法　原声带 官方日期",
+      "id": "steam_details_5081060",
+      "name": "Just Up: 2D Platformer 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-19T02:14:50+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/5081060/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_5081060",
+      "name": "Just Up: 2D Platformer 评价数据",
       "status": "error",
-      "checked_at": "2026-11-18T15:31:32+08:00",
+      "checked_at": "2026-11-19T02:14:50+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/app/5282320/",
+      "url": "https://store.steampowered.com/appreviews/5081060",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_5115080",
+      "name": "Pack It Up! 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-19T02:14:50+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/5115080/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_5115080",
+      "name": "Pack It Up! 评价数据",
+      "status": "error",
+      "checked_at": "2026-11-19T02:14:50+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/appreviews/5115080",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_5438730",
+      "name": "Fishing Shop: Tidy Up 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-19T02:14:50+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/5438730/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_5438730",
+      "name": "Fishing Shop: Tidy Up 评价数据",
+      "status": "error",
+      "checked_at": "2026-11-19T02:14:50+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/appreviews/5438730",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_5148580",
+      "name": "Boltz Soundtrack 官方日期",
+      "status": "error",
+      "checked_at": "2026-11-19T02:14:50+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/app/5148580/",
       "error": "ValueError"
     },
     {
-      "id": "steam_reviews_5282320",
-      "name": "服从我吧！最终抉择：路西法　原声带 评价数据",
+      "id": "steam_reviews_5148580",
+      "name": "Boltz Soundtrack 评价数据",
       "status": "error",
-      "checked_at": "2026-11-18T15:31:32+08:00",
+      "checked_at": "2026-11-19T02:14:50+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/5282320",
+      "url": "https://store.steampowered.com/appreviews/5148580",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_5558070",
-      "name": "House of Wardians: Unchained Demo 官方日期",
-      "status": "error",
-      "checked_at": "2026-11-18T15:31:32+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/app/5558070/",
-      "error": "ValueError"
-    },
-    {
-      "id": "steam_reviews_5558070",
-      "name": "House of Wardians: Unchained Demo 评价数据",
-      "status": "error",
-      "checked_at": "2026-11-18T15:31:32+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/appreviews/5558070",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_74190",
-      "name": "Escape from Tarkov - The Unheard Steam Edition 官方日期",
-      "status": "error",
-      "checked_at": "2026-11-18T15:31:32+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/app/74190/",
-      "error": "ValueError"
-    },
-    {
-      "id": "steam_reviews_74190",
-      "name": "Escape from Tarkov - The Unheard Steam Edition 评价数据",
-      "status": "error",
-      "checked_at": "2026-11-18T15:31:32+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/appreviews/74190",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_4475300",
-      "name": "Smash Dash: Demolition Run 官方日期",
+      "id": "steam_details_4521650",
+      "name": "农场与盛宴 / Farm & Feast 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-18T15:31:32+08:00",
+      "checked_at": "2026-11-19T02:14:50+08:00",
       "records": 1,
-      "url": "https://store.steampowered.com/app/4475300/",
+      "url": "https://store.steampowered.com/app/4521650/",
       "error": null
     },
     {
-      "id": "steam_reviews_4475300",
-      "name": "Smash Dash: Demolition Run 评价数据",
+      "id": "steam_reviews_4521650",
+      "name": "农场与盛宴 / Farm & Feast 评价数据",
       "status": "error",
-      "checked_at": "2026-11-18T15:31:32+08:00",
+      "checked_at": "2026-11-19T02:14:50+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/4475300",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_3995900",
-      "name": "Pro League Golf Simulator 官方日期",
-      "status": "ok",
-      "checked_at": "2026-11-18T15:31:32+08:00",
-      "records": 1,
-      "url": "https://store.steampowered.com/app/3995900/",
-      "error": null
-    },
-    {
-      "id": "steam_reviews_3995900",
-      "name": "Pro League Golf Simulator 评价数据",
-      "status": "error",
-      "checked_at": "2026-11-18T15:31:32+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/appreviews/3995900",
+      "url": "https://store.steampowered.com/appreviews/4521650",
       "error": "JSONDecodeError"
     },
     {
       "id": "benchmark",
       "name": "沪深300市场对照",
       "status": "ok",
-      "checked_at": "2026-11-18T15:32:01+08:00",
-      "records": 937,
+      "checked_at": "2026-11-19T02:15:24+08:00",
+      "records": 938,
       "url": "https://quotes.sina.cn/cn/api/jsonp_v2.php/var%20_data=/CN_MarketDataService.getKLineData",
       "error": null
     },
@@ -206,7 +206,7 @@
       "id": "holdings_516770",
       "name": "游戏ETF华泰柏瑞持仓",
       "status": "ok",
-      "checked_at": "2026-11-18T15:32:10+08:00",
+      "checked_at": "2026-11-19T02:15:47+08:00",
       "records": 15,
       "url": "https://fundf10.eastmoney.com/ccmx_516770.html",
       "error": null
@@ -215,16 +215,16 @@
       "id": "prices_516770",
       "name": "游戏ETF华泰柏瑞行情",
       "status": "ok",
-      "checked_at": "2026-11-18T15:31:32+08:00",
+      "checked_at": "2026-11-19T02:14:50+08:00",
       "records": 938,
-      "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516770&klt=101&fqt=0&beg=20230101&end=20500101",
-      "error": null
+      "url": "https://quotes.sina.cn/cn/api/jsonp_v2.php/var%20_data=/CN_MarketDataService.getKLineData?symbol=sh516770&scale=240&ma=no&datalen=1023",
+      "error": "Eastmoney: ConnectTimeout"
     },
     {
       "id": "holdings_159869",
       "name": "游戏ETF华夏持仓",
       "status": "ok",
-      "checked_at": "2026-11-18T15:32:11+08:00",
+      "checked_at": "2026-11-19T02:16:09+08:00",
       "records": 10,
       "url": "https://fundf10.eastmoney.com/ccmx_159869.html",
       "error": null
@@ -233,16 +233,16 @@
       "id": "prices_159869",
       "name": "游戏ETF华夏行情",
       "status": "ok",
-      "checked_at": "2026-11-18T15:31:32+08:00",
+      "checked_at": "2026-11-19T02:14:50+08:00",
       "records": 938,
-      "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=0.159869&klt=101&fqt=0&beg=20230101&end=20500101",
-      "error": null
+      "url": "https://quotes.sina.cn/cn/api/jsonp_v2.php/var%20_data=/CN_MarketDataService.getKLineData?symbol=sz159869&scale=240&ma=no&datalen=1023",
+      "error": "Eastmoney: ConnectTimeout"
     },
     {
       "id": "holdings_516010",
       "name": "游戏ETF国泰持仓",
       "status": "ok",
-      "checked_at": "2026-11-18T15:32:12+08:00",
+      "checked_at": "2026-11-19T02:16:32+08:00",
       "records": 28,
       "url": "https://fundf10.eastmoney.com/ccmx_516010.html",
       "error": null
@@ -251,10 +251,10 @@
       "id": "prices_516010",
       "name": "游戏ETF国泰行情",
       "status": "ok",
-      "checked_at": "2026-11-18T15:31:32+08:00",
+      "checked_at": "2026-11-19T02:14:50+08:00",
       "records": 938,
-      "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516010&klt=101&fqt=0&beg=20230101&end=20500101",
-      "error": null
+      "url": "https://quotes.sina.cn/cn/api/jsonp_v2.php/var%20_data=/CN_MarketDataService.getKLineData?symbol=sh516010&scale=240&ma=no&datalen=1023",
+      "error": "Eastmoney: ConnectTimeout"
     }
   ],
   "strategy_version": "1.0.0-heuristic",
@@ -274,6 +274,6 @@
   "latest_market_date": "2026-11-18",
   "market_calendar_status": "已核验 2026 年上交所休市表；跨年及缺失应完成交易日时暂停判断",
   "build_status": "production_build_passed",
-  "build_commit": "ecd06545034396e5c00477afe1808ef113c19611",
-  "build_run_url": "https://github.com/zjjxwpstcnsm-gif/game516770/actions/runs/44259489515"
+  "build_commit": "1eb01167499b15e0ec14324da876ddc82a60154f",
+  "build_run_url": "https://github.com/zjjxwpstcnsm-gif/game516770/actions/runs/44367481894"
 }
