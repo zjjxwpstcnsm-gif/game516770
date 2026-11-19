@@ -1240,5 +1240,47 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "8b8aef94b5fdd7e539a1",
+    "game_id": "steam-5000810",
+    "title": "🍋 'When Life Gives You Lemons' Demo is NOW LIVE for Steam Next Fest!",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-20T05:08:26+00:00",
+    "first_seen_at": "2026-11-19T15:28:22+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706693742"
+    ],
+    "source_ids": [
+      "6cc11d7c0f4486dd65f2"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "050b6d430f79214767cf",
+    "game_id": "steam-4878180",
+    "title": "Every 8 is wild - Wild Crazy 8s launches November 11",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-07-24T17:19:55+00:00",
+    "first_seen_at": "2026-11-19T15:28:22+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357030248"
+    ],
+    "source_ids": [
+      "11c0aa002cd626e23d11"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]
