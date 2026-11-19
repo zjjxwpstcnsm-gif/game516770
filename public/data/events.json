@@ -1282,5 +1282,26 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "e05e767c2d04d5ba7a00",
+    "game_id": "steam-5352690",
+    "title": "Bust Out launches November 13 in Early Access!",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-07T18:16:28+00:00",
+    "first_seen_at": "2026-11-20T02:25:10+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643350299"
+    ],
+    "source_ids": [
+      "6abf6a5e7be379244baf"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]
