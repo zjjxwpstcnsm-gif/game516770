@@ -1,5 +1,423 @@
 [
   {
+    "id": "87cea7b9f44726a1aa2f",
+    "title": "Dual Orb Collection announced for Switch",
+    "url": "https://www.gematsu.com/2026/11/dual-orb-collection-announced-for-switch",
+    "source": "Gematsu",
+    "published_at": "2026-11-20T04:55:01+00:00",
+    "collected_at": "2026-11-20T15:18:58+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Mebius has announced Dual Orb Collection for Switch. It will launch on March 18, 2027 &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "088572a90d4ec2455b97",
+    "title": "Witch on the Holy Night now available for iOS, Android in Japan",
+    "url": "https://www.gematsu.com/2026/11/witch-on-the-holy-night-now-available-for-ios-android-in-japan",
+    "source": "Gematsu",
+    "published_at": "2026-11-20T04:18:18+00:00",
+    "collected_at": "2026-11-20T15:18:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Publisher Aniplex and developer TYPE-MOON have released visual novel Witch on the Holy Night for &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "aa61ddf2742d10c79b67",
+    "title": "Saihate Station: Twilight Edition announced for Switch",
+    "url": "https://www.gematsu.com/2026/11/saihate-station-twilight-edition-announced-for-switch",
+    "source": "Gematsu",
+    "published_at": "2026-11-20T04:04:26+00:00",
+    "collected_at": "2026-11-20T15:18:58+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Publisher PLAYISM and developer viv have announced Saihate Station: Twilight Edition, a Switch version of &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3ddef5a1d63a5c501208",
+    "title": "Caladrius 2/Dark Element delayed to January 27, 2027",
+    "url": "https://www.gematsu.com/2026/11/caladrius-2-dark-element-delayed-to-january-27-2027",
+    "source": "Gematsu",
+    "published_at": "2026-11-20T01:36:03+00:00",
+    "collected_at": "2026-11-20T15:18:58+08:00",
+    "game_ids": [],
+    "category": "delay",
+    "summary": "Publisher H2 Interactive and MOSS development subsidiary Kaminari Games have delayed shoot &#8217;em up sequel &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "fa4eff86554e44c94159",
+    "title": "Goodbye Seoul launches in early 2027",
+    "url": "https://www.gematsu.com/2026/11/goodbye-seoul-launches-in-early-2027",
+    "source": "Gematsu",
+    "published_at": "2026-11-20T01:17:52+00:00",
+    "collected_at": "2026-11-20T15:18:58+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Pixel narrative puzzle adventure game Goodbye Seoul will launch for PC via Steam in early &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "64c6c747cf74f0126000",
+    "title": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor",
+    "source": "PC Gamer",
+    "published_at": "2026-11-20T01:01:43+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Would you pay $7.99 a month for one car and some in-game discounts?",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "573f7dbb1b9fe164717e",
+    "title": "GTA 6 is playable in first-person, here's how to activate it",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it",
+    "source": "PC Gamer",
+    "published_at": "2026-11-20T01:00:12+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "I guess that's why the cars have speedometers.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0fd9eb8fec26e7b15352",
+    "title": "Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-drops-what-they-claim-is-a-near-complete-gta-6-xbox-build-online",
+    "source": "PC Gamer",
+    "published_at": "2026-11-19T23:17:00+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The leaked file is apparently around 200 GB.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "ac8b051421017a9fbeea",
+    "title": "Help: I can't stop obeying traffic laws in GTA 6",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/help-i-cant-stop-obeying-traffic-laws-in-gta-6",
+    "source": "PC Gamer",
+    "published_at": "2026-11-19T22:46:37+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "What's happening to me!?",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d68862ea3ac955b357ee",
+    "title": "GTA 6 has the best use of the PS5 controller I've ever seen",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-has-the-best-use-of-the-ps5-controller-ive-ever-seen",
+    "source": "PC Gamer",
+    "published_at": "2026-11-19T22:28:33+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The PS5 triggers are changing how I drive in GTA.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d9c6a23ff4e27ac2d2ed",
+    "title": "Don't stress about collectathon completionism in Queen's Domain: It eventually gives you tools to help find hidden treasures",
+    "url": "https://www.pcgamer.com/games/rpg/dont-stress-about-collectathon-completionism-in-queens-domain-it-eventually-gives-you-tools-to-help-find-hidden-treasures",
+    "source": "PC Gamer",
+    "published_at": "2026-11-19T22:20:56+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Collect 'em all, eventually.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "9dd2b5dd345a897c9f9c",
+    "title": "GTA 5's Steam concurrents have gone up rather than down now that GTA 6 is out, suggesting a lot of PC players are waiting",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5s-steam-concurrents-have-gone-up-rather-than-down-now-that-gta-6-is-out-suggesting-a-lot-of-pc-players-are-waiting",
+    "source": "PC Gamer",
+    "published_at": "2026-11-19T22:00:43+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "We have GTA 6 at home.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "951829b802512929f444",
+    "title": "Should you give the statue to Benedict Halifax in GTA 6?",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-give-statue-to-benedict-halifax-or-not",
+    "source": "PC Gamer",
+    "published_at": "2026-11-19T21:56:00+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Or should you not trust the eccentric antiques dealer?",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "c0027ec390acfedd5c94",
+    "title": "In the GTA 6 Delights robbery mission, help or don't help Frankie and Mario?",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-delights-mission-help-or-dont-help",
+    "source": "PC Gamer",
+    "published_at": "2026-11-19T21:46:10+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Frankie wants to know if you can dance, yes or no. What should you say?",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d51b26a90000870b78cd",
+    "title": "Fact check: Does GTA 6 stop players from shooting inside gay nightclubs and crashing planes into buildings?",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/fact-check-does-gta-6-stop-players-from-shooting-inside-gay-nightclubs-and-crashing-planes-into-buildings",
+    "source": "PC Gamer",
+    "published_at": "2026-11-19T21:24:15+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Here's what's true and what isn't true about these misleading Grand Theft Auto 6 claims.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "f6f65da21654766205a8",
+    "title": "Valve may raise Steam Machine prices yet again: 'Memory and storage costs continue to increase at unprecedented levels'",
+    "url": "https://www.pcgamer.com/hardware/steam-machines/valve-may-raise-steam-machine-prices-yet-again-memory-and-storage-costs-continue-to-increase-at-unprecedented-levels",
+    "source": "PC Gamer",
+    "published_at": "2026-11-19T21:10:22+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The 2TB model will be \"especially constrained\": Valve has closed the waitlist and says it doesn't know how many it will be able to make, or at what price they'll be sold.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "ee50bbf0e4c14a1803a4",
+    "title": "Doom level designer Sandy Petersen on Gabe Newell: 'With Steam he is literally guarding the gates of Hell'",
+    "url": "https://www.pcgamer.com/gaming-industry/doom-level-designer-sandy-petersen-on-gabe-newell-with-steam-he-is-literally-guarding-the-gates-of-hell",
+    "source": "PC Gamer",
+    "published_at": "2026-11-19T20:49:29+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Sandy Petersen is wishing someone else well for a change.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "2a3a3623fd5dbea5cd2d",
+    "title": "Where to have a bona fide bigfoot (skunk ape) sighting in GTA 6",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape",
+    "source": "PC Gamer",
+    "published_at": "2026-11-19T20:12:34+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Chase down the peninsular cryptid out in the Leonida Keys.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "8882735172aa84abcf27",
+    "title": "Your GTA 6 car is your Red Dead 2 horse, and it's perfect",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/your-gta-6-car-is-your-red-dead-2-horse-and-its-perfect",
+    "source": "PC Gamer",
+    "published_at": "2026-11-19T19:54:22+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "My whip is my home.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "cb6299d1f89af36f86b8",
+    "title": "If you bounced off indie hit Queen's Domain, try using the cheat code book to give yourself a gun",
+    "url": "https://www.pcgamer.com/games/rpg/if-you-bounced-off-indie-hit-queens-domain-try-using-the-cheat-code-book-to-give-yourself-a-gun",
+    "source": "PC Gamer",
+    "published_at": "2026-11-19T19:20:14+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Would somebody please get this man a gun.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d8064fbf81a56e9698ae",
+    "title": "Peter Moore, who famously announced GTA 4 with a tattoo, posts fake GTA 6 tattoo pic and says he hopes it will give the industry 'a shot in the arm'",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/peter-moore-who-famously-announced-gta-4-with-a-tattoo-posts-fake-gta-6-tattoo-pic-and-says-he-hopes-it-will-give-the-industry-a-shot-in-the-arm",
+    "source": "PC Gamer",
+    "published_at": "2026-11-19T19:03:31+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "Moore said \"no pun intended\" but I don't believe him.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "c331d224771ecbbaa1d2",
+    "title": "Cheats in GTA 6 are weirdly restrictive, and I'm counting the minutes until the PC version fixes them",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/im-counting-the-minutes-until-the-pc-version-fixes-the-weirdly-restrictive-cheats-in-gta-6",
+    "source": "PC Gamer",
+    "published_at": "2026-11-19T18:35:22+00:00",
+    "collected_at": "2026-11-20T15:18:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Unlocking a cheats menu takes dozens of hours, and even then there are still heavy restrictions.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "ad0e3de02570722022d4",
     "title": "It's time for GTA 5's last challenge: 20 more mods aimed at finally breaking it completely",
     "url": "https://www.pcgamer.com/games/grand-theft-auto/its-time-for-gta-5s-last-challenge-20-more-mods-aimed-at-finally-breaking-it-completely",
@@ -210,14 +628,14 @@
   },
   {
     "id": "69f51f8c1223b5de4dfd",
-    "title": "A new Fallout game has been rated in Australia, and it's a hidden object game",
+    "title": "Bethesda confirms A Wasteland Full of Cats is 'a Fallout-inspired adventure' being made in partnership with a not-for-profit animal rescue",
     "url": "https://www.pcgamer.com/games/fallout/a-new-fallout-game-has-been-rated-in-australia-and-its-a-hidden-object-game",
     "source": "PC Gamer",
     "published_at": "2026-11-19T16:09:40+00:00",
     "collected_at": "2026-11-20T02:25:26+08:00",
     "game_ids": [],
     "category": "industry",
-    "summary": "It's called A Wasteland Full of Cats, and I think it sounds great.",
+    "summary": "A Fallout hidden object game? About cats? Color me interested.",
     "verification_status": "reported",
     "credibility_score": 75,
     "limitations": [
@@ -343,7 +761,7 @@
   },
   {
     "id": "28e45fcbf1db3e4e806e",
-    "title": "Famitsu Sales: 11/9/26 – 11/15/26",
+    "title": "Famitsu Sales: 11/9/26 – 11/15/26 [Update]",
     "url": "https://www.gematsu.com/2026/11/famitsu-sales-11-9-26-11-15-26",
     "source": "Gematsu",
     "published_at": "2026-11-19T13:11:58+00:00",
@@ -3373,6 +3791,25 @@
     "summary_language": null
   },
   {
+    "id": "91cc2d60904d488aeb6e",
+    "title": "Fixed Known Issues",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702686197",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-15T13:02:10+00:00",
+    "collected_at": "2026-11-20T15:18:49+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Fixed issues found in the game.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "0ddd83d0079f327c479b",
     "title": "Former survival MMO Dune: Awakening can now be played 'without requiring an Internet connection at any point' as its much requested offline mode arrives",
     "url": "https://www.pcgamer.com/games/survival-crafting/former-survival-mmo-dune-awakening-can-now-be-played-without-requiring-an-internet-connection-at-any-point-as-its-much-requested-offline-mode-arrives",
@@ -3487,6 +3924,25 @@
     "summary_language": null
   },
   {
+    "id": "0c56c34cb70171b6609a",
+    "title": "hotfix v1.3.2",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702685268",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-15T03:02:39+00:00",
+    "collected_at": "2026-11-20T15:18:47+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "hot fix for audio depth and flashlight stability",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "6a4d2913fd7ad3228f6e",
     "title": "Planeswalker, Netflix's Magic: The Gathering animated series, will have a different art style for each plane",
     "url": "https://www.pcgamer.com/movies-tv/planeswalker-netflixs-magic-the-gathering-animated-series-will-have-a-different-art-style-for-each-plane",
@@ -3582,6 +4038,25 @@
     "summary_language": null
   },
   {
+    "id": "926cab262d9fc002459e",
+    "title": "V1.3.1 PATCH NOTES",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702684138",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-14T17:44:18+00:00",
+    "collected_at": "2026-11-20T15:18:47+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "New Hard Mode The lights are out. Find your way up with a flashlight, and watch the battery. There’s one spare battery per floor if you can find it. Lucy hunts in the dark, and if she sees you, she’s coming. 15+ new anomalies A flooded hedge maze at night. A beach. A corridor that never ends. A clock room. The backrooms. A ball pit (go on, jump in). Something crawling through the vents. A second elevator that really shouldn’t be there. And more we’re not going to spoil. Lucy has a new surprise w",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "8802317e340f19439842",
     "title": "Do you like mob tagging in oldschool MMOs, or are you done with fighting for quest credit?",
     "url": "https://www.pcgamer.com/games/world-of-warcraft/do-you-like-mob-tagging-in-oldschool-mmos-or-are-you-done-with-fighting-for-quest-credit",
@@ -3635,6 +4110,27 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "09c4c575d71c6822f921",
+    "title": "Sort and Stack! Released now.",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702683733",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-14T15:24:31+00:00",
+    "collected_at": "2026-11-20T15:18:57+08:00",
+    "game_ids": [
+      "steam-5302700"
+    ],
+    "category": "release",
+    "summary": "Sort & Stack Released now.The card market is overflowing, and it's your job to fix it! Take control of a growing card-destruction operation where every card torn brings you closer to turning a failing business into a profitable empire. Deal cards onto your table, tear through piles, collect coins, and remove excess supply from circulation. What starts as a simple job quickly becomes a satisfying, fast-paced operation packed with powerful upgrades, explosive booster packs, and market manipulation",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -4642,6 +5138,44 @@
     ],
     "category": "industry",
     "summary": "Fishing Shop: Tidy Up officially launches on Steam today!After months of development, Fishing Shop: Tidy Up is finally available for everyone to play! The shop may still be closed to customers, but there's plenty of work waiting for you inside. It's time to sort through the merchandise and get those shelves looking spotless!You'll find shelves cluttered with products, boxes full of fishing gear, and all sorts of items waiting to be put in their proper places. Sort products by category, color, an",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "61c25e9b1bb78b2e065e",
+    "title": "Out now! Snow White is waiting for her first tribute",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144185950",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-13T06:04:07+00:00",
+    "collected_at": "2026-11-20T15:18:45+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Snow White and the Dwarf Slaves is out now on Steam! Welcome to everyone who paid their first tribute in the demo, and to everyone setting foot in the village for the first time. Get the full game at 20% off {STEAM_CLAN_IMAGE}/46571470/9d4c7e2bf3e2186bdf802fc83efd99924895e622.png Three dwarves set up a little forge at the bottom of your desktop. Chop wood, mine ore, and sell what you make to the merchant. Can you afford another pair of hands, or should you hold on to that gold? Every ten years, ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "07110774958a6bfca7e6",
+    "title": "Fixed Known Issues",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144185751",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-13T04:21:26+00:00",
+    "collected_at": "2026-11-20T15:18:49+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Fixed issues found in the game.",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -6980,6 +7514,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3c49bd9f11eb6af0e264",
+    "title": "Launching Friday, November 13 at 1 PM KST!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144177518",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-11T07:06:28+00:00",
+    "collected_at": "2026-11-20T15:18:45+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Hello from SUPERLINK! Snow White and the Dwarf Slaves launches on Steam on Friday, November 13 at 1 PM KST (Thursday, November 12 at 8 PM PST). Just two days to go! To celebrate the launch, the game will be 20% off. (Regular price US$4.99; the price in your currency is shown on the store page.) Wishlist now to get notified at launch {STEAM_CLAN_IMAGE}/46571470/9d4c7e2bf3e2186bdf802fc83efd99924895e622.png A little village beneath your desktop, ruled by Snow White the dragon A 100-year fairy tale ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -15447,6 +16000,25 @@
     "summary_language": null
   },
   {
+    "id": "280f7500bdde6678344a",
+    "title": "The free demo is out now! Can you survive the first tribute?",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302241817",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-31T10:59:45+00:00",
+    "collected_at": "2026-11-20T15:18:45+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Hello from SUPERLINK! The free demo of Snow White and the Dwarf Slaves is available now. Head to the full game’s store page and click Download Demo to get started. Download the free demo · Wishlist the full game {STEAM_CLAN_IMAGE}/46571470/0b36d9e3b5c77b87304d86c524ad664e43c31031.png Your village keeps growing at the bottom of your desktop while you do other things. Actual demo gameplay; the desktop is a staged example. Snow White is actually a dragon. Put your dwarfs to work chopping wood, mini",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "bddb2518b4bb6f5399b7",
     "title": "Stuck on a Wave? No Worries! Farm Bosses in the Rift and Forge Epic Gear!",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302241615",
@@ -17396,6 +17968,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "I forgot it. Yeah.Added music to the main menu.That's it.Enjoy.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5d65627b5a37db92efa1",
+    "title": "Release date announced: November 13!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031605",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-22T07:43:23+00:00",
+    "collected_at": "2026-11-20T15:18:45+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Hello from SUPERLINK! This is our very first post here, and we come bearing a date. Snow White and the Dwarf Slaves launches on Steam on November 12, 2026 at 8:00 PM PST (November 13, 1:00 PM KST). Launch times Nov 12, 8:00 PM PST / 11:00 PM EST Nov 13, 4:00 AM GMT / 5:00 AM CET Nov 13, 12:00 PM Beijing / Taipei Nov 13, 1:00 PM KST / JST {STEAM_CLAN_IMAGE}/46571470/9d4c7e2bf3e2186bdf802fc83efd99924895e622.png Snow White is a dragon A very cute dragon, who has claimed a dwarf village as her own. ",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -22423,609 +23014,6 @@
     "game_ids": [],
     "category": "industry",
     "summary": "The Ocelot Stromberg performs double duty as a weaponized retro sports car and tactical submersible. This multipurpose apex predator is also free for all GTA+ Members at The Vinewood Car Club showroom through July 13. Plus, GTA+ Members get free celebratory Independence Day gear and more. {STEAM_CLAN_IMAGE}/45517848/ae8e31360272857da8174efd34e88e929a11fcb7.jpg GRAND THEFT AUTO V JOINS THE GTA+ GAMES LIBRARY Experience the interwoven criminal saga of a young street hustler, a retired bank robber,",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "10cc7d732d44b9443efe",
-    "title": "Caldra: 0.0.4 Update",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721199705",
-    "source": "Steam 官方公告",
-    "published_at": "2026-06-08T17:35:02+00:00",
-    "collected_at": "2026-11-07T00:51:28+08:00",
-    "game_ids": [
-      "steam-4452480"
-    ],
-    "category": "industry",
-    "summary": "Patch Notes When the flowers of Dragon Amber bloom and the white rabbits begin changing into their summer attire, how are all you Owners doing? This is Caldra’s first balance adjustment since the service began. Thank you so much for playing! In this update, we have slightly weakened cards that were too strong based on current battle records, while giving a reasonable boost to weaker cards and cards that were rarely being used. Now then, let’s get excited and dive into Caldra’s very first balance",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "e95e13c3612606fca4bb",
-    "title": "✨ Known Issues (Demo) and Development Roadmap for 2026 ✨",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721190783",
-    "source": "Steam 官方公告",
-    "published_at": "2026-06-05T14:11:09+00:00",
-    "collected_at": "2026-11-06T01:30:13+08:00",
-    "game_ids": [],
-    "category": "demo",
-    "summary": "Hello Chefs! Thank you to everyone who has played the Food Devils demo and shared feedback so far. We're happy to see that thousands of players have downloaded and played our game, and that many are enjoying its gameplay loop!We're also aware of some issues that are souring the taste test for some players more than any Tomoilo acid ever could!This update is here to let you know that we are indeed listening to feedback and doing our best to keep improving the game.Scheduled Improvements📝 Info Too",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "d6b1d0bfa3f4ef0740f3",
-    "title": "Bullet Meltdown 0.8.0.0 comes for Bullet Hell Festival and Steam Next Fest!",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721190653",
-    "source": "Steam 官方公告",
-    "published_at": "2026-06-05T13:21:46+00:00",
-    "collected_at": "2026-11-11T14:25:42+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Bullet Meltdown is hitting two major Steam festivals this June.From June 8–14, we're taking part in the Bullet Hell Festival, the perfect home for a game that throws dozens of unique enemy types, giant bosses at you every run. Right after that, from June 15–21, we'll be part of Steam Next Fest.To celebrate both events, we've updated the demo with a fresh build, polished, tighter, and better than before. We've also dropped a brand new trailer that shows off what full release of Bullet Meltdown is",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "bf3c6c7836ef85c72be9",
-    "title": "Explore Fun and Immersive New Community Missions in GTA Online",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721190637",
-    "source": "Steam 官方公告",
-    "published_at": "2026-06-05T13:12:47+00:00",
-    "collected_at": "2026-11-02T18:28:58+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Dive into exciting new player-created GTA Online experiences in the Community Mission Series on PC (Enhanced), including a second showcased submission from GTA Series Videos along with new featured creators including ShelbyGR, and many more. Earn 4X GTA$ and RP in any of the curated Community Mission Series selections through June 17, as well as an additional GTA$500,000 bonus each week for completing all the featured Community Missions. {STEAM_CLAN_IMAGE}/45517848/874ebf159b3828c0a5d1b8f1e7e9b7",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "b12fefdc231df560f3ab",
-    "title": "Pre-Purchase is now open for Tomb Raider: Legacy of Atlantis",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721188409",
-    "source": "Steam 官方公告",
-    "published_at": "2026-06-04T18:13:05+00:00",
-    "collected_at": "2026-11-20T02:25:19+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "It's official — Tomb Raider: Legacy of Atlantis releases February 12, 2027.Crystal Dynamics and Flying Wild Hog deliver jaw-dropping visuals powered by Unreal Engine 5, modern game design, and new surprises, while honoring the spirit and atmosphere of Lara's debut adventure.Every environment has expanded in a way that makes exploration, combat, and puzzles feel fresh. In Peru's Lost Valley, puzzles have been rebuilt from the ground up. Rooms that were self-contained in the original have opened i",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "cfe6aed91b0ee82af13e",
-    "title": "Castlebound Joins the Official Latin American Games Showcase 2026!",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721188262",
-    "source": "Steam 官方公告",
-    "published_at": "2026-06-04T17:22:26+00:00",
-    "collected_at": "2026-11-13T01:39:52+08:00",
-    "game_ids": [
-      "steam-3551820"
-    ],
-    "category": "industry",
-    "summary": "Hello everyone!We’re thrilled to announce that Castlebound has been selected as part of the official lineup for the Latin American Games Showcase 2026! 🎉As part of the event, we’ve released an updated demo featuring improved gameplay... Now the Castle walks!Whether you're discovering Castlebound for the first time or returning for another run, we hope you enjoy the latest version of the game.But that’s not all...We’re also preparing to launch our Kickstarter campaign very soon! The campaign will",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "2bbf7feb146df32609f5",
-    "title": "30,000 Wishlists!",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187611",
-    "source": "Steam 官方公告",
-    "published_at": "2026-06-04T14:06:48+00:00",
-    "collected_at": "2026-11-11T01:10:42+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Hello everyone!Today, we're celebrating a huge milestone for Clean Start we've officially reached 30,000 wishlists on Steam! 🎉To everyone who has wishlist the game, played the demo, shared feedback, or supported us along the way, thank you. Every bit of support has helped us reach this incredible milestone, and we're so grateful to have you on this journey with us.Please make sure to check us our across all socials too as we share more soon! As if that wasn't exciting enough, Clean Start is also",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "91e8a9cd1100b626c554",
-    "title": "A Letter From Creative Director",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721183340",
-    "source": "Steam 官方公告",
-    "published_at": "2026-06-03T00:14:43+00:00",
-    "collected_at": "2026-11-02T18:28:50+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Hello everyone, As many of you just saw in today’s State of Play, pre-orders for Phantom Blade Zero will open this summer! At the same time, I want to share another update: Phantom Blade Zero will now launch on October 29, 2026, moved from its previous date of September 9, 2026. First of all, I want to offer my sincere apologies to all the players who have been following and supporting us. This was not an easy decision. More than anyone, we understand the expectations our players have placed on ",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "f309b32c089e35781745",
-    "title": "The demo of Food Devils is finally out!",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900955",
-    "source": "Steam 官方公告",
-    "published_at": "2026-06-02T16:15:11+00:00",
-    "collected_at": "2026-11-06T01:30:13+08:00",
-    "game_ids": [
-      "steam-2861730"
-    ],
-    "category": "demo",
-    "summary": "Hello everyone! We're incredibly happy to announce that the public demo of Food Devils is now available on Steam!Food Devils has been in development for 4 years, and this public demo is a huge milestone for us. This small Italian dev team has poured a lot of love, tactical depth, pasta, mozzarella and mandolino into this game, so we genuinely hope you'll have fun with it! 🍕 We also prepared a new trailer showing the main gameplay loop. If you try the demo, please let us know what you think! We'r",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "b3768817d40478413c49",
-    "title": "Caldra: 0.0.3 Update",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530900927",
-    "source": "Steam 官方公告",
-    "published_at": "2026-06-02T16:03:02+00:00",
-    "collected_at": "2026-11-07T00:51:28+08:00",
-    "game_ids": [
-      "steam-4452480"
-    ],
-    "category": "industry",
-    "summary": "Patch Node Bug Fixes - Fixed an issue where localization could sometimes behave incorrectly.",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "8ed55a8a5b564331a5bb",
-    "title": "Build a City Worthy of the Pantheon - Theos: Cities of Myth Revealed Today!",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530898126",
-    "source": "Steam 官方公告",
-    "published_at": "2026-06-01T16:29:23+00:00",
-    "collected_at": "2026-11-15T14:36:29+08:00",
-    "game_ids": [],
-    "category": "announcement",
-    "summary": "Build a Polis worthy of the gods! Rise as the Founder of a promising new city within a reimagined Ancient Greece. Balance the needs of your people against the demands of the Gods as history and myth intertwine in a city-builder inspired by the classics. Wishlist now and prepare to build your pantheon!Theos: Cities of Myth is a loving tribute to the classic titles that established the City Builder genre - brought to you by the team behind Pharaoh: A New Era. We’ve been hard at work creating the f",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "61a4c27bd213f307c096",
-    "title": "May 2026 Update",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530896178",
-    "source": "Steam 官方公告",
-    "published_at": "2026-06-01T00:27:44+00:00",
-    "collected_at": "2026-11-10T15:21:53+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Here are the updates for May. New ingredients and spices have been added The history page has been improved Quick Match is now available New Ingredients and Spices Added! {STEAM_CLAN_IMAGE}/45764409/d4306d41d29f6324169ac799c0b52ec33c5bfdb2.jpg We’ve added new ingredients, including pizzas and pineapples that explode upon impact, and ice cream scoops that connect as you stack them. The existing ingredients now serve as the \"Base Set,\" and you can now play by adding these new items as expansion pa",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "c4889aa8d9332c33ae7b",
-    "title": "Caldra: 0.0.2 Update",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530893411",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-30T12:13:52+00:00",
-    "collected_at": "2026-11-07T00:51:28+08:00",
-    "game_ids": [
-      "steam-4452480"
-    ],
-    "category": "industry",
-    "summary": "Patch NotesImprovementsChanged the maximum turn time for each player: 75 seconds => 90 secondsBug FixesFixed an issue where card positions were misaligned in the modal displayed after a battle endsFixed an issue where the tutorial could become impossible to progressFixed an issue where the effect of “Knight Council Spokesperson” was not applied correctly",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "4c4d85cbcb3d85aa9dcc",
-    "title": "Staff Radio vol.16",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530892750",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-30T02:59:59+00:00",
-    "collected_at": "2026-11-10T15:21:53+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Jinro Burger Radio Vol. 16 is out now! 📻",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "47ab4b05c5fabbc0946b",
-    "title": "Astrobarian™ Trailer 2",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530891867",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-29T17:30:02+00:00",
-    "collected_at": "2026-11-19T15:28:32+08:00",
-    "game_ids": [
-      "steam-3976630"
-    ],
-    "category": "industry",
-    "summary": "Hello,Trailer 2 is out!This trailer took me a while to make, but I am truly satisfied with the end result. One thing I did not plan from the beginning for this trailer was to use my higher-poly models of Cordina, the Arsenic sword and the pistol.Lately, I have been exploring a new art style that could possibly be used in the next game, and wanted to challenge myself by recreating Cordina. Adapting to a new art style takes time, so I wanted to start experimenting early.With this announcement, I w",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "8352e2fe974f248cef3d",
-    "title": "Launder Your Bottom Line with Money Fronts Bonuses",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530890550",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-29T09:55:33+00:00",
-    "collected_at": "2026-11-02T18:28:58+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Give tourists and locals a bird’s-eye view of the Southern San Andreas scenery while taking your money laundering business to new heights with the Higgins Helitours front — available for Hands On Car Wash owners to claim for free at Maze Bank Foreclosures through June 3. Also, keep operations humming with 4X GTA$ and RP on all Money Laundering Missions and 2X Laundered Income at the Hands On Car Wash, and more this week. {STEAM_CLAN_IMAGE}/45517848/42f85eaa5058c7d3804ff51630ea954293447641.jpg AI",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "a4d78c615841e499bf49",
-    "title": "We're Updating Our Demo! | Thinky Direct & Cerebral Puzzle Showcase",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889016",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-28T17:48:03+00:00",
-    "collected_at": "2026-11-07T14:00:29+08:00",
-    "game_ids": [],
-    "category": "demo",
-    "summary": "🔔WISHLIST ESCAPE ACADEMY 2!🔔Hey there Escapists! We don’t have a traditional devlog for you today, however, keep reading, because we have some exciting stuff coming your way regardless.We’re Updating Our Demo! 🤩You heard that right! We’ve been hard at work on Escape Academy 2: Back 2 School since we dropped our demo, and looking back, it’s time for a refresh. Play the NEW Escape Academy 2 DEMO, available NOW on Steam!This demo contains the entire FIRST CHAPTER of Escape Academy 2: Back 2 School.",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "d6db64d70917107e8fc8",
-    "title": "Wallpaper Engine 2.8 - Dynamic Model Generation & Text Rendering Improvements",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530888344",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-28T14:30:31+00:00",
-    "collected_at": "2026-11-02T18:29:02+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "While Wallpaper Engine 2.8 was primarily planned as a maintenance release with various bug fixes and improvements under the hood, we also found the time to add some cool new features which you should soon start seeing on new wallpapers. Switch to 64-bit We have been performing a lot of background maintenance recently to improve performance, fix issues and overall future-proof the app. While some Wallpaper Engine processes were already available in 64-bit, we are now largely moving to 64-bit exec",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "834f5053d53edca8f761",
-    "title": "Build Your Own Trophy Room - Patch 0.4 Teaser #1",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530886145",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-27T17:49:37+00:00",
-    "collected_at": "2026-11-02T18:29:10+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "bc0dbb3c8e29088dfcb2",
-    "title": "Astrobarian Demo 1.1 info and update notes.",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318574576",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-23T21:10:21+00:00",
-    "collected_at": "2026-11-19T15:28:32+08:00",
-    "game_ids": [],
-    "category": "demo",
-    "summary": "What is Version 1.1?Newest version of the demo is upgraded version from the original 1.0 release containing new features and widened gameplay from original vision. Additionally improvements to some visual elements, world layouts and structures has been made.Guiding SignsOriginal version did not feature any in-game tutorials, but now in 1.1 version includes Guiding signs. Example of that, can be seen from screenshot below.Guiding signs are optional in-game guides to help better understand the gam",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "f485e604a05ee262fc79",
-    "title": "Cinema Theater Tycoon Is Approaching the Finish Line...",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318573997",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-23T14:35:48+00:00",
-    "collected_at": "2026-11-11T14:25:50+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Hello! It has now been over two months since the main development of Cinema Theater Tycoon entered its final stage. Since the latest demo patches, we’ve been working tirelessly on optimizations, polishing, and all the small details that will bring the full game experience to life.Over the past few weeks, our focus has been entirely dedicated to one thing: finishing the game in the best possible conditions. And today… we’re finally ready to show you more 👀 Very soon, we’ll be sharing brand-new co",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "5735c4162513cb3b4f04",
-    "title": "BitSummit Announcement!",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800450",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-19T09:13:59+00:00",
-    "collected_at": "2026-11-10T15:21:56+08:00",
-    "game_ids": [],
-    "category": "announcement",
-    "summary": "Annihilated will be exhibited at BitSummit PUNCH, held in Kyoto from May 22–24!A playable demo will be available at our booth — stop by if you're attending!Exhibition Info:BitSummit PUNCHVenue: 3rd Exhibition Hall, 3F, Miyako messe 1F-A10Address：9-1, Okazaki Seishojicho, Sakyo-ku Kyoto-shi, Kyoto, 606-8343, JapanBusiness Day: Fri. May 22Public Days: Sat. May 23 & Sun. May 24BitSummit official website: https://bitsummit.org/en/",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "dd111c03420d99e4ae14",
-    "title": "100,000 Wishlists Reached!",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799885",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-19T02:00:55+00:00",
-    "collected_at": "2026-11-10T15:21:56+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Annihilated has hit 100,000 wishlists! We owe this milestone entirely to your incredible support — thank you so much!Development is now in its final stretch, and the whole team is pushing hard to make sure the July 22 release lives up to your expectations. We hope you'll continue to cheer us on!",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "3b4b7dc2914c56778c72",
-    "title": "Ready to roll on Next Fest",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592798263",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-18T12:06:04+00:00",
-    "collected_at": "2026-11-12T01:17:34+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "What we've been working on Hey, as you know, we're making a dice game where you buy modifiers to turn your d20 into an absolute menace. After the playtest, we decided to improve our stats screen, since it wasn't obvious that there are more maps and enemies to discover in the full game. You can see the before and after images below. AFTER {STEAM_CLAN_IMAGE}/45857220/f6a27ce727578a9f00dbf63511c359e76b5729ce.jpg BEFORE {STEAM_CLAN_IMAGE}/45857220/fd02e1b00136843b8c73ef527fbaed13d529b7e1.jpg Also, o",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "b2ead064bb6ec68b2726",
-    "title": "New Gameplay Trailer & June Next Fest Demo",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502824514",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-12T16:57:36+00:00",
-    "collected_at": "2026-11-02T18:29:00+08:00",
-    "game_ids": [],
-    "category": "demo",
-    "summary": "Hey Nomads,It’s been a while since our last update, but we’re finally here with some exciting news. We know we haven’t shared a Nomad Drive devlog in quite some time, but behind the scenes we’ve been working hard and making a lot of progress. The Nomad Drive: Official Gameplay Overview Trailer is now live on youtube, along with our newly updated Steam store page! If you enjoy the trailer, sharing it on YouTube with friends who might be interested in Nomad Drive would mean a lot to us and would r",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "f5072235e422fbff80f6",
-    "title": "Extra Extra (Credit), read all about it! | Devlog #14",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502816372",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-08T22:00:50+00:00",
-    "collected_at": "2026-11-07T14:00:29+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "🔔WISHLIST ESCAPE ACADEMY 2🔔Hey there, Escapists!Today we’re going a little off-curriculum with something we’re excited to tell you about: Extra Credit. If you’re a teacher’s pet, completionist, or just someone who loves going the extra mile, this blog post is for you!As you may know from our previous blog posts, we have two types of quest systems, which we’ve been referring to as “crit-path” (the main story) and another quest type: The semi-optional, semi-mandatory Extra Credit quest.Let’s get i",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "b5c11cbbc2ad38ca8f77",
-    "title": "Card Collection Simulator - The Demo Is Here!!!",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155580618",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-05T16:27:21+00:00",
-    "collected_at": "2026-11-02T18:29:10+08:00",
-    "game_ids": [
-      "steam-3353700"
-    ],
-    "category": "demo",
-    "summary": "Hello Collectors!Today we have launched the demo for our game! This demo contains quite a bit of content in it. You will find the following:23 player levels with over 10 hours of content4 cabinets with a collection cap of 4000 scoreEvery card that is in the game(as of patch 0.3) Convention Levels 1 and 2 + all their contentWhat is the demo missing that the full version haves?No Master Set Collections No Convention Levels 3 and 4 + all their upgradesNo Convention Owner SystemNo Player Levels 24-3",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "871459e96ea31708e4e0",
-    "title": "A small update for the Deckbuilders Fest!",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155578376",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-04T18:44:04+00:00",
-    "collected_at": "2026-11-04T14:26:48+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Dear Alchemists,Corpus et Spiritus is part of the Deckbuilders Festival that has just started! For the occasion, we pushed a small update to the demo, fixing a talisman that could create an infinite loop.We've been delighted with the reception you gave to our demo, and we thank you all for your feedback! We are working on improving the game and creating more content for the release, and we will keep updating the demo regularly, so be sure to check it out from time to time! ❤️📝 ChangelogQuality o",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "b92e9347e4f608ed9d74",
-    "title": "March 2026 Update",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155570165",
-    "source": "Steam 官方公告",
-    "published_at": "2026-05-01T02:43:22+00:00",
-    "collected_at": "2026-11-10T15:21:53+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "The following updates were implemented in April: Story Mode is now playable from start to finish. The UI for placing ingredients has been improved. New BGM has been added. Story Mode is Now Playable From Start to Finish {STEAM_CLAN_IMAGE}/45764409/adac0b05b3285aad4fa408527d437e71032eb57e.jpg You can now play through the conversation segments along with the cooking segments that take place before and after them. This allows you to learn the game mechanics while following the story of the protagon",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "308e7d9f3ff6228fa75e",
-    "title": "Major Patch 0.3.0 - Master Set Collections",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155566882",
-    "source": "Steam 官方公告",
-    "published_at": "2026-04-30T04:52:48+00:00",
-    "collected_at": "2026-11-02T18:29:10+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Early Access 0.3.0Major ChangesReworked many of the sort filters in the game. You will no longer see cards that cant be used at specific locations.Player Levels 30-39 addedConvention Level 4 is unlocked at player level 30. This area of the con contains several new features. It will also increase the maximum capacity of the convention. Regrade booth added. This booth unlocks at player level 39. You can re-grade grade 6 cards at this booth. Bulk Card Churn booth has been added to convention level ",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "849beb66642fecdf55d8",
-    "title": "Staff Radio vol.15",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155563912",
-    "source": "Steam 官方公告",
-    "published_at": "2026-04-29T02:30:57+00:00",
-    "collected_at": "2026-11-10T15:21:53+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Jinro Burger Radio Vol. 15 is out now! 📻",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [

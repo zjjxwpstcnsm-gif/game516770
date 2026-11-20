@@ -1303,5 +1303,26 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "f311d9ba6601777b567b",
+    "game_id": "steam-5302700",
+    "title": "Sort and Stack! Released now.",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-14T15:24:31+00:00",
+    "first_seen_at": "2026-11-20T15:18:43+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702683733"
+    ],
+    "source_ids": [
+      "09c4c575d71c6822f921"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]

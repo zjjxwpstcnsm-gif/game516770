@@ -1,15 +1,15 @@
 {
   "status": "partial_failure",
-  "generated_at": "2026-11-20T02:26:31+08:00",
+  "generated_at": "2026-11-20T15:19:21+08:00",
   "last_success_at": null,
-  "last_partial_success_at": "2026-11-20T02:26:31+08:00",
+  "last_partial_success_at": "2026-11-20T15:19:21+08:00",
   "source_status": [
     {
       "id": "steam_discovery",
       "name": "Steam 动态游戏发现",
       "status": "ok",
       "records": 23,
-      "checked_at": "2026-11-20T02:25:11+08:00",
+      "checked_at": "2026-11-20T15:18:43+08:00",
       "url": "https://store.steampowered.com/api/featuredcategories",
       "error": null
     },
@@ -17,8 +17,8 @@
       "id": "steam_news",
       "name": "Steam 官方公告",
       "status": "ok",
-      "checked_at": "2026-11-20T02:25:25+08:00",
-      "records": 41,
+      "checked_at": "2026-11-20T15:18:57+08:00",
+      "records": 24,
       "url": "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/",
       "error": null
     },
@@ -26,7 +26,7 @@
       "id": "playstation",
       "name": "PlayStation Blog",
       "status": "ok",
-      "checked_at": "2026-11-20T02:25:25+08:00",
+      "checked_at": "2026-11-20T15:18:58+08:00",
       "records": 10,
       "url": "https://blog.playstation.com/feed/",
       "error": null
@@ -35,7 +35,7 @@
       "id": "gematsu",
       "name": "Gematsu",
       "status": "ok",
-      "checked_at": "2026-11-20T02:25:26+08:00",
+      "checked_at": "2026-11-20T15:18:58+08:00",
       "records": 20,
       "url": "https://www.gematsu.com/feed",
       "error": null
@@ -44,7 +44,7 @@
       "id": "pcgamer",
       "name": "PC Gamer",
       "status": "ok",
-      "checked_at": "2026-11-20T02:25:26+08:00",
+      "checked_at": "2026-11-20T15:18:59+08:00",
       "records": 40,
       "url": "https://www.pcgamer.com/rss/",
       "error": null
@@ -53,7 +53,7 @@
       "id": "steam_details_2358720",
       "name": "黑神话：悟空 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-20T02:25:10+08:00",
+      "checked_at": "2026-11-20T15:18:43+08:00",
       "records": 1,
       "url": "https://store.steampowered.com/app/2358720/",
       "error": null
@@ -62,142 +62,142 @@
       "id": "steam_reviews_2358720",
       "name": "黑神话：悟空 评价数据",
       "status": "error",
-      "checked_at": "2026-11-20T02:25:10+08:00",
+      "checked_at": "2026-11-20T15:18:43+08:00",
       "records": 0,
       "url": "https://store.steampowered.com/appreviews/2358720",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_4952350",
-      "name": "Defense The Drone 官方日期",
+      "id": "steam_details_5381000",
+      "name": "白雪公主与矮人奴隶 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-20T02:25:10+08:00",
+      "checked_at": "2026-11-20T15:18:43+08:00",
       "records": 1,
-      "url": "https://store.steampowered.com/app/4952350/",
+      "url": "https://store.steampowered.com/app/5381000/",
       "error": null
     },
     {
-      "id": "steam_reviews_4952350",
-      "name": "Defense The Drone 评价数据",
+      "id": "steam_reviews_5381000",
+      "name": "白雪公主与矮人奴隶 评价数据",
       "status": "error",
-      "checked_at": "2026-11-20T02:25:10+08:00",
+      "checked_at": "2026-11-20T15:18:43+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/4952350",
+      "url": "https://store.steampowered.com/appreviews/5381000",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_4435640",
-      "name": "Uninitialized 官方日期",
+      "id": "steam_details_4076370",
+      "name": "ICU Anomaly 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-20T15:18:43+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/4076370/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_4076370",
+      "name": "ICU Anomaly 评价数据",
       "status": "error",
-      "checked_at": "2026-11-20T02:25:10+08:00",
+      "checked_at": "2026-11-20T15:18:43+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/app/4435640/",
+      "url": "https://store.steampowered.com/appreviews/4076370",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_2818110",
+      "name": "喵在江湖 官方日期",
+      "status": "ok",
+      "checked_at": "2026-11-20T15:18:43+08:00",
+      "records": 1,
+      "url": "https://store.steampowered.com/app/2818110/",
+      "error": null
+    },
+    {
+      "id": "steam_reviews_2818110",
+      "name": "喵在江湖 评价数据",
+      "status": "error",
+      "checked_at": "2026-11-20T15:18:43+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/appreviews/2818110",
+      "error": "JSONDecodeError"
+    },
+    {
+      "id": "steam_details_5459600",
+      "name": "Sort The Plushie Store Demo 官方日期",
+      "status": "error",
+      "checked_at": "2026-11-20T15:18:43+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/app/5459600/",
       "error": "ValueError"
     },
     {
-      "id": "steam_reviews_4435640",
-      "name": "Uninitialized 评价数据",
+      "id": "steam_reviews_5459600",
+      "name": "Sort The Plushie Store Demo 评价数据",
       "status": "error",
-      "checked_at": "2026-11-20T02:25:10+08:00",
+      "checked_at": "2026-11-20T15:18:43+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/4435640",
+      "url": "https://store.steampowered.com/appreviews/5459600",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_391220",
-      "name": "Rise of the Tomb Raider™ 官方日期",
-      "status": "ok",
-      "checked_at": "2026-11-20T02:25:10+08:00",
-      "records": 1,
-      "url": "https://store.steampowered.com/app/391220/",
-      "error": null
+      "id": "steam_details_5470740",
+      "name": "The Eggsortist Demo 官方日期",
+      "status": "error",
+      "checked_at": "2026-11-20T15:18:43+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/app/5470740/",
+      "error": "ValueError"
     },
     {
-      "id": "steam_reviews_391220",
-      "name": "Rise of the Tomb Raider™ 评价数据",
+      "id": "steam_reviews_5470740",
+      "name": "The Eggsortist Demo 评价数据",
       "status": "error",
-      "checked_at": "2026-11-20T02:25:10+08:00",
+      "checked_at": "2026-11-20T15:18:43+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/391220",
+      "url": "https://store.steampowered.com/appreviews/5470740",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_5130510",
-      "name": "Gemwise 官方日期",
-      "status": "ok",
-      "checked_at": "2026-11-20T02:25:10+08:00",
-      "records": 1,
-      "url": "https://store.steampowered.com/app/5130510/",
-      "error": null
+      "id": "steam_details_2966960",
+      "name": "Wild Americas: Land Rush 官方日期",
+      "status": "error",
+      "checked_at": "2026-11-20T15:18:43+08:00",
+      "records": 0,
+      "url": "https://store.steampowered.com/app/2966960/",
+      "error": "ValueError"
     },
     {
-      "id": "steam_reviews_5130510",
-      "name": "Gemwise 评价数据",
+      "id": "steam_reviews_2966960",
+      "name": "Wild Americas: Land Rush 评价数据",
       "status": "error",
-      "checked_at": "2026-11-20T02:25:10+08:00",
+      "checked_at": "2026-11-20T15:18:43+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/5130510",
+      "url": "https://store.steampowered.com/appreviews/2966960",
       "error": "JSONDecodeError"
     },
     {
-      "id": "steam_details_5300980",
-      "name": "Webbound 官方日期",
+      "id": "steam_details_5302700",
+      "name": "Sort and Stack! 官方日期",
       "status": "ok",
-      "checked_at": "2026-11-20T02:25:10+08:00",
+      "checked_at": "2026-11-20T15:18:43+08:00",
       "records": 1,
-      "url": "https://store.steampowered.com/app/5300980/",
+      "url": "https://store.steampowered.com/app/5302700/",
       "error": null
     },
     {
-      "id": "steam_reviews_5300980",
-      "name": "Webbound 评价数据",
+      "id": "steam_reviews_5302700",
+      "name": "Sort and Stack! 评价数据",
       "status": "error",
-      "checked_at": "2026-11-20T02:25:10+08:00",
+      "checked_at": "2026-11-20T15:18:43+08:00",
       "records": 0,
-      "url": "https://store.steampowered.com/appreviews/5300980",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_3471360",
-      "name": "忒伊亚：灵魂之塔 官方日期",
-      "status": "ok",
-      "checked_at": "2026-11-20T02:25:10+08:00",
-      "records": 1,
-      "url": "https://store.steampowered.com/app/3471360/",
-      "error": null
-    },
-    {
-      "id": "steam_reviews_3471360",
-      "name": "忒伊亚：灵魂之塔 评价数据",
-      "status": "error",
-      "checked_at": "2026-11-20T02:25:10+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/appreviews/3471360",
-      "error": "JSONDecodeError"
-    },
-    {
-      "id": "steam_details_3984420",
-      "name": "Low Earth Orbit Adventures 官方日期",
-      "status": "ok",
-      "checked_at": "2026-11-20T02:25:10+08:00",
-      "records": 1,
-      "url": "https://store.steampowered.com/app/3984420/",
-      "error": null
-    },
-    {
-      "id": "steam_reviews_3984420",
-      "name": "Low Earth Orbit Adventures 评价数据",
-      "status": "error",
-      "checked_at": "2026-11-20T02:25:10+08:00",
-      "records": 0,
-      "url": "https://store.steampowered.com/appreviews/3984420",
+      "url": "https://store.steampowered.com/appreviews/5302700",
       "error": "JSONDecodeError"
     },
     {
       "id": "benchmark",
       "name": "沪深300市场对照",
       "status": "ok",
-      "checked_at": "2026-11-20T02:25:43+08:00",
+      "checked_at": "2026-11-20T15:19:15+08:00",
       "records": 939,
       "url": "https://quotes.sina.cn/cn/api/jsonp_v2.php/var%20_data=/CN_MarketDataService.getKLineData",
       "error": null
@@ -205,44 +205,44 @@
     {
       "id": "holdings_516770",
       "name": "游戏ETF华泰柏瑞持仓",
-      "status": "error",
-      "checked_at": "2026-11-20T02:26:05+08:00",
+      "status": "ok",
+      "checked_at": "2026-11-20T15:19:20+08:00",
       "records": 15,
       "url": "https://fundf10.eastmoney.com/ccmx_516770.html",
-      "error": "ConnectTimeout"
+      "error": null
     },
     {
       "id": "prices_516770",
       "name": "游戏ETF华泰柏瑞行情",
       "status": "ok",
-      "checked_at": "2026-11-20T02:25:10+08:00",
-      "records": 939,
+      "checked_at": "2026-11-20T15:18:43+08:00",
+      "records": 940,
       "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516770&klt=101&fqt=0&beg=20230101&end=20500101",
       "error": null
     },
     {
       "id": "holdings_159869",
       "name": "游戏ETF华夏持仓",
-      "status": "error",
-      "checked_at": "2026-11-20T02:26:28+08:00",
+      "status": "ok",
+      "checked_at": "2026-11-20T15:19:20+08:00",
       "records": 10,
       "url": "https://fundf10.eastmoney.com/ccmx_159869.html",
-      "error": "ConnectTimeout"
+      "error": null
     },
     {
       "id": "prices_159869",
       "name": "游戏ETF华夏行情",
       "status": "ok",
-      "checked_at": "2026-11-20T02:25:10+08:00",
-      "records": 939,
-      "url": "https://quotes.sina.cn/cn/api/jsonp_v2.php/var%20_data=/CN_MarketDataService.getKLineData?symbol=sz159869&scale=240&ma=no&datalen=1023",
-      "error": "Eastmoney: RemoteProtocolError"
+      "checked_at": "2026-11-20T15:18:43+08:00",
+      "records": 940,
+      "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=0.159869&klt=101&fqt=0&beg=20230101&end=20500101",
+      "error": null
     },
     {
       "id": "holdings_516010",
       "name": "游戏ETF国泰持仓",
       "status": "ok",
-      "checked_at": "2026-11-20T02:26:31+08:00",
+      "checked_at": "2026-11-20T15:19:21+08:00",
       "records": 28,
       "url": "https://fundf10.eastmoney.com/ccmx_516010.html",
       "error": null
@@ -251,10 +251,10 @@
       "id": "prices_516010",
       "name": "游戏ETF国泰行情",
       "status": "ok",
-      "checked_at": "2026-11-20T02:25:10+08:00",
-      "records": 939,
-      "url": "https://quotes.sina.cn/cn/api/jsonp_v2.php/var%20_data=/CN_MarketDataService.getKLineData?symbol=sh516010&scale=240&ma=no&datalen=1023",
-      "error": "Eastmoney: RemoteProtocolError"
+      "checked_at": "2026-11-20T15:18:43+08:00",
+      "records": 940,
+      "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516010&klt=101&fqt=0&beg=20230101&end=20500101",
+      "error": null
     }
   ],
   "strategy_version": "1.0.0-heuristic",
@@ -271,9 +271,9 @@
     "attempts": 0
   },
   "last_ai_success_at": null,
-  "latest_market_date": "2026-11-19",
+  "latest_market_date": "2026-11-20",
   "market_calendar_status": "已核验 2026 年上交所休市表；跨年及缺失应完成交易日时暂停判断",
   "build_status": "production_build_passed",
-  "build_commit": "8700bef851c23f7a481ab2e9b0be78b56a0ccbb4",
-  "build_run_url": "https://github.com/zjjxwpstcnsm-gif/game516770/actions/runs/44587493831"
+  "build_commit": "4a923fce3c9616029217aec3837e7b04ae71287c",
+  "build_run_url": "https://github.com/zjjxwpstcnsm-gif/game516770/actions/runs/44693967958"
 }
