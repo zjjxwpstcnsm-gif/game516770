@@ -9024,7 +9024,7 @@
     "session_close": "15:00",
     "limitation": "按已公布全年休市表；临时停市需另外核验，跨年自动暂停"
   },
-  "benchmark_verified": false,
+  "benchmark_verified": true,
   "benchmark": {
     "status": "ok",
     "code": "000300",
@@ -9033,7 +9033,7 @@
     "source": "Sina",
     "source_url": "https://quotes.sina.cn/cn/api/jsonp_v2.php/var%20_data=/CN_MarketDataService.getKLineData",
     "adjustment": "price_index_not_total_return",
-    "as_of": "2026-11-19",
+    "as_of": "2026-11-20",
     "prices": [
       {
         "date": "2023-01-03",
@@ -12790,6 +12790,10 @@
       {
         "date": "2026-11-19",
         "close": 3984.84
+      },
+      {
+        "date": "2026-11-20",
+        "close": 3954.565
       }
     ],
     "limitation": "宽基市场对照，并非 ETF 跟踪的动漫游戏指数；指数价格收益不含股息"
