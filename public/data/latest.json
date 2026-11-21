@@ -1,9 +1,351 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-21T01:55:17+08:00",
+  "generated_at": "2026-11-21T15:12:28+08:00",
   "timezone": "Asia/Shanghai",
   "data_cutoff_time": "2026-11-20T15:00:00+08:00",
   "news": [
+    {
+      "id": "c621be4e89b0eb794695",
+      "title": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists",
+      "source": "PC Gamer",
+      "published_at": "2026-11-21T00:46:24+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Kodak Black and The Vault nightclub each have their own unique playlist.",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "643438fd2d14a74f302f",
+      "title": "I didn't realize Etsy was selling bridges now",
+      "url": "https://www.pcgamer.com/software/ai/i-didnt-realize-etsy-was-selling-bridges-now",
+      "source": "PC Gamer",
+      "published_at": "2026-11-21T00:00:36+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "The company says its new generative AI training agreement will only be used for good. Why would anyone believe that?",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "a819020e520d257e0710",
+      "title": "Despite GTA 6's huge map, it only takes about 4 minutes to fly across it in a plane",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-long-to-fly-across-map",
+      "source": "PC Gamer",
+      "published_at": "2026-11-20T22:34:25+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Someone had to do it.",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "cbd75297402b063b718a",
+      "title": "Florida Joker gets his wish: He's a 'special voice actor' in Grand Theft Auto 6",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/florida-joker-gets-his-wish-hes-a-special-voice-actor-in-grand-theft-auto-6",
+      "source": "PC Gamer",
+      "published_at": "2026-11-20T22:02:48+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Looks like Lawrence Sullivan settled his differences with Rockstar.",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "42cc8e4cdd5b31e371b2",
+      "title": "Try this GTA 6 movement speed setting to make Jason and Lucia walk faster",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-movement-speed-setting-walk-faster",
+      "source": "PC Gamer",
+      "published_at": "2026-11-20T21:52:04+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Pep up their step.",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "42ba1df75267b9c3c4a6",
+      "title": "1666: Amsterdam Early Access first major update launches in December",
+      "url": "https://www.gematsu.com/2026/11/1666-amsterdam-early-access-first-major-update-launches-in-december",
+      "source": "Gematsu",
+      "published_at": "2026-11-20T21:13:37+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "release",
+      "summary": "Panache Digital Games will release the first major content update for the Early Access version &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "e487e71951e3aa00d9b2",
+      "title": "BrokenLore: DON’T PLAY adds Switch 2 version",
+      "url": "https://www.gematsu.com/2026/11/brokenlore-dont-play-adds-switch-2-version",
+      "source": "Gematsu",
+      "published_at": "2026-11-20T21:06:51+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "First-person psychological horror game BrokenLore: DON&#8217;T PLAY will launch for Switch 2 alongside its previously &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "a6fca4222e679c886235",
+      "title": "Third-person survival horror game Ugly Within to be published by Serafini Productions for PS5, Xbox Series, Switch 2, and PC",
+      "url": "https://www.gematsu.com/2026/11/third-person-survival-horror-game-ugly-within-to-be-published-by-serafini-productions-for-ps5-xbox-series-switch-2-and-pc",
+      "source": "Gematsu",
+      "published_at": "2026-11-20T21:06:26+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Serafini Productions will publish Yamaitachi-developed third-person survival horror game Ugly Within when it launches or &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "d58de462cd2abc39e03c",
+      "title": "BrokenLore: MIKI-CHAN adds Switch 2 version",
+      "url": "https://www.gematsu.com/2026/11/brokenlore-miki-chan-adds-switch-2-version",
+      "source": "Gematsu",
+      "published_at": "2026-11-20T21:01:33+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "First-person psychological horror game BrokenLore: MIKI-CHAN will launch for Switch 2 alongside its previously announced &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "9c0d3e31b0de85b32a5d",
+      "title": "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch",
+      "source": "PC Gamer",
+      "published_at": "2026-11-20T20:41:34+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "release",
+      "summary": "It's easier to make successful games when you hold onto the people who know how.",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "347b40f29221b9afcb94",
+      "title": "PSYCHO DEAD launches April 15, 2027",
+      "url": "https://www.gematsu.com/2026/11/psycho-dead-launches-april-15-2027",
+      "source": "Gematsu",
+      "published_at": "2026-11-20T20:36:46+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "release",
+      "summary": "Third-person survival horror game PSYCHO DEAD will launch or PlayStation 5 and PC via Steam, &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "3407311e0c904feee410",
+      "title": "echograph demo now available",
+      "url": "https://www.gematsu.com/2026/11/echograph-demo-now-available",
+      "source": "Gematsu",
+      "published_at": "2026-11-20T20:18:17+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "demo",
+      "summary": "A demo for ghost photography survival horror game echograph is now available for PC via &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "25d73000d90e5cd6cffa",
+      "title": "Grand Theft Auto 6 earned $3.79 billion on launch day",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-earned-usd3-79-billion-on-launch-day",
+      "source": "PC Gamer",
+      "published_at": "2026-11-20T19:51:48+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "release",
+      "summary": "Preorders of GTA 6 totalled approximately 32.5 million copies.",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "4e398276cb506dfd0806",
+      "title": "Mr. Magpie’s Harmless Card Game launches February 18, 2027",
+      "url": "https://www.gematsu.com/2026/11/mr-magpies-harmless-card-game-launches-february-18-2027",
+      "source": "Gematsu",
+      "published_at": "2026-11-20T19:50:03+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "release",
+      "summary": "Surreal corporate horror deckbuilder Mr. Magpie&#8217;s Harmless Card Game will launch for PlayStation 5, Xbox &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "fc0b073c5ec450f3073d",
+      "title": "Grand Theft Auto VI tops $3.79 billion in day one retail sales after 32.5 million pre-orders",
+      "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-tops-3-79-billion-in-day-one-retail-sales-after-32-5-million-pre-orders",
+      "source": "Gematsu",
+      "published_at": "2026-11-20T19:35:15+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "sales",
+      "summary": "Grand Theft Auto VI achieved $3.79 billion in day one retail sales after selling 32.5 &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "79142fbfe9042769ff55",
+      "title": "Baptiste delayed to March 25, 2027",
+      "url": "https://www.gematsu.com/2026/11/baptiste-delayed-to-march-25-2027",
+      "source": "Gematsu",
+      "published_at": "2026-11-20T19:09:11+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "delay",
+      "summary": "Developer Digital Dreams, and publisher and developer Firenut Games have delayed psychological horror game Baptiste &hellip;",
+      "verification_status": "reported",
+      "credibility_score": 80,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "60eea48175c53272b8d1",
+      "title": "Etsy sellers are closing their stores in response to the platform's new AI training policy",
+      "url": "https://www.pcgamer.com/software/ai/etsy-sellers-are-closing-their-stores-in-response-to-the-platforms-new-ai-training-policy",
+      "source": "PC Gamer",
+      "published_at": "2026-11-20T19:02:52+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "The platform says the new AI training policy is aimed solely at improving storefronts and tools, but not everyone is buying it.",
+      "verification_status": "reported",
+      "credibility_score": 75,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "92aeb88cdb90c2995de3",
+      "title": "Official PlayStation Podcast Episode 553: Peak Gaming",
+      "url": "https://blog.playstation.com/2026/11/20/official-playstation-podcast-episode-553-peak-gaming",
+      "source": "PlayStation Blog",
+      "published_at": "2026-11-20T18:28:32+00:00",
+      "collected_at": "2026-11-21T15:12:06+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Email us at PSPodcast@sony.com! Subscribe via Apple Podcasts, Spotify, or download here Hey, y&#8217;all! Kristen and Tim dive into what they&#8217;ve been playing this week and favorite holiday dishes, while celebrating the launch of Grand Theft Auto VI. Stuff We Talked About The Cast Thanks to Dormilón for our rad theme song and show music. [&#8230;]",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
     {
       "id": "84d79c20a58ad75e07c1",
       "title": "Share of the Week: Texture",
@@ -366,6 +708,25 @@
       "summary_language": null
     },
     {
+      "id": "3b82d3b8ce0d2895973e",
+      "title": "Crawling Desktop Pet 1.0.8: Feather Customization",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110430996",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-20T06:15:36+00:00",
+      "collected_at": "2026-11-21T15:12:02+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "AddedAdded feather customization options.ImprovementsOptimized memory usage and improved overall performance.",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "87cea7b9f44726a1aa2f",
       "title": "Dual Orb Collection announced for Switch",
       "url": "https://www.gematsu.com/2026/11/dual-orb-collection-announced-for-switch",
@@ -391,7 +752,9 @@
       "source": "Gematsu",
       "published_at": "2026-11-20T04:18:18+00:00",
       "collected_at": "2026-11-20T15:18:58+08:00",
-      "game_ids": [],
+      "game_ids": [
+        "steam-5537900"
+      ],
       "category": "industry",
       "summary": "Publisher Aniplex and developer TYPE-MOON have released visual novel Witch on the Holy Night for &hellip;",
       "verification_status": "reported",
@@ -657,7 +1020,9 @@
       "source": "PC Gamer",
       "published_at": "2026-11-19T21:24:15+00:00",
       "collected_at": "2026-11-20T15:18:59+08:00",
-      "game_ids": [],
+      "game_ids": [
+        "steam-5537900"
+      ],
       "category": "industry",
       "summary": "Here's what's true and what isn't true about these misleading Grand Theft Auto 6 claims.",
       "verification_status": "reported",
@@ -1312,6 +1677,44 @@
         "仅使用公开订阅摘要，未存储网页全文"
       ],
       "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "2e56a3711dcc1a7408d1",
+      "title": "v1.2.0 Version Update",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110427511",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-19T08:25:36+00:00",
+      "collected_at": "2026-11-21T15:11:56+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Expanded the OPTION UI interfaceAdded a feature that allows the map resolution mode to be adjusted to super resolution modeThe super resolution map mode will cause a significant performance impactPlease enable it with cautionAn option to edit sound effect volume has been added to the in-game-level ESC menuAdded a music preference menu for riots (inside OPTION in the main game menu)Now you can use it to play only the music you likeFixed some bugs that existed in the music system",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "e0e33fd4edf230bc55fd",
+      "title": "Crawling Desktop Pet 1.0.7: Layers & Joint Scaling",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110427445",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-19T08:02:30+00:00",
+      "collected_at": "2026-11-21T15:12:02+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "AddedAdded customizable layer ordering for individual body parts.Added joint length scaling.Added a Level 5 gift box shop upgrade.FixesFixed an issue where some wing parameters could be reset after adjusting the wings individually.",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
       "summary_status": "source_excerpt",
       "summary_language": null
     },
@@ -3182,6 +3585,25 @@
       "summary_language": null
     },
     {
+      "id": "17e3bf6bc4f65b4f169c",
+      "title": "Crawling Desktop Pet 1.0.6: Eye Spacing & Trails",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702693179",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-17T10:56:25+00:00",
+      "collected_at": "2026-11-21T15:12:02+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "AddedAdded customizable eye spacing.Added eye trail effects.FixesFixed an issue where some interface panels could occasionally fail to open.Fixed an issue where the toy ball could become invisible when certain pets entered the play area.",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "3726d21893a7b8620d0d",
       "title": "November 17 Update",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702693064",
@@ -3267,6 +3689,25 @@
       "game_ids": [],
       "category": "industry",
       "summary": "New -Boat horn! Hold E (or Right Bumper) to honk. You can rebind it in Settings. -Travelling waves now splash when they hit your boat. -New sound when you drop or throw a fish. -“Quit” in the pause menu is now “Save & Quit”, so it’s clear your progress is saved. Fish & Crates -Fish no longer pop out of crates after the “all sorted” hop. -Big fish now shrink further in crates, so a full haul fits. -Many reef fish are smaller, especially angelfish, butterflyfish, tangs, groupers and the Skunk Tile",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "6c934890361dd536243f",
+      "title": "Now Available for Linux and MacOS!* Prestige Rearranged! Hover to Hold! & More!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702692338",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-17T05:36:10+00:00",
+      "collected_at": "2026-11-21T15:11:54+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Now available for Linux and MacOS!*You can now play the game on Linux (incl. the Steam Deck) and on MacOS devices!*Disclaimer: Since we do not own any of these devices ourselves, we can't verify how well they actually work. Please let us know if you encounter any game breaking issues with them HERE and we'll work on fixing them asap!Game Changes and AdditionsRearranged prestige upgrades to reveal some of the more exciting ones sooner.Added a Hold to Hover option that automatically holds any of t",
       "verification_status": "verified",
       "credibility_score": 95,
       "limitations": [
@@ -4366,6 +4807,25 @@
         "仅使用公开订阅摘要，未存储网页全文"
       ],
       "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "d474b6433d76f09de1a5",
+      "title": "Crawling Desktop Pet 1.0.5: Wing Editing & Chat History",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702686050",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-15T11:39:18+00:00",
+      "collected_at": "2026-11-21T15:12:02+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "AddedAdded a multiplayer chat history panel.Added a button for synchronizing parameters between the left and right eyes.ImprovementsImproved wing membrane customization. Wing membranes can now be edited using individual grid points.FixesFixed an issue where the chat window could not be closed after being opened.Fixed an issue where some flying limb customization options did not work correctly for arthropod pets.",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
       "summary_status": "source_excerpt",
       "summary_language": null
     },
@@ -5596,6 +6056,25 @@
       "summary_language": null
     },
     {
+      "id": "74ec3b7ca8876df2dbce",
+      "title": "Crawling Desktop Pet Update 1.0.4: Small Update and Patch",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144187118",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-13T12:48:15+00:00",
+      "collected_at": "2026-11-21T15:12:02+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "AddedAdded buttons for synchronizing parameters between symmetrical limbs and wings.FixesFixed an issue where wing shapes could not be changed.Fixed an issue where some parameters could be reset after restarting the game.Fixed a visual issue that could occur when switching between flight and other previews in the customization interface.",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "948f9fd45f3baa6a84e1",
       "title": "AMD has patched its SSD-eating GPU driver bug with an optional Adrenalin update for RX 7000-series graphics cards and above",
       "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-patched-its-ssd-eating-gpu-driver-bug-with-an-optional-adrenalin-update-for-rx-7000-series-graphics-cards-and-above",
@@ -5778,6 +6257,25 @@
       "game_ids": [],
       "category": "industry",
       "summary": "Fellow Greymanes, Here are the fixes and improvements that have been added this patch. Major UpdatesThis patch adds the Charting the Unknown DLC to the Apple Mac platform, along with various bug fixes and stability improvements. Update ScheduleThe patch is rolling out across all platforms. Please refer to the Update section below to see the state of the patch for each platform. UpdateSteam (PC): Patch available now Steam (Mac): Patch available now Patch Details New AdditionsCharting the Unknown ",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "df65d34199500711b2b4",
+      "title": "Crawling Desktop Pet Update 1.0.3: Dynamic Pet Shadows",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144185915",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-13T05:40:42+00:00",
+      "collected_at": "2026-11-21T15:12:02+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "AddedAdded pet shadows that dynamically change while flying. This option can be found under Customize > Overall > Shadow.Added length adjustments for individual wing finger bone segments.Added a custom flight preview.Added individual customization options for pets with multiple wings.Added a transparency setting for fire-breathing effects.FixesFixed an issue that could occur when right-clicking a pet to enter customization mode while using Transparent Window Mode.Fixed an issue where pets would ",
       "verification_status": "verified",
       "credibility_score": 95,
       "limitations": [
@@ -8124,6 +8622,25 @@
       "summary_language": null
     },
     {
+      "id": "20fc998e0332964fee83",
+      "title": "Crawling Desktop Pet Update 1.0.2: New Features and Bug Fixes",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144178013",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-11T10:02:43+00:00",
+      "collected_at": "2026-11-21T15:12:02+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "AddedAdded a flying action.Added an automatic charging upgrade.AdjustmentsAdjusted the maximum interval for automatic feeding.Improved upgrade descriptions.Adjusted the layer ordering of the wing finger bones.Adjusted the layer ordering between the wings and the outer spine.FixesFixed an issue where eye colors could not be saved.Fixed an issue where some key bindings displayed only numbers instead of the corresponding keys.Fixed the feed selection dropdown display.Fixed the appearance of the but",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "0b1ed1c2380cd759a5a1",
       "title": "Black Forest Games splits from THQ Nordic",
       "url": "https://www.gematsu.com/2026/11/black-forest-games-splits-from-thq-nordic",
@@ -8215,6 +8732,25 @@
         "仅使用公开订阅摘要，未存储网页全文"
       ],
       "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "81353e9a9c71ba446c7f",
+      "title": "November 11 Hotfix #1",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144177582",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-11T07:31:23+00:00",
+      "collected_at": "2026-11-21T15:11:58+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "1.Increased the chance of obtaining equipment from stage-clear reward chests. 2.All weapons and equipment are now unlocked by default and can be obtained without tech-tree unlocks. 3.Reduced buildings’ damage resistance in Breakthrough mode to lower the difficulty.",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
       "summary_status": "source_excerpt",
       "summary_language": null
     },
@@ -9576,6 +10112,25 @@
       "summary_language": null
     },
     {
+      "id": "cf4616413eef96bb95bf",
+      "title": "Minor Bugfix",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358588",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-10T08:56:20+00:00",
+      "collected_at": "2026-11-21T15:11:54+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Fixed an audio bug where a sound in the prestige menu was playing even when muted. Thanks for reporting it! Finding any other issues? Report them here!",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "b04bb9ba4452f0df1efc",
       "title": "The House Dreams Along With Them Is Out Now!",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643358449",
@@ -9631,6 +10186,25 @@
         "仅使用公开订阅摘要，未存储网页全文"
       ],
       "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "b94e8168f7d0bbaae0e7",
+      "title": "Crawling Desktop Pet 1.0.1 — New Features and Fixes",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643357964",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-10T03:47:31+00:00",
+      "collected_at": "2026-11-21T15:12:02+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "New FeaturesAdded ambient sound components.Added options to customize the food type and feeding interval for auto-feeding.Added a preview button for custom fire-breath content.Added crystal synthesis upgrades.Added adjustable wing-root spacing and connection length, plus an option for the wing membrane to follow spine bends.Added a toggle for the repel icon.ImprovementsPet size and follow-speed settings now apply to all pets. Custom settings can still be adjusted individually.Reorganized the dis",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
       "summary_status": "source_excerpt",
       "summary_language": null
     },
@@ -9798,6 +10372,25 @@
       "game_ids": [],
       "category": "industry",
       "summary": "Bug FixesHEX AMULET had no effect. It now boosts magic skill power, the duration of fields and placed objects, and toggle caps by 1.5x.ORDER AMULET now also reduces HP costs and toggle activation/upkeep costs.The ELITE, HARVEST and ASCETIC modifiers did not work as described. Fixed.BLINK now also shortens boss attack telegraphs (x0.7).With SURE KILL, the follow-up hit could break the stun it had just applied. Fixed.Missing with DAGGER TOSS consumed your “next attack” effect (such as Venom Coat).",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "121ad42496b6a29ad25c",
+      "title": "patch 1.0.5!!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643357397",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-09T23:23:02+00:00",
+      "collected_at": "2026-11-21T15:12:04+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "ImprovementsMade stickers a little easier to apply.",
       "verification_status": "verified",
       "credibility_score": 95,
       "limitations": [
@@ -10171,6 +10764,25 @@
       "summary_language": null
     },
     {
+      "id": "814d9e2e5332ba2f36fb",
+      "title": "patch 1.0.4!!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355721",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-09T14:45:40+00:00",
+      "collected_at": "2026-11-21T15:12:04+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "ChangesReplaced the background music to better suit the game.Bug fixesFixed a bug that prevented the background music from automatically moving on to the next track.",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "50c0f45b24dd61ae0605",
       "title": "Sea of Remnants ‘Dawnbreaker’ closed beta test begins December 3",
       "url": "https://www.gematsu.com/2026/11/sea-of-remnants-dawnbreaker-closed-beta-test-begins-december-3",
@@ -10205,6 +10817,25 @@
         "仅使用公开订阅摘要，未存储网页全文"
       ],
       "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "375d7a85eebd5a94294e",
+      "title": "patch 1.0.3!!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643355354",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-09T13:01:54+00:00",
+      "collected_at": "2026-11-21T15:12:04+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "New additionsAdded Swedish, Danish, Norwegian, and Finnish.Bug fixesFixed an issue where stickers would sometimes go missing.Optimized the game.",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
       "summary_status": "source_excerpt",
       "summary_language": null
     },
@@ -10363,6 +10994,46 @@
       "summary_language": null
     },
     {
+      "id": "da87690a64436b107c5b",
+      "title": "Hello ! Everyone",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354896",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-09T10:10:42+00:00",
+      "collected_at": "2026-11-21T15:11:56+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Welcome to the Armed Prisoner series !Although this series is still quite rudimentary at the momentI will do my utmost to update itJust like the music it features, which is equally awe-inspiring !Discord Community Invitation https://discord.gg/jKcQTSTGaFArmed Prisoner Independent Game SeriesIt originally started as a small mod idea I had in another game : \"Prison Architect\"I really like the game Prison ArchitectHowever, due to some limitations in the underlying logic of \"Prison Architect\"I could",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "7ffbfd9654b4ea1346f9",
+      "title": "Progress98 Available Now!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354871",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-09T09:59:26+00:00",
+      "collected_at": "2026-11-21T15:11:54+08:00",
+      "game_ids": [
+        "steam-4863540"
+      ],
+      "category": "industry",
+      "summary": "You can now buy Progress98 with a 40% launch discount! Let us know what you think of our little game!Thanks to everyone who supported us on our journey!! PS: Coming across any issues? Please let us know here!",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "763801d93831536c8748",
       "title": "Update #2",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354826",
@@ -10517,6 +11188,25 @@
       "summary_language": null
     },
     {
+      "id": "984cfa49d19beeadbabc",
+      "title": "November 9 Hotfix #1",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354317",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-09T05:36:22+00:00",
+      "collected_at": "2026-11-21T15:11:58+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "1.Fixed UI layering issues. 2.Fixed overlapping item slots in the shop interface. 3.Fixed an intermittent issue that could block progress during certain tutorial steps.",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "0344ed33e49c0e120a69",
       "title": "Lead designer Bruce Nesmith says Skyrim was a hit because it was built on institutional knowledge from Oblivion",
       "url": "https://www.pcgamer.com/games/the-elder-scrolls/lead-designer-bruce-nesmith-says-skyrim-was-a-hit-because-it-was-built-on-institutional-knowledge-from-oblivion",
@@ -10532,6 +11222,25 @@
         "仅使用公开订阅摘要，未存储网页全文"
       ],
       "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "84b88939579482c0c611",
+      "title": "Meow Field is out now on Steam!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643354241",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-09T04:34:22+00:00",
+      "collected_at": "2026-11-21T15:11:58+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Meow Field is out now on Steam! It’s my first solo indie game. Cats and dogs fight on your desktop while you tinker with weapons, gear, and talents. Let them do their thing, or team up with friends to take on bosses. Give it a try and let me know what you think. Thanks for all the support along the way!",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
       "summary_status": "source_excerpt",
       "summary_language": null
     },
@@ -10589,6 +11298,27 @@
         "仅使用公开订阅摘要，未存储网页全文"
       ],
       "source_type": "media",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
+      "id": "037292733bf6a47190df",
+      "title": "Brick Buddies is out now!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643353679",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-08T23:19:33+00:00",
+      "collected_at": "2026-11-21T15:12:04+08:00",
+      "game_ids": [
+        "steam-4901540"
+      ],
+      "category": "industry",
+      "summary": "Hello, everyone!Brick Buddies is finally here!We couldn't have made it to launch without your support and help. Thank you again, from the bottom of our hearts.Brick Buddies is a brick-building game you can enjoy on your own or with up to four players. I loved toy bricks as a child, and I still have fond memories of poring over instructions with friends and family, searching for the right pieces and building together. (Though the missing bricks always seemed to turn up under the sofa a few months",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
       "summary_status": "source_excerpt",
       "summary_language": null
     },
@@ -16175,6 +16905,25 @@
       "summary_language": null
     },
     {
+      "id": "2fe9f04fa92e299ca836",
+      "title": "Over 1000 Wishlists!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302246800",
+      "source": "Steam 官方公告",
+      "published_at": "2026-11-02T03:16:04+00:00",
+      "collected_at": "2026-11-21T15:11:54+08:00",
+      "game_ids": [],
+      "category": "industry",
+      "summary": "Hey there, We're happy to share that over the Steam Next Fest we reached over 1000 wishlists! Thank you all for showing interest in our weird little game all about pure unadulterated progress.Our game releases in just one week and we're quite excited for it, hope you are too!Warm regards,Team Waku Waku",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "5d59a014359670533a37",
       "title": "Price Announcement & A Sneak Peek at the Full Version",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302246766",
@@ -19432,6 +20181,25 @@
       "summary_language": null
     },
     {
+      "id": "3333af23f74db28bd274",
+      "title": "Our Demo is in the Steam Next Fest!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706693255",
+      "source": "Steam 官方公告",
+      "published_at": "2026-10-20T00:58:15+00:00",
+      "collected_at": "2026-11-21T15:11:54+08:00",
+      "game_ids": [],
+      "category": "demo",
+      "summary": "Yay, our first ever demo is in our ever first Steam Next Fest, come check it out! Boost, earn bonuses and buy upgrades to speed up your progress or take it easy and let it make progress by itself while you check out the other games in the Steam Next Fest.Here is what you can expect:Satisfying pure unadulterated progress64 Mega Upgrades for faster progress16 Giga Upgrades for much faster progressA Mini-Game for bonus income and even faster progress +2 Mini-Games in the full versionA unique overch",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "2f07cb7d08e517b07f28",
       "title": "Clicker Astro Planet 2 — Releases in 12 Days! Play the Demo Now",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706692863",
@@ -20959,6 +21727,25 @@
       "summary_language": null
     },
     {
+      "id": "db795d4231c66c1f65dc",
+      "title": "Demo Content Expansion & Gameplay Improvements",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656395779",
+      "source": "Steam 官方公告",
+      "published_at": "2026-10-06T09:30:06+00:00",
+      "collected_at": "2026-11-21T15:11:58+08:00",
+      "game_ids": [],
+      "category": "demo",
+      "summary": "Thank you for playing the Meow Field Demo! This update includes:Campaign content is now available through Stage 3-10.The class level cap has been raised to Level 40.Adjusted enemy counts in the early stages of Chapter 1 for a smoother new-player experience.Reduced stuttering that could occur when defeating enemies.Improved summon following, regrouping, positioning, and despawn behavior.Fixed various combat, multiplayer, tutorial, and interface bugs.Additional stability and performance improvemen",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "8f9ac5b90975b4663cf5",
       "title": "700 Apprentices Waiting",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656394416",
@@ -21801,6 +22588,25 @@
       "summary_language": null
     },
     {
+      "id": "7b87ff77a972818aab6f",
+      "title": "MeowField Demo Feedback — Tell Me What You Think!",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010500514",
+      "source": "Steam 官方公告",
+      "published_at": "2026-09-21T06:48:39+00:00",
+      "collected_at": "2026-11-21T15:11:58+08:00",
+      "game_ids": [],
+      "category": "demo",
+      "summary": "Hi everyone! I’m 执笔唯心, the developer of MeowField. Thanks for trying the demo!I’ve opened this thread so you have a place to share your thoughts. What did you enjoy? Was anything confusing or frustrating? Did something go wrong? I’d love to hear about it—even a sentence or two helps.If you’ve found a bug, please describe what you were doing when it happened. Screenshots or a short recording would also help me track it down.I’ll read every comment and use your feedback to help improve the game. I",
+      "verification_status": "verified",
+      "credibility_score": 95,
+      "limitations": [
+        "仅使用公开订阅摘要，未存储网页全文"
+      ],
+      "source_type": "official",
+      "summary_status": "source_excerpt",
+      "summary_language": null
+    },
+    {
       "id": "d0393440cb205bbf1a3b",
       "title": "Nineteen months of Xenobiome, in six screenshots",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010499063",
@@ -22223,812 +23029,6 @@
       "source_type": "official",
       "summary_status": "source_excerpt",
       "summary_language": null
-    },
-    {
-      "id": "0eccb3e29eed045b783d",
-      "title": "Compete Across Entrepreneurial Endeavors in the Business Rivalries Event",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262692367",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-10T14:11:27+00:00",
-      "collected_at": "2026-11-02T18:28:58+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Put your criminal enterprises to work all throughout September during the GTA Online Business Rivalries Event, steering the invisible hand of the free market in your favor with profitable bonuses for Executives, Bikers, Gunrunners, and Nightclub Owners. Seize growth opportunities and corner the market across the next four weeks to earn extra GTA$ and RP while also capturing rare, branded in-game apparel along the way. For those lacking sufficient criminal infrastructure, there's a free business ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "92003f1cebe598c27353",
-      "title": "Demo v0.3: less at once, and a lot better to look at",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690736",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-10T01:05:09+00:00",
-      "collected_at": "2026-11-05T14:49:55+08:00",
-      "game_ids": [],
-      "category": "demo",
-      "summary": "The clearest thing people told us about the demo was that there was too much on screen too early. A station console, a tape deck, a puzzle shelf and a panel of systems, all at once, before you had lit anything. So the demo has been rebuilt around the first hour. THE DEMO, UPDATED TODAYAll of this is playable right now, free. The console introduces itself one piece at a timeA new save no longer opens with every system out. Each one arrives the first time it means something. The radio turns up whe",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "a723736af3aef8c824e9",
-      "title": "Playtest Ledger: Numbers, Lessons and What's Next",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690182",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-09T19:03:45+00:00",
-      "collected_at": "2026-11-02T18:28:52+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Hey Shopkeepers, It’s been a month since we announced Probably Stolen and opened the Playtest, and thanks to all of your reports, feedback, surveys filled and watching you play the game on Discord, we’d like to share what we’ve captured from your thoughts so far and the playtest statistics!Counting the Contraband: The Playtest Numbers: What you've told us:We’ve found that you've been loving the depth Probably Stolen has to offer and want more of pretty much everything: more unique customers, mor",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "283b77792ecd1ed42c8b",
-      "title": "Official Q&A Thread | 2026",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262688328",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-09T08:00:22+00:00",
-      "collected_at": "2026-11-21T01:54:47+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "You asked, we answered, and will continue to answer! Our official Q&A Thread is now open in the Paradox Forums! Whether you're looking for answers or want to ask a new question, this thread is the place to be! Whatever it might be, feel free to hop in and post your questions in the thread, and we will answer as soon as we can. Roads and Infrastructure​Q: How can the game provide more flexibility in road design, such as varied road widths and default restrictions for pedestrians on highways? What",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "e32667c00a21c0ef2d32",
-      "title": "Composing Dark Ambient Music Devlog",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262687608",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-09T00:00:59+00:00",
-      "collected_at": "2026-11-10T15:21:51+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "In this week's devlog, I go over my workflow for creating music for my game. It's Cubase and Adobe Audition. So....not that complicated!One of the puzzle rooms in my game is a brick facade wreathed in chains, set on an endless wooden expanse. The only soundtrack at first is the creaking of your footsteps and the sparse, distant reverberations of grinding metal.In order to create a seamlessly looping dark ambient soundtrack for this wood and metal nightmare, I start by opening my music sequencer ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "5cca19496ed03d9dcbda",
-      "title": "Bullet Meltdown Launches November 9!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814452752",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-07T10:21:59+00:00",
-      "collected_at": "2026-11-11T14:25:42+08:00",
-      "game_ids": [],
-      "category": "release",
-      "summary": "Bullet Meltdown, a blend of roguelite shooting and real-time tower defense, launches on Steam on November 9, 2026!Pulling the trigger is just the beginning. Experiment with outrageous weapon combinations and discover how different weapons and units work together to turn your wildest ideas into devastating firepower. Dodge, shoot, hire & level up your units, build structures and watch your army clash against crazy bosses.Take on five regions and multiple difficulty levels, with permanent progress",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "4d9d2b6378c40ac8b9e1",
-      "title": "🌾 Farm & Feast Playtest Patch Notes v0.1.2",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814449925",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-05T23:26:21+00:00",
-      "collected_at": "2026-11-17T03:43:37+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Hey farmers! Thank you for all the reports and feedback. This update brings a big content drop plus a round of fixes. 🏡 Decorate your restaurant• New Decoration Mode: place plants, lamps and wall pieces• New style variants for floors, walls, wood, kitchen, tables and chairs• Decorations unlock as your hype grows, with a notification when a new one opens up• The restaurant is wider now, with more room to decorate 🔧 Workshop• New upgrades: bigger drink tray, carry several plates at once, faster mo",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "946df19dc5b622503f70",
-      "title": "Demo coming soon",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814447590",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-04T19:07:19+00:00",
-      "collected_at": "2026-11-14T14:26:58+08:00",
-      "game_ids": [],
-      "category": "demo",
-      "summary": "Hello everyone reading this!I’m the game's solo developer, and I’d like to announce the demo: it’s arriving in mid-September (like 10~15 days from now) and will offer a preview of what the game is all about. The demo will feature achievements and provide around 30 to 35 minutes of gameplay.I know organization games are trending and that few developers release demos for it, but I truly believe having a demo is essential for any indie game.That’s it—thanks for reading this far. If you like what yo",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "a916bf4b87c598138047",
-      "title": "Steam Deck Compatibility",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814447427",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-04T18:00:22+00:00",
-      "collected_at": "2026-11-14T14:27:00+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Hi everyone!Until It's About Pirates is officially Steam Deck Verified, I wanted to clarify what you can expect.The game should run well on the Deck! It has full controller support for gameplay and menu navigation.At Max settings I experienced solid performance: 60 FPS most of the time, with occasional drops into the 50s. For extra headroom or longer battery life, try reducing the quality level to Medium or turning off heavy settings like water reflections.If you notice any issues, please let me",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "5a4568da483d373f5820",
-      "title": "Sproutling Diaries 2: Totally Towerful!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446968",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-04T15:30:48+00:00",
-      "collected_at": "2026-11-16T14:33:14+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "So... It's been a few days since the last entry, and things have been going surprisingly well. Dill said I should also write some things in here even when nothing's going wrong, just so I don't associate this diary with just disasters, so here goes.I spent most of last week on tower maintenance, with Dandelion and Edamame. The power grid was stable (for once) so we were focusing on shoring up our defenses. Since we established our base next to a mountain to the North, we only needed to check up ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "54d0ef72a4c8ea701089",
-      "title": "The Green Again Playtest is now live!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814446806",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-04T14:41:24+00:00",
-      "collected_at": "2026-11-16T14:33:14+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Hello everyone!We've got some exciting news for all sproutlings today, as the Green Again Playtest has just been activated on Steam! The game is available in English, Simplified Chinese, Korean, Japanese, French and German, so if you speak any of those languages, please try playing it in that language as well!We've just let the first wave of players in, and will be letting in more and more as time goes on. You know what that means: if you've not already signed up, it's not too late! Just visit o",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "84661f948e6af6ebcb72",
-      "title": "Blood & Canvas Enters the Ring November 4",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814444414",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-03T19:04:56+00:00",
-      "collected_at": "2026-11-15T14:36:31+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Blood & Canvas: Bareknuckle Boxing launches November 4, 2026, on Steam for $24.99 USD.To mark the release-date announcement, we’ve pulled the gloves off a new trailer featuring underground fights, fighter progression, and the permanent consequences awaiting anyone reckless enough to enter the ring. Watch the Blood & Canvas Announcement TrailerEvery Fight Leaves a MarkStep into the role of an up-and-coming bareknuckle fighter and climb from illegal underground bouts to the biggest stage in barekn",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "f231474120eb78ab93d1",
-      "title": "City Corner #12 - Collected Questions",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443417",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-03T14:00:32+00:00",
-      "collected_at": "2026-11-21T01:54:47+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Hello Mayors!Previously, in the world of City Corners, we talked about our next patch and what kind of changes you can expect from the upcoming update, which will arrive in mid-September. Naturally, City Corner #11 was followed by a bunch of questions from you, and after seeing some of the same questions pop up, we thought: “Why not put the answers somewhere where everyone can easily find them?” So, that’s what we are doing today! While we wait a little longer for the release of our next patch, ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "3e9f553e9f6af3566504",
-      "title": "SWARM HARVEST DEMO: OUT NOW!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443120",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-03T12:24:07+00:00",
-      "collected_at": "2026-11-11T01:10:44+08:00",
-      "game_ids": [
-        "steam-4810500"
-      ],
-      "category": "demo",
-      "summary": "Congratulations, employee! Your opportunity to prove your value to the corporation has arrived.🚨 The SWARM HARVEST demo is now LIVE! 🚨Mow through overwhelming alien swarms, stack ridiculous upgrades and deploy corporation-approved defensive towers to survive the harvest and turn alien biomass into pure profit.🫡 ➡️ 🐛 ➡️ 💰If you enjoy it, we'd really appreciate a wishlist, and we'd love to hear what you think! Your feedback helps us make the game better before launch. 💜--StarMulk Industries™Recrui",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "c659cc666fbe58781e77",
-      "title": "Demo v0.2.3: Mac frame rate fixed, and a gentler opening",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814440886",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-02T16:08:46+00:00",
-      "collected_at": "2026-11-05T14:49:55+08:00",
-      "game_ids": [],
-      "category": "demo",
-      "summary": "Two days after the big one, a patch. Most of it came from watching people play the last build. Mac players: please try again If you played the demo on a Mac through Steam this past week, it ran at about 20 frames per second, and that was our bug, not your machine. The Steam overlay helper we ship for Windows was also running on Mac, where the overlay has never worked, and it was costing more than half the frame rate. It is off on Mac now. On the same MacBook the demo went from 22 fps to 165. If ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "93ca71989a550f8f1730",
-      "title": "Demo v0.2: a new opening, worlds lit by their star, and a Windows fix",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814438810",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-01T23:36:25+00:00",
-      "collected_at": "2026-11-05T14:49:55+08:00",
-      "game_ids": [],
-      "category": "demo",
-      "summary": "First demo update since August 20, and it is a big one. Here is everything that changed. The opening The game now opens on a Portia Plays studio card, then the title emerges out of black over a living star field. Any click or key skips ahead. First-time players skip the card and go straight into PORTIA's boot sequence. Boot lines animate in properly, and skipping the boot fades instead of cutting. Continue only appears when there is actually a save to continue. Light The star has always been on ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "5c42016a21ea015565b1",
-      "title": "Castlebound is LIVE on Kickstarter! ⚔️",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951314604",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-01T20:08:36+00:00",
-      "collected_at": "2026-11-13T01:39:52+08:00",
-      "game_ids": [
-        "steam-3551820"
-      ],
-      "category": "industry",
-      "summary": "Hello everyone!We have some very exciting news today: the Castlebound Kickstarter campaign is officially LIVE! 🎉After two years of development, we're asking for your help to take Castlebound to the finish line and make the game even bigger and better.🏰 Join the Castlebound Kickstarter!Castlebound is our fast-paced platforming roguelite for 1–4 players, coming to Steam, Nintendo Switch 2, and Nintendo Switch.The Kickstarter features a variety of digital and physical rewards, including game copies",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "0f1cb1b792ff358f1289",
-      "title": "The Big Demo Music Update",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951312374",
-      "source": "Steam 官方公告",
-      "published_at": "2026-09-01T07:12:29+00:00",
-      "collected_at": "2026-11-10T15:21:51+08:00",
-      "game_ids": [],
-      "category": "demo",
-      "summary": "The Demo for The House Dreams Along With Them has been updated to include 3 brand new music tracks and an in-universe justification for the music as well. In each lucid puzzle dream, you'll be able to find a radio. When turned on, the radio will play a unique chill-beats-to-solve-puzzles-to style looping music track.The Guest Bedroom features the uplifting groove of \"The Guest Bedgroove\".The Living Room features the Philip Glass inspired 6/8 chillout sounds of \"Pyroclastic Floe\". Yes, it is spel",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "d8a3c7428309324e80b0",
-      "title": "August 2026 Update",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951308278",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-30T18:41:29+00:00",
-      "collected_at": "2026-11-10T15:21:53+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Here are the updates from August: Challenge runs are now recorded, and you can go for a high score Traditional Chinese and Korean have been added The settings screen has been rebuilt, and you can now choose your region Credits have been added The item Catalog can now be opened during a match Challenge runs are now recorded, and you can go for a high score {STEAM_CLAN_IMAGE}/45764409/f44edc180691c43f7261f41e6abcc5a8b9b6b80e.png Your runs in the single-player Challenge mode are now recorded. Each ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "3c2e0779d78724fb223c",
-      "title": "Demo Update #4",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951305478",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-29T11:48:40+00:00",
-      "collected_at": "2026-11-14T14:27:00+08:00",
-      "game_ids": [],
-      "category": "demo",
-      "summary": "In this demo update I fixed some bugs, improved performance, and made balancing tweaks.ChangelogFixed jitter on enemy knockbackFixed weapon upgrades showing wrong statsFixed enemy ships sometimes not catching fire from a flamethrowerDisabled performance-heavy water reflections on low quality settingsFixed the crew loss indicator popping up when already at 0 crewGeneral performance improvementsBuffed reload stat influenceManta rays no longer spawn on day 4Reduced flamethrower damageIncreased navy",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "0f3316209ab7ad16e929",
-      "title": "The Beatlash demo is out!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951305228",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-29T08:55:09+00:00",
-      "collected_at": "2026-11-09T14:34:39+08:00",
-      "game_ids": [],
-      "category": "demo",
-      "summary": "The demo is live. it is about 30 minutes long. It has a campaign and also has a feature to import your own MP3 and the beat engine builds the fight out of it.Every weapon in Beatlash auto fires. Hit SPACE in time and your attacks crits for double.What is in the demo: 1. A practice round that teaches the beat safely 2. Round 1: City Ruins, two bosses 3. 7 weapons and 20+ upgrades 4. Import your own music, unlimited tracksHeadphones strongly recommended. It is a music game.If you like it, a wishli",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "43784241a0399b2bc87a",
-      "title": "100,000 Wishlists and unique players + our nearest plans",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951304317",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-28T20:36:37+00:00",
-      "collected_at": "2026-11-02T18:28:52+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Hey, shopkeepers! Thanks so all of you, Probably Stolen has reached 100,000 wishlists!And also 100,000 players have tried our Steam playtest.Developer Bei Ning and the art team have been hard at work behind the counter and we’re excited to announce that a Probably Stolen Demo is coming on September 14th! That’s right, demo, not playtest! It will feature a new starting scenario: The Water Merchant, along with tons of improvements we’ve made using everything we learned from your feedback. Some of ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "533f8532c131fbc1f759",
-      "title": "Sproutling Diaries: My life in a Sproutling Colony!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951303596",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-28T15:30:57+00:00",
-      "collected_at": "2026-11-16T14:33:14+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "\"Sproutling diaries\" are a new, weekly post where we will be sharing little tidbits of information about the game and its inner workings from the perspective of a sproutling. We hope you enjoy reading them!My name is Mulberry. I'm one of the sproutlings who were recently sent to settle in the Junkyard zone. I had a bit of a freak out recently after a close call with some robots, and my friend Dill advised I should write my thoughts down to calm myself down. So, here we are.Honestly, the biggest ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "9f925e0d475e484bda85",
-      "title": "Release Date Announcement and Open Beta Playtest",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951303523",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-28T15:05:57+00:00",
-      "collected_at": "2026-11-04T14:26:48+08:00",
-      "game_ids": [],
-      "category": "release",
-      "summary": "Good news, everyone: Corpus et Spiritus is almost finished! The content of the game has been locked — the text at least, as it's been sent for translation into Japanese and Simplified Chinese. And I am happy to announce that the game will be released on Wednesday, September 23! Less than a month from now!But, before we let the shiny money flow in, there is one last big milestone I want to go through: the Open Beta Playtest! It's going to happen on Steam, and for about 3 days, everyone will have ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "904e6124afc4844a495f",
-      "title": "Adventure and Sandbox: Two Ways to Experience Theos: Cities of Myth",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951300293",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-27T15:00:44+00:00",
-      "collected_at": "2026-11-15T14:36:29+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Theos: Cities of Myth offers two complementary ways to build your civilization: Adventure and Sandbox. Here you will find a brief breakdown of the features each mode offers to aspiring Founders. Adventure: A Guided Journey Through History and MythAdventure mode lets you guide a city across the different stages of its growth, following specific requests by your patron deity, which will guide you into an adventure between history and mythology.Each Adventure is also designed around a specific god,",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "803e680cc432525237f8",
-      "title": "The demo is live",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951298438",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-27T00:13:05+00:00",
-      "collected_at": "2026-11-05T14:49:55+08:00",
-      "game_ids": [],
-      "category": "demo",
-      "summary": "The demo is liveYou can play Stellar Nursery right now, free, on this page.The demo runs from a dead solar system through the first Reignite, which is somewhere around two hours depending on how much you poke at things. Everything past that point is in the full game, and the demo will show you where it stops rather than pretending it was never there.What it is: the sun went out a long time ago and the worlds emptied. You relight the star, then go world by world, seeding life onto dead rock and w",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "724d2291d664c0cebf7b",
-      "title": "Castlebound Kickstarter coming on September 1st! 🔥",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297895",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-26T18:56:45+00:00",
-      "collected_at": "2026-11-13T01:39:52+08:00",
-      "game_ids": [
-        "steam-3551820"
-      ],
-      "category": "industry",
-      "summary": "Castlebound Kickstarter Launches September 1st! ⚔️🏰The wait is almost over!We’re excited to announce that the Castlebound Kickstarter campaign will officially launch on September 1st! 🎉We’ve been working hard to prepare the campaign, with plenty of exciting rewards and surprises for you! including Steam copies among the rewards!Follow the campaign and get notified at launch!🔗 https://www.kickstarter.com/projects/ogrepixel/castlebound-action-platforming-roguelike-for-1-4-players/Thank you so much",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "859f210c7053e423f45b",
-      "title": "Making a Weeping Angel Devlog",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951295370",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-26T00:34:20+00:00",
-      "collected_at": "2026-11-10T15:21:51+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "In this week's devlog, I cover how I created and implemented the logic for a Weeping Angel / SCP-173 style creature that only moves when the player isn't looking at it. There's a lot of different ways you could script the interaction, but for an Unreal 5.3 blueprints project like mine, I settled on a combination of line traces, custom enumerations for the player's eye state (open, closed, or squinting), and the useful (but not entirely reliable) WasComponentRecentlyRendered node.Here are the ste",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "f7f9bb49d5ef95e13528",
-      "title": "Gridfire Update",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228674502",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-24T03:30:45+00:00",
-      "collected_at": "2026-11-03T14:50:48+08:00",
-      "game_ids": [
-        "steam-3787980"
-      ],
-      "category": "industry",
-      "summary": "GridfireFly your ship with your voice Decibel Drive is a new optional way to play Gridfire: you control your ship by making noises into your microphone. Trill to fire the engine and boost. Say \"pew\" to shoot — up to three shots per breath. Hum like an ambulance siren to heal yourself. Shout to spend your overcharge. It is exactly as ridiculous as it sounds, and it turns out to be a genuinely different game. A calibration wizard tunes it to your own voice in about a minute, and you can retry any ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "d802f7b7a0317f98283c",
-      "title": "You Asked, We Dealt: A Sharper Tutorial + an In-Game Rulebook",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228671036",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-22T08:56:04+00:00",
-      "collected_at": "2026-11-19T15:28:26+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Early playtesters gave us a clear note: the practice table teaches the basics well, but some of you walked away with questions — how exactly the scoring works, what the rest of the action cards do, and where to look something up in the middle of a run. That's exactly the feedback we want. Here's what we did about it. A sharper tutorial The practice floor now spells out the scoring math at the moment your first big chain pays out: every card scores ( Chips × Boost ), and your combo grows the Boos",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "616e69310fe40b1efa97",
-      "title": "[Official Announcement] Scared Crow Teams Up with Flawless Gaming!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228670772",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-22T05:11:55+00:00",
-      "collected_at": "2026-11-07T14:00:23+08:00",
-      "game_ids": [],
-      "category": "announcement",
-      "summary": "Hello everyone!We’ve got some huge news to share today: the strategy card rogue-lite game Scared Crow is officially joining the Flawless Gaming publishing family! We are also incredibly honored to participate in the Steam China Showcase 2026!🎮 Demo & Survey InfoThe free playable Demo is available now! You can access the feedback survey directly from the main menu in-game (or here). We can't wait to hear your honest feedback!Demo Content: Features 3 main bosses, with an estimated play time of aro",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "717fc2e7f4f07110f0dc",
-      "title": "Arts Campus | Devlog #19",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669949",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-21T20:00:55+00:00",
-      "collected_at": "2026-11-07T14:00:29+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "🔔WISHLIST ESCAPE ACADEMY 2🔔Hey there, Escapists! Today, we’re continuing our Campus Tour series (as I’ve dubbed it) with the Arts Campus!Welcome to the Arts Campus.The Arts Campus is inspired by Spanish architecture, painted stucco walls, terracotta tiles, iron balconies/rails, hand-painted signs, painted brick ground, and paint splash stains found everywhere. At the top of the hill is the Hall of Escapists & Workshop. Built along the steep hillside/ocean cliffside leading down to the quad, the ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "a55b5de1c477a16e5d22",
-      "title": "Escape Academy is Steam’s Daily Deal & Escape Academy 2 Release Date Update!",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228669585",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-21T17:36:18+00:00",
-      "collected_at": "2026-11-07T14:00:29+08:00",
-      "game_ids": [],
-      "category": "release",
-      "summary": "Escape Academy, the game that started it all, is up as today’s Steam Daily Deal with our BIGGEST discount ever at 85% off! Now is the perfect time to jump into the game and enjoy the original experience with friends who haven’t tried it yet to get ready for Escape Academy 2’s release! And speaking of that release we’ve had some internal puzzling talks and have decided to move Escape Academy 2’s release date to November to give the final push to launch as much polish and the best chance to reach ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "e28188b32514226e3922",
-      "title": "Cosmetic Layers",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228667290",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-21T01:12:34+00:00",
-      "collected_at": "2026-11-05T14:49:55+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Idle games have a reputation, and we understood it going in. Numbers go up, you close the tab. We built one anyway, because the part we actually wanted to make was the part nobody expects to find. Here is a full accounting of one of those layers: the 122 ways you can change how Stellar Nursery looks.Planet themes 58A theme here is not a skin on one planet. It is a recipe, and one purchase dresses every body you own: the planets, their moons, and the sun itself. Equip Stained Glass and the whole ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "0dca112b22b90bd4d7b1",
-      "title": "The Five Mini Games Inside the Idle Game",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228667286",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-21T01:09:28+00:00",
-      "collected_at": "2026-11-05T14:49:55+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Someone asked whether the \"Deep Invest\" button next to a quick action was just a bigger version of the same thing. It is not. Every deep action in the Nurture console opens its own real minigame, and until now the only way to know that was to click one yourself. So here are all five.↑ Seed Life, on EarthSeed Life is the only one-time action in the whole console. Drag four glowing seeds out of the dark and onto the waiting planet before they drift past it. Get all four planted and Earth ignites f",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "b910c44991a30f8cc797",
-      "title": "All about the UI",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228667261",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-21T00:54:39+00:00",
-      "collected_at": "2026-11-05T14:49:55+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Every panel in Stellar Nursery is custom. No UI framework, no template. This is a close look at the console.The tape deck is a real tape deck. A cassette with its own handwritten label, spinning reels, a live VU meter, EQ bars, and bass and treble knobs that answer when you turn them.On PORTIA's desk there is a harmonograph that draws Lissajous figures from your solar system's actual orbital resonances, a prime spiral with Euler's polynomial picked out in gold, a double pendulum, and her tapping",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "7e07859f6152e6fb2192",
-      "title": "City Corner #11 - Autumn Breeze",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228665673",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-20T14:00:25+00:00",
-      "collected_at": "2026-11-21T01:54:47+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Greetings, Mayors!Our next update is on its way, and in this City Corner, we will take a closer look at some of the changes coming with the upcoming patch. We will go through a number of gameplay adjustments, including changes to citizen behaviour and how some of the systems in your cities work, as well as some visual improvements. There are also a few smaller tweaks to go through, so let’s dive in and talk about what’s coming in the next update!Improvements to GameplayIn the upcoming patch, we ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "d199ff8e4a2a7829c380",
-      "title": "The Floor Is Lava! Devlog",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228661212",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-19T00:00:32+00:00",
-      "collected_at": "2026-11-10T15:21:51+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "In this devlog, I go over 5 steps I used to make the classic \"The Floor Is Lava!\" game into a puzzle. The considerations in helpful list form:Lava MaterialAnimate crisscrossing noise patterns and use mesh distance fields to give the illusion of movement and dynamically change the material contrast when meshes intersect with the lava planeFIREBLUAdjust the colors so the lava resembles the immortal FIREBLU texture from the original DoomParticle EffectsUse bubbling lava particles from a store asset",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "b9abc2380740f3c292c9",
-      "title": "Ten new screenshots, and how the explosions ended up looking like this",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788227",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-18T09:02:38+00:00",
-      "collected_at": "2026-11-02T18:28:36+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "{STEAM_CLAN_IMAGE}/46227385/b612fb366b09995c25bf9bc7a560a309b35f03df.jpg As of today the store page opens on ten new screenshots. They come from a couple of evenings of running battles with the HUD off, parking the camera on a capital ship, and waiting for something big to blow up next to it. I like them more than anything I have shot for the game so far, so I want to say a bit about where the look came from and then ask you what you think. Space is a black canvas. Early on that was the whole pr",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "704bdd34fac5727307bd",
-      "title": "Research Access",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183787202",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-17T20:35:51+00:00",
-      "collected_at": "2026-11-02T18:29:08+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Changes:Research system unlockedUpdated Discord link",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "39d17e977c627ff22c9b",
-      "title": "Declare Your Allegiance and Determine Who Owns Los Santos in the Brand Wars Event",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183786533",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-17T16:26:24+00:00",
-      "collected_at": "2026-11-02T18:28:58+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Proclaim your loyalty to the iconic industries fighting for control of Southern San Andreas’ hearts and minds in the Brand Wars Event, spanning the next two weeks in GTA Online. This trademark turf war takes place across a selection of incentivized Odd Jobs, Freemode Events, and sponsored Hotring Circuit Series Races. Assist friendly faces making deliveries and sabotage your rivals to show everyone who really owns Los Santos. Plus, weekly completion bonuses have reset, which means you can claim ",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
-    },
-    {
-      "id": "f162e6e7441dd8c02012",
-      "title": "GTA+ Members Can Claim the New Gallivanter Warden SUV for Free One Week Early",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183786092",
-      "source": "Steam 官方公告",
-      "published_at": "2026-08-17T13:45:35+00:00",
-      "collected_at": "2026-11-02T18:28:58+08:00",
-      "game_ids": [],
-      "category": "industry",
-      "summary": "Display an intimidating presence in the new Gallivanter Warden (SUV), free to claim from The Vinewood Car Club showroom for all GTA+ Members, along with many more great benefits. ONE-WEEK EARLY ACCESS TO THE GALLIVANTER WARDEN Strike a balance between comfort and extreme off-road capability with the menacing new Gallivanter Warden, an SUV on PEDs that's available to GTA+ Members one week before it becomes available to the public. The Warden is free to claim from The Vinewood Car Club showroom th",
-      "verification_status": "verified",
-      "credibility_score": 95,
-      "limitations": [
-        "仅使用公开订阅摘要，未存储网页全文"
-      ],
-      "source_type": "official",
-      "summary_status": "source_excerpt",
-      "summary_language": null
     }
   ],
   "games": [
@@ -23053,7 +23053,7 @@
       "steam_display_release_date": "2024-08-19",
       "release_date_precision": "day",
       "release_source": "https://store.steampowered.com/app/2358720/",
-      "release_checked_at": "2026-11-21T01:54:41+08:00",
+      "release_checked_at": "2026-11-21T15:11:50+08:00",
       "release_coming_soon": false,
       "heat_evidence": {
         "review_count": null,
@@ -23445,7 +23445,7 @@
       "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
       "investment_relation": "无明确关联",
       "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-      "discovered_at": "2026-11-21T01:54:41+08:00",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
       "heat_evidence": {
         "review_count": null,
         "positive_ratio": null,
@@ -23589,7 +23589,7 @@
       "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
       "investment_relation": "无明确关联",
       "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-      "discovered_at": "2026-11-21T01:54:41+08:00",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
       "release_date_raw": "2025 年 3 月 4 日",
       "steam_display_release_date": "2025-03-04",
       "release_date_precision": "day",
@@ -26043,7 +26043,7 @@
       "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
       "investment_relation": "无明确关联",
       "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-      "discovered_at": "2026-11-21T01:54:41+08:00",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
       "heat_evidence": {
         "review_count": null,
         "positive_ratio": null,
@@ -31505,7 +31505,7 @@
       "steam_display_release_date": null,
       "release_date_precision": "unknown",
       "release_source": "https://store.steampowered.com/app/5456360/",
-      "release_checked_at": "2026-11-11T14:25:40+08:00",
+      "release_checked_at": "2026-11-21T15:11:50+08:00",
       "release_coming_soon": true
     },
     {
@@ -31514,8 +31514,8 @@
       "aliases": [
         "Progress98"
       ],
-      "developer": null,
-      "publisher": null,
+      "developer": "Team Waku Waku",
+      "publisher": "Team Waku Waku",
       "official_url": "https://store.steampowered.com/app/4863540/",
       "steam_app_id": 4863540,
       "heat_grade": "B",
@@ -31542,7 +31542,13 @@
           "review_count",
           "media_coverage"
         ]
-      }
+      },
+      "release_date_raw": "2026 年 11 月 9 日",
+      "steam_display_release_date": "2026-11-09",
+      "release_date_precision": "day",
+      "release_source": "https://store.steampowered.com/app/4863540/",
+      "release_checked_at": "2026-11-21T15:11:50+08:00",
+      "release_coming_soon": false
     },
     {
       "id": "steam-5476770",
@@ -31550,8 +31556,8 @@
       "aliases": [
         "武装囚犯: 叁"
       ],
-      "developer": null,
-      "publisher": null,
+      "developer": "PAUL KINNAIR",
+      "publisher": "PAUL KINNAIR",
       "official_url": "https://store.steampowered.com/app/5476770/",
       "steam_app_id": 5476770,
       "heat_grade": "B",
@@ -31578,7 +31584,13 @@
           "review_count",
           "media_coverage"
         ]
-      }
+      },
+      "release_date_raw": "2026 年 11 月 8 日",
+      "steam_display_release_date": "2026-11-08",
+      "release_date_precision": "day",
+      "release_source": "https://store.steampowered.com/app/5476770/",
+      "release_checked_at": "2026-11-21T15:11:50+08:00",
+      "release_coming_soon": false
     },
     {
       "id": "steam-4920280",
@@ -31586,8 +31598,8 @@
       "aliases": [
         "喵呜风云"
       ],
-      "developer": null,
-      "publisher": null,
+      "developer": "执笔唯心",
+      "publisher": "SoulPowerStudio",
       "official_url": "https://store.steampowered.com/app/4920280/",
       "steam_app_id": 4920280,
       "heat_grade": "B",
@@ -31614,7 +31626,13 @@
           "review_count",
           "media_coverage"
         ]
-      }
+      },
+      "release_date_raw": "2026 年 11 月 8 日",
+      "steam_display_release_date": "2026-11-08",
+      "release_date_precision": "day",
+      "release_source": "https://store.steampowered.com/app/4920280/",
+      "release_checked_at": "2026-11-21T15:11:50+08:00",
+      "release_coming_soon": false
     },
     {
       "id": "steam-4444310",
@@ -31622,8 +31640,8 @@
       "aliases": [
         "Rend"
       ],
-      "developer": null,
-      "publisher": null,
+      "developer": "Chanaldy Soenarjo",
+      "publisher": "Chanaldy Soenarjo",
       "official_url": "https://store.steampowered.com/app/4444310/",
       "steam_app_id": 4444310,
       "heat_grade": "A",
@@ -31651,7 +31669,13 @@
           "verified_sales",
           "review_count"
         ]
-      }
+      },
+      "release_date_raw": "2026 年 11 月 8 日",
+      "steam_display_release_date": "2026-11-08",
+      "release_date_precision": "day",
+      "release_source": "https://store.steampowered.com/app/4444310/",
+      "release_checked_at": "2026-11-21T15:11:50+08:00",
+      "release_coming_soon": false
     },
     {
       "id": "steam-4258970",
@@ -31659,8 +31683,8 @@
       "aliases": [
         "爬行桌宠"
       ],
-      "developer": null,
-      "publisher": null,
+      "developer": "AnKer",
+      "publisher": "AnKer",
       "official_url": "https://store.steampowered.com/app/4258970/",
       "steam_app_id": 4258970,
       "heat_grade": "B",
@@ -31687,7 +31711,13 @@
           "review_count",
           "media_coverage"
         ]
-      }
+      },
+      "release_date_raw": "2026 年 11 月 8 日",
+      "steam_display_release_date": "2026-11-08",
+      "release_date_precision": "day",
+      "release_source": "https://store.steampowered.com/app/4258970/",
+      "release_checked_at": "2026-11-21T15:11:50+08:00",
+      "release_coming_soon": false
     },
     {
       "id": "steam-4901540",
@@ -31695,8 +31725,8 @@
       "aliases": [
         "Brick Buddies"
       ],
-      "developer": null,
-      "publisher": null,
+      "developer": "Bunnyhop",
+      "publisher": "Bunnyhop",
       "official_url": "https://store.steampowered.com/app/4901540/",
       "steam_app_id": 4901540,
       "heat_grade": "B",
@@ -31723,7 +31753,13 @@
           "review_count",
           "media_coverage"
         ]
-      }
+      },
+      "release_date_raw": "2026 年 11 月 8 日",
+      "steam_display_release_date": "2026-11-08",
+      "release_date_precision": "day",
+      "release_source": "https://store.steampowered.com/app/4901540/",
+      "release_checked_at": "2026-11-21T15:11:50+08:00",
+      "release_coming_soon": false
     },
     {
       "id": "steam-4861910",
@@ -32755,7 +32791,7 @@
       "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
       "investment_relation": "无明确关联",
       "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-      "discovered_at": "2026-11-21T01:54:41+08:00",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
       "release_date_raw": "2026 年 11 月 9 日",
       "steam_display_release_date": "2026-11-09",
       "release_date_precision": "day",
@@ -44120,7 +44156,7 @@
       "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
       "investment_relation": "无明确关联",
       "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-      "discovered_at": "2026-11-21T01:54:41+08:00",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
       "heat_evidence": {
         "review_count": null,
         "positive_ratio": null,
@@ -44985,6 +45021,656 @@
       "investment_relation": "无明确关联",
       "discovery_source": "https://store.steampowered.com/api/featuredcategories",
       "discovered_at": "2026-11-21T01:54:41+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5392220",
+      "name": "ゾンビポリス ～ゾンビ刑事と凍てつく真夏のお正月～ Soundtrack",
+      "aliases": [
+        "ゾンビポリス ～ゾンビ刑事と凍てつく真夏のお正月～ Soundtrack"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5392220/",
+      "steam_app_id": 5392220,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-3649840",
+      "name": "Zombie Police ～凛冽盛夏的新年～",
+      "aliases": [
+        "Zombie Police ～凛冽盛夏的新年～"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/3649840/",
+      "steam_app_id": 3649840,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-4859890",
+      "name": "Beyond the Masque of the Red Death",
+      "aliases": [
+        "Beyond the Masque of the Red Death"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/4859890/",
+      "steam_app_id": 4859890,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5403220",
+      "name": "How to grow a man · 7-Character Epilogue DLC",
+      "aliases": [
+        "How to grow a man · 7-Character Epilogue DLC"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5403220/",
+      "steam_app_id": 5403220,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5158540",
+      "name": "Keep The Ammo Flowing",
+      "aliases": [
+        "Keep The Ammo Flowing"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5158540/",
+      "steam_app_id": 5158540,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5492690",
+      "name": "Night Wash: GE-418-NK",
+      "aliases": [
+        "Night Wash: GE-418-NK"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5492690/",
+      "steam_app_id": 5492690,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-4845070",
+      "name": "Ravenhill: Initiation",
+      "aliases": [
+        "Ravenhill: Initiation"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/4845070/",
+      "steam_app_id": 4845070,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-3953900",
+      "name": "Egg Souls",
+      "aliases": [
+        "Egg Souls"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/3953900/",
+      "steam_app_id": 3953900,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-2483190",
+      "name": "极限竞速：地平线 6",
+      "aliases": [
+        "极限竞速：地平线 6"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/2483190/",
+      "steam_app_id": 2483190,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-1551360",
+      "name": "极限竞速：地平线 5",
+      "aliases": [
+        "极限竞速：地平线 5"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/1551360/",
+      "steam_app_id": 1551360,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5403060",
+      "name": "Everything Simulator",
+      "aliases": [
+        "Everything Simulator"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5403060/",
+      "steam_app_id": 5403060,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5087470",
+      "name": "Party Link",
+      "aliases": [
+        "Party Link"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5087470/",
+      "steam_app_id": 5087470,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-4440750",
+      "name": "Aftertaste",
+      "aliases": [
+        "Aftertaste"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/4440750/",
+      "steam_app_id": 4440750,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5455670",
+      "name": "Gripspeak",
+      "aliases": [
+        "Gripspeak"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5455670/",
+      "steam_app_id": 5455670,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5505740",
+      "name": "‌Super Puzzle‌",
+      "aliases": [
+        "‌Super Puzzle‌"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5505740/",
+      "steam_app_id": 5505740,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5535690",
+      "name": "The Dragon's Mint",
+      "aliases": [
+        "The Dragon's Mint"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5535690/",
+      "steam_app_id": 5535690,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 0,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count",
+          "media_coverage"
+        ]
+      }
+    },
+    {
+      "id": "steam-5537900",
+      "name": "Night",
+      "aliases": [
+        "Night"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/5537900/",
+      "steam_app_id": 5537900,
+      "heat_grade": "A",
+      "heat_score": 20,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
+      "heat_evidence": {
+        "review_count": null,
+        "positive_ratio": null,
+        "media_publishers": [
+          "www.gematsu.com",
+          "www.pcgamer.com"
+        ],
+        "verified_sales": null,
+        "review_source": null,
+        "review_as_of": null,
+        "sales_source": null,
+        "components": {
+          "review_scale": 0,
+          "media_breadth": 20,
+          "verified_sales": 0
+        },
+        "missing": [
+          "verified_sales",
+          "review_count"
+        ]
+      }
+    },
+    {
+      "id": "steam-2894950",
+      "name": "塞莉娅传说",
+      "aliases": [
+        "塞莉娅传说"
+      ],
+      "developer": null,
+      "publisher": null,
+      "official_url": "https://store.steampowered.com/app/2894950/",
+      "steam_app_id": 2894950,
+      "heat_grade": "B",
+      "heat_score": null,
+      "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+      "investment_relation": "无明确关联",
+      "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+      "discovered_at": "2026-11-21T15:11:50+08:00",
       "heat_evidence": {
         "review_count": null,
         "positive_ratio": null,
@@ -84231,7 +84917,7 @@
       ],
       "score_breakdown": [],
       "price_age_days": 1,
-      "recorded_at": "2026-11-21T01:54:41+08:00"
+      "recorded_at": "2026-11-21T15:11:50+08:00"
     },
     {
       "signal_date": "2026-11-21",
@@ -84258,7 +84944,7 @@
       ],
       "score_breakdown": [],
       "price_age_days": 1,
-      "recorded_at": "2026-11-21T01:54:41+08:00"
+      "recorded_at": "2026-11-21T15:11:50+08:00"
     },
     {
       "signal_date": "2026-11-21",
@@ -84285,12 +84971,12 @@
       ],
       "score_breakdown": [],
       "price_age_days": 1,
-      "recorded_at": "2026-11-21T01:54:41+08:00"
+      "recorded_at": "2026-11-21T15:11:50+08:00"
     }
   ],
   "report": {
     "date": "2026-11-21",
-    "generated_at": "2026-11-21T01:55:17+08:00",
+    "generated_at": "2026-11-21T15:12:28+08:00",
     "summary": "减仓风险",
     "reasons": [
       "近 5 个交易日跌幅超过配置风险阈值；仅作条件化风险研究"
@@ -84309,16 +84995,16 @@
   },
   "system": {
     "status": "partial_failure",
-    "generated_at": "2026-11-21T01:55:17+08:00",
+    "generated_at": "2026-11-21T15:12:28+08:00",
     "last_success_at": null,
-    "last_partial_success_at": "2026-11-21T01:55:17+08:00",
+    "last_partial_success_at": "2026-11-21T15:12:28+08:00",
     "source_status": [
       {
         "id": "steam_discovery",
         "name": "Steam 动态游戏发现",
         "status": "ok",
         "records": 23,
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "url": "https://store.steampowered.com/api/featuredcategories",
         "error": null
       },
@@ -84326,8 +85012,8 @@
         "id": "steam_news",
         "name": "Steam 官方公告",
         "status": "ok",
-        "checked_at": "2026-11-21T01:54:55+08:00",
-        "records": 64,
+        "checked_at": "2026-11-21T15:12:04+08:00",
+        "records": 40,
         "url": "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/",
         "error": null
       },
@@ -84335,7 +85021,7 @@
         "id": "playstation",
         "name": "PlayStation Blog",
         "status": "ok",
-        "checked_at": "2026-11-21T01:54:56+08:00",
+        "checked_at": "2026-11-21T15:12:06+08:00",
         "records": 10,
         "url": "https://blog.playstation.com/feed/",
         "error": null
@@ -84344,7 +85030,7 @@
         "id": "gematsu",
         "name": "Gematsu",
         "status": "ok",
-        "checked_at": "2026-11-21T01:54:56+08:00",
+        "checked_at": "2026-11-21T15:12:06+08:00",
         "records": 20,
         "url": "https://www.gematsu.com/feed",
         "error": null
@@ -84353,7 +85039,7 @@
         "id": "pcgamer",
         "name": "PC Gamer",
         "status": "ok",
-        "checked_at": "2026-11-21T01:54:57+08:00",
+        "checked_at": "2026-11-21T15:12:06+08:00",
         "records": 40,
         "url": "https://www.pcgamer.com/rss/",
         "error": null
@@ -84362,7 +85048,7 @@
         "id": "steam_details_2358720",
         "name": "黑神话：悟空 官方日期",
         "status": "ok",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 1,
         "url": "https://store.steampowered.com/app/2358720/",
         "error": null
@@ -84371,142 +85057,142 @@
         "id": "steam_reviews_2358720",
         "name": "黑神话：悟空 评价数据",
         "status": "error",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 0,
         "url": "https://store.steampowered.com/appreviews/2358720",
         "error": "JSONDecodeError"
       },
       {
-        "id": "steam_details_3321460",
-        "name": "红色沙漠：增强版 官方日期",
+        "id": "steam_details_5456360",
+        "name": "昭幽：阴阳渡 官方日期",
         "status": "ok",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 1,
-        "url": "https://store.steampowered.com/app/3321460/",
+        "url": "https://store.steampowered.com/app/5456360/",
         "error": null
       },
       {
-        "id": "steam_reviews_3321460",
-        "name": "红色沙漠：增强版 评价数据",
+        "id": "steam_reviews_5456360",
+        "name": "昭幽：阴阳渡 评价数据",
         "status": "error",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 0,
-        "url": "https://store.steampowered.com/appreviews/3321460",
+        "url": "https://store.steampowered.com/appreviews/5456360",
         "error": "JSONDecodeError"
       },
       {
-        "id": "steam_details_949230",
-        "name": "《都市：天际线2》 官方日期",
+        "id": "steam_details_4863540",
+        "name": "Progress98 官方日期",
         "status": "ok",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 1,
-        "url": "https://store.steampowered.com/app/949230/",
+        "url": "https://store.steampowered.com/app/4863540/",
         "error": null
       },
       {
-        "id": "steam_reviews_949230",
-        "name": "《都市：天际线2》 评价数据",
+        "id": "steam_reviews_4863540",
+        "name": "Progress98 评价数据",
         "status": "error",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 0,
-        "url": "https://store.steampowered.com/appreviews/949230",
+        "url": "https://store.steampowered.com/appreviews/4863540",
         "error": "JSONDecodeError"
       },
       {
-        "id": "steam_details_4622190",
-        "name": "Hack 42: Typing Incremental 官方日期",
+        "id": "steam_details_5476770",
+        "name": "武装囚犯: 叁 官方日期",
         "status": "ok",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 1,
-        "url": "https://store.steampowered.com/app/4622190/",
+        "url": "https://store.steampowered.com/app/5476770/",
         "error": null
       },
       {
-        "id": "steam_reviews_4622190",
-        "name": "Hack 42: Typing Incremental 评价数据",
+        "id": "steam_reviews_5476770",
+        "name": "武装囚犯: 叁 评价数据",
         "status": "error",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 0,
-        "url": "https://store.steampowered.com/appreviews/4622190",
+        "url": "https://store.steampowered.com/appreviews/5476770",
         "error": "JSONDecodeError"
       },
       {
-        "id": "steam_details_5408250",
-        "name": "Seaside Scoops 官方日期",
+        "id": "steam_details_4920280",
+        "name": "喵呜风云 官方日期",
         "status": "ok",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 1,
-        "url": "https://store.steampowered.com/app/5408250/",
+        "url": "https://store.steampowered.com/app/4920280/",
         "error": null
       },
       {
-        "id": "steam_reviews_5408250",
-        "name": "Seaside Scoops 评价数据",
+        "id": "steam_reviews_4920280",
+        "name": "喵呜风云 评价数据",
         "status": "error",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 0,
-        "url": "https://store.steampowered.com/appreviews/5408250",
+        "url": "https://store.steampowered.com/appreviews/4920280",
         "error": "JSONDecodeError"
       },
       {
-        "id": "steam_details_5070970",
-        "name": "Space Engineers - Warfare 3 Pack 官方日期",
-        "status": "error",
-        "checked_at": "2026-11-21T01:54:41+08:00",
-        "records": 0,
-        "url": "https://store.steampowered.com/app/5070970/",
-        "error": "ValueError"
-      },
-      {
-        "id": "steam_reviews_5070970",
-        "name": "Space Engineers - Warfare 3 Pack 评价数据",
-        "status": "error",
-        "checked_at": "2026-11-21T01:54:41+08:00",
-        "records": 0,
-        "url": "https://store.steampowered.com/appreviews/5070970",
-        "error": "JSONDecodeError"
-      },
-      {
-        "id": "steam_details_4564070",
-        "name": "Way Too Many Fish! 官方日期",
+        "id": "steam_details_4444310",
+        "name": "Rend 官方日期",
         "status": "ok",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 1,
-        "url": "https://store.steampowered.com/app/4564070/",
+        "url": "https://store.steampowered.com/app/4444310/",
         "error": null
       },
       {
-        "id": "steam_reviews_4564070",
-        "name": "Way Too Many Fish! 评价数据",
+        "id": "steam_reviews_4444310",
+        "name": "Rend 评价数据",
         "status": "error",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 0,
-        "url": "https://store.steampowered.com/appreviews/4564070",
+        "url": "https://store.steampowered.com/appreviews/4444310",
         "error": "JSONDecodeError"
       },
       {
-        "id": "steam_details_5126230",
-        "name": "Drawmi: Creature Collector 官方日期",
+        "id": "steam_details_4258970",
+        "name": "爬行桌宠 官方日期",
         "status": "ok",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 1,
-        "url": "https://store.steampowered.com/app/5126230/",
+        "url": "https://store.steampowered.com/app/4258970/",
         "error": null
       },
       {
-        "id": "steam_reviews_5126230",
-        "name": "Drawmi: Creature Collector 评价数据",
+        "id": "steam_reviews_4258970",
+        "name": "爬行桌宠 评价数据",
         "status": "error",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 0,
-        "url": "https://store.steampowered.com/appreviews/5126230",
+        "url": "https://store.steampowered.com/appreviews/4258970",
+        "error": "JSONDecodeError"
+      },
+      {
+        "id": "steam_details_4901540",
+        "name": "Brick Buddies 官方日期",
+        "status": "ok",
+        "checked_at": "2026-11-21T15:11:50+08:00",
+        "records": 1,
+        "url": "https://store.steampowered.com/app/4901540/",
+        "error": null
+      },
+      {
+        "id": "steam_reviews_4901540",
+        "name": "Brick Buddies 评价数据",
+        "status": "error",
+        "checked_at": "2026-11-21T15:11:50+08:00",
+        "records": 0,
+        "url": "https://store.steampowered.com/appreviews/4901540",
         "error": "JSONDecodeError"
       },
       {
         "id": "benchmark",
         "name": "沪深300市场对照",
         "status": "ok",
-        "checked_at": "2026-11-21T01:55:13+08:00",
+        "checked_at": "2026-11-21T15:12:24+08:00",
         "records": 940,
         "url": "https://quotes.sina.cn/cn/api/jsonp_v2.php/var%20_data=/CN_MarketDataService.getKLineData",
         "error": null
@@ -84515,7 +85201,7 @@
         "id": "holdings_516770",
         "name": "游戏ETF华泰柏瑞持仓",
         "status": "ok",
-        "checked_at": "2026-11-21T01:55:15+08:00",
+        "checked_at": "2026-11-21T15:12:26+08:00",
         "records": 15,
         "url": "https://fundf10.eastmoney.com/ccmx_516770.html",
         "error": null
@@ -84524,7 +85210,7 @@
         "id": "prices_516770",
         "name": "游戏ETF华泰柏瑞行情",
         "status": "ok",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 940,
         "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516770&klt=101&fqt=0&beg=20230101&end=20500101",
         "error": null
@@ -84533,7 +85219,7 @@
         "id": "holdings_159869",
         "name": "游戏ETF华夏持仓",
         "status": "ok",
-        "checked_at": "2026-11-21T01:55:16+08:00",
+        "checked_at": "2026-11-21T15:12:27+08:00",
         "records": 10,
         "url": "https://fundf10.eastmoney.com/ccmx_159869.html",
         "error": null
@@ -84542,7 +85228,7 @@
         "id": "prices_159869",
         "name": "游戏ETF华夏行情",
         "status": "ok",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 940,
         "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=0.159869&klt=101&fqt=0&beg=20230101&end=20500101",
         "error": null
@@ -84551,7 +85237,7 @@
         "id": "holdings_516010",
         "name": "游戏ETF国泰持仓",
         "status": "ok",
-        "checked_at": "2026-11-21T01:55:17+08:00",
+        "checked_at": "2026-11-21T15:12:28+08:00",
         "records": 28,
         "url": "https://fundf10.eastmoney.com/ccmx_516010.html",
         "error": null
@@ -84560,7 +85246,7 @@
         "id": "prices_516010",
         "name": "游戏ETF国泰行情",
         "status": "ok",
-        "checked_at": "2026-11-21T01:54:41+08:00",
+        "checked_at": "2026-11-21T15:11:50+08:00",
         "records": 940,
         "url": "https://push2his.eastmoney.com/api/qt/stock/kline/get?secid=1.516010&klt=101&fqt=0&beg=20230101&end=20500101",
         "error": null
@@ -84583,8 +85269,8 @@
     "latest_market_date": "2026-11-20",
     "market_calendar_status": "已核验 2026 年上交所休市表；跨年及缺失应完成交易日时暂停判断",
     "build_status": "production_build_passed",
-    "build_commit": "264d1daa04f476149cb26d458c0a5ca7a21cd595",
-    "build_run_url": "https://github.com/zjjxwpstcnsm-gif/game516770/actions/runs/44787667191"
+    "build_commit": "c8bf96ce298d5a1447a3f899febd38ed6057c320",
+    "build_run_url": "https://github.com/zjjxwpstcnsm-gif/game516770/actions/runs/44879067860"
   },
   "event_studies": [
     {
