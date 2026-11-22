@@ -1345,5 +1345,26 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "c16513c9d0e0bb93947a",
+    "game_id": "steam-5537900",
+    "title": "Arknights: Endfield version update ‘Meeting You in the World o’Shrooms’ launches November 25",
+    "type": "release",
+    "importance": "A",
+    "event_date": null,
+    "announced_at": "2026-11-21T12:00:56+00:00",
+    "first_seen_at": "2026-11-22T14:51:52+08:00",
+    "status": "rumored",
+    "source_urls": [
+      "https://www.gematsu.com/2026/11/arknights-endfield-version-update-meeting-you-in-the-world-oshrooms-launches-november-25"
+    ],
+    "source_ids": [
+      "ef9feda259e134511d06"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]
