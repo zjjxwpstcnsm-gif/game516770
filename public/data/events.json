@@ -1366,5 +1366,110 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "9d2d0606381807c20f50",
+    "game_id": "steam-4305730",
+    "title": "Eye of Syn Official Release!",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-13T02:23:53+00:00",
+    "first_seen_at": "2026-11-23T03:54:49+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144185528"
+    ],
+    "source_ids": [
+      "aae1d7cbc0f23d094cfd"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "6f6a74ae11933c7bf05d",
+    "game_id": "steam-1025560",
+    "title": "Flea Madness Released",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-12T19:26:21+00:00",
+    "first_seen_at": "2026-11-23T03:54:49+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144184319"
+    ],
+    "source_ids": [
+      "5b51cfbc3631ce709e7e"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "50513950fa8276d6c56f",
+    "game_id": "steam-1025560",
+    "title": "4 days before Flea Madness release",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-08T17:39:26+00:00",
+    "first_seen_at": "2026-11-23T03:54:49+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643353058"
+    ],
+    "source_ids": [
+      "f0f47c0acdcaab9a9477"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "4baa994fc7b75682b37a",
+    "game_id": "steam-2423290",
+    "title": "Handmancers is leaving Early Access and launching in version 1.0 on November 12",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-29T19:11:29+00:00",
+    "first_seen_at": "2026-11-23T03:54:49+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302236086"
+    ],
+    "source_ids": [
+      "fc3c7b8524a40b2b2873"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "944fe9eb78d4a9ad1c0b",
+    "game_id": "steam-5302890",
+    "title": "Announcing Moonbased Release Date!",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-12T20:11:20+00:00",
+    "first_seen_at": "2026-11-23T03:54:49+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067942182"
+    ],
+    "source_ids": [
+      "9420137f3d1185affe34"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]
