@@ -1471,5 +1471,68 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "ceef07c54c1d83965168",
+    "game_id": "steam-4948940",
+    "title": "Swarmbreaker is Delayed - I'm Sorry",
+    "type": "delay",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-09T22:00:58+00:00",
+    "first_seen_at": "2026-11-23T15:41:59+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643357195"
+    ],
+    "source_ids": [
+      "eebcf0693c4b95ea4ffb"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "65cd75186d168822afdc",
+    "game_id": "steam-5036870",
+    "title": "PLEASE CONFIRM THE DECEASED demo: recorded gameplay",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-26T19:25:44+00:00",
+    "first_seen_at": "2026-11-23T15:41:59+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114046491"
+    ],
+    "source_ids": [
+      "c5d3f736739c26df8666"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "c37c86673c6f73ae073f",
+    "game_id": "steam-5036870",
+    "title": "PLEASE CONFIRM THE DECEASED demo: recorded gameplay",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-10-19T13:12:52+00:00",
+    "first_seen_at": "2026-11-23T15:41:59+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706690161"
+    ],
+    "source_ids": [
+      "b9cab0d2ff7f69020e58"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]
