@@ -1534,5 +1534,24 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "44d661fb29b6828b91b4",
+    "game_id": "steam-5357700",
+    "title": "Jurassic Paradise: No Escape · Steam 发售日期",
+    "type": "release",
+    "importance": "B",
+    "event_date": "2026-12-11",
+    "announced_at": null,
+    "first_seen_at": "2026-11-24T05:34:01+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://store.steampowered.com/app/5357700/"
+    ],
+    "source_ids": [],
+    "company_links": [],
+    "history": [],
+    "verification_note": "Steam 商店显示的计划日期，日精度、原始时区未知（可能与北京时间相差一天）；须以官方精确时刻复核。首次公布时间未知，不用于历史已知信息回放。",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]
