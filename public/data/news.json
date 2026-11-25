@@ -1,5 +1,233 @@
 [
   {
+    "id": "a4e398a1d928f65f4443",
+    "title": "Analyst estimates Call of Duty lost 44% of its players when GTA 6 came out, and unlike fans of its live-service competitors they've been slow to come back",
+    "url": "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back",
+    "source": "PC Gamer",
+    "published_at": "2026-11-25T03:34:01+00:00",
+    "collected_at": "2026-11-25T16:37:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Turns out Fortnite players are more loyal.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "6ec434f1acb26fd0e64f",
+    "title": "Desktop productivity game renal spring: Focus as a Kidney announced for PC",
+    "url": "https://www.gematsu.com/2026/11/desktop-productivity-game-renal-spring-focus-as-a-kidney-announced-for-pc",
+    "source": "Gematsu",
+    "published_at": "2026-11-25T03:10:55+00:00",
+    "collected_at": "2026-11-25T16:37:57+08:00",
+    "game_ids": [],
+    "category": "announcement",
+    "summary": "BOKURA developer Tokoronyori has announced renal spring: Focus as a Kidney, a desktop productivity game &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "7aa7b4956e34fced3ad5",
+    "title": "Exoprimal to end service on September 29, 2027",
+    "url": "https://www.gematsu.com/2026/11/exoprimal-to-end-service-on-september-29-2027",
+    "source": "Gematsu",
+    "published_at": "2026-11-25T03:06:51+00:00",
+    "collected_at": "2026-11-25T16:37:57+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Dinosaur-themed team-based action game Exoprimal will end service on September 29, 2027, after which it &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "f6ec6e170d9e013a200e",
+    "title": "Dinghai: The Ocean Pillar launches December 3",
+    "url": "https://www.gematsu.com/2026/11/dinghai-the-ocean-pillar-launches-december-3",
+    "source": "Gematsu",
+    "published_at": "2026-11-25T02:38:45+00:00",
+    "collected_at": "2026-11-25T16:37:57+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Dinghai: The Ocean Pillar, a roguelike action RPG set in the mythic world of the &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "127b8e702e19c7228cee",
+    "title": "Mario Kart World version 1.9.0 update now available, adds new rallies and courses",
+    "url": "https://www.gematsu.com/2026/11/mario-kart-world-version-1-9-0-update-now-available-adds-new-rallies-and-courses",
+    "source": "Gematsu",
+    "published_at": "2026-11-25T01:05:29+00:00",
+    "collected_at": "2026-11-25T16:37:57+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Nintendo has released the version 1.9.0 update for Mario Kart World, which adds Feather Rally &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "7c920d0dd7565497cfb1",
+    "title": "The difference between The Witcher 3 and Witcher 4 will be 'comparable' to that of GTA 5 and GTA 6, CD Projekt boss says: 'I mean, it's been 11 years'",
+    "url": "https://www.pcgamer.com/games/the-witcher/the-difference-between-the-witcher-3-and-witcher-4-will-be-comparable-to-that-of-gta-5-and-gta-6-cd-projekt-boss-says-i-mean-its-been-11-years",
+    "source": "PC Gamer",
+    "published_at": "2026-11-24T23:03:45+00:00",
+    "collected_at": "2026-11-25T16:37:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "CD Projekt Red reported its Q3 earnings today, but all anyone wanted to talk about was GTA 6.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "beded1df65460a20405b",
+    "title": "Nvidia patch finally eradicates the SSD-hammering bug its last hotfix didn't actually fix",
+    "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-patch-finally-eradicates-the-ssd-hammering-bug-its-last-hotfix-didnt-actually-fix",
+    "source": "PC Gamer",
+    "published_at": "2026-11-24T22:04:28+00:00",
+    "collected_at": "2026-11-25T16:37:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "\"The evil is defeated.\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "c34f9c4838ea2b75a866",
+    "title": "The race to port GTA 6 to PC, explained",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained",
+    "source": "PC Gamer",
+    "published_at": "2026-11-24T21:47:58+00:00",
+    "collected_at": "2026-11-25T16:37:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "GTA 6 could be a PC game (illegally) in a matter of days.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3d3a7f53cfc24e88d873",
+    "title": "Fan-favorite Diablo 2 anniversary bosses and items won't disappear when Diablo 4's next season starts",
+    "url": "https://www.pcgamer.com/games/rpg/fan-favorite-diablo-2-anniversary-bosses-and-items-wont-disappear-when-diablo-4s-next-season-starts",
+    "source": "PC Gamer",
+    "published_at": "2026-11-24T21:39:22+00:00",
+    "collected_at": "2026-11-25T16:37:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Most of the secrets from the current season aren't going anywhere.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "51035ae4f253c74874d9",
+    "title": "Marathon's new runner shell is a jet-propelled robot samurai who wants to hurt you",
+    "url": "https://www.pcgamer.com/games/fps/marathons-new-runner-shell-is-a-jet-propelled-robot-samurai-who-wants-to-hurt-you",
+    "source": "PC Gamer",
+    "published_at": "2026-11-24T21:26:03+00:00",
+    "collected_at": "2026-11-25T16:37:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Sounds great!",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "ee4b70d241c3c78f69e0",
+    "title": "An Among Us player and his mom helped rescue a kidnapped girl who'd been missing for more than a year",
+    "url": "https://www.pcgamer.com/games/an-among-us-player-and-his-mom-helped-rescue-a-kidnapped-girl-whod-been-missing-for-more-than-a-year",
+    "source": "PC Gamer",
+    "published_at": "2026-11-24T21:00:51+00:00",
+    "collected_at": "2026-11-25T16:37:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "After connecting in the game, the teens began talking on Discord, which ultimately led to the discovery of her location.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5139c30d9df8654c9338",
+    "title": "Best unique weapons to grab early in GTA 6: Get yourself some silenced weapons without the price tag",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-weapons",
+    "source": "PC Gamer",
+    "published_at": "2026-11-24T20:16:19+00:00",
+    "collected_at": "2026-11-25T16:37:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "There are tons of unique and collectible weapons in GTA 6 but these are the best and easiest to snap up early in the game.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "0fa86ec8b5be5f1d6a5c",
     "title": "How to steal the Ocelot Bloodless Jugular in GTA 6",
     "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ocelot-bloodless-jugular-location",
@@ -22805,240 +23033,6 @@
     "game_ids": [],
     "category": "announcement",
     "summary": "Dear teachers and students,Hello everyone! We are thrilled to share some exciting news with you once again.It has been 10 days since the launch of Worst Class Ever Demo, and the player count has surpassed 300,000! We’ve also claimed the #1 spot for the most popular demo during the Steam Next Fest!This achievement would not have been possible without every one of you supporting us. Every time you launch the game and every piece of feedback you send has helped us reach this milestone.To show our g",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "62b048ddc6e103bdac98",
-    "title": "Version 1.5.8.4 adds a few minor changes and fixes.",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114035014",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-23T05:04:27+00:00",
-    "collected_at": "2026-11-18T02:40:49+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Version 1.5.8.4 adds a few minor changes and fixes. New cell Added the \"live milk\" item Reduced the chance of objects hitting the tower Significantly reduced the chance of getting to other worlds in the tower Added a night difficulty system to make it easier to adapt to the process (the first night is easier than the rest) The power supply system has been redesignedMinor corrections have been made",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "82521249b3296b321a0e",
-    "title": "ERLIK 0.5.26: Tonight's Törüs and Reworked Evolutions",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114034394",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-22T22:52:41+00:00",
-    "collected_at": "2026-11-09T02:00:36+08:00",
-    "game_ids": [
-      "steam-4917630"
-    ],
-    "category": "industry",
-    "summary": "Tonight's Törüs Every run now offers three oaths at once: an easy one, a medium one and a hard one. Each shows its reward up front: Kut, sometimes with a chest on top. Finished oaths are replaced by new ones as the night goes on. An oath you cannot finish in time quietly expires and a new one takes its place. Don't like an oath? Hold CHANGE in the pause menu to swap it for Kut (5, then 15, then 25). Evolutions Evolutions were reworked, each with its own effect, look and punch. A few examples: Sk",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "5c46c40e3c9d3fd71a17",
-    "title": "The House Dreams Along With Them releases November 10th, 2026",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114033806",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-22T18:22:29+00:00",
-    "collected_at": "2026-11-10T15:21:51+08:00",
-    "game_ids": [
-      "steam-3891660"
-    ],
-    "category": "release",
-    "summary": "I'm proud to announce that The House Dreams Along With Them will be released on November 10th, 2026! To celebrate the occasion, I've created a Release Date Trailer! Extra thanks to my friend, Corey, for providing the \"other\" voice in the trailer.In addition to the release date announcement, the store page has also been refreshed with fancy new gifs in the game's description.If you're still reading this, thank you for your support! I'm excited to see how many of the house's mysteries you'll be ab",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "3721863d87e5d6ec3d4e",
-    "title": "1 000 wishlists! You’re out of this world 🛸",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114033512",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-22T16:59:36+00:00",
-    "collected_at": "2026-11-02T18:28:34+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Not Now, Aliens! has reached 1 000 wishlists on Steam!This is a huge moment for us. A thousand people looked at this chaos full of gravity guns and aliens and thought, “Yep, I need this.” Looks like we’ve found our people ❤️Thank you to everyone who wishlisted the game, told their friends about it, shared feedback, or has been following development. Your support keeps us going, and we can’t wait to give you more reasons to laugh with your friends.We’re keeping busy working on the game. There’s p",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "0a670e7e979cf657d287",
-    "title": "Main Menu Music",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114032067",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-22T10:24:24+00:00",
-    "collected_at": "2026-11-17T03:43:31+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "I forgot it. Yeah.Added music to the main menu.That's it.Enjoy.",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "5d65627b5a37db92efa1",
-    "title": "Release date announced: November 13!",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031605",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-22T07:43:23+00:00",
-    "collected_at": "2026-11-20T15:18:45+08:00",
-    "game_ids": [],
-    "category": "release",
-    "summary": "Hello from SUPERLINK! This is our very first post here, and we come bearing a date. Snow White and the Dwarf Slaves launches on Steam on November 12, 2026 at 8:00 PM PST (November 13, 1:00 PM KST). Launch times Nov 12, 8:00 PM PST / 11:00 PM EST Nov 13, 4:00 AM GMT / 5:00 AM CET Nov 13, 12:00 PM Beijing / Taipei Nov 13, 1:00 PM KST / JST {STEAM_CLAN_IMAGE}/46571470/9d4c7e2bf3e2186bdf802fc83efd99924895e622.png Snow White is a dragon A very cute dragon, who has claimed a dwarf village as her own. ",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "fbfa2e9975b5cd320812",
-    "title": "Next Fest, halfway: five languages, a four-hour stream, five keys to win",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031588",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-22T07:39:33+00:00",
-    "collected_at": "2026-11-09T02:00:34+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Three days into Steam Next Fest. Thanks to everyone who landed in the fog this week. Here is where things stand. Five interface languages. The demo now plays in English, Simplified Chinese, Spanish, Portuguese (Brazil) and Russian. Switch in Options. The store page is in those languages too. Spotted a wrong word? Tell me in the discussions, the tables get fixes before launch. A four-hour session to watch. RonEmpire played the full game from planetfall through the campaign: Colonize an Alien Plan",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "393debcbf36ce7329f09",
-    "title": "Version 1.5.8.3 (fixed)",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031038",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-22T03:14:03+00:00",
-    "collected_at": "2026-11-18T02:40:49+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Version 1.5.8.3 (fixed)The balance of the house has been rewritten, now the chairs do not work on the doors of the second floorThe Grey Watchers lost 50% of their healthFixed items descriptionsThe artificial intelligence in the store has been improved, and there should be no cracks under the floor and walls.The image can be hung correctlyADDITIONS TO THE WORLDA new microcosm in the fire tower Added 3 new hints (1 house and 2 worlds)A new sign at the edge of the worldAdded new music for enemiesan",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "357f211bb6dd214ef67c",
-    "title": "Original Soundtrack Announced!",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114031020",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-22T03:01:08+00:00",
-    "collected_at": "2026-11-10T15:21:56+08:00",
-    "game_ids": [],
-    "category": "announcement",
-    "summary": "Annihilated Original Soundtrack has been announced!The soundtrack features all 27 tracks from the game. The digital edition will be released on Steam on November 10, alongside the game.▼ Annihilated Original Soundtrack (Digital Edition) on SteamCD Edition Now Available for Pre-OrderPre-orders for the CD edition are now open on the official shop of composer NINOMIYA Yuji. Sabotenshi, the illustrator of Annihilated, drew new artwork for the album cover. The CD also includes a booklet featuring beh",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "61697d78c70ab2332acb",
-    "title": "Opening October 28: What's in Store for 1.0 Release?",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114030254",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-21T20:38:07+00:00",
-    "collected_at": "2026-11-02T18:28:52+08:00",
-    "game_ids": [],
-    "category": "release",
-    "summary": "Just a week away from launch day!With Probably Stolen launching on October 28th, we wanted to give you an overview of all the features and content you can expect in the full 1.0 release. Do keep in mind, however, that the release of 1.0 does not mean the end of development. We plan to continue developing the game with regular free content updates after release.Here's what will be new in 1.0:Game EndingWhere you can purchase and own the store. However, now when achieving this massive goal, you'll",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "3225d4fa852fbe2c5665",
-    "title": "Update 0.5.18: Tougher Bosses, Fairer Builds",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029906",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-21T18:14:50+00:00",
-    "collected_at": "2026-11-09T02:00:36+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Thank you to everyone streaming and playing during Next Fest. Watching your runs showed us a few things to fix, so here they are. Balance Fixed an exploit that let evolution passives stack past the passive slot limit. You can now hold at most one extra passive while chasing an evolution. Töz stones still sit outside the limit. Biome bosses attack more often, especially in their second phase. Kül-Kurgan rolls twice in a row more often, and Germakoçi Ana calls her children sooner. Elites and mini-",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "941b37faeddbf8cf091d",
-    "title": "Caldra: 0.1.0 Update",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029007",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-21T14:24:05+00:00",
-    "collected_at": "2026-11-07T00:51:28+08:00",
-    "game_ids": [
-      "steam-4452480"
-    ],
-    "category": "industry",
-    "summary": "Patch Notes As Heepcaps begin to make their way onto our dining tables, I hope all you Owners are doing well! This time, we're bringing you a long-awaited new class, new cards, and new gameplay systems! Without further ado, let's jump right in! First, let's start with the trailer! Ver. 0.1.0 Introduction Trailer New Class: Hunter Arrives! Hunter's defining feature is \"Treasure Hunt,\" a mechanic centered around searching for treasure. Reroll the shop, search for treasure chests, and claim the rew",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
