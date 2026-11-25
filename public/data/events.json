@@ -1553,5 +1553,89 @@
     "history": [],
     "verification_note": "Steam 商店显示的计划日期，日精度、原始时区未知（可能与北京时间相差一天）；须以官方精确时刻复核。首次公布时间未知，不用于历史已知信息回放。",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "72a189a12ee53caafb9f",
+    "game_id": "steam-5537900",
+    "title": "Cherry Time! broadcast set for November 27 featuring “exciting announcements” and Hollow Knight: Silksong free expansion ‘Sea of Sorrow’",
+    "type": "announcement",
+    "importance": "A",
+    "event_date": null,
+    "announced_at": "2026-11-25T15:15:11+00:00",
+    "first_seen_at": "2026-11-26T03:27:17+08:00",
+    "status": "rumored",
+    "source_urls": [
+      "https://www.gematsu.com/2026/11/cherry-time-broadcast-set-for-november-27-featuring-exciting-announcements-and-hollow-knight-silksong-free-expansion-sea-of-sorrow"
+    ],
+    "source_ids": [
+      "17faf12f189d4f9287b6"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "24afa9803899255d7601",
+    "game_id": "steam-3802500",
+    "title": "Splatchinko Update 1.4: Post-Launch Balancing, End-Game Mutations & Thank You!",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-17T15:02:31+00:00",
+    "first_seen_at": "2026-11-26T03:27:17+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702694062"
+    ],
+    "source_ids": [
+      "0cbd1556b66e6c685102"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "8ba10ed2bc144573a3f0",
+    "game_id": "steam-3802500",
+    "title": "Launching Tomorrow! The Splatchinko Discord Is Waiting for You",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-11T14:49:41+00:00",
+    "first_seen_at": "2026-11-26T03:27:17+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144178917"
+    ],
+    "source_ids": [
+      "6850537b5a7ddeedb8b7"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "423e5d796a352a89c8e1",
+    "game_id": "steam-3802500",
+    "title": "🔴 LIVE: Splatchinko Launch Eve with CasualNerds",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-11T14:02:24+00:00",
+    "first_seen_at": "2026-11-26T03:27:17+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144178791"
+    ],
+    "source_ids": [
+      "b9b5ab85bcb1042d16f8"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]

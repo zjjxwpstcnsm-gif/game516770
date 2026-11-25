@@ -8654,14 +8654,14 @@
     }
   ],
   "holdings_as_of": "2026-09-30",
-  "holdings_status": "ok",
+  "holdings_status": "historical_snapshot",
   "collection_status": "ok",
   "limitations": [
     "价格为场内未复权收盘价，非净值、非实时行情",
     "历史持仓未核验，不计算直接收益权重"
   ],
   "holdings_evidence": {
-    "status": "ok",
+    "status": "historical_snapshot",
     "as_of": "2026-09-30",
     "holdings": [
       {
@@ -8802,7 +8802,8 @@
     ],
     "source_url": "https://fundf10.eastmoney.com/ccmx_516770.html",
     "published_at": null,
-    "limitation": "披露期持仓快照，非实时权重；公告时间缺失，不用于历史时点策略；披露可能仅前十大"
+    "limitation": "披露期持仓快照，非实时权重；公告时间缺失，不用于历史时点策略；披露可能仅前十大",
+    "error": "ConnectTimeout"
   },
   "calendar_verified": true,
   "calendar": {
