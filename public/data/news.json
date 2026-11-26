@@ -1,5 +1,368 @@
 [
   {
+    "id": "d10f9b53074a563cb43f",
+    "title": "Dev team who delayed their game a year to avoid Silksong says they won't do it again for whatever Team Cherry announces tomorrow: 'This time we're staying put'",
+    "url": "https://www.pcgamer.com/games/action/dev-team-who-delayed-their-game-a-year-to-avoid-silksong-says-they-wont-do-it-again-for-whatever-team-cherry-announces-tomorrow-this-time-were-staying-put",
+    "source": "PC Gamer",
+    "published_at": "2026-11-26T18:31:22+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "delay",
+    "summary": "Aeternum Game Studios does have a question, though: \"Is it just us, or does the universe have it in for us?\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "1d37198492bdd4fc169d",
+    "title": "Black Friday SSD deals 2026",
+    "url": "https://www.pcgamer.com/black-friday-ssd-deals",
+    "source": "PC Gamer",
+    "published_at": "2026-11-26T17:33:16+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Black Friday has already begun, making it the perfect time to scout out the ultimate storage upgrade.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "c07d1fb55b11de421b18",
+    "title": "I would die for this Razer Hello Kitty & Friends wired gaming keyboard, but now I don't have to thanks to this Black Friday deal",
+    "url": "https://www.pcgamer.com/hardware/gaming-keyboards/i-would-die-for-this-razer-hello-kitty-and-friends-wired-gaming-keyboard-but-now-i-dont-have-to-thanks-to-this-black-friday-deal",
+    "source": "PC Gamer",
+    "published_at": "2026-11-26T16:58:45+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Anything for you Hello Kitty.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3f36441efe2aed1f92cf",
+    "title": "Aspects of GTA 6 are inspired by Red Dead Redemption 2's honor system because its player agency 'was a hard thing to ignore and walk away from'",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/aspects-of-gta-6-are-inspired-by-red-dead-redemption-2s-honor-system-because-its-player-agency-was-a-hard-thing-to-ignore-and-walk-away-from",
+    "source": "PC Gamer",
+    "published_at": "2026-11-26T16:28:37+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [
+      "steam-1174180"
+    ],
+    "category": "industry",
+    "summary": "\"As the resolution goes up, you want the sophistication of the experience to go up.\"",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "26236e3db7d14afce7c9",
+    "title": "Where to find GTA 6's UFO and alien",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto-6/gta-6-alien-ufo-location",
+    "source": "PC Gamer",
+    "published_at": "2026-11-26T16:28:36+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Get down with the extraterrestrial.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "ba3dd046d6a6f7e2e1fd",
+    "title": "Rockstar workers vote overwhelmingly against union recognition",
+    "url": "https://www.pcgamer.com/gaming-industry/rockstar-workers-vote-overwhelmingly-against-union-recognition",
+    "source": "PC Gamer",
+    "published_at": "2026-11-26T16:13:54+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The IWGB says efforts will continue, but with only 25% of Rockstar workers voting in favor, there's a long way to go.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "7355260de2af14012b61",
+    "title": "How to steal the Bravado Banshee in GTA 6",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bravado-banshee-location",
+    "source": "PC Gamer",
+    "published_at": "2026-11-26T16:02:38+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Grab this striped sports car for Randy.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d23df75e19084542901c",
+    "title": "HARK THE GHOUL launches January 21, 2027 for PS5, Xbox Series, Switch 2, Switch, and PC",
+    "url": "https://www.gematsu.com/2026/11/hark-the-ghoul-launches-january-21-2027-for-ps5-xbox-series-switch-2-switch-and-pc",
+    "source": "Gematsu",
+    "published_at": "2026-11-26T15:50:27+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Dungeon crawler HARK THE GHOUL will launch for PlayStation 5, Xbox Series, Switch 2, Switch, &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "301b6a8237450e027c0d",
+    "title": "Thrifty Business for Switch now available",
+    "url": "https://www.gematsu.com/2026/11/thrifty-business-for-switch-now-available",
+    "source": "Gematsu",
+    "published_at": "2026-11-26T15:06:33+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The Switch version of cozy thrift shop management game Thrifty Business is now available for &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "e288760f5d30e58611b3",
+    "title": "Retail Hell coming to PS5, Xbox Series, and Switch",
+    "url": "https://www.gematsu.com/2026/11/retail-hell-coming-to-ps5-xbox-series-and-switch",
+    "source": "Gematsu",
+    "published_at": "2026-11-26T14:46:52+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Publisher Feardemic and developer LEAP Game Studios will release simulation horror game Retail Hell for &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "54a84d1af49212924820",
+    "title": "GTA 6 Truffade Thrax: How to get Andrew Node's supercharged version",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher",
+    "source": "PC Gamer",
+    "published_at": "2026-11-26T14:37:19+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Scan the No Flusher graffiti to steal the fastest car in the game.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "badf78583e3e271a3939",
+    "title": "These budget-friendly pads are the cheapest, quickest way to instantly upgrade your setup for under $25",
+    "url": "https://www.pcgamer.com/hardware/game-pads/these-budget-friendly-pads-are-the-cheapest-quickest-way-to-instantly-upgrade-your-setup-for-under-usd25",
+    "source": "PC Gamer",
+    "published_at": "2026-11-26T14:20:36+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Be a master controller on the cheap.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "5c7f175911daff6b32c8",
+    "title": "Card-based hacking adventure game Hack ’95 to be published by PQube",
+    "url": "https://www.gematsu.com/2026/11/card-based-hacking-adventure-game-hack-95-to-be-published-by-pqube",
+    "source": "Gematsu",
+    "published_at": "2026-11-26T14:13:52+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "PQube will publish Village Studio-developed card-based hacking adventure game Hack &#8217;95 when it launches for &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d312e0fa5d6d8f259194",
+    "title": "Origament: A Paper Adventure now available for PS5, Switch",
+    "url": "https://www.gematsu.com/2026/11/origament-a-paper-adventure-now-available-for-ps5-switch",
+    "source": "Gematsu",
+    "published_at": "2026-11-26T14:08:59+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Platformer adventure game Origament: A Paper Adventure is now available for PlayStation 5 and Switch &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "a7a58f9a2e99e0fc535f",
+    "title": "Famitsu Sales: 11/16/26 – 11/22/26",
+    "url": "https://www.gematsu.com/2026/11/famitsu-sales-11-16-26-11-22-26",
+    "source": "Gematsu",
+    "published_at": "2026-11-26T13:06:03+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "sales",
+    "summary": "Famitsu has published its estimated physical game software data for Japan for the week of &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "0a5eac814c4c25880af2",
+    "title": "Should you participate in GTA 6's Safe Word mission?",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-word-participate-or-not",
+    "source": "PC Gamer",
+    "published_at": "2026-11-26T13:03:16+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Grab the lotion.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "d8ca55cc12588ada0f64",
+    "title": "Forget the turkey, the best thing on your plate this Thanksgiving is this RTX 5070 laptop for just $1,300",
+    "url": "https://www.pcgamer.com/hardware/gaming-laptops/forget-the-turkey-the-best-thing-on-your-plate-this-thanksgiving-is-this-rtx-5070-laptop-for-just-usd1-299",
+    "source": "PC Gamer",
+    "published_at": "2026-11-26T12:00:26+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "And there's a 32 GB version for a tiny bit more.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "99f6ef60f0a79b8d1798",
+    "title": "WoW: Forever fixes one of its most annoying endgame quests the literal day after I do it",
+    "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-fixes-one-of-its-most-annoying-endgame-quests-the-literal-day-after-i-do-it",
+    "source": "PC Gamer",
+    "published_at": "2026-11-26T11:11:17+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "I'm taking this personally.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b9601c73a88ef512059d",
+    "title": "Fate/EXTRA Record characters trailer – Gatou Faction",
+    "url": "https://www.gematsu.com/2026/11/fate-extra-record-characters-trailer-gatou-faction",
+    "source": "Gematsu",
+    "published_at": "2026-11-26T11:05:53+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Publisher Aniplex and developers Meteorise and TYPE-MOON have released a new trailer for Fate/EXTRA Record, &hellip;",
+    "verification_status": "reported",
+    "credibility_score": 80,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "a35e469b341078cd0100",
     "title": "All Missing Persons locations in GTA 6",
     "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations",
@@ -1300,6 +1663,25 @@
     "summary_language": null
   },
   {
+    "id": "758610f6d3cfd4119681",
+    "title": "NEW ENDORSEMENT",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110446038",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-24T12:49:44+00:00",
+    "collected_at": "2026-11-27T03:09:54+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Beyond the Masque of the Red Death has been endorsed by Chris Semptner, curator of The Poe Museum in Virginia!He writes about the game:“Beyond the Masque of the Red Death expands and enriches the experience of Poe's terror tale, enabling players to unravel the mysteries hidden within Poe's text.”Chris Semtner is an internationally recognized expert on Poe’s work with over 25 years’ experience as the curator of the Poe Museum. He has written books on topics including Poe, visual art, and cryptogr",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "c5f04ef93a79cffccb7e",
     "title": "EVO Japan 2027 title lineup announced",
     "url": "https://www.gematsu.com/2026/11/evo-japan-2027-title-lineup-announced",
@@ -1393,6 +1775,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "eca38a6a8734d42c4446",
+    "title": "Upcoming Game Updates",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110444777",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-24T04:27:09+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Hi all,I'm currently looking at implementing these updates to the game:-Larger randomized levels with more hidden areas.-Let players build railways into every explorable area, including forks, loops, and hidden areas.-Add limited-ammo weapons, timed demolition charges which can be picked up, and interactive hazards such as explosive barrels, slowing goo, and acid pools.-Expand industrial objectives with more repairable turrets, shared supply hoppers, and stationary furnaces that replenish ammuni",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -2064,6 +2465,25 @@
     "summary_language": null
   },
   {
+    "id": "ba87af683a291ce5d875",
+    "title": "Patch version 1.1.0",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110440533",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-23T06:21:29+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Changelog:Fixed severe stuttering when playing in Simplified Chinese or Japanese.Build track from either end and return to a fork later to lay its other branches. From the driver’s seat, aim the mouse or right stick to choose what to build.Steer toward a built branch to take it. To reverse onto another branch, let the whole train clear the junction first. The furnace and any rear module follow the selected track.Fixed built rails disappearing at the edge of the minimap.The furnace now shows stor",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "bec29a9e23c4d9549be4",
     "title": "Desert Cleaner 1.8: smoother on older PCs, and 500 thank yous",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110440298",
@@ -2296,6 +2716,25 @@
     "summary_language": null
   },
   {
+    "id": "f5d84b239f4e02dd156f",
+    "title": "Patch ver 1.0.13",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110439036",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-22T17:42:44+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Changelog: Fixed a GPU initialization issue that could cause the full game or demo to crash when loading Level 1 after the opening story on some devices.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "0cd1f21a9e1acce5884d",
     "title": "How to steal the Declasse Vamos in GTA 6",
     "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code",
@@ -2482,6 +2921,27 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "f3d16c90ca2789a0bf79",
+    "title": "Beyond the Masque of the Red Death Out Now!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110438105",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-22T10:05:02+00:00",
+    "collected_at": "2026-11-27T03:09:54+08:00",
+    "game_ids": [
+      "steam-4859890"
+    ],
+    "category": "industry",
+    "summary": "The Game is Out!The game is now available and is launching with a 10% launch discount for the next two weeks!I have taken great care to make sure the game feels very faithful to the style of writing of Edgar Allan Poe which captivated me years ago when I first read some of his works.I hope, whether you are someone intimately familiar with the source material or someone that is just looking for a moody atmospheric mysterious experience, that you will enjoy this short journey. How do I Support the",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -2809,6 +3269,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "31006107ca3f3385d458",
+    "title": "Zombie Police 2 is out now!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110435874",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-21T15:14:54+00:00",
+    "collected_at": "2026-11-27T03:09:52+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Zombie Police: Midsummer Unhappy New Year (Zombie Police 2) is out now as of today, November 22! To everyone who wishlisted the game and waited for launch day: thank you so much! ■ Launch sale: 10% off for 14 days! To celebrate the launch, the game is 10% off for the first 14 days. The first game in the series, Zombie Police: Christmas Dancing with Police Zombies, is on sale too. Don't miss it! ■ What's the story? This time, the setting is the hometown of Tamura, the junior half of our detective",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -5880,6 +6359,25 @@
     "summary_language": null
   },
   {
+    "id": "6ed5001a22566c4819f1",
+    "title": "Demo ver 1.0.9 Added Controller Support",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110424842",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-18T16:01:09+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Changelog:Added support for Xbox, PlayStation, and generic controllers.Switch between controller and keyboard/mouse during play. Button prompts update automatically.Customize controller bindings in Settings.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "1495cd463700cfacd544",
     "title": "Grand Theft Auto VI launches tomorrow, November 19",
     "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19",
@@ -8805,6 +9303,25 @@
     ],
     "category": "release",
     "summary": "Sort & Stack Released now.The card market is overflowing, and it's your job to fix it! Take control of a growing card-destruction operation where every card torn brings you closer to turning a failing business into a profitable empire. Deal cards onto your table, tear through piles, collect coins, and remove excess supply from circulation. What starts as a simple job quickly becomes a satisfying, fast-paced operation packed with powerful upgrades, explosive booster packs, and market manipulation",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "1da0878998f38a14e781",
+    "title": "One week until Zombie Police launches! A few requests for you",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702683696",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-14T15:13:09+00:00",
+    "collected_at": "2026-11-27T03:09:52+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Zombie Police: Midsummer Unhappy New Year (Zombie Police 2) launches in just one week! Between the final polish and the nerves, we can hardly sit still. With launch right around the corner, we've put together a few small requests for all of you. Please bear with us! ■ It's numbered \"2,\" but you can start right here! This is the third Zombie Police game, but it carries the number \"2.\" That said, Zombie Police 2 is a great place to start the series! If you've played the earlier games, you'll enjoy",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -21999,6 +22516,25 @@
     "summary_language": null
   },
   {
+    "id": "cf01fcc540a6d1c194f0",
+    "title": "Demo Update 1",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302242160",
+    "source": "Steam 官方公告",
+    "published_at": "2026-10-31T13:39:58+00:00",
+    "collected_at": "2026-11-27T03:09:58+08:00",
+    "game_ids": [],
+    "category": "demo",
+    "summary": "Added:Pulsing low-ammo, overheating, and turret/furnace damage warnings.Smoke and yellow sparks from damaged machinery, including improved placement and layering.The optional defense turret in level 2, its Engineering Point reward, and clearer objective instructions.Better ammo-switching advice and corrected iron-collection dialogue.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "e99a1ce06b42d531fa34",
     "title": "I'm 100% here for a more grounded, realistic GTA 6, one I believe won't come at the expense of its usual haphazard chaos",
     "url": "https://www.pcgamer.com/games/grand-theft-auto/im-100-percent-here-for-a-more-grounded-realistic-gta-6-one-i-believe-wont-come-at-the-expense-of-its-usual-haphazard-chaos",
@@ -22491,544 +23027,6 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "8a90e4a3c69c058fee65",
-    "title": "Road Ahead",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302238574",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-30T13:27:28+00:00",
-    "collected_at": "2026-11-02T18:29:00+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Thank you, and here’s the road aheadNomad Drive has been in Early Access for a few days, and the response has blown us away. Thank you to everyone who bought the game, left a review, reported a bug or stopped by the Discord. We’re reading everything, and the first fixes are already on the way.Early Access Roadmap – Phase 1Update 1New points of interestNew RVsTowing system with trailers and towable vehiclesSleeping system with sleeping bags and bedsNew furniture and decorationsNew decal painting ",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "ff115f34789dcbca9e93",
-    "title": "Honkai: Star Rail version 4.7 update ‘Now, Lay Laughter to All Stars’ launches November 11",
-    "url": "https://www.gematsu.com/2026/10/honkai-star-rail-version-4-7-update-now-lay-laughter-to-all-stars-launches-november-11",
-    "source": "Gematsu",
-    "published_at": "2026-10-30T13:18:21+00:00",
-    "collected_at": "2026-11-02T18:25:57+08:00",
-    "game_ids": [],
-    "category": "release",
-    "summary": "The version 4.7 update for Honkai: Star Rail, dubbed &#8220;Now, Lay Laughter to All Stars,&#8221; &hellip;",
-    "verification_status": "reported",
-    "credibility_score": 80,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "4ea6ce0c0860967dabe3",
-    "title": "Character Trailers Released",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302238118",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-30T11:14:40+00:00",
-    "collected_at": "2026-11-10T15:21:56+08:00",
-    "game_ids": [],
-    "category": "release",
-    "summary": "Who will you choose?",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "f669ac2757c1f0bfaaf2",
-    "title": "DEMO 2.0 is OUT!",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302238048",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-30T10:46:45+00:00",
-    "collected_at": "2026-11-09T14:34:45+08:00",
-    "game_ids": [],
-    "category": "demo",
-    "summary": "Hello Mushroom enthusiasts! We bring you Demo update!What's new:Unlocked Repeller mushroom to fight that sneaky HedgehogNew visuals addedSave system implementedTweaked the balanceHope you will enjoy it even more! And don't forget to wishlist the game here:Full release is very very soon! (hopefully November 3rd)Cheers.",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "87c365aa8a077ad191b9",
-    "title": "Fortune Favors the Bold: Buff the Monsters?!",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302237730",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-30T09:00:25+00:00",
-    "collected_at": "2026-11-02T18:29:06+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Just 3 days until Legend of Defenders officially launches on November 2 at 1:00 AM (PST)!Nothing beats the satisfaction of watching waves of enemies turn into a screen full of Crit numbers as the Cryomancer and Fire Tree Turret unleash a dazzling mix of ice and fire, while coins pour into your coffers. If regular defense isn't thrilling enough for you, try placing a Solar Turret on your battlefield! It directly boosts incoming enemies' Attack and HP, making your defenses much more challenging in",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "05976eb998ee56f5233a",
-    "title": "Thank You for Playing! Avalon Jewels 3 Launches November 10",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302237655",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-30T08:28:15+00:00",
-    "collected_at": "2026-11-19T15:28:28+08:00",
-    "game_ids": [],
-    "category": "release",
-    "summary": "Thank you to everyone who played the Avalon Jewels 3 Collector's Edition demo during Steam Next Fest!We hope you enjoyed your first steps into the magical world of Avalon. Your adventure is only beginning, and there is much more waiting in the full game.The full adventure arrives November 10!Explore enchanted lands, face the Shadow King's minions, and restore Avalon's fading magic across 250 handcrafted Match-3 levels. Choose the relaxing pace of Relaxed Mode or the challenge of Puzzle Mode.Have",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "d427096031bda518b51b",
-    "title": "Playtest Has Begun!",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302237527",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-30T07:34:01+00:00",
-    "collected_at": "2026-11-15T14:36:25+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "I need your help to make the finishing touches! The playtest will feature the game in a development stage that’s very close to the end product, only lacking your input. During the week, I will be adding small bug fixes, the last audio bites, and lastly the music. During the game you can leave feedback through the menus, but there will also be a survey at the end I hope you will fill out. It’s not a long one, but holds very valuable information for the development. Thank you to everyone who has s",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "8a98d95fba3b62140539",
-    "title": "Patch Notes Version 2.04.00 (All Platforms Hotfix)",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302237512",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-30T07:26:23+00:00",
-    "collected_at": "2026-11-21T01:54:45+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Fellow Greymanes, Here are the fixes and improvements that have been added this patch. Update ScheduleThe patch is rolling out across all platforms. Please refer to the Update section below to see the state of the patch for each platform. UpdateSteam (PC): Patch available now Steam (Mac): Patch available now The game version will display as 2.04.00 even after installing patch, but the improvements will still be applied without an issue. The game version will be updated correctly with future patc",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "2e1eaf7e991dde92988f",
-    "title": "Clicker Astro Planet 2 — Full Version Releases November 2",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302237367",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-30T06:07:59+00:00",
-    "collected_at": "2026-11-02T18:29:08+08:00",
-    "game_ids": [
-      "steam-4620670"
-    ],
-    "category": "release",
-    "summary": "Clicker Astro Planet 2 launches on November 2 in full version.The full game features a different progression system compared to the demo. The game rewards experimentation and different ways to gather as much energy as possible before prestiging.For example, you can buy an upgrade for cosmic stars. When they appear on the planet, instead of collecting them immediately, you can wait for a bonus Moon. The Moon gives a temporary bonus — if you collect the stars during this time, you get a big boost ",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "a1ac1267424e1c95e2ad",
-    "title": "Seeker Eye adds Switch 2 version, launches February 25, 2027 in Japan",
-    "url": "https://www.gematsu.com/2026/10/seeker-eye-adds-switch-2-version-launches-february-25-2027-in-japan",
-    "source": "Gematsu",
-    "published_at": "2026-10-30T03:32:21+00:00",
-    "collected_at": "2026-11-02T18:25:57+08:00",
-    "game_ids": [],
-    "category": "release",
-    "summary": "&#8220;Non-science&#8221; occult suspense visual novel Seeker Eye will launch for PlayStation 5, Switch 2, and &hellip;",
-    "verification_status": "reported",
-    "credibility_score": 80,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "68ce821070b67dc651a5",
-    "title": "Petit Planet launches December 4",
-    "url": "https://www.gematsu.com/2026/10/petit-planet-launches-december-4",
-    "source": "Gematsu",
-    "published_at": "2026-10-30T02:08:42+00:00",
-    "collected_at": "2026-11-02T18:25:57+08:00",
-    "game_ids": [],
-    "category": "release",
-    "summary": "Cosmic life simulation game Petit Planet will launch for PC via Epic Games Store and &hellip;",
-    "verification_status": "reported",
-    "credibility_score": 80,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "1c0439e42d9d6b6157b3",
-    "title": "Death Stranding Isolations teaser trailer, first details",
-    "url": "https://www.gematsu.com/2026/10/death-stranding-isolations-teaser-trailer-first-details",
-    "source": "Gematsu",
-    "published_at": "2026-10-30T01:40:14+00:00",
-    "collected_at": "2026-11-02T18:25:57+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Kojima Productions has released a teaser trailer and new information for Death Stranding Isolations, the &hellip;",
-    "verification_status": "reported",
-    "credibility_score": 80,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "eee7c399ad01110364b1",
-    "title": "A Note on the Release Date",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302236896",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-30T01:27:25+00:00",
-    "collected_at": "2026-11-20T02:25:25+08:00",
-    "game_ids": [],
-    "category": "release",
-    "summary": "Our launch will not happen on October 30 as originally planned, due to a delayin platform review scheduling.The game itself is complete and has passed our own testing — the store page, thebuild and all three localizations are in place. We are currently only waiting onthe platform's review process.We will make the game available immediately once the review is complete, and willpost the exact timing here as soon as we have it.Thank you to everyone who has wishlisted the game. We will bring you a d",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "d8a4750e77f346f36c51",
-    "title": "Resonance of Fate Enhanced Remaster now available for PS5, PC",
-    "url": "https://www.gematsu.com/2026/10/resonance-of-fate-enhanced-remaster-now-available-for-ps5-pc",
-    "source": "Gematsu",
-    "published_at": "2026-10-30T00:15:42+00:00",
-    "collected_at": "2026-11-02T18:25:57+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "tri-Ace has announced &#8220;gunplay symphony RPG&#8221; Resonance of Fate Enhanced Remaster for PlayStation 5 and &hellip;",
-    "verification_status": "reported",
-    "credibility_score": 80,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "414fcf259482fdb989cc",
-    "title": "Charting the Unknown Is Now Available",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302236523",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-29T22:09:43+00:00",
-    "collected_at": "2026-11-21T01:54:45+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Crimson Desert’s DLC, Charting the Unknown, has officially launched! We would like to thank our community once again for your incredible support since day one. We sincerely hope you enjoy the new adventures we’ve prepared for you in Charting the Unknown, and we can’t wait to see the new stories you create in Pywel. For more details, please check the latest patch notes here: LINK To ensure that the base game and the DLC content work as intended, always update to the latest game version before you",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "0c9fd06ad11a4abf3d36",
-    "title": "Patch Notes Version 2.04.00",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302236522",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-29T22:09:30+00:00",
-    "collected_at": "2026-11-21T01:54:45+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Charting the UnknownReach Beyond, Into the UnknownHello Greymanes, Crimson Desert: Enhanced's DLC 'Charting the Unknown' is finally here. From uncharted islands beyond the sea to the ocean’s depths, explore Pywel to your heart’s content. Update ScheduleThe patch is rolling out across all platforms. Please refer to the Update section below to see the state of the patch for each platform. UpdateSteam (PC): Patch available now Steam (Mac): Patch available now * Due to technical adjustments applied ",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "fc3c7b8524a40b2b2873",
-    "title": "Handmancers is leaving Early Access and launching in version 1.0 on November 12",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302236086",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-29T19:11:29+00:00",
-    "collected_at": "2026-11-23T03:54:55+08:00",
-    "game_ids": [
-      "steam-2423290"
-    ],
-    "category": "release",
-    "summary": "Heyo everyone! We're incredibly excited to finally share the news: Handmancers is leaving Early Access and launching in version 1.0 on November 12! 🎉A new playable class, new encounters, Artifacts, and much more are coming with the full release!It's been quite a journey since our Early Access launch in May, with countless Rock-Paper-Scissors battles and tons of valuable feedback from the community!Over the past few months, we've been adding new content, improving existing systems, and refining t",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "249aff2440b274c16a90",
-    "title": "350,000 Shopkeepers in 24 hours! THANK YOU",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302236082",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-29T19:08:54+00:00",
-    "collected_at": "2026-11-02T18:28:52+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "We can't really believe it. It's been a full 24 hours since we've launched Probably Stolen, and we have a massive THANK YOU to say to all of you who played it on Steam. Your support carried us to the top of Steam charts.Here's what we all achieved together:350,000+ copies sold in the first 24 hours!320,000+ unique players112,000+ peak concurrent players - just near another fantastic Cyberpunk game! Global Top 12 most-played game on SteamFinishing day one as one of the 12th most played games on S",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "f01759add0118769de1f",
-    "title": "Football Manager 27 is free to play until 3 November",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235961",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-29T18:28:05+00:00",
-    "collected_at": "2026-11-09T02:00:42+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Start making the calls that will shape your season. The FM27 Launch Preview is now free to play on PC/Mac until 6pm (GMT) on 3 November. Available now* and running for the next five days, the FM27 Launch Preview will be freely playable across Steam, Epic, the Microsoft Store, Xbox Game Pass and PC Game Pass**. There’s no additional sign-up required, simply download from your preferred platform and begin turning your football vision into dugout decisions. This is your chance to get hands-on with ",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "2a2ce5bc5d530c7c7ee9",
-    "title": "PUBG live-action series in development at Netflix",
-    "url": "https://www.gematsu.com/2026/10/pubg-live-action-series-in-development-at-netflix",
-    "source": "Gematsu",
-    "published_at": "2026-10-29T17:39:54+00:00",
-    "collected_at": "2026-11-02T18:25:57+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "A live-action series adaptation of PUBG is in development at Netflix, KRAFTON announced. Two-time Emmy &hellip;",
-    "verification_status": "reported",
-    "credibility_score": 80,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "35d605b7b6949d3e5baa",
-    "title": "Leaf Blower Co. for PS5, Xbox Series launches November 13",
-    "url": "https://www.gematsu.com/2026/10/leaf-blower-co-for-ps5-xbox-series-launches-november-13",
-    "source": "Gematsu",
-    "published_at": "2026-10-29T16:51:48+00:00",
-    "collected_at": "2026-11-02T18:25:57+08:00",
-    "game_ids": [],
-    "category": "release",
-    "summary": "Leaf blowing simulation game Leaf Blower Co. will launch for PlayStation 5 and Xbox Series &hellip;",
-    "verification_status": "reported",
-    "credibility_score": 80,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "ee7662ae5da3a9052aec",
-    "title": "Report: The Elder Scrolls VI subtitled Sentinel",
-    "url": "https://www.gematsu.com/2026/10/report-the-elder-scrolls-vi-subtitled-sentinel",
-    "source": "Gematsu",
-    "published_at": "2026-10-29T16:28:03+00:00",
-    "collected_at": "2026-11-02T18:25:57+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "The 2018-announced sixth entry in the Elder Scrolls series is officially titled The Elder Scrolls &hellip;",
-    "verification_status": "reported",
-    "credibility_score": 80,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "3d0d28546fe668d31979",
-    "title": "Watch Stellar Nursery",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235468",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-29T16:26:09+00:00",
-    "collected_at": "2026-11-05T14:49:55+08:00",
-    "game_ids": [
-      "steam-5046850"
-    ],
-    "category": "industry",
-    "summary": "This is a loop of real play recorded from the full game of Stellar Nursery, with the game's own music. Light a dead star again and bring the solar system back to life, with P.O.R.T.I.A., the caretaker who kept it through a hundred thousand dark years.Stellar Nursery is out now on Steam. Played the demo? Your progress carries into the full game (same computer).",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "072cdfabf0dbbcb1a434",
-    "title": "Virtua Fighter Crossroads adds Lionel Rafale",
-    "url": "https://www.gematsu.com/2026/10/virtua-fighter-crossroads-adds-lionel-rafale",
-    "source": "Gematsu",
-    "published_at": "2026-10-29T15:06:13+00:00",
-    "collected_at": "2026-11-02T18:25:57+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Publisher SEGA and developer RGG Studio have released a new trailer for Virtua Fighter Crossroads &hellip;",
-    "verification_status": "reported",
-    "credibility_score": 80,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "f34e8d2711555ee6c5cb",
-    "title": "City Corner #14 - Shaping the Environment",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302235115",
-    "source": "Steam 官方公告",
-    "published_at": "2026-10-29T15:00:30+00:00",
-    "collected_at": "2026-11-21T01:54:47+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Hello Mayors!We are back with another City Corner turned Dev Diary! After taking a closer look at the design choices of Park Adventures, it is time to turn our attention to something that can make quite a difference to your cities, even if you have not yet built a single road: the environment. From the landscapes beyond your city’s limits to the ground beneath your citizens’ feet, there is a lot more going on than meets the eye. So, who better to tell us about all of it than the developers worki",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "b8395740f327ba53fb4d",
-    "title": "The Dark Queen of Mortholme coming to PS5, Xbox Series, and Switch on December 3",
-    "url": "https://www.gematsu.com/2026/10/the-dark-queen-of-mortholme-coming-to-ps5-xbox-series-and-switch-on-december-3",
-    "source": "Gematsu",
-    "published_at": "2026-10-29T14:31:47+00:00",
-    "collected_at": "2026-11-02T18:25:57+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Publisher Rhine Games, in cooperation with Monster Theater, will release Mosu-developed side-scrolling action adventure game &hellip;",
-    "verification_status": "reported",
-    "credibility_score": 80,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "f204f450810e16e85d9e",
-    "title": "Adorable Adventures coming to Switch 2 on November 12",
-    "url": "https://www.gematsu.com/2026/10/adorable-adventures-coming-to-switch-2-on-november-12",
-    "source": "Gematsu",
-    "published_at": "2026-10-29T14:27:39+00:00",
-    "collected_at": "2026-11-02T18:25:57+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Publisher PQube and developer Wild Sheep Studio will release a Switch 2 version of cozy &hellip;",
-    "verification_status": "reported",
-    "credibility_score": 80,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "d92f43fadae2d83c7578",
-    "title": "The Duskbloods delayed to 2027",
-    "url": "https://www.gematsu.com/2026/10/the-duskbloods-delayed-to-2027",
-    "source": "Gematsu",
-    "published_at": "2026-10-29T14:06:21+00:00",
-    "collected_at": "2026-11-02T18:25:57+08:00",
-    "game_ids": [],
-    "category": "delay",
-    "summary": "FromSoftware has delayed player-versus-player-versus-environment-based multiplayer action game The Duskbloods from its previously planned 2026 release &hellip;",
-    "verification_status": "reported",
-    "credibility_score": 80,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
     "summary_status": "source_excerpt",
     "summary_language": null
   }
