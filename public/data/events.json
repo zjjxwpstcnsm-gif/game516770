@@ -1637,5 +1637,26 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "2a085efa43eeaa00ae63",
+    "game_id": "steam-5537900",
+    "title": "Demo v1.90: a restored night scene and cleaner visuals",
+    "type": "demo",
+    "importance": "A",
+    "event_date": null,
+    "announced_at": "2026-11-06T05:12:11+00:00",
+    "first_seen_at": "2026-11-26T16:21:54+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643344251"
+    ],
+    "source_ids": [
+      "043fcdc454d5260c36fb"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]

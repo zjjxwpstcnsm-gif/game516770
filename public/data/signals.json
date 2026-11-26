@@ -1989,7 +1989,7 @@
   {
     "signal_date": "2026-11-26",
     "etf_code": "516770",
-    "data_cutoff_time": "2026-11-25T15:00:00+08:00",
+    "data_cutoff_time": "2026-11-26T15:00:00+08:00",
     "signal": "减仓风险",
     "signal_score": 0.0,
     "confidence_basis": "启发式规则，尚未经足够样本的独立验证；评分不是上涨概率",
@@ -2007,16 +2007,16 @@
     ],
     "strategy_version": "1.0.0-heuristic",
     "source_ids": [
-      "prices:516770:2026-11-25"
+      "prices:516770:2026-11-26"
     ],
     "score_breakdown": [],
-    "price_age_days": 1,
-    "recorded_at": "2026-11-26T03:27:17+08:00"
+    "price_age_days": 0,
+    "recorded_at": "2026-11-26T16:21:54+08:00"
   },
   {
     "signal_date": "2026-11-26",
     "etf_code": "159869",
-    "data_cutoff_time": "2026-11-25T15:00:00+08:00",
+    "data_cutoff_time": "2026-11-26T15:00:00+08:00",
     "signal": "减仓风险",
     "signal_score": 0.0,
     "confidence_basis": "启发式规则，尚未经足够样本的独立验证；评分不是上涨概率",
@@ -2034,16 +2034,16 @@
     ],
     "strategy_version": "1.0.0-heuristic",
     "source_ids": [
-      "prices:159869:2026-11-25"
+      "prices:159869:2026-11-26"
     ],
     "score_breakdown": [],
-    "price_age_days": 1,
-    "recorded_at": "2026-11-26T03:27:17+08:00"
+    "price_age_days": 0,
+    "recorded_at": "2026-11-26T16:21:54+08:00"
   },
   {
     "signal_date": "2026-11-26",
     "etf_code": "516010",
-    "data_cutoff_time": "2026-11-25T15:00:00+08:00",
+    "data_cutoff_time": "2026-11-26T15:00:00+08:00",
     "signal": "减仓风险",
     "signal_score": 0.0,
     "confidence_basis": "启发式规则，尚未经足够样本的独立验证；评分不是上涨概率",
@@ -2061,10 +2061,10 @@
     ],
     "strategy_version": "1.0.0-heuristic",
     "source_ids": [
-      "prices:516010:2026-11-25"
+      "prices:516010:2026-11-26"
     ],
     "score_breakdown": [],
-    "price_age_days": 1,
-    "recorded_at": "2026-11-26T03:27:17+08:00"
+    "price_age_days": 0,
+    "recorded_at": "2026-11-26T16:21:54+08:00"
   }
 ]
