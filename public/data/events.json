@@ -1658,5 +1658,68 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "5e739fc2c29513cc4f07",
+    "game_id": "steam-5537900",
+    "title": "Hollow Knight: Silksong free expansion ‘Sea of Sorrow’ launches December 11",
+    "type": "release",
+    "importance": "A",
+    "event_date": null,
+    "announced_at": "2026-11-27T15:11:41+00:00",
+    "first_seen_at": "2026-11-28T03:05:17+08:00",
+    "status": "rumored",
+    "source_urls": [
+      "https://www.gematsu.com/2026/11/hollow-knight-silksong-free-expansion-sea-of-sorrow-launches-december-11"
+    ],
+    "source_ids": [
+      "9dda8988b31c6ba03df8"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "78f3fc3259ec9e432459",
+    "game_id": "steam-5537900",
+    "title": "Steam Announcement: Last Day! Rebirth 2 Launch Discount Ends Tonight",
+    "type": "release",
+    "importance": "A",
+    "event_date": null,
+    "announced_at": "2026-11-27T07:12:45+00:00",
+    "first_seen_at": "2026-11-28T03:05:17+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852988421"
+    ],
+    "source_ids": [
+      "a9ab1525c66a5b9031ce"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "6ad419415c891c3f9558",
+    "game_id": "steam-4224090",
+    "title": "Powerfuel final delay",
+    "type": "delay",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-23T16:09:29+00:00",
+    "first_seen_at": "2026-11-28T03:05:17+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110442217"
+    ],
+    "source_ids": [
+      "54376a63a1792903a6e7"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]
