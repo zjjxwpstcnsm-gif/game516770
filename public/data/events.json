@@ -1721,5 +1721,68 @@
     "history": [],
     "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
     "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "706abf10e1541e839f60",
+    "game_id": "steam-5268810",
+    "title": "Flak Simulator - Early Access release!",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-26T19:53:50+00:00",
+    "first_seen_at": "2026-11-28T15:51:43+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852987029"
+    ],
+    "source_ids": [
+      "fc793899953976af0207"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "c52d5f78d553f29fcf45",
+    "game_id": "steam-5114180",
+    "title": "Prism Factory is out now — past the end of the demo",
+    "type": "demo",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-26T03:06:46+00:00",
+    "first_seen_at": "2026-11-28T15:51:43+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852983785"
+    ],
+    "source_ids": [
+      "dd76966f66a247bd435a"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
+  },
+  {
+    "id": "b14d7f44e4d08fba6002",
+    "game_id": "steam-5268810",
+    "title": "Flak Simulator Devlog | What’s Playable at Early Access Launch",
+    "type": "release",
+    "importance": "B",
+    "event_date": null,
+    "announced_at": "2026-11-18T22:30:08+00:00",
+    "first_seen_at": "2026-11-28T15:51:43+08:00",
+    "status": "announced",
+    "source_urls": [
+      "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110426256"
+    ],
+    "source_ids": [
+      "bf1158e21b56ce9f8550"
+    ],
+    "company_links": [],
+    "history": [],
+    "verification_note": "来源已发布；具体发生时间未核实，不进入未来日历",
+    "investment_channel": "行业情绪；直接收益关系未证实"
   }
 ]

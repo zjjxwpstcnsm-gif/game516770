@@ -20,7 +20,7 @@
     "steam_display_release_date": "2024-08-19",
     "release_date_precision": "day",
     "release_source": "https://store.steampowered.com/app/2358720/",
-    "release_checked_at": "2026-11-28T03:05:17+08:00",
+    "release_checked_at": "2026-11-28T15:51:43+08:00",
     "release_coming_soon": false,
     "heat_evidence": {
       "review_count": null,
@@ -415,8 +415,8 @@
     "aliases": [
       "影之刃零"
     ],
-    "developer": "S-GAME Studio",
-    "publisher": "S-GAME Publishing",
+    "developer": null,
+    "publisher": null,
     "official_url": "https://store.steampowered.com/app/4115450/",
     "steam_app_id": 4115450,
     "heat_grade": "B",
@@ -424,7 +424,7 @@
     "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
     "investment_relation": "无明确关联",
     "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-    "discovered_at": "2026-11-26T16:21:55+08:00",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
     "heat_evidence": {
       "review_count": null,
       "positive_ratio": null,
@@ -592,7 +592,7 @@
     "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
     "investment_relation": "无明确关联",
     "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-    "discovered_at": "2026-11-28T03:05:18+08:00",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
     "release_date_raw": "2025 年 3 月 4 日",
     "steam_display_release_date": "2025-03-04",
     "release_date_precision": "day",
@@ -21370,7 +21370,7 @@
     "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
     "investment_relation": "无明确关联",
     "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-    "discovered_at": "2026-11-28T03:05:18+08:00",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
     "heat_evidence": {
       "review_count": null,
       "positive_ratio": null,
@@ -24732,7 +24732,7 @@
     "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
     "investment_relation": "无明确关联",
     "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-    "discovered_at": "2026-11-28T03:05:18+08:00",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
     "heat_evidence": {
       "review_count": null,
       "positive_ratio": null,
@@ -25345,7 +25345,7 @@
     "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
     "investment_relation": "无明确关联",
     "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-    "discovered_at": "2026-11-28T03:05:18+08:00",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
     "heat_evidence": {
       "review_count": null,
       "positive_ratio": null,
@@ -25381,7 +25381,7 @@
     "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
     "investment_relation": "无明确关联",
     "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-    "discovered_at": "2026-11-27T16:37:30+08:00",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
     "heat_evidence": {
       "review_count": null,
       "positive_ratio": null,
@@ -28006,8 +28006,8 @@
     "aliases": [
       "Real War: Not Fake"
     ],
-    "developer": null,
-    "publisher": null,
+    "developer": "Heseri Games Inc, TheGreatestDeveloper",
+    "publisher": "Heseri Games Inc",
     "official_url": "https://store.steampowered.com/app/5488100/",
     "steam_app_id": 5488100,
     "heat_grade": "B",
@@ -28034,7 +28034,13 @@
         "review_count",
         "media_coverage"
       ]
-    }
+    },
+    "release_date_raw": "2026 年 11 月 25 日",
+    "steam_display_release_date": "2026-11-25",
+    "release_date_precision": "day",
+    "release_source": "https://store.steampowered.com/app/5488100/",
+    "release_checked_at": "2026-11-28T15:51:43+08:00",
+    "release_coming_soon": false
   },
   {
     "id": "steam-5423300",
@@ -28042,8 +28048,8 @@
     "aliases": [
       "碧海遗城"
     ],
-    "developer": null,
-    "publisher": null,
+    "developer": "Ji Zhao",
+    "publisher": "Ji Zhao",
     "official_url": "https://store.steampowered.com/app/5423300/",
     "steam_app_id": 5423300,
     "heat_grade": "B",
@@ -28070,7 +28076,13 @@
         "review_count",
         "media_coverage"
       ]
-    }
+    },
+    "release_date_raw": "2026 年 11 月 25 日",
+    "steam_display_release_date": "2026-11-25",
+    "release_date_precision": "day",
+    "release_source": "https://store.steampowered.com/app/5423300/",
+    "release_checked_at": "2026-11-28T15:51:43+08:00",
+    "release_coming_soon": false
   },
   {
     "id": "steam-5114180",
@@ -28078,8 +28090,8 @@
     "aliases": [
       "Prism Factory"
     ],
-    "developer": null,
-    "publisher": null,
+    "developer": "Bento Games",
+    "publisher": "Nulpoyo",
     "official_url": "https://store.steampowered.com/app/5114180/",
     "steam_app_id": 5114180,
     "heat_grade": "B",
@@ -28106,7 +28118,13 @@
         "review_count",
         "media_coverage"
       ]
-    }
+    },
+    "release_date_raw": "2026 年 11 月 25 日",
+    "steam_display_release_date": "2026-11-25",
+    "release_date_precision": "day",
+    "release_source": "https://store.steampowered.com/app/5114180/",
+    "release_checked_at": "2026-11-28T15:51:43+08:00",
+    "release_coming_soon": false
   },
   {
     "id": "steam-2218330",
@@ -28114,8 +28132,8 @@
     "aliases": [
       "如果这个世界有神明大人存在的话"
     ],
-    "developer": null,
-    "publisher": null,
+    "developer": "Rejet",
+    "publisher": "Beijing Happy Entertainment Technology",
     "official_url": "https://store.steampowered.com/app/2218330/",
     "steam_app_id": 2218330,
     "heat_grade": "B",
@@ -28142,7 +28160,13 @@
         "review_count",
         "media_coverage"
       ]
-    }
+    },
+    "release_date_raw": "2026 年 11 月 25 日",
+    "steam_display_release_date": "2026-11-25",
+    "release_date_precision": "day",
+    "release_source": "https://store.steampowered.com/app/2218330/",
+    "release_checked_at": "2026-11-28T15:51:43+08:00",
+    "release_coming_soon": false
   },
   {
     "id": "steam-5445800",
@@ -28150,8 +28174,8 @@
     "aliases": [
       "叮当清洁工"
     ],
-    "developer": null,
-    "publisher": null,
+    "developer": "Luke Madden",
+    "publisher": "Dreamt Madness",
     "official_url": "https://store.steampowered.com/app/5445800/",
     "steam_app_id": 5445800,
     "heat_grade": "B",
@@ -28178,7 +28202,13 @@
         "review_count",
         "media_coverage"
       ]
-    }
+    },
+    "release_date_raw": "2026 年 11 月 27 日",
+    "steam_display_release_date": "2026-11-27",
+    "release_date_precision": "day",
+    "release_source": "https://store.steampowered.com/app/5445800/",
+    "release_checked_at": "2026-11-28T15:51:43+08:00",
+    "release_coming_soon": false
   },
   {
     "id": "steam-5268810",
@@ -28186,8 +28216,8 @@
     "aliases": [
       "Flak Simulator"
     ],
-    "developer": null,
-    "publisher": null,
+    "developer": "Horseman Interactive",
+    "publisher": "Horseman Interactive",
     "official_url": "https://store.steampowered.com/app/5268810/",
     "steam_app_id": 5268810,
     "heat_grade": "B",
@@ -28214,7 +28244,13 @@
         "review_count",
         "media_coverage"
       ]
-    }
+    },
+    "release_date_raw": "2026 年 11 月 26 日",
+    "steam_display_release_date": "2026-11-26",
+    "release_date_precision": "day",
+    "release_source": "https://store.steampowered.com/app/5268810/",
+    "release_checked_at": "2026-11-28T15:51:43+08:00",
+    "release_coming_soon": false
   },
   {
     "id": "steam-5414150",
@@ -28222,8 +28258,8 @@
     "aliases": [
       "Via Libera: Italian Train Driver"
     ],
-    "developer": null,
-    "publisher": null,
+    "developer": "Capital AI Srl",
+    "publisher": "Capital AI Srl",
     "official_url": "https://store.steampowered.com/app/5414150/",
     "steam_app_id": 5414150,
     "heat_grade": "B",
@@ -28250,7 +28286,13 @@
         "review_count",
         "media_coverage"
       ]
-    }
+    },
+    "release_date_raw": "2026 年 11 月 26 日",
+    "steam_display_release_date": "2026-11-26",
+    "release_date_precision": "day",
+    "release_source": "https://store.steampowered.com/app/5414150/",
+    "release_checked_at": "2026-11-28T15:51:43+08:00",
+    "release_coming_soon": false
   },
   {
     "id": "steam-4666520",
@@ -29023,7 +29065,7 @@
     "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
     "investment_relation": "无明确关联",
     "discovery_source": "https://store.steampowered.com/api/featuredcategories",
-    "discovered_at": "2026-11-28T03:05:18+08:00",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
     "heat_evidence": {
       "review_count": null,
       "positive_ratio": null,
@@ -29960,6 +30002,582 @@
     "investment_relation": "无明确关联",
     "discovery_source": "https://store.steampowered.com/api/featuredcategories",
     "discovered_at": "2026-11-28T03:05:18+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-5596460",
+    "name": "The Old Circle: Ecos da Masmorra",
+    "aliases": [
+      "The Old Circle: Ecos da Masmorra"
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/5596460/",
+    "steam_app_id": 5596460,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-5599530",
+    "name": "I'd Choose the Bear",
+    "aliases": [
+      "I'd Choose the Bear"
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/5599530/",
+    "steam_app_id": 5599530,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-4259950",
+    "name": "ANU: Tablets of Thoth",
+    "aliases": [
+      "ANU: Tablets of Thoth"
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/4259950/",
+    "steam_app_id": 4259950,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-5555790",
+    "name": "D.U.B.B.I.O",
+    "aliases": [
+      "D.U.B.B.I.O"
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/5555790/",
+    "steam_app_id": 5555790,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-4966990",
+    "name": "Arcane Abyss（奥术深渊）",
+    "aliases": [
+      "Arcane Abyss（奥术深渊）"
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/4966990/",
+    "steam_app_id": 4966990,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-3543160",
+    "name": "散樱乱武 ~绚烂竞演~ 「异相」女神",
+    "aliases": [
+      "散樱乱武 ~绚烂竞演~ 「异相」女神"
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/3543160/",
+    "steam_app_id": 3543160,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-3446770",
+    "name": "散樱乱武 ~绚烂竞演~ ",
+    "aliases": [
+      "散樱乱武 ~绚烂竞演~ "
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/3446770/",
+    "steam_app_id": 3446770,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-5579450",
+    "name": "死霊の棲む廃屋敷からの脱出",
+    "aliases": [
+      "死霊の棲む廃屋敷からの脱出"
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/5579450/",
+    "steam_app_id": 5579450,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-4213770",
+    "name": "孤狼之春",
+    "aliases": [
+      "孤狼之春"
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/4213770/",
+    "steam_app_id": 4213770,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-5559520",
+    "name": "Fished Out",
+    "aliases": [
+      "Fished Out"
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/5559520/",
+    "steam_app_id": 5559520,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-5489160",
+    "name": "魔塔-织梦",
+    "aliases": [
+      "魔塔-织梦"
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/5489160/",
+    "steam_app_id": 5489160,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-5344130",
+    "name": "和1000王子学中文",
+    "aliases": [
+      "和1000王子学中文"
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/5344130/",
+    "steam_app_id": 5344130,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-5423830",
+    "name": "星空轨迹 - 星旅启程礼包",
+    "aliases": [
+      "星空轨迹 - 星旅启程礼包"
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/5423830/",
+    "steam_app_id": 5423830,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-4199600",
+    "name": "勇闯华强北",
+    "aliases": [
+      "勇闯华强北"
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/4199600/",
+    "steam_app_id": 4199600,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-5463910",
+    "name": "Gсhat",
+    "aliases": [
+      "Gсhat"
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/5463910/",
+    "steam_app_id": 5463910,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
+    "heat_evidence": {
+      "review_count": null,
+      "positive_ratio": null,
+      "media_publishers": [],
+      "verified_sales": null,
+      "review_source": null,
+      "review_as_of": null,
+      "sales_source": null,
+      "components": {
+        "review_scale": 0,
+        "media_breadth": 0,
+        "verified_sales": 0
+      },
+      "missing": [
+        "verified_sales",
+        "review_count",
+        "media_coverage"
+      ]
+    }
+  },
+  {
+    "id": "steam-5420230",
+    "name": "DualBeats",
+    "aliases": [
+      "DualBeats"
+    ],
+    "developer": null,
+    "publisher": null,
+    "official_url": "https://store.steampowered.com/app/5420230/",
+    "steam_app_id": 5420230,
+    "heat_grade": "B",
+    "heat_score": null,
+    "heat_basis": "启发式热度，非投资评级或预测概率；SSS 需销量、评价规模及多家媒体三类证据",
+    "investment_relation": "无明确关联",
+    "discovery_source": "https://store.steampowered.com/api/featuredcategories",
+    "discovered_at": "2026-11-28T15:51:43+08:00",
     "heat_evidence": {
       "review_count": null,
       "positive_ratio": null,

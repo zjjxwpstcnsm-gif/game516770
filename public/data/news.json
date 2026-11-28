@@ -1,5 +1,138 @@
 [
   {
+    "id": "bb0fef89ab0ae2a87ed9",
+    "title": "Via Libera 0.12.2: you asked, we fixed it",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852992411",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-28T06:54:39+00:00",
+    "collected_at": "2026-11-28T15:51:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "A faster first lesson: the recommended lesson is now \"Braking and stopping on the mark\": the train starts ready and moves within a minute. Cab preparation (the real procedure, about 15 minutes) becomes lesson two. Fast-forward made clear: every standing wait in the guide now says \"hold F6 to fast-forward\". Sky on OpenGL: PCs that start the game in compatibility graphics mode (older graphics cards) now show the sky. HUD delay fixed: after a gentle departure, the HUD could briefly show a false del",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "fb9a5542944b14d29f79",
+    "title": "The better version of the wireless headset I love is $40 off right now",
+    "url": "https://www.pcgamer.com/hardware/the-better-version-of-the-wireless-headset-i-love-is-usd40-off-right-now",
+    "source": "PC Gamer",
+    "published_at": "2026-11-28T00:01:20+00:00",
+    "collected_at": "2026-11-28T15:51:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "I don't see much talk about Sony's new-ish gaming cans, but they're quite good.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "80fbb669c65556dea5db",
+    "title": "The canonical USB microphone is still great, and now a total steal for $70",
+    "url": "https://www.pcgamer.com/hardware/the-canonical-usb-microphone-is-still-great-and-now-a-total-steal-for-usd70",
+    "source": "PC Gamer",
+    "published_at": "2026-11-27T23:00:01+00:00",
+    "collected_at": "2026-11-28T15:51:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The Blue Yeti is a household name in microphones for a reason.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "56a160697d9542c26ce1",
+    "title": "All I want for Christmas is plastic crap based on Armored Core",
+    "url": "https://www.pcgamer.com/games/action/all-i-want-for-christmas-is-plastic-crap-based-on-armored-core",
+    "source": "PC Gamer",
+    "published_at": "2026-11-27T22:24:20+00:00",
+    "collected_at": "2026-11-28T15:51:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "It's called \"gunpla\" mom.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "77e0bf8f5b69a9cd2223",
+    "title": "Skate is dropping seasons and season passes in favor of 'regular, agile content updates'",
+    "url": "https://www.pcgamer.com/games/sports/skate-is-dropping-seasons-and-season-passes-in-favor-of-regular-agile-content-updates",
+    "source": "PC Gamer",
+    "published_at": "2026-11-27T22:13:12+00:00",
+    "collected_at": "2026-11-28T15:51:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "The fifth season of Skate will be its last as developer Full Circle looks to try something new.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "b039a5e83b050d608170",
+    "title": "I went completely cordless and for $185 you can get better prices on better products than I did with these Black Friday PC peripheral deals",
+    "url": "https://www.pcgamer.com/hardware/i-went-completely-cordless-and-for-usd185-you-can-get-better-prices-on-better-products-than-i-did-with-these-black-friday-pc-peripheral-deals",
+    "source": "PC Gamer",
+    "published_at": "2026-11-27T20:57:32+00:00",
+    "collected_at": "2026-11-28T15:51:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "I finally went 100% wireless this year and you can get your desk looking equally fresh at a fraction of the cost this weekend.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "4f57d2a501756d59b9a1",
+    "title": "After falling in love with PS5 haptic feedback in GTA 6, I'm eyeing these Black Friday deals on DualSense controllers",
+    "url": "https://www.pcgamer.com/hardware/controllers/after-falling-in-love-with-ps5-haptic-feedback-in-gta-6-im-eyeing-these-black-friday-deals-on-dualsense-controllers",
+    "source": "PC Gamer",
+    "published_at": "2026-11-27T19:40:21+00:00",
+    "collected_at": "2026-11-28T15:51:59+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Adaptive triggers are my new best friends.",
+    "verification_status": "reported",
+    "credibility_score": 75,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "a60eb50c93aa88bde7f0",
     "title": "Good coffee is one of our last comforts in a cruel universe, which is why I'm tempted by this Black Friday coffee grinder deal",
     "url": "https://www.pcgamer.com/hardware/good-coffee-is-one-of-our-last-comforts-in-a-cruel-universe-which-is-why-im-tempted-by-this-black-friday-coffee-grinder-deal",
@@ -232,6 +365,27 @@
     "summary_language": null
   },
   {
+    "id": "6cb34d8ba3fd45dad500",
+    "title": "Flak Simulator - Hotfix v1.01",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852988138",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-27T04:45:02+00:00",
+    "collected_at": "2026-11-28T15:51:56+08:00",
+    "game_ids": [
+      "steam-5268810"
+    ],
+    "category": "industry",
+    "summary": "We are addressing some high priority issues that exposed during launch, this is the first hotfix and we will most likely do several more in the next few days to ensure the game is stable and enjoyable for everyone. MissionsSchweinfurt’s Black Thursday has a new opening and revised bomber waves. Both flybys now pass closer to the battery.The German daytime tutorial walks you through crew stations, a radio order, and a B-17 observation exercise. The instrument view now shows altitude above ground.",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "0ea742d331874c70f090",
     "title": "Witcher 3 Remastered patch has lighting fixes, sign nerfs, and gets rid of a nasty werewolf bug",
     "url": "https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug",
@@ -418,6 +572,46 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "fc793899953976af0207",
+    "title": "Flak Simulator - Early Access release!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852987029",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-26T19:53:50+00:00",
+    "collected_at": "2026-11-28T15:51:56+08:00",
+    "game_ids": [
+      "steam-5268810"
+    ],
+    "category": "release",
+    "summary": "Release dayWe are incredibly happy to announce that Flak Simulator is finally available for everyone to play! We have worked tirelessly to get the game ready for this Early Access release, and we are excited to see you all experience what we have been working on.To everyone who has wishlisted Flak Simulator (all 50,000+ of you), we are incredibly grateful for your support and enthusiasm for the game. What started as a simple idea and prototype has now turned into something much larger. We are on",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "8abed9bcca554c4ee928",
+    "title": "Via Libera is out now in Early Access",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852986981",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-26T19:37:59+00:00",
+    "collected_at": "2026-11-28T15:51:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Via Libera: Italian Train Driver is out now in Early Access on Steam, for PC (Windows), at €14.99 / $14.99.Never driven a train? Start with the guided mode and the training lessons. Know the job already? Pick a timetable service, wake the train from cold at Firenze Santa Maria Novella and take it down the Arno valley to Pisa: Italian signals, the on-board train protection, radio orders from the dispatcher, rain, fog and night.What is in this first versionThe whole Florence–Empoli–Pisa line, abou",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -857,6 +1051,27 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "dd76966f66a247bd435a",
+    "title": "Prism Factory is out now — past the end of the demo",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852983785",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-26T03:06:46+00:00",
+    "collected_at": "2026-11-28T15:51:50+08:00",
+    "game_ids": [
+      "steam-5114180"
+    ],
+    "category": "demo",
+    "summary": "Thank you to everyone who wishlisted the game and played the demo during Steam Next Fest!Prism Factory is out now on Steam. To celebrate, it's 10% off for the first week.What lies past the demoThe demo stops at wave 18 — right where more lamps are arriving, orders are piling up, and the board is finally starting to look like a factory. The full game keeps going.No wave cap — A new lamp arrives every few waves, and every order you take stays on the board. Keep going until the board becomes a weav",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -1344,6 +1559,25 @@
     "summary_language": null
   },
   {
+    "id": "a2b60723c179d10c9673",
+    "title": "Update: a gentler start and a bigger moment when every order is met",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1850460852981212",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-25T13:36:47+00:00",
+    "collected_at": "2026-11-28T15:51:50+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "Thank you to everyone who has played the demo! Ahead of the full release on 26 November, the demo has been updated with everything that's new. The full game has the same changes.New languagesThe game is now available in Simplified Chinese and Russian, alongside English and Japanese. Switch languages from Language in the options.A gentler startA run-up before the first board — There are now three short steps before the first full board, starting from a single lamp and a single order. You are no l",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "cb0ea0fa43dfd1e0742e",
     "title": "Nobunaga’s Ambition: Hishou launches March 12, 2027 in Japan, Asia",
     "url": "https://www.gematsu.com/2026/11/nobunagas-ambition-hishou-launches-march-12-2027-in-japan-asia",
@@ -1739,6 +1973,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "66faebeddc65f1c078c3",
+    "title": "Launch confirmed: Early Access on 26 November, 20:01 Italian time",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110447581",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-24T19:25:49+00:00",
+    "collected_at": "2026-11-28T15:51:58+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Valve has approved our build, so the date is final: Via Libera: Italian Train Driver opens in Early Access on Thursday 26 November at 20:01 Italian time (19:01 UK, 11:01 Pacific). It is a PC game (Windows), at €14.99 / $14.99.What you drive on day oneThe whole Florence - Empoli - Pisa line, about 80 km in both directions, with 92 timetable services.A cold cab you prepare yourself, Italian signals and SCMT train protection.Orders from the dispatcher by radio.Rain, fog, night, and line incidents h",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -2231,6 +2484,25 @@
     "game_ids": [],
     "category": "industry",
     "summary": "Hi all,I'm currently looking at implementing these updates to the game:-Larger randomized levels with more hidden areas.-Let players build railways into every explorable area, including forks, loops, and hidden areas.-Add limited-ammo weapons, timed demolition charges which can be picked up, and interactive hazards such as explosive barrels, slowing goo, and acid pools.-Expand industrial objectives with more repairable turrets, shared supply hoppers, and stationary furnaces that replenish ammuni",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "7ebf9f5c26b60a8447ca",
+    "title": "Azure Ruins Launches November 26: Treasure Hunters, Get Ready!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110444766",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-24T04:23:57+00:00",
+    "collected_at": "2026-11-28T15:51:48+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Hello, treasure hunters! It's been a while! The sleeping ancient city on the island has been waiting for you, and we're finally ready to share the news: Azure Ruins launches on Thursday, November 26 at 10:00 AM Beijing Time, with 15% off during launch! We started with just a few Runestones, and now the whole ancient city is ready to explore. We're so grateful to everyone who wishlisted the game, played the demo, left comments, or sent us suggestions. Many of our changes came from your feedback, ",
     "verification_status": "verified",
     "credibility_score": 95,
     "limitations": [
@@ -4968,6 +5240,25 @@
     "summary_language": null
   },
   {
+    "id": "d7fa80fc124239652174",
+    "title": "New before launch: Sleigh Rush!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110430386",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-20T01:04:36+00:00",
+    "collected_at": "2026-11-28T15:51:54+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Sleigh Rush: race the clockThere's a big red button in the Sleigh Bay, and the elves are very firm about it: do not press the button. Press it too often and you'll find out why.Once you've tidied the whole workshop, the button is yours. Press it, the alarm goes off, and Santa's present collector comes down: race the clock to throw every wrapped present and finished toy into its sleigh vortex. Every spell you've learned helps, and the elves cheer you on (and heckle a little) as you go. The elves'",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "64c6c747cf74f0126000",
     "title": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor",
     "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor",
@@ -6264,6 +6555,27 @@
     "summary_language": null
   },
   {
+    "id": "bf1158e21b56ce9f8550",
+    "title": "Flak Simulator Devlog | What’s Playable at Early Access Launch",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110426256",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-18T22:30:08+00:00",
+    "collected_at": "2026-11-28T15:51:56+08:00",
+    "game_ids": [
+      "steam-5268810"
+    ],
+    "category": "release",
+    "summary": "Flak Simulator launches in Steam Early Access on November 26, 2026. When a bomber formation appears, someone has to spot it, someone has to get ammunition to the gun, and the crew has to get a shot off before the formation passes. Sharing that work is what Flak Simulator is built around. What you’ll play at launch The launch lineup covers two locations and three scenarios. In co-op, you share the jobs around the battery. You can also play with AI crew, who fill any open positions at the guns. In",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "5aacc243f461c5fa1447",
     "title": "Clair Obscur: Expedition 33 lead writer left Sandfall Interactive last summer: 'We've parted ways'",
     "url": "https://www.pcgamer.com/games/rpg/clair-obscur-expedition-33-lead-writer-left-sandfall-interactive-last-summer-weve-parted-ways",
@@ -6914,6 +7226,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "3837c5525516af8ff1b8",
+    "title": "8 days to go: Via Libera opens in Early Access on 26 November",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849827110424847",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-18T16:02:12+00:00",
+    "collected_at": "2026-11-28T15:51:58+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "In 8 days, on Thursday 26 November at 20:01 Italian time (11:01 Pacific), Via Libera: Italian Train Driver opens in Early Access on Steam. It is a PC game (Windows), at €14.99 / $14.99.What you drive on day oneThe whole Florence–Empoli–Pisa line: about 80 km of real Tuscan railway, both directions, 92 timetable services.A cold start in a first-person cab, Italian lineside signals and the on-board train protection.Radio orders from the dispatcher, with read-backs.Rain, fog, snow and night driving",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -10193,6 +10524,25 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "media",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
+    "id": "45b32286a7efe2cca380",
+    "title": "Jingle Janitor launches 27 November! 🎄",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849458702681698",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-13T23:01:17+00:00",
+    "collected_at": "2026-11-28T15:51:54+08:00",
+    "game_ids": [],
+    "category": "release",
+    "summary": "Coming 27 NovemberIt's your first night shift as Santa's janitor, and the elves have partied all night. Over 2,200 toy parts are everywhere: on the floor, in heaps, on the wrong shelves. Put every part back where it belongs until each shelf is exactly full, and save Christmas! What you'll doTidy at your own pace: no timers and no way to fail. Learn handy magic: pull parts to you, lasso whole piles, send toys flying to their shelves. Cheer up four worn-out elves and watch each finished area light",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
     "summary_status": "source_excerpt",
     "summary_language": null
   },
@@ -17149,6 +17499,25 @@
     "summary_language": null
   },
   {
+    "id": "0b2975ead0bff7d4da02",
+    "title": "Join the official Flak Discord!",
+    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643350172",
+    "source": "Steam 官方公告",
+    "published_at": "2026-11-07T17:28:10+00:00",
+    "collected_at": "2026-11-28T15:51:56+08:00",
+    "game_ids": [],
+    "category": "industry",
+    "summary": "We are working hard on Flak Simulator, and we’d love to hear from you along the way!Our official Discord is a place to follow the games progress, meet fellow future players, and talk directly with the team.Join us to:Get development updates and the latest news.Share your ideas and tell us what you’d love to see in Flak.Ask questions and chat with the community.We’re excited to hear your thoughts and share more of what we’re working on. https://discord.gg/JhmerMX9mQ",
+    "verification_status": "verified",
+    "credibility_score": 95,
+    "limitations": [
+      "仅使用公开订阅摘要，未存储网页全文"
+    ],
+    "source_type": "official",
+    "summary_status": "source_excerpt",
+    "summary_language": null
+  },
+  {
     "id": "3eaac0efdc35bdff208c",
     "title": "07 November Small fix",
     "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643350159",
@@ -22674,369 +23043,6 @@
       "仅使用公开订阅摘要，未存储网页全文"
     ],
     "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "9e230c612d0f7047b66b",
-    "title": "Grand Theft Auto 6 teased a handful of its upcoming radio stations and its music curation is as strong as ever",
-    "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-teased-a-handful-of-its-upcoming-radio-stations-and-its-music-curation-is-as-strong-as-ever",
-    "source": "PC Gamer",
-    "published_at": "2026-11-01T18:00:00+00:00",
-    "collected_at": "2026-11-02T18:26:01+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "I can already picture my late-night Leonida drives to these bangers.",
-    "verification_status": "reported",
-    "credibility_score": 75,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "18109babb9d6e11b57a8",
-    "title": "GOG wants to bring back physical games, but it's 'a very, very complicated thing'",
-    "url": "https://www.pcgamer.com/games/gog-wants-to-bring-back-physical-games-but-its-a-very-very-complicated-thing",
-    "source": "PC Gamer",
-    "published_at": "2026-11-01T17:45:12+00:00",
-    "collected_at": "2026-11-02T18:26:01+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "\"You click on the game that you would like to receive a physical copy of, you order it, and it gets to you. That would be a perfect scenario.\"",
-    "verification_status": "reported",
-    "credibility_score": 75,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "3971b205fc0afc6cef41",
-    "title": "Valve's long-lost prototype Portal prequel appears online after nearly 20 years",
-    "url": "https://www.pcgamer.com/games/fps/valves-long-lost-prototype-portal-prequel-appears-online-after-nearly-20-years",
-    "source": "PC Gamer",
-    "published_at": "2026-11-01T17:44:47+00:00",
-    "collected_at": "2026-11-02T18:26:01+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "F-Stop was a result of a post-Orange Box, 2007 Valve game jam.",
-    "verification_status": "reported",
-    "credibility_score": 75,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "914fe9a9b1e4f0926f30",
-    "title": "Cloudy with a Chance of Kittens is coming this month!",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302245490",
-    "source": "Steam 官方公告",
-    "published_at": "2026-11-01T17:20:24+00:00",
-    "collected_at": "2026-11-26T16:22:05+08:00",
-    "game_ids": [
-      "steam-3237870"
-    ],
-    "category": "industry",
-    "summary": "A big thanks to everyone who's been following along with our game's progress! We are finally getting closer to its release date, set for November 24th.Can't wait to be able to finally share it with the world and hear your feedback!Have a great day/evening everyone, and see you in a few weeks!",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "21a508efa6e4052a4a36",
-    "title": "Composer and designer Lena Raine explains how Pigstep altered Minecraft's approach to music: 'The prompt I keep hearing is \"Oh, Pigstep was such a banger that they want more bangers\"'",
-    "url": "https://www.pcgamer.com/games/composer-and-designer-lena-raine-explains-how-pigstep-altered-minecrafts-approach-to-music-the-prompt-i-keep-hearing-is-oh-pigstep-was-such-a-banger-that-they-want-more-bangers",
-    "source": "PC Gamer",
-    "published_at": "2026-11-01T17:00:00+00:00",
-    "collected_at": "2026-11-02T18:26:01+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "The composer for Celeste and Minecraft guides us through the games on her PC.",
-    "verification_status": "reported",
-    "credibility_score": 75,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "8424091649bde167a49f",
-    "title": "'An absolute behemoth': Wildly ambitious FPS Selaco is getting a massive update that doubles its size and adds 'a heavy machinegun that fires literal explosions'",
-    "url": "https://www.pcgamer.com/games/fps/an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting-a-massive-update-that-doubles-its-size-and-adds-a-heavy-machinegun-that-fires-literal-explosions",
-    "source": "PC Gamer",
-    "published_at": "2026-11-01T16:46:26+00:00",
-    "collected_at": "2026-11-02T18:26:01+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Selaco: The Machines of War arrives later this month.",
-    "verification_status": "reported",
-    "credibility_score": 75,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "1c21f76f43e79f778192",
-    "title": "Chronicles: Medieval developer faces imminent closure after losing funding: 'What makes it hurt is how close we are. Early access is in reach'",
-    "url": "https://www.pcgamer.com/games/sim/chronicles-medieval-developer-faces-imminent-closure-after-losing-funding-what-makes-it-hurt-is-how-close-we-are-early-access-is-in-reach",
-    "source": "PC Gamer",
-    "published_at": "2026-11-01T16:42:09+00:00",
-    "collected_at": "2026-11-02T18:26:01+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "But the studio says it is \"not going down without a fight\".",
-    "verification_status": "reported",
-    "credibility_score": 75,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "c486e1c6901154f2d6da",
-    "title": "It's not just Steam: New game pages created per day on Itch.io have doubled in the last two months, with AI slop the likely culprit",
-    "url": "https://www.pcgamer.com/gaming-industry/game-development/its-not-just-steam-new-game-pages-created-per-day-on-itch-io-has-doubled-in-the-last-two-months-with-ai-slop-the-likely-culprit",
-    "source": "PC Gamer",
-    "published_at": "2026-11-01T16:25:23+00:00",
-    "collected_at": "2026-11-02T18:26:01+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "\"The number of downloads and purchases has *not* doubled.\"",
-    "verification_status": "reported",
-    "credibility_score": 75,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "b5821faaf1043ecaf09f",
-    "title": "I'm glad that WoW: Forever'll have a slower, lo-fi update schedule, because I'm not playing this thing to be in a rush",
-    "url": "https://www.pcgamer.com/games/world-of-warcraft/im-glad-that-wow-foreverll-have-a-slower-lo-fi-update-schedule-because-im-not-playing-this-thing-to-be-in-a-rush",
-    "source": "PC Gamer",
-    "published_at": "2026-11-01T16:00:00+00:00",
-    "collected_at": "2026-11-02T18:26:01+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "I tire of seasons.",
-    "verification_status": "reported",
-    "credibility_score": 75,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "487bc0a58c66136bd4ca",
-    "title": "This Week’s Japanese Game Releases: The Legend of Zelda: Ocarina of Time, CRYMELIGHT, more",
-    "url": "https://www.gematsu.com/2026/11/this-weeks-japanese-game-releases-the-legend-of-zelda-ocarina-of-time-crymelight-more",
-    "source": "Gematsu",
-    "published_at": "2026-11-01T15:35:50+00:00",
-    "collected_at": "2026-11-02T18:25:57+08:00",
-    "game_ids": [],
-    "category": "release",
-    "summary": "The remake of The Legend of Zelda: Ocarina of Time for Switch 2, and CRYMELIGHT &hellip;",
-    "verification_status": "reported",
-    "credibility_score": 80,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "e12b8a4177299d9ad161",
-    "title": "Patch Notes Version 2.04.05",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302244998",
-    "source": "Steam 官方公告",
-    "published_at": "2026-11-01T14:21:19+00:00",
-    "collected_at": "2026-11-21T01:54:45+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Fellow Greymanes, Here are the fixes and improvements that have been added this patch. Update ScheduleThe patch is rolling out across all platforms. Please refer to the Update section below to see the state of the patch for each platform. UpdateSteam (PC): Patch available now Steam (Mac): Patch available now Patch DetailsFixed an issue where the game would crash during the battle against Ravok of the Savage Fangs.Fixed an issue where Damiane’s exclusive quest “End and Beginning” could not be pro",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "e06e0acd88632b4871fa",
-    "title": "Petit Planet coming to Switch 2 in 2027",
-    "url": "https://www.gematsu.com/2026/11/petit-planet-coming-to-switch-2-in-2027",
-    "source": "Gematsu",
-    "published_at": "2026-11-01T12:00:44+00:00",
-    "collected_at": "2026-11-02T18:25:57+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "miHoYo will release a Switch 2 version of free-to-play cosmic life simulation game Petit Planet &hellip;",
-    "verification_status": "reported",
-    "credibility_score": 80,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "b0c8bf13840e421664d0",
-    "title": "Full Release & Service Shutdown Announcement",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302244121",
-    "source": "Steam 官方公告",
-    "published_at": "2026-11-01T05:28:09+00:00",
-    "collected_at": "2026-11-07T00:51:28+08:00",
-    "game_ids": [],
-    "category": "release",
-    "summary": "Full Release & Service Shutdown Announcement Thank you for playing Caldra. With the formal greetings out of the way, I have an announcement to make about the game's full release and the end of its service. The curtain will fall on Caldra before its first anniversary. I had hoped to keep it going a little longer, so this is sad news for me too. Still, I hope you enjoyed your time on this stage, however brief it may have been. Schedule The full release and service shutdown are scheduled as follows",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "b7fae07feddb20e0221f",
-    "title": "Patch Notes Version 2.04.04",
-    "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302244047",
-    "source": "Steam 官方公告",
-    "published_at": "2026-11-01T04:31:57+00:00",
-    "collected_at": "2026-11-21T01:54:45+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Fellow Greymanes, Here are the fixes and improvements that have been added this patch. Update ScheduleThe patch is rolling out across all platforms. Please refer to the Update section below to see the state of the patch for each platform. UpdateSteam (PC): Patch available now Steam (Mac): Patch available now Patch DetailsFixed an issue where equipment classified as key items would be unequipped and duplicated in the inventory after being equipped on a Greymane comrade and then loading a save fil",
-    "verification_status": "verified",
-    "credibility_score": 95,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "official",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "09a8811aff3b1bbfbcbf",
-    "title": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft",
-    "url": "https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft",
-    "source": "PC Gamer",
-    "published_at": "2026-11-01T04:05:48+00:00",
-    "collected_at": "2026-11-02T18:26:01+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Another nail in Motorsport's coffin.",
-    "verification_status": "reported",
-    "credibility_score": 75,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "6bf97d1e67e6bb174ee6",
-    "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
-    "url": "https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more",
-    "source": "PC Gamer",
-    "published_at": "2026-11-01T01:30:27+00:00",
-    "collected_at": "2026-11-02T18:26:01+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Structural perfection.",
-    "verification_status": "reported",
-    "credibility_score": 75,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "233a42a9b6115049e14c",
-    "title": "Rumor: Persona remake footage appears online",
-    "url": "https://www.gematsu.com/2026/10/rumor-persona-remake-footage-appears-online",
-    "source": "Gematsu",
-    "published_at": "2026-10-31T22:35:02+00:00",
-    "collected_at": "2026-11-02T18:25:57+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "A video reel showcasing what appears to be work-in-progress footage of a Revelations: Persona remake &hellip;",
-    "verification_status": "reported",
-    "credibility_score": 80,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "82afd5cb3fe2a572e909",
-    "title": "FromSoftware temporarily shuts down Dark Souls 2 and 3 multiplayer over 'server issue'",
-    "url": "https://www.pcgamer.com/games/dark-souls/fromsoftware-temporarily-shuts-down-dark-souls-2-and-3-multiplayer-over-server-issue",
-    "source": "PC Gamer",
-    "published_at": "2026-10-31T21:40:23+00:00",
-    "collected_at": "2026-11-02T18:26:01+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "The reason and timeline for restoration were not disclosed.",
-    "verification_status": "reported",
-    "credibility_score": 75,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
-    "summary_status": "source_excerpt",
-    "summary_language": null
-  },
-  {
-    "id": "37f344567cb91e9a2e7b",
-    "title": "Fanfiction Library of Alexandria AO3 down for up to a month following hack",
-    "url": "https://www.pcgamer.com/gaming-industry/fanfiction-library-of-alexandria-ao3-down-for-up-to-a-month-following-hack",
-    "source": "PC Gamer",
-    "published_at": "2026-10-31T21:11:46+00:00",
-    "collected_at": "2026-11-02T18:26:01+08:00",
-    "game_ids": [],
-    "category": "industry",
-    "summary": "Just uncalled-for.",
-    "verification_status": "reported",
-    "credibility_score": 75,
-    "limitations": [
-      "仅使用公开订阅摘要，未存储网页全文"
-    ],
-    "source_type": "media",
     "summary_status": "source_excerpt",
     "summary_language": null
   }
